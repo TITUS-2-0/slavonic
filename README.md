@@ -1,33 +1,33 @@
 # Slavonic
 [![TEI validation](https://github.com/TITUS-2-0/slavonic/actions/workflows/validate.yaml/badge.svg?branch=main)](https://github.com/TITUS-2-0/slavonic/actions/workflows/validate.yaml)
 ## Datasets
-| id    | language   | titus                                                                                                          | issue   | status         |
-|:------|:-----------|:---------------------------------------------------------------------------------------------------------------|:--------|:---------------|
-| zogra | Bulgarian  | [Codex Zographensis](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/zograph/zogra.htm)                     | -       | 🟨 in progress |
-| klare | Czech      | [Klaret, Grammar and Glossary](http://titus.uni-frankfurt.de/texte/etcs/slav/acech/klaret/klare.htm)           | -       | 🟥 pending     |
-| nawoz | Sorbian    | [Bart-Cisinski, Nawozenja](http://titus.uni-frankfurt.de/texte/etcs/slav/osorb/nawozena/nawoz.htm)             | -       | 🟥 pending     |
-| fenne | Russian    | [Fenne, Manual](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/fenne/fenne.htm)                           | -       | 🟥 pending     |
-| smol1 | Russian    | [Smolensk Treaty of 1229](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/smol1229/smol1.htm)              | -       | 🟥 pending     |
-| minej | Russian    | [Putjatina Mineja, May](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/minej135/minej.htm)                | -       | 🟥 pending     |
-| assem | Bulgarian  | [Codex Assemanianus](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/asseman/assem.htm)                     | -       | 🟥 pending     |
-| savvi | Bulgarian  | [Savvina Kniga](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/savvina/savvi.htm)                          | -       | 🟥 pending     |
-| rezka | Slovenian  | [Rezian Katechism](http://titus.uni-frankfurt.de/texte/etcs/slav/asloven/rezkat/rezka.htm)                     | -       | 🟥 pending     |
-| gramo | Russian    | [Birchbark Documents from Novgorod](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/gramoty/gramo.htm)     | -       | 🟥 pending     |
-| russs |            | [SSGG Russian Records](http://titus.uni-frankfurt.de/texte/etce/slav/russ/russssgg/russs.htm)                  | -       | 🟥 pending     |
-| supra | Bulgarian  | [Codex Suprasliensis](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/suprasl/supra.htm)                    | -       | 🟥 pending     |
-| rat   | Russian    | [Vetus Testamentum russice](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/rat/rat.htm)                   | -       | 🟥 pending     |
-| pravd | Russian    | [Old Russian Right](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/pravda/pravd.htm)                      | -       | 🟥 pending     |
-| serca | Russian    | [Junosti chestnoe zercalo](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/sercalo/serca.htm)              | -       | 🟥 pending     |
-| slovi | Russian    | [Slovo o polku Igoreve (critical ed.)](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/slovigor/slovi.htm) | -       | 🟥 pending     |
-| kazan | Old Polish | [Kazania Swietokrzyskie](http://titus.uni-frankfurt.de/texte/etcs/slav/apoln/kazania/kazan.htm)                | -       | 🟥 pending     |
-| freis | Slovenian  | [Freising Monuments](http://titus.uni-frankfurt.de/texte/etcs/slav/asloven/freisdk/freis.htm)                  | -       | 🟥 pending     |
-| pragl | Bulgarian  | [Prague Fragments](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/praglist/pragl.htm)                      | -       | 🟥 pending     |
-| maria | Bulgarian  | [Codex Marianus](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/marianus/maria.htm)                        | -       | 🟥 pending     |
-| vcyrm | Bulgarian  | [Vita Constantini et Methodii](http://titus.uni-frankfurt.de/texte/etcc/slav/aksl/vcyrmeth/vcyrm.htm)          | -       | 🟥 pending     |
-| kievf | Bulgarian  | [Kiev Folia](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/kievfol/kievf.htm)                             | -       | 🟥 pending     |
-| dalim | Czech      | [Dalimil Chronicle](http://titus.uni-frankfurt.de/texte/etcc/slav/acech/dalimil/dalim.htm)                     | -       | 🟥 pending     |
-| alex  | Czech      | [Alexandreis](http://titus.uni-frankfurt.de/texte/etcs/slav/acech/alex/alex.htm)                               | -       | 🟥 pending     |
-| rnt   | Russian    | [Novum Testamentum russice](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/rnt/rnt.htm)                   | -       | 🟥 pending     |
-| igors | Russian    | [Slovo o polku Igoreve (diplomatic ed.)](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/igorsh/igors.htm) | -       | 🟥 pending     |
-| zad1  | Russian    | [Zadonshchina, v. I](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/zad1/zad1.htm)                        | -       | 🟥 pending     |
-| zad2  | Russian    | [Zadonshchina, v. II](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/zad2/zad2.htm)                       | -       | 🟥 pending     |
+| id    | language   | titus                                                                                                          | issue                                                     | status         |
+|:------|:-----------|:---------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|:---------------|
+| zogra | Bulgarian  | [Codex Zographensis](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/zograph/zogra.htm)                     | -                                                         | 🟨 in progress |
+| rezka | Slovenian  | [Rezian Katechism](http://titus.uni-frankfurt.de/texte/etcs/slav/asloven/rezkat/rezka.htm)                     | [discuss](https://github.com/TITUS-2-0/slavonic/issues/2) | 🟨 in progress |
+| nawoz | Sorbian    | [Bart-Cisinski, Nawozenja](http://titus.uni-frankfurt.de/texte/etcs/slav/osorb/nawozena/nawoz.htm)             | [discuss](https://github.com/TITUS-2-0/slavonic/issues/1) | 🟨 in progress |
+| fenne | Russian    | [Fenne, Manual](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/fenne/fenne.htm)                           | -                                                         | 🟥 pending     |
+| gramo | Russian    | [Birchbark Documents from Novgorod](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/gramoty/gramo.htm)     | -                                                         | 🟥 pending     |
+| minej | Russian    | [Putjatina Mineja, May](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/minej135/minej.htm)                | -                                                         | 🟥 pending     |
+| assem | Bulgarian  | [Codex Assemanianus](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/asseman/assem.htm)                     | -                                                         | 🟥 pending     |
+| savvi | Bulgarian  | [Savvina Kniga](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/savvina/savvi.htm)                          | -                                                         | 🟥 pending     |
+| smol1 | Russian    | [Smolensk Treaty of 1229](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/smol1229/smol1.htm)              | -                                                         | 🟥 pending     |
+| russs |            | [SSGG Russian Records](http://titus.uni-frankfurt.de/texte/etce/slav/russ/russssgg/russs.htm)                  | -                                                         | 🟥 pending     |
+| serca | Russian    | [Junosti chestnoe zercalo](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/sercalo/serca.htm)              | -                                                         | 🟥 pending     |
+| slovi | Russian    | [Slovo o polku Igoreve (critical ed.)](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/slovigor/slovi.htm) | -                                                         | 🟥 pending     |
+| kazan | Old Polish | [Kazania Swietokrzyskie](http://titus.uni-frankfurt.de/texte/etcs/slav/apoln/kazania/kazan.htm)                | -                                                         | 🟥 pending     |
+| freis | Slovenian  | [Freising Monuments](http://titus.uni-frankfurt.de/texte/etcs/slav/asloven/freisdk/freis.htm)                  | -                                                         | 🟥 pending     |
+| pravd | Russian    | [Old Russian Right](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/pravda/pravd.htm)                      | -                                                         | 🟥 pending     |
+| rat   | Russian    | [Vetus Testamentum russice](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/rat/rat.htm)                   | -                                                         | 🟥 pending     |
+| supra | Bulgarian  | [Codex Suprasliensis](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/suprasl/supra.htm)                    | -                                                         | 🟥 pending     |
+| pragl | Bulgarian  | [Prague Fragments](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/praglist/pragl.htm)                      | -                                                         | 🟥 pending     |
+| vcyrm | Bulgarian  | [Vita Constantini et Methodii](http://titus.uni-frankfurt.de/texte/etcc/slav/aksl/vcyrmeth/vcyrm.htm)          | -                                                         | 🟥 pending     |
+| kievf | Bulgarian  | [Kiev Folia](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/kievfol/kievf.htm)                             | -                                                         | 🟥 pending     |
+| maria | Bulgarian  | [Codex Marianus](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/marianus/maria.htm)                        | -                                                         | 🟥 pending     |
+| dalim | Czech      | [Dalimil Chronicle](http://titus.uni-frankfurt.de/texte/etcc/slav/acech/dalimil/dalim.htm)                     | -                                                         | 🟥 pending     |
+| alex  | Czech      | [Alexandreis](http://titus.uni-frankfurt.de/texte/etcs/slav/acech/alex/alex.htm)                               | -                                                         | 🟥 pending     |
+| klare | Czech      | [Klaret, Grammar and Glossary](http://titus.uni-frankfurt.de/texte/etcs/slav/acech/klaret/klare.htm)           | -                                                         | 🟥 pending     |
+| rnt   | Russian    | [Novum Testamentum russice](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/rnt/rnt.htm)                   | -                                                         | 🟥 pending     |
+| igors | Russian    | [Slovo o polku Igoreve (diplomatic ed.)](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/igorsh/igors.htm) | -                                                         | 🟥 pending     |
+| zad1  | Russian    | [Zadonshchina, v. I](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/zad1/zad1.htm)                        | -                                                         | 🟥 pending     |
+| zad2  | Russian    | [Zadonshchina, v. II](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/zad2/zad2.htm)                       | -                                                         | 🟥 pending     |
