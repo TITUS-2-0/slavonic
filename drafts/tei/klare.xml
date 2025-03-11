@@ -28,7 +28,7 @@
 				<bibl xml:id="klare">
 					<author>
 						<name>Flajšhans, Václav</name>
-					</author>. <date>1926</date>. <title level="m">Klaret a Jeho Družina: Texty Glossované</title>. <title level="m">Slovníky Veršované</title>. Vol. <biblScope unit="volume">I.</biblScope>.</bibl>
+					</author>. <date>1926</date>. <title level="m">Klaret a Jeho Družina: Texty Glossované</title>. <title level="m">Slovníky Veršované</title>. Vol. <biblScope unit="volume">I</biblScope>.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
@@ -1404,9 +1404,7 @@
 				<div n="Proem." xml:id="book-2-part-6" type="part" data-level="2">
 					<head xml:lang="lat-Latn">Proemium</head>
 					<p xml:id="book-2-part-6-p-32">
-						<lb n="1" />
-						<foreign xml:lang="lat-Latn">
-							<hi rend="smallcaps">Ac</hi>cedant pueri, cupientes mente beari,</foreign>
+						<lb n="1" />ACcedant <foreign xml:lang="lat-Latn">pueri, cupientes mente beari,</foreign>
 						<lb n="2" />
 						<foreign xml:lang="lat-Latn">Ad congnoscenda propriata vocabula pauca,</foreign>
 						<lb n="3" />
@@ -1464,12 +1462,10 @@
 					</p>
 				</div>
 				<div n="I" xml:id="book-2-part-7" type="part" data-level="2">
-					<p xml:id="book-2-part-7-p-33">
-						<foreign xml:lang="lat-Latn">De deo, celo et mundo</foreign>
-					</p>
+					<head xml:lang="lat-Latn">De deo, celo et mundo</head>
 					<div n="1" xml:id="book-2-part-7-chapter-27" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De deo et celo</head>
-						<p xml:id="book-2-part-7-chapter-27-p-34">
+						<p xml:id="book-2-part-7-chapter-27-p-33">
 							<lb n="31" />
 							<foreign xml:lang="lat-Latn">Boh deus est, bozstwie deitas fortunaque</foreign> ssczestie,<lb n="32" />
 							<foreign xml:lang="lat-Latn">Vczinitel factor, ens</foreign> byt, stworzitel <foreign xml:lang="lat-Latn">que creator,</foreign>
@@ -1540,7 +1536,7 @@
 					</div>
 					<div n="2" xml:id="book-2-part-7-chapter-28" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De mundo</head>
-						<p xml:id="book-2-part-7-chapter-28-p-35">
+						<p xml:id="book-2-part-7-chapter-28-p-34">
 							<lb n="85" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Or</hi>dine de mundo terrena vocabula fundo.</foreign>
@@ -1598,7 +1594,7 @@
 					</div>
 					<div n="3" xml:id="book-2-part-7-chapter-29" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De lapidibus</head>
-						<p xml:id="book-2-part-7-chapter-29-p-36">
+						<p xml:id="book-2-part-7-chapter-29-p-35">
 							<lb n="122" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Ha</hi>ctenus exponam, lapidum bona nomina ponam.</foreign>
@@ -1655,7 +1651,7 @@
 					</div>
 					<div n="4" xml:id="book-2-part-7-chapter-30" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De aereis</head>
-						<p xml:id="book-2-part-7-chapter-30-p-37">
+						<p xml:id="book-2-part-7-chapter-30-p-36">
 							<lb n="161" />
 							<foreign xml:lang="lat-Latn">Edicto celo super aera nata revelo.</foreign>
 							<lb n="162" />Dam <foreign xml:lang="lat-Latn">dabo</foreign> vietr <foreign xml:lang="lat-Latn">ventus, ros</foreign> rossa, zywel <foreign xml:lang="lat-Latn">elementum,</foreign>
@@ -1711,12 +1707,10 @@
 					</div>
 				</div>
 				<div n="II" xml:id="book-2-part-8" type="part" data-level="2">
-					<p xml:id="book-2-part-8-p-38">
-						<foreign xml:lang="lat-Latn">De aereis et monstrosi</foreign>
-					</p>
+					<head xml:lang="lat-Latn">De aereis et monstrosi</head>
 					<div n="1" xml:id="book-2-part-8-chapter-31" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De [altilibus] domesticis</head>
-						<p xml:id="book-2-part-8-chapter-31-p-39">
+						<p xml:id="book-2-part-8-chapter-31-p-37">
 							<lb n="203" />
 							<foreign xml:lang="lat-Latn">Mentibus altilia prius ipsa domestica signa.</foreign>
 							<lb n="204" />
@@ -1775,7 +1769,7 @@
 					</div>
 					<div n="2" xml:id="book-2-part-8-chapter-32" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De volatilibus compestribus</head>
-						<p xml:id="book-2-part-8-chapter-32-p-40">
+						<p xml:id="book-2-part-8-chapter-32-p-38">
 							<lb n="245" />
 							<foreign xml:lang="lat-Latn">Addo volatilia campestria raro notata.</foreign>
 							<lb n="246" />Orel <foreign xml:lang="lat-Latn">aquila,</foreign> sslawik <foreign xml:lang="lat-Latn">filomena, sit arpia</foreign> strasslik,<lb n="247" />
@@ -1844,7 +1838,7 @@
 					</div>
 					<div n="3" xml:id="book-2-part-8-chapter-33" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De monstrosis hominibus</head>
-						<p xml:id="book-2-part-8-chapter-33-p-41">
+						<p xml:id="book-2-part-8-chapter-33-p-39">
 							<lb n="303" />
 							<foreign xml:lang="lat-Latn">Respice monstrosos homines natos viciosos.</foreign>
 							<lb n="304" />
@@ -1889,12 +1883,10 @@
 					</div>
 				</div>
 				<div n="III" xml:id="book-2-part-9" type="part" data-level="2">
-					<p xml:id="book-2-part-9-p-42">
-						<foreign xml:lang="lat-Latn">De aqua et aquatilibus</foreign>
-					</p>
+					<head xml:lang="lat-Latn">De aqua et aquatilibus</head>
 					<div n="1" xml:id="book-2-part-9-chapter-34" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De aqua</head>
-						<p xml:id="book-2-part-9-chapter-34-p-43">
+						<p xml:id="book-2-part-9-chapter-34-p-40">
 							<lb n="338" />
 							<foreign xml:lang="lat-Latn">Istis aereis deditis ad aquatile curris.</foreign>
 							<lb n="339" />
@@ -1941,7 +1933,7 @@
 					</div>
 					<div n="2" xml:id="book-2-part-9-chapter-35" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De piscibus</head>
-						<p xml:id="book-2-part-9-chapter-35-p-44">
+						<p xml:id="book-2-part-9-chapter-35-p-41">
 							<lb n="374" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Or</hi>do dat hincpisces in aquis, quos prendere glisces.</foreign>
@@ -2024,7 +2016,7 @@
 					</div>
 					<div n="3" xml:id="book-2-part-9-chapter-36" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De claudis monstris</head>
-						<p xml:id="book-2-part-9-chapter-36-p-45">
+						<p xml:id="book-2-part-9-chapter-36-p-42">
 							<lb n="429" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Cl</hi>auda dabit monstra modo tantula cartula nostra.</foreign>
@@ -2073,12 +2065,10 @@
 					</div>
 				</div>
 				<div n="IV" xml:id="book-2-part-10" type="part" data-level="2">
-					<p xml:id="book-2-part-10-p-46">
-						<foreign xml:lang="lat-Latn">De brutis</foreign>
-					</p>
+					<head xml:lang="lat-Latn">De brutis</head>
 					<div n="1" xml:id="book-2-part-10-chapter-37" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De animalium natura</head>
-						<p xml:id="book-2-part-10-chapter-37-p-47">
+						<p xml:id="book-2-part-10-chapter-37-p-43">
 							<lb n="463" />
 							<foreign xml:lang="lat-Latn">Ardua contexta brutis pars postea quarta.</foreign>
 							<lb n="464" />
@@ -2117,7 +2107,7 @@
 					</div>
 					<div n="2" xml:id="book-2-part-10-chapter-38" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De bestiis</head>
-						<p xml:id="book-2-part-10-chapter-38-p-48">
+						<p xml:id="book-2-part-10-chapter-38-p-44">
 							<lb n="497" />
 							<foreign xml:lang="lat-Latn">Raro sequens gesta de bestiis cernis honesta.</foreign>
 							<lb n="498" />Lew <foreign xml:lang="lat-Latn">leo</foreign> wlkque <foreign xml:lang="lat-Latn">lupusque le[e]na</foreign> lwicze, nedvied <foreign xml:lang="lat-Latn">ursus</foreign>
@@ -2184,7 +2174,7 @@
 					</div>
 					<div n="3" xml:id="book-2-part-10-chapter-39" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De nominibus serpentum</head>
-						<p xml:id="book-2-part-10-chapter-39-p-49">
+						<p xml:id="book-2-part-10-chapter-39-p-45">
 							<lb n="551" />
 							<foreign xml:lang="lat-Latn">Tandem serpentes capias non valde nocentes.</foreign>
 							<lb n="552" />
@@ -2221,7 +2211,7 @@
 					</div>
 					<div n="4" xml:id="book-2-part-10-chapter-40" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De nominibus vermium</head>
-						<p xml:id="book-2-part-10-chapter-40-p-50">
+						<p xml:id="book-2-part-10-chapter-40-p-46">
 							<lb n="575" />
 							<foreign xml:lang="lat-Latn">Hos capias vermes stimulantes mentes inhermes.</foreign>
 							<lb n="576" />
@@ -2259,12 +2249,10 @@
 					</div>
 				</div>
 				<div n="V" xml:id="book-2-part-11" type="part" data-level="2">
-					<p xml:id="book-2-part-11-p-51">
-						<foreign xml:lang="lat-Latn">De arboribus et plantis</foreign>
-					</p>
+					<head xml:lang="lat-Latn">De arboribus et plantis</head>
 					<div n="1" xml:id="book-2-part-11-chapter-41" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De arboribus</head>
-						<p xml:id="book-2-part-11-chapter-41-p-52">
+						<p xml:id="book-2-part-11-chapter-41-p-47">
 							<lb n="604" />
 							<foreign xml:lang="lat-Latn">Optima post quinta pars arboribus socianda.</foreign>
 							<lb n="605" />
@@ -2314,7 +2302,7 @@
 					</div>
 					<div n="2" xml:id="book-2-part-11-chapter-42" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De plantis</head>
-						<p xml:id="book-2-part-11-chapter-42-p-53">
+						<p xml:id="book-2-part-11-chapter-42-p-48">
 							<lb n="640" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">La</hi>udibus ad plants specials vertito plantas.</foreign>
@@ -2372,7 +2360,7 @@
 					</div>
 					<div n="3" xml:id="book-2-part-11-chapter-43" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De fructibus arborum</head>
-						<p xml:id="book-2-part-11-chapter-43-p-54">
+						<p xml:id="book-2-part-11-chapter-43-p-49">
 							<lb n="678" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Or</hi>a tua lata, dabis arbuta mandere grata.</foreign>
@@ -2416,7 +2404,7 @@
 					</div>
 					<div n="4" xml:id="book-2-part-11-chapter-44" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De semine</head>
-						<p xml:id="book-2-part-11-chapter-44-p-55">
+						<p xml:id="book-2-part-11-chapter-44-p-50">
 							<lb n="715" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Ma</hi>xima cum cura studeas de semine plura.</foreign>
@@ -2474,7 +2462,7 @@
 					</div>
 					<div n="5" xml:id="book-2-part-11-chapter-45" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De frumento</head>
-						<p xml:id="book-2-part-11-chapter-45-p-56">
+						<p xml:id="book-2-part-11-chapter-45-p-51">
 							<lb n="756" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Ec</hi>ce celer venias, frumenta quod omnia noscas.</foreign>
@@ -2535,7 +2523,7 @@
 					</div>
 					<div n="6" xml:id="book-2-part-11-chapter-46" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De herbis ignotis</head>
-						<p xml:id="book-2-part-11-chapter-46-p-57">
+						<p xml:id="book-2-part-11-chapter-46-p-52">
 							<lb n="808" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Ob</hi>tineas alias ignotas post tamen herbas.</foreign>
@@ -2597,7 +2585,7 @@
 					</div>
 					<div n="7" xml:id="book-2-part-11-chapter-47" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De radicibus</head>
-						<p xml:id="book-2-part-11-chapter-47-p-58">
+						<p xml:id="book-2-part-11-chapter-47-p-53">
 							<lb n="860" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Di</hi>scere cor apta radices in apoteca.</foreign>
@@ -2647,7 +2635,7 @@
 					</div>
 					<div n="8" xml:id="book-2-part-11-chapter-48" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De fragis et boletis</head>
-						<p xml:id="book-2-part-11-chapter-48-p-59">
+						<p xml:id="book-2-part-11-chapter-48-p-54">
 							<lb n="896" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">In</hi>tererit scriptis dare de fragisque boletis.</foreign>
@@ -2685,12 +2673,10 @@
 					</div>
 				</div>
 				<div n="VI" xml:id="book-2-part-12" type="part" data-level="2">
-					<p xml:id="book-2-part-12-p-60">
-						<foreign xml:lang="lat-Latn">De nominibus hominum</foreign>
-					</p>
+					<head xml:lang="lat-Latn">De nominibus hominum</head>
 					<div n="1" xml:id="book-2-part-12-chapter-49" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De homine</head>
-						<p xml:id="book-2-part-12-chapter-49-p-61">
+						<p xml:id="book-2-part-12-chapter-49-p-55">
 							<lb n="922" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Co</hi>ncipias hominem, sextam preparans sibi partem.</foreign>
@@ -2754,7 +2740,7 @@
 					</div>
 					<div n="2" xml:id="book-2-part-12-chapter-50" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De hominibus secularibus</head>
-						<p xml:id="book-2-part-12-chapter-50-p-62">
+						<p xml:id="book-2-part-12-chapter-50-p-56">
 							<lb n="968" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Te</hi>mptabis homines primo legere seculares.</foreign>
@@ -2816,7 +2802,7 @@
 					</div>
 					<div n="3" xml:id="book-2-part-12-chapter-51" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De hominibus spiritualibus</head>
-						<p xml:id="book-2-part-12-chapter-51-p-63">
+						<p xml:id="book-2-part-12-chapter-51-p-57">
 							<lb n="1015" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Op</hi>tatos sumes homines modo spirituales.</foreign>
@@ -2874,7 +2860,7 @@
 					</div>
 					<div n="4" xml:id="book-2-part-12-chapter-52" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De scolaribus</head>
-						<p xml:id="book-2-part-12-chapter-52-p-64">
+						<p xml:id="book-2-part-12-chapter-52-p-58">
 							<lb n="1062" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Co</hi>nspice doctores, rectores atque scolares.</foreign>
@@ -2938,7 +2924,7 @@
 					</div>
 					<div n="5" xml:id="book-2-part-12-chapter-53" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De communibus speciebus</head>
-						<p xml:id="book-2-part-12-chapter-53-p-65">
+						<p xml:id="book-2-part-12-chapter-53-p-59">
 							<lb n="1111" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Lu</hi>cet adhuc melius decommunibus speciebus.</foreign>
@@ -3034,7 +3020,7 @@
 					</div>
 					<div n="6" xml:id="book-2-part-12-chapter-54" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De nominibus personarum</head>
-						<p xml:id="book-2-part-12-chapter-54-p-66">
+						<p xml:id="book-2-part-12-chapter-54-p-60">
 							<lb n="1188" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Ac</hi>cipe personas per plurima nomina dic[t]as.</foreign>
@@ -3135,7 +3121,7 @@
 					</div>
 					<div n="7" xml:id="book-2-part-12-chapter-55" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De membris</head>
-						<p xml:id="book-2-part-12-chapter-55-p-67">
+						<p xml:id="book-2-part-12-chapter-55-p-61">
 							<lb n="1270" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Re</hi>bus et hiis positis de membris discito tantis.</foreign>
@@ -3212,7 +3198,7 @@
 					</div>
 					<div n="8" xml:id="book-2-part-12-chapter-56" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De motibus corporis</head>
-						<p xml:id="book-2-part-12-chapter-56-p-68">
+						<p xml:id="book-2-part-12-chapter-56-p-62">
 							<lb n="1336" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Ex</hi>pediens membra de motibus accipe dicta.</foreign>
@@ -3285,7 +3271,7 @@
 					</div>
 					<div n="9" xml:id="book-2-part-12-chapter-57" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De mo[ri]bus</head>
-						<p xml:id="book-2-part-12-chapter-57-p-69">
+						<p xml:id="book-2-part-12-chapter-57-p-63">
 							<lb n="1400" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Ta</hi>ctus, motus habe&lt;n&gt;s, de moribus accipe labes.</foreign>
@@ -3379,7 +3365,7 @@
 					</div>
 					<div n="10" xml:id="book-2-part-12-chapter-58" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De corporis natura</head>
-						<p xml:id="book-2-part-12-chapter-58-p-70">
+						<p xml:id="book-2-part-12-chapter-58-p-64">
 							<lb n="1483" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Or</hi>to cadencia summe recencia corpore tenta.</foreign>
@@ -3467,7 +3453,7 @@
 					</div>
 					<div n="11" xml:id="book-2-part-12-chapter-59" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De factis</head>
-						<p xml:id="book-2-part-12-chapter-59-p-71">
+						<p xml:id="book-2-part-12-chapter-59-p-65">
 							<lb n="1558" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">De</hi> factis disce de pluribus ac resipisce.</foreign>
@@ -3532,7 +3518,7 @@
 					</div>
 					<div n="12" xml:id="book-2-part-12-chapter-60" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De arte</head>
-						<p xml:id="book-2-part-12-chapter-60-p-72">
+						<p xml:id="book-2-part-12-chapter-60-p-66">
 							<lb n="1613" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Es</hi>tuat has artes mens omnis tangere partes.</foreign>
@@ -3601,7 +3587,7 @@
 					</div>
 					<div n="13" xml:id="book-2-part-12-chapter-61" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De languoribus</head>
-						<p xml:id="book-2-part-12-chapter-61-p-73">
+						<p xml:id="book-2-part-12-chapter-61-p-67">
 							<lb n="1670" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Su</hi>mere nunc signa de languoribus bona signa.</foreign>
@@ -3669,7 +3655,7 @@
 					</div>
 					<div n="14" xml:id="book-2-part-12-chapter-62" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De progenie</head>
-						<p xml:id="book-2-part-12-chapter-62-p-74">
+						<p xml:id="book-2-part-12-chapter-62-p-68">
 							<lb n="1726" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Op</hi>tima iam dicta de progeníe dabo pauca.</foreign>
@@ -3738,7 +3724,7 @@
 					</div>
 					<div n="15" xml:id="book-2-part-12-chapter-63" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De ferculis</head>
-						<p xml:id="book-2-part-12-chapter-63-p-75">
+						<p xml:id="book-2-part-12-chapter-63-p-69">
 							<lb n="1785" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Lu</hi>strans convivia statim elig&lt;it&gt;e fercula grata.</foreign>
@@ -3825,7 +3811,7 @@
 					</div>
 					<div n="16" xml:id="book-2-part-12-chapter-64" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De vestibus</head>
-						<p xml:id="book-2-part-12-chapter-64-p-76">
+						<p xml:id="book-2-part-12-chapter-64-p-70">
 							<lb n="1854" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Ex</hi>cipiens vestes has nudis pectore prestes.</foreign>
@@ -3938,12 +3924,10 @@
 					</div>
 				</div>
 				<div n="VII" xml:id="book-2-part-13" type="part" data-level="2">
-					<p xml:id="book-2-part-13-p-77">
-						<foreign xml:lang="lat-Latn">De domo et templo</foreign>
-					</p>
+					<head xml:lang="lat-Latn">De domo et templo</head>
 					<div n="1" xml:id="book-2-part-13-chapter-65" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De domo.</head>
-						<p xml:id="book-2-part-13-chapter-65-p-78">
+						<p xml:id="book-2-part-13-chapter-65-p-71">
 							<lb n="1940" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">No</hi>scitur hec septapars de domibus bene septa.</foreign>
@@ -4028,7 +4012,7 @@
 					</div>
 					<div n="2" xml:id="book-2-part-13-chapter-66" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De uteusilibus</head>
-						<p xml:id="book-2-part-13-chapter-66-p-79">
+						<p xml:id="book-2-part-13-chapter-66-p-72">
 							<lb n="2007" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Co</hi>rdis habens vires domibus utensile disces.</foreign>
@@ -4114,7 +4098,7 @@
 					</div>
 					<div n="3" xml:id="book-2-part-13-chapter-67" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De civitate</head>
-						<p xml:id="book-2-part-13-chapter-67-p-80">
+						<p xml:id="book-2-part-13-chapter-67-p-73">
 							<lb n="2082" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">In</hi> civitate bona michi summo vocabula tanta.</foreign>
@@ -4191,7 +4175,7 @@
 					</div>
 					<div n="4" xml:id="book-2-part-13-chapter-68" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De armis</head>
-						<p xml:id="book-2-part-13-chapter-68-p-81">
+						<p xml:id="book-2-part-13-chapter-68-p-74">
 							<lb n="2144" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Ar</hi>ipiens arma dabis instrumenta secunda.</foreign>
@@ -4250,7 +4234,7 @@
 					</div>
 					<div n="5" xml:id="book-2-part-13-chapter-69" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De urbis hominibus</head>
-						<p xml:id="book-2-part-13-chapter-69-p-82">
+						<p xml:id="book-2-part-13-chapter-69-p-75">
 							<lb n="2187" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Cl</hi>aretus pangit urb[e]s, homines modo tangit.</foreign>
@@ -4328,7 +4312,7 @@
 					</div>
 					<div n="6" xml:id="book-2-part-13-chapter-70" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De iudice</head>
-						<p xml:id="book-2-part-13-chapter-70-p-83">
+						<p xml:id="book-2-part-13-chapter-70-p-76">
 							<lb n="2248" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Or</hi>tographus laudes donat de iudice grandes.</foreign>
@@ -4436,7 +4420,7 @@
 					</div>
 					<div n="7" xml:id="book-2-part-13-chapter-71" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De ecclesia</head>
-						<p xml:id="book-2-part-13-chapter-71-p-84">
+						<p xml:id="book-2-part-13-chapter-71-p-77">
 							<lb n="2327" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Ma</hi>nicat ecclesia dare presbiteris sua iura.</foreign>
@@ -4514,7 +4498,7 @@
 					</div>
 					<div n="8" xml:id="book-2-part-13-chapter-72" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De festis</head>
-						<p xml:id="book-2-part-13-chapter-72-p-85">
+						<p xml:id="book-2-part-13-chapter-72-p-78">
 							<lb n="2384" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Pr</hi>edicta nosce[n]s defestis sumito discens.</foreign>
@@ -4580,7 +4564,7 @@
 					</div>
 					<div n="9" xml:id="book-2-part-13-chapter-73" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De rebus ecclesiasticis</head>
-						<p xml:id="book-2-part-13-chapter-73-p-86">
+						<p xml:id="book-2-part-13-chapter-73-p-79">
 							<lb n="2438" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">In</hi>terea verges, quod hic ecclesiastica vertes.</foreign>
@@ -4658,12 +4642,10 @@
 					</div>
 				</div>
 				<div n="VIII" xml:id="book-2-part-14" type="part" data-level="2">
-					<p xml:id="book-2-part-14-p-87">
-						<foreign xml:lang="lat-Latn">De arte et artificibus</foreign>
-					</p>
+					<head xml:lang="lat-Latn">De arte et artificibus</head>
 					<div n="1" xml:id="book-2-part-14-chapter-74" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De artificibus</head>
-						<p xml:id="book-2-part-14-chapter-74-p-88">
+						<p xml:id="book-2-part-14-chapter-74-p-80">
 							<lb n="2496" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">La</hi>rga prius dicta post artifices bene signa.</foreign>
@@ -4729,7 +4711,7 @@
 					</div>
 					<div n="2" xml:id="book-2-part-14-chapter-75" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De fabris</head>
-						<p xml:id="book-2-part-14-chapter-75-p-89">
+						<p xml:id="book-2-part-14-chapter-75-p-81">
 							<lb n="2550" />
 							<foreign xml:lang="lat-Latn">Addito sartores, argos post dicta sutores.</foreign>
 							<lb n="2551" />
@@ -4790,7 +4772,7 @@
 					</div>
 					<div n="3" xml:id="book-2-part-14-chapter-76" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De fabrilibus</head>
-						<p xml:id="book-2-part-14-chapter-76-p-90">
+						<p xml:id="book-2-part-14-chapter-76-p-82">
 							<lb n="2597" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Ta</hi>ndem fabrili a digne refero documenta.</foreign>
@@ -4849,7 +4831,7 @@
 					</div>
 					<div n="4" xml:id="book-2-part-14-chapter-77" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De nautis</head>
-						<p xml:id="book-2-part-14-chapter-77-p-91">
+						<p xml:id="book-2-part-14-chapter-77-p-83">
 							<lb n="2641" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Ve</hi>scere iam dicta denautis appropriata. .</foreign>
@@ -4889,7 +4871,7 @@
 					</div>
 					<div n="5" xml:id="book-2-part-14-chapter-78" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De scriptoribus</head>
-						<p xml:id="book-2-part-14-chapter-78-p-92">
+						<p xml:id="book-2-part-14-chapter-78-p-84">
 							<lb n="2670" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Su</hi>scipe mente pia descriptoribus documenta.</foreign>

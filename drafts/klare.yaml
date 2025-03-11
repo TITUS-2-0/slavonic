@@ -2885,10 +2885,8 @@
     - part[n=Proem.]:
       - head[lg=lat-Latn]: Proemium
       - p:
-        - lb[n=1]:
-        - foreign[lg=lat-Latn]:
-          - hi[rend=smallcaps]: Ac
-          - cedant pueri, cupientes mente beari,
+        - lb[n=1]: ACcedant
+        - foreign[lg=lat-Latn]: pueri, cupientes mente beari,
         - lb[n=2]:
         - foreign[lg=lat-Latn]: Ad congnoscenda propriata vocabula pauca,
         - lb[n=3]:
@@ -3003,8 +3001,7 @@
         - lb[n=30]:
         - foreign[lg=lat-Latn]: Quod non sint tetra, placuit corrumpere metra.
     - part[n=I]:
-      - p:
-        - foreign[lg=lat-Latn]: De deo, celo et mundo
+      - head[lg=lat-Latn]: De deo, celo et mundo
       - chapter[n=1]:
         - head[lg=lat-Latn]: De deo et celo
         - p:
@@ -4102,8 +4099,7 @@
           - lb[n=202]:
           - foreign[lg=lat-Latn]: Ecce Bohemarius dedit ista vocabula solus.
     - part[n=II]:
-      - p:
-        - foreign[lg=lat-Latn]: De aereis et monstrosi
+      - head[lg=lat-Latn]: De aereis et monstrosi
       - chapter[n=1]:
         - head[lg=lat-Latn]: De [altilibus] domesticis
         - p:
@@ -4888,8 +4884,7 @@
           - lb[n=337]:
           - foreign[lg=lat-Latn]: Ysodorus, Iacobus tribus hec dedit atque duobus.
     - part[n=III]:
-      - p:
-        - foreign[lg=lat-Latn]: De aqua et aquatilibus
+      - head[lg=lat-Latn]: De aqua et aquatilibus
       - chapter[n=1]:
         - head[lg=lat-Latn]: De aqua
         - p:
@@ -5673,8 +5668,7 @@
           - lb[n=462]:
           - foreign[lg=lat-Latn]: Hec dedit Albertus Augustinus que refertus.
     - part[n=IV]:
-      - p:
-        - foreign[lg=lat-Latn]: De brutis
+      - head[lg=lat-Latn]: De brutis
       - chapter[n=1]:
         - head[lg=lat-Latn]: De animalium natura
         - p:
@@ -6528,8 +6522,7 @@
           - lb[n=603]:
           - foreign[lg=lat-Latn]: Has rerum species lege, sed multe latitant res.
     - part[n=V]:
-      - p:
-        - foreign[lg=lat-Latn]: De arboribus et plantis
+      - head[lg=lat-Latn]: De arboribus et plantis
       - chapter[n=1]:
         - head[lg=lat-Latn]: De arboribus
         - p:
@@ -8485,8 +8478,7 @@
           - lb[n=921]:
           - foreign[lg=lat-Latn]: Nomina sic rerum complevi nunc specierum.
     - part[n=VI]:
-      - p:
-        - foreign[lg=lat-Latn]: De nominibus hominum
+      - head[lg=lat-Latn]: De nominibus hominum
       - chapter[n=1]:
         - head[lg=lat-Latn]: De homine
         - p:
@@ -14065,8 +14057,7 @@
           - lb[n=1939]:
           - foreign[lg=lat-Latn]: Nomina nunc propria sperno dare non numerata.
     - part[n=VII]:
-      - p:
-        - foreign[lg=lat-Latn]: De domo et templo
+      - head[lg=lat-Latn]: De domo et templo
       - chapter[n=1]:
         - head[lg=lat-Latn]: De domo.
         - p:
@@ -17212,8 +17203,7 @@
           - lb[n=2495]:
           - foreign[lg=lat-Latn]: Firmet hec Arnestus archipresul, auctor honestus.
     - part[n=VIII]:
-      - p:
-        - foreign[lg=lat-Latn]: De arte et artificibus
+      - head[lg=lat-Latn]: De arte et artificibus
       - chapter[n=1]:
         - head[lg=lat-Latn]: De artificibus
         - p:
