@@ -18,14 +18,26 @@
         - lb[n=6]:
         - foreign[lg=lat-Latn]: Hic, peto, quod mecum sistens iuvet edere totum.
         - lb[n=7]:
-        - foreign[lg=lat-Latn]: Ut non pervertam sensum, volo vertere que<n>dam,
+        - foreign[lg=lat-Latn]:
+          - Ut non pervertam sensum, volo vertere que
+          - supplied[reason=omitted]: n
+          - dam,
         - lb[n=8]:
-        - foreign[lg=lat-Latn]: Cui vero non placeat <soli>, talia vel melius eda<n>t.
-            -
+        - foreign[lg=lat-Latn]:
+          - 'Cui vero non placeat '
+          - supplied[reason=omitted]: soli
+          - ', talia vel melius eda'
+          - supplied[reason=omitted]: n
+          - t. -
     - part[n=A]:
       - p:
         - lb[n=9]:
-        - foreign[lg=lat-Latn]: Inprimis artes tribuam [tibi] tres [triviales],
+        - foreign[lg=lat-Latn]:
+          - 'Inprimis artes tribuam '
+          - supplied[reason=lost]: tibi
+          - ' tres '
+          - supplied[reason=lost]: triviales
+          - ','
         - lb[n=10]:
         - foreign[lg=lat-Latn]: Postea tunc tales quatuor sunt quadriviales.
         - lb[n=11]:
@@ -60,11 +72,18 @@
           - lb[n=17]:
           - foreign[lg=lat-Latn]: Sillaba
           - srzyek
-          - foreign[lg=lat-Latn]: geritur [que] posicio
+          - foreign[lg=lat-Latn]:
+            - 'geritur '
+            - supplied[reason=lost]: que
+            - ' posicio'
           - wlozenye
-          - foreign[lg=lat-Latn]: '[fertur].'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: fertur
+            - .
           - lb[n=18]:
-          - foreign[lg=lat-Latn]: Composicio [das]
+          - foreign[lg=lat-Latn]:
+            - 'Composicio '
+            - supplied[reason=lost]: das
           - slozenye,
           - foreign[lg=lat-Latn]: dyptongus est
           - dwoyhlas,
@@ -73,11 +92,18 @@
           - nalez,
           - foreign[lg=lat-Latn]: accentus
           - prospyewa
-          - foreign[lg=lat-Latn]: '[fiet],'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: fiet
+            - ','
           - lb[n=20]:
           - foreign[lg=lat-Latn]: Regula sit
-          - po[t]wrd
-          - foreign[lg=lat-Latn]: '[que] trocheus sit [tibi]'
+          - po
+          - supplied[reason=lost]: t
+          - wrd
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: que
+            - ' trocheus sit '
+            - supplied[reason=lost]: tibi
           - przyewrat.
           - lb[n=21]:
           - foreign[lg=lat-Latn]: Dactillus est
@@ -87,7 +113,9 @@
           - lb[n=22]:
           - foreign[lg=lat-Latn]: Est iambus
           - nawrat,
-          - foreign[lg=lat-Latn]: anapestus [sit tibi]
+          - foreign[lg=lat-Latn]:
+            - 'anapestus '
+            - supplied[reason=lost]: sit tibi
           - rozraz;
           - lb[n=23]:
           - foreign[lg=lat-Latn]: Sed tribrachus
@@ -144,11 +172,15 @@
           - lb[n=33]:
           - foreign[lg=lat-Latn]: Masculinum
           - muzsky
-          - foreign[lg=lat-Latn]: femininum [quo]que
+          - foreign[lg=lat-Latn]:
+            - 'femininum '
+            - supplied[reason=lost]: quo
+            - que
           - zensky.
           - lb[n=34]: Vroda
           - foreign[lg=lat-Latn]: sit sexus,
-          - nykterake<ho>
+          - nykterake
+          - supplied[reason=omitted]: ho
           - foreign[lg=lat-Latn]: quoque neutrum,
           - lb[n=35]:
           - foreign[lg=lat-Latn]: Commune
@@ -161,9 +193,17 @@
           - mylne
           - foreign[lg=lat-Latn]: dubium,
           - nadobeczne
-          - foreign[lg=lat-Latn]: sit <hoc> epic<h>enum,
+          - foreign[lg=lat-Latn]:
+            - 'sit '
+            - supplied[reason=omitted]: hoc
+            - ' epic'
+            - supplied[reason=omitted]: h
+            - enum,
           - lb[n=37]: Smyessene
-          - foreign[lg=lat-Latn]: promiscu[u]m, sed
+          - foreign[lg=lat-Latn]:
+            - promiscu
+            - supplied[reason=lost]: u
+            - m, sed
           - gednaky
           - foreign[lg=lat-Latn]: singularis.
           - lb[n=38]:
@@ -207,7 +247,9 @@
           - slowosad,
           - foreign[lg=lat-Latn]: sed suppositum
           - prwogme
-          - foreign[lg=lat-Latn]: '[dat].'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: dat
+            - .
           - lb[n=46]:
           - foreign[lg=lat-Latn]: Est species
           - wlastnost,
@@ -232,7 +274,8 @@
           - lb[n=50]:
           - foreign[lg=lat-Latn]: Verbale
           - slowne,
-          - przyslow[ne]
+          - przyslow
+          - supplied[reason=lost]: ne
           - foreign[lg=lat-Latn]: adverbiale sit,
           - lb[n=51]: Poczytawe
           - foreign[lg=lat-Latn]: numerale, sed
@@ -268,13 +311,19 @@
           - wymozene
           - foreign[lg=lat-Latn]: tibi dictum.
           - lb[n=59]:
-          - foreign[lg=lat-Latn]: Post inflexio [sit]
+          - foreign[lg=lat-Latn]:
+            - 'Post inflexio '
+            - supplied[reason=lost]: sit
           - menoslowna,
           - foreign[lg=lat-Latn]: fictivum
           - lb[n=60]:
           - foreign[lg=lat-Latn]: Sit
-          - zamyslowan<y>e,
-          - foreign[lg=lat-Latn]: sit onomatopoycum [dictum]
+          - zamyslowan
+          - supplied[reason=omitted]: y
+          - e,
+          - foreign[lg=lat-Latn]:
+            - 'sit onomatopoycum '
+            - supplied[reason=lost]: dictum
           - lb[n=61]:
           - foreign[lg=lat-Latn]: Hinc
           - pohlasowane,
@@ -292,7 +341,9 @@
           - prossyene,]
           - lb[n=64]:
           - foreign[lg=lat-Latn]: Demonstrativum sit
-          - vkazowatedl[n]e
+          - vkazowatedl
+          - supplied[reason=lost]: n
+          - e
           - foreign[lg=lat-Latn]: bene dictum,
           - lb[n=65]: Odpowyedalywe
           - foreign[lg=lat-Latn]: responsivum tibi fiet.
@@ -332,15 +383,22 @@
           - przedlozenye
           - foreign[lg=lat-Latn]: prepositivum,
           - lb[n=73]:
-          - foreign[lg=lat-Latn]: Articula[re]
-          - ro<z>dyznawe,
+          - foreign[lg=lat-Latn]:
+            - Articula
+            - supplied[reason=lost]: re
+          - ro
+          - supplied[reason=omitted]: z
+          - dyznawe,
           - foreign[lg=lat-Latn]: sed
           - podgednane
           - foreign[lg=lat-Latn]: fertur
           - lb[n=74]:
           - foreign[lg=lat-Latn]: Hinc subiunctivum, possessivum
-          - gmyetyna[ue]
-          - foreign[lg=lat-Latn]: <dicta>.
+          - gmyetyna
+          - supplied[reason=lost]: ue
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=omitted]: dicta
+            - .
           - lb[n=75]:
           - foreign[lg=lat-Latn]: '[Articulus'
           - rodyzna,
@@ -355,7 +413,8 @@
           - rozeznanye,
           - foreign[lg=lat-Latn]: sed terminacio
           - skonanye
-          - foreign[lg=lat-Latn]: '[fit.]'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: fit.
           - lb[n=78]:
           - foreign[lg=lat-Latn]: Masculus est
           - samecz
@@ -379,7 +438,9 @@
           - lb[n=82]:
           - foreign[lg=lat-Latn]: Indicativus
           - vkazowatedlne
-          - foreign[lg=lat-Latn]: '[vocitatur],'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: vocitatur
+            - ','
           - lb[n=83]:
           - foreign[lg=lat-Latn]: Imperativus erit
           - przykazowatedlny,
@@ -398,7 +459,9 @@
           - lb[n=87]: Mysslena,
           - foreign[lg=lat-Latn]: tibi
           - poczynana
-          - foreign[lg=lat-Latn]: '[fit] inchoativa,'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: fit
+            - ' inchoativa,'
           - lb[n=88]:
           - foreign[lg=lat-Latn]: Frequentativa
           - czastowana,
@@ -408,10 +471,14 @@
           - pomenssowana,
           - foreign[lg=lat-Latn]: dicas desiderativa
           - lb[n=90]: Zadostna,
-          - foreign[lg=lat-Latn]: fore dic imitativa <que>
+          - foreign[lg=lat-Latn]:
+            - 'fore dic imitativa '
+            - supplied[reason=omitted]: que
           - nasledna.
           - lb[n=91]:
-          - foreign[lg=lat-Latn]: Fertur anormala <tunc>
+          - foreign[lg=lat-Latn]:
+            - 'Fertur anormala '
+            - supplied[reason=omitted]: tunc
           - neporzadna,
           - foreign[lg=lat-Latn]: dicitur esse
           - lb[n=92]:
@@ -445,8 +512,12 @@
           - przylehawe
           - lb[n=99]:
           - foreign[lg=lat-Latn]: Atque prohereticum sit
-          - powol[n]e
-          - foreign[lg=lat-Latn]: '[tibi] dictum.'
+          - powol
+          - supplied[reason=lost]: n
+          - e
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: tibi
+            - ' dictum.'
           - lb[n=100]:
           - foreign[lg=lat-Latn]: Tempus
           - czas,
@@ -463,12 +534,17 @@
           - foreign[lg=lat-Latn]: Atque gerundivum
           - dwonessene,
           - foreign[lg=lat-Latn]: tibi supinum
-          - lb[n=103]: W<y>znakowane,
+          - lb[n=103]:
+          - W
+          - supplied[reason=omitted]: y
+          - znakowane,
           - foreign[lg=lat-Latn]: defectivum
           - nedostawne
           - foreign[lg=lat-Latn]: fit.
           - lb[n=104]: '[ASt'
-          - foreign[lg=lat-Latn]: adverbia] dic [tibi]
+          - foreign[lg=lat-Latn]:
+            - 'adverbia] dic '
+            - supplied[reason=lost]: tibi
           - przyslowna,
           - foreign[lg=lat-Latn]: significativum
           - lb[n=105]:
@@ -496,8 +572,14 @@
           - lb[n=110]:
           - foreign[lg=lat-Latn]: Sunt iurativa
           - przysezna,
-          - foreign[lg=lat-Latn]: <sed> electiva
-          - wy[b]o[r]na,
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=omitted]: sed
+            - ' electiva'
+          - wy
+          - supplied[reason=lost]: b
+          - o
+          - supplied[reason=lost]: r
+          - na,
           - lb[n=111]:
           - foreign[lg=lat-Latn]: Congregativa
           - shromazdyena,
@@ -505,7 +587,9 @@
           - lb[n=112]: Zaprzeczena
           - foreign[lg=lat-Latn]: dicas, eventus
           - przyhodywa
-          - foreign[lg=lat-Latn]: '[sunt].'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: sunt
+            - .
           - lb[n=113]:
           - foreign[lg=lat-Latn]: Sunt comparativa
           - przyrownatedlna
@@ -518,10 +602,14 @@
           - foreign[lg=lat-Latn]: Significacio
           - znamenanye
           - foreign[lg=lat-Latn]: sit,
-          - spogene<ho>
+          - spogene
+          - supplied[reason=omitted]: ho
           - foreign[lg=lat-Latn]: tunc
           - lb[n=116]:
-          - foreign[lg=lat-Latn]: Est <de>composita, simplex
+          - foreign[lg=lat-Latn]:
+            - 'Est '
+            - supplied[reason=omitted]: de
+            - composita, simplex
           - nespogena
           - foreign[lg=lat-Latn]: dicta. -
           - lb[n=117]:
@@ -539,20 +627,25 @@
           - doplnyena;
           - lb[n=120]:
           - foreign[lg=lat-Latn]: Causalis
-          - czynowat[e]dlna,
+          - czynowat
+          - supplied[reason=lost]: e
+          - dlna,
           - foreign[lg=lat-Latn]: tibi racionalis]
           - lb[n=121]: Rozumatedlna, porzad
           - foreign[lg=lat-Latn]: ordo, tibi prepositivus
           - lb[n=122]: Przedlozeny,
           - foreign[lg=lat-Latn]: subiunctivus sit
           - podlozeny
-          - foreign[lg=lat-Latn]: '[tunc].'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: tunc
+            - .
           - lb[n=123]:
           - foreign[lg=lat-Latn]: Communis
           - obeczny,
           - foreign[lg=lat-Latn]: encletice
           - naklonyene
-          - foreign[lg=lat-Latn]: '[sunt]'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: sunt
           - lb[n=124]:
           - foreign[lg=lat-Latn]: Postque preposicio
           - przedlozenye,
@@ -571,7 +664,9 @@
           - wrazenye,
           - foreign[lg=lat-Latn]: leticia
           - wesele
-          - foreign[lg=lat-Latn]: '[sit],'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: sit
+            - ','
           - lb[n=128]:
           - foreign[lg=lat-Latn]: Dolor sit
           - bolest,
@@ -595,7 +690,9 @@
           - obyczyey
           - foreign[lg=lat-Latn]: sit significandi.
           - lb[n=133]:
-          - foreign[lg=lat-Latn]: Accidencia [sit]
+          - foreign[lg=lat-Latn]:
+            - 'Accidencia '
+            - supplied[reason=lost]: sit
           - przyslussenstwye
           - foreign[lg=lat-Latn]: tibi dicta,
           - lb[n=134]:
@@ -603,12 +700,17 @@
           - wydozne,
           - foreign[lg=lat-Latn]: dic abstractum
           - wynyate,
-          - foreign[lg=lat-Latn]: '[sit]'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: sit
           - lb[n=135]:
           - foreign[lg=lat-Latn]: Proprietas
           - swlastnost,
           - przyslusnost
-          - foreign[lg=lat-Latn]: <dic> passio [fiet].
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=omitted]: dic
+            - ' passio '
+            - supplied[reason=lost]: fiet
+            - .
           - lb[n=136]:
           - foreign[lg=lat-Latn]: Grammaticalis
           - slowocztenowany,
@@ -630,13 +732,19 @@
           - lb[n=140]: Doplnyenye,
           - foreign[lg=lat-Latn]: sed commoditas
           - vzytek
-          - foreign[lg=lat-Latn]: '[sit];'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: sit
+            - ;
           - lb[n=141]:
           - foreign[lg=lat-Latn]: Post regimen dictum
           - zprawowanye,
-          - foreign[lg=lat-Latn]: vis [quo]que
+          - foreign[lg=lat-Latn]:
+            - 'vis '
+            - supplied[reason=lost]: quo
+            - que
           - mocz
-          - foreign[lg=lat-Latn]: '[sit]'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: sit
           - lb[n=142]:
           - foreign[lg=lat-Latn]: Ast intransicio
           - newychodyenye
@@ -655,10 +763,15 @@
           - Swarzenye,
           - popadenye
           - foreign[lg=lat-Latn]: prolempsis, sed positiva
-          - lb[n=146]: Zgyednana, ssmy[ss]lowana
+          - lb[n=146]:
+          - Zgyednana, ssmy
+          - supplied[reason=lost]: ss
+          - lowana
           - foreign[lg=lat-Latn]: speculativa.
           - lb[n=147]:
-          - foreign[lg=lat-Latn]: Versificator[ia]
+          - foreign[lg=lat-Latn]:
+            - Versificator
+            - supplied[reason=lost]: ia
           - verssowanye,
           - foreign[lg=lat-Latn]: sed prosodia
           - lb[n=148]:
@@ -678,7 +791,10 @@
           - foreign[lg=lat-Latn]: Explicitum
           - propowyedyenye,
           - foreign[lg=lat-Latn]: sed implicitum sit
-          - lb[n=152]: Wdawenye, sposob[en]ye
+          - lb[n=152]:
+          - Wdawenye, sposob
+          - supplied[reason=lost]: en
+          - ye
           - foreign[lg=lat-Latn]: conformitas tibi dabit.
           - lb[n=153]:
           - foreign[lg=lat-Latn]: Atque diversitas
@@ -689,7 +805,10 @@
           - lb[n=154]:
           - foreign[lg=lat-Latn]: Sed modo non curas tibi scribere mille figuras,
           - lb[n=155]:
-          - foreign[lg=lat-Latn]: Sed[de] grammatica tibi trado vocabula pauca. -
+          - foreign[lg=lat-Latn]:
+            - Sed
+            - supplied[reason=lost]: de
+            - ' grammatica tibi trado vocabula pauca. -'
       - chapter[n=II]:
         - head[lg=lat-Latn]: De rethorica
         - p:
@@ -698,7 +817,10 @@
             - hi[rend=smallcaps]: Re
             - thorice flores nunc exponam meliores
           - lb[n=157]:
-          - foreign[lg=lat-Latn]: Eth[or]ica post
+          - foreign[lg=lat-Latn]:
+            - Eth
+            - supplied[reason=lost]: or
+            - ica post
           - mluwokrasa,
           - foreign[lg=lat-Latn]: sit
           - okrasa
@@ -748,7 +870,9 @@
           - swatolist,
           - lb[n=168]: Nawraczenye
           - foreign[lg=lat-Latn]: repeticio, conversio
-          - przy[e]wrat.
+          - przy
+          - supplied[reason=lost]: e
+          - wrat.
           - lb[n=169]:
           - foreign[lg=lat-Latn]: Est complexio
           - spletenye,
@@ -787,12 +911,17 @@
           - foreign[lg=lat-Latn]: coniunccio fertur
           - lb[n=177]: Zwazanye,
           - foreign[lg=lat-Latn]: post adiunccio
-          - przywr[ac]zenye
+          - przywr
+          - supplied[reason=lost]: ac
+          - zenye
           - foreign[lg=lat-Latn]: sit;
           - lb[n=178]:
-          - foreign[lg=lat-Latn]: Conduplacio [sit]
+          - foreign[lg=lat-Latn]:
+            - 'Conduplacio '
+            - supplied[reason=lost]: sit
           - podwogenye,
-          - foreign[lg=lat-Latn]: '[post ?]'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: post ?
           - promyenyenye
           - lb[n=179]:
           - foreign[lg=lat-Latn]: Hinc commutacio, dubitacio
@@ -824,7 +953,9 @@
           - dworzeczena
           - lb[n=186]:
           - foreign[lg=lat-Latn]: Atque preposicio
-          - przye[d]lozenye,
+          - przye
+          - supplied[reason=lost]: d
+          - lozenye,
           - foreign[lg=lat-Latn]: predicatum
           - lb[n=187]:
           - foreign[lg=lat-Latn]: Est
@@ -845,7 +976,10 @@
           - wsselika,
           - foreign[lg=lat-Latn]: sit indefinita
           - lb[n=191]: Nedokonawana,
-          - foreign[lg=lat-Latn]: dic affi[rma]tiva
+          - foreign[lg=lat-Latn]:
+            - dic affi
+            - supplied[reason=lost]: rma
+            - tiva
           - potwrdna
           - lb[n=192]:
           - foreign[lg=lat-Latn]: Terminus
@@ -867,7 +1001,9 @@
           - foreign[lg=lat-Latn]: Est naturalis
           - przyrozena
           - foreign[lg=lat-Latn]: que
-          - przy<e>hodna
+          - przy
+          - supplied[reason=omitted]: e
+          - hodna
           - lb[n=197]:
           - foreign[lg=lat-Latn]: Contingens est
           - daleka
@@ -890,13 +1026,18 @@
           - foreign[lg=lat-Latn]: sit equipolencia dicta,
           - lb[n=202]: Sposobenye
           - foreign[lg=lat-Latn]: modus, predicabile
-          - hlaho<h>lawe.
+          - hlaho
+          - supplied[reason=omitted]: h
+          - lawe.
           - lb[n=203]:
           - foreign[lg=lat-Latn]: Universalia sunt
           - wsselika
           - foreign[lg=lat-Latn]: tibi dicta,
           - lb[n=204]:
-          - foreign[lg=lat-Latn]: Generali<si>ssima sunt
+          - foreign[lg=lat-Latn]:
+            - Generali
+            - supplied[reason=omitted]: si
+            - ssima sunt
           - nayplodnyessye,
           - foreign[lg=lat-Latn]: proprium
           - wlastnye,
@@ -958,17 +1099,26 @@
           - chytromuz
           - foreign[lg=lat-Latn]: que zophista
           - lb[n=218]:
-          - foreign[lg=lat-Latn]: Explic[iu]nt tales iam tres artes terminales.
+          - foreign[lg=lat-Latn]:
+            - Explic
+            - supplied[reason=lost]: iu
+            - nt tales iam tres artes terminales.
       - chapter[n=IV]:
         - head[lg=lat-Latn]: De musica
         - p:
           - lb[n=219]:
-          - foreign[lg=lat-Latn]: Materiam musice congnosca[s], artis amice
+          - foreign[lg=lat-Latn]:
+            - Materiam musice congnosca
+            - supplied[reason=lost]: s
+            - ', artis amice'
           - lb[n=220]:
           - foreign[lg=lat-Latn]: Est autem musica
-          - '[w]odohlasna,'
+          - supplied[reason=lost]: w
+          - odohlasna,
           - spyewanye
-          - foreign[lg=lat-Latn]: '[cantus?],'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: cantus?
+            - ','
           - lb[n=221]:
           - foreign[lg=lat-Latn]: Sed naturalis
           - przyrozene
@@ -1021,7 +1171,9 @@
             - tem de numeris congnosces versibus istis
           - lb[n=231]:
           - foreign[lg=lat-Latn]: Arismetrica sit
-          - poczetm[i]era,
+          - poczetm
+          - supplied[reason=lost]: i
+          - era,
           - foreign[lg=lat-Latn]: compotus
           - vczet,
           - lb[n=232]:
@@ -1043,7 +1195,10 @@
           - rozmnozenye
           - foreign[lg=lat-Latn]: vocitabis
           - lb[n=236]:
-          - foreign[lg=lat-Latn]: Multiplicacio, [est] progressio
+          - foreign[lg=lat-Latn]:
+            - 'Multiplicacio, '
+            - supplied[reason=lost]: est
+            - ' progressio'
           - wystyepanye.
           - lb[n=237]:
           - foreign[lg=lat-Latn]: Dic extraccio post
@@ -1051,11 +1206,20 @@
           - dwogywa
           - foreign[lg=lat-Latn]: dupla,
           - lb[n=238]:
-          - foreign[lg=lat-Latn]: Se[s]quialtera
+          - foreign[lg=lat-Latn]:
+            - Se
+            - supplied[reason=lost]: s
+            - quialtera
           - spoludruha,
-          - foreign[lg=lat-Latn]: sed se[s]quitercia dices
+          - foreign[lg=lat-Latn]:
+            - sed se
+            - supplied[reason=lost]: s
+            - quitercia dices
           - lb[n=239]: Polutrzena poludezmaque
-          - foreign[lg=lat-Latn]: se[s]quitercia dices;
+          - foreign[lg=lat-Latn]:
+            - se
+            - supplied[reason=lost]: s
+            - quitercia dices;
           - lb[n=240]:
           - foreign[lg=lat-Latn]: Dupla duarum terciarum
           - dwogetrzena
@@ -1064,7 +1228,10 @@
           - foreign[lg=lat-Latn]: Triplaque
           - troyna
           - nawaz
-          - foreign[lg=lat-Latn]: tibi ['xx'xx] fiet. -
+          - foreign[lg=lat-Latn]:
+            - 'tibi '
+            - supplied[reason=lost]: "'xx'xx"
+            - ' fiet. -'
           - lb[n=242]:
           - foreign[lg=lat-Latn]: Sed de ponderibus modo volo scribere versus. -
       - chapter[n=VI]:
@@ -1074,7 +1241,11 @@
           - foreign[lg=lat-Latn]: Prestans mensuram geometria dat tibi puram
           - lb[n=244]:
           - foreign[lg=lat-Latn]: Est geometria
-          - m[i]eroze[mn]a,
+          - m
+          - supplied[reason=lost]: i
+          - eroze
+          - supplied[reason=lost]: mn
+          - a,
           - zmyerzenye
           - foreign[lg=lat-Latn]: pandis
           - lb[n=245]:
@@ -1119,8 +1290,14 @@
           - foreign[lg=lat-Latn]: Astrorum cursus post hoc volo tradere rursus
           - lb[n=253]:
           - foreign[lg=lat-Latn]: Hinc astronomia
-          - hwy[e]zdy<g>ena
-          - foreign[lg=lat-Latn]: '[sit] tibi dicta,'
+          - hwy
+          - supplied[reason=lost]: e
+          - zdy
+          - supplied[reason=omitted]: g
+          - ena
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: sit
+            - ' tibi dicta,'
           - lb[n=254]:
           - foreign[lg=lat-Latn]: Post astrologia
           - hwyezdarzstwie
@@ -1144,7 +1321,12 @@
           - foreign[lg=lat-Latn]: Constellacio sit
           - zbierohwiezd,
           - polukrok
-          - foreign[lg=lat-Latn]: epici[c]l<l>us.
+          - foreign[lg=lat-Latn]:
+            - epici
+            - supplied[reason=lost]: c
+            - l
+            - supplied[reason=omitted]: l
+            - us.
           - lb[n=259]:
           - foreign[lg=lat-Latn]: Est solaris
           - sluneczny,
@@ -1233,7 +1415,9 @@
           - znamodrot,
           - foreign[lg=lat-Latn]: signum
           - swieroczet
-          - foreign[lg=lat-Latn]: "[xx'x],"
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: xx'x
+            - ','
           - lb[n=288]:
           - foreign[lg=lat-Latn]: Meridionalis
           - polednarz
@@ -1266,7 +1450,10 @@
           - lb[n=285]:
           - foreign[lg=lat-Latn]: Est obykly, ze.modyelny notans artificialis.
           - lb[n=286]:
-          - foreign[lg=lat-Latn]: Co<n>smicus est
+          - foreign[lg=lat-Latn]:
+            - Co
+            - supplied[reason=omitted]: n
+            - smicus est
           - swyeczky,
           - foreign[lg=lat-Latn]: cronicus
           - czasny,
@@ -1292,7 +1479,10 @@
           - foreign[lg=lat-Latn]: Retrogradacio, retrogradus
           - zasestupny.
           - lb[n=292]:
-          - foreign[lg=lat-Latn]: Rem[i]ssio sit
+          - foreign[lg=lat-Latn]:
+            - Rem
+            - supplied[reason=lost]: i
+            - ssio sit
           - vtahowanye
           - foreign[lg=lat-Latn]: motus sit remissionis ...
           - lb[n=293]:
@@ -1335,8 +1525,10 @@
           - foreign[lg=lat-Latn]: Piscis erit dictus et in astris est bene pictus.
               - -
           - lb[n=301]:
-          - foreign[lg=lat-Latn]: Quattuor hinc tales <tales> repetas.modo quadruviales.
-              -
+          - foreign[lg=lat-Latn]:
+            - 'Quattuor hinc tales '
+            - supplied[reason=omitted]: tales
+            - ' repetas.modo quadruviales. -'
       - chapter[n=VIII]:
         - head[lg=lat-Latn]: De phisica
         - p:
@@ -1351,7 +1543,9 @@
           - foreign[lg=lat-Latn]: Est anima
           - dusse,
           - foreign[lg=lat-Latn]: dimensio
-          - zmyer<o>zena,
+          - zmyer
+          - supplied[reason=omitted]: o
+          - zena,
           - foreign[lg=lat-Latn]: motus
           - lb[n=305]: Hnutow,
           - foreign[lg=lat-Latn]: privacio
@@ -1373,7 +1567,11 @@
           - foreign[lg=lat-Latn]: que
           - lb[n=309]:
           - foreign[lg=lat-Latn]: Dic alteracio, sed
-          - przy[e]m[y]enyenye
+          - przy
+          - supplied[reason=lost]: e
+          - m
+          - supplied[reason=lost]: y
+          - enyenye
           - foreign[lg=lat-Latn]: tibi loci
           - lb[n=310]:
           - foreign[lg=lat-Latn]: Sit transmutacio,
@@ -1389,7 +1587,11 @@
           - lb[n=312]:
           - foreign[lg=lat-Latn]: Fortuna,
           - poczatek
-          - foreign[lg=lat-Latn]: '[ - - ] dic efficie[n]sque'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: ' - - '
+            - ' dic efficie'
+            - supplied[reason=lost]: n
+            - sque
           - lb[n=313]: Vczynytedlny,
           - foreign[lg=lat-Latn]: formalis
           - twarny,
@@ -1427,7 +1629,10 @@
           - lahoduch
           - foreign[lg=lat-Latn]: sit favonius,
           - denowiet
-          - foreign[lg=lat-Latn]: que [eous],
+          - foreign[lg=lat-Latn]:
+            - 'que '
+            - supplied[reason=lost]: eous
+            - ','
           - lb[n=321]:
           - foreign[lg=lat-Latn]: Zephyrus
           - tychowiet,
@@ -1447,7 +1652,10 @@
           - lb[n=325]:
           - foreign[lg=lat-Latn]: Est
           - bohumluwna,
-          - foreign[lg=lat-Latn]: me[ta]phisica
+          - foreign[lg=lat-Latn]:
+            - me
+            - supplied[reason=lost]: ta
+            - phisica
           - nadprzyrozena;
           - lb[n=326]:
           - foreign[lg=lat-Latn]: Est intelligencia
@@ -1456,8 +1664,13 @@
           - lb[n=327]:
           - foreign[lg=lat-Latn]: Moter
           - nebytocz,
-          - mod[l]itwa
-          - foreign[lg=lat-Latn]: sit oracio [dicta ?].
+          - mod
+          - supplied[reason=lost]: l
+          - itwa
+          - foreign[lg=lat-Latn]:
+            - 'sit oracio '
+            - supplied[reason=lost]: dicta ?
+            - .
           - lb[n=328]:
           - foreign[lg=lat-Latn]: Est ewum
           - wyecznost,
@@ -1469,7 +1682,8 @@
           - foreign[lg=lat-Latn]: sed yle
           - tla,
           - wydorzecz
-          - foreign[lg=lat-Latn]: '[sit]'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: sit
           - lb[n=330]:
           - foreign[lg=lat-Latn]: Hystoria,
           - mluwonad
@@ -1544,7 +1758,9 @@
           - corzeniasta
           - lb[n=344]:
           - foreign[lg=lat-Latn]: Fiet apoteca,
-          - pohad[k]a
+          - pohad
+          - supplied[reason=lost]: k
+          - a
           - foreign[lg=lat-Latn]: probleuma vocatur.
           - lb[n=345]:
           - foreign[lg=lat-Latn]: Phizonomia sit
@@ -1604,7 +1820,10 @@
           - mestopyss
           - foreign[lg=lat-Latn]: extat.
           - lb[n=361]:
-          - foreign[lg=lat-Latn]: Est [p]sicomagia
+          - foreign[lg=lat-Latn]:
+            - 'Est '
+            - supplied[reason=lost]: p
+            - sicomagia
           - duchoswarna
           - foreign[lg=lat-Latn]: sic vocitata
           - lb[n=362]:
@@ -1614,7 +1833,9 @@
           - lb[n=363]:
           - foreign[lg=lat-Latn]: Auspicium
           - ptakohled,
-          - ptakos[t]ek
+          - ptakos
+          - supplied[reason=lost]: t
+          - ek
           - foreign[lg=lat-Latn]: auguriumque,
           - lb[n=364]:
           - foreign[lg=lat-Latn]: Sed geomancia
@@ -1643,14 +1864,20 @@
           - sladke
           - spyewanye,
           - lb[n=369]:
-          - foreign[lg=lat-Latn]: Ter[p]sicore
+          - foreign[lg=lat-Latn]:
+            - Ter
+            - supplied[reason=lost]: p
+            - sicore
           - nauczenye,
           - foreign[lg=lat-Latn]: Caliope
           - wymluw,
           - vmysl
           - foreign[lg=lat-Latn]: Clio,
           - lb[n=370]:
-          - foreign[lg=lat-Latn]: Hinc Polim[n]ia
+          - foreign[lg=lat-Latn]:
+            - Hinc Polim
+            - supplied[reason=lost]: n
+            - ia
           - domyslowna
           - foreign[lg=lat-Latn]: dico talis;
           - lb[n=371]:
@@ -1698,7 +1925,10 @@
           - pyesnotwora
           - foreign[lg=lat-Latn]: comodia sit,
           - lb[n=380]:
-          - foreign[lg=lat-Latn]: Est mitho[lo]gia
+          - foreign[lg=lat-Latn]:
+            - Est mitho
+            - supplied[reason=lost]: lo
+            - gia
           - prawopyesna
           - foreign[lg=lat-Latn]: victoriaque
           - lb[n=381]: Wytyezstwo, trogepyesnque
@@ -1730,9 +1960,15 @@
           - foreign[lg=lat-Latn]: largitas
           - styedrost,
           - lb[n=387]:
-          - foreign[lg=lat-Latn]: Mylost [-] pietas, caritas diligencia clemens.
+          - foreign[lg=lat-Latn]:
+            - 'Mylost '
+            - supplied[reason=lost]: '-'
+            - ' pietas, caritas diligencia clemens.'
           - lb[n=388]:
-          - foreign[lg=lat-Latn]: Miseri [cordi]a
+          - foreign[lg=lat-Latn]:
+            - 'Miseri '
+            - supplied[reason=lost]: cordi
+            - a
           - mylosrdenstwie
           - foreign[lg=lat-Latn]: bonitasque
           - lb[n=389]: Dobrota,
@@ -1891,7 +2127,9 @@
           - lb[n=423]:
           - foreign[lg=lat-Latn]: Ast iuramentum
           - przysahanye,
-          - foreign[lg=lat-Latn]: lis tibi [sit]
+          - foreign[lg=lat-Latn]:
+            - 'lis tibi '
+            - supplied[reason=lost]: sit
           - swar,
           - lb[n=424]:
           - foreign[lg=lat-Latn]: Symonia
@@ -1929,7 +2167,9 @@
           - lyczomyernyk
           - foreign[lg=lat-Latn]: ypocrita,
           - lb[n=431]:
-          - foreign[lg=lat-Latn]: Exaltacio [-]
+          - foreign[lg=lat-Latn]:
+            - 'Exaltacio '
+            - supplied[reason=lost]: '-'
           - powyssenye
           - foreign[lg=lat-Latn]: tibi dicta.
           - lb[n=432]:
@@ -1947,17 +2187,26 @@
           - foreign[lg=lat-Latn]: recursus.
           - lb[n=435]:
           - foreign[lg=lat-Latn]: Stix
-          - nen[a]wa,
+          - nen
+          - supplied[reason=lost]: a
+          - wa,
           - foreign[lg=lat-Latn]: Lethe
-          - zap[o]mna,
+          - zap
+          - supplied[reason=lost]: o
+          - mna,
           - foreign[lg=lat-Latn]: Cochitus [-
           - placz]
           - lb[n=436]: Placipotech,
           - foreign[lg=lat-Latn]: Flegeton
-          - h[o]ruczy<l>ohen,
+          - h
+          - supplied[reason=lost]: o
+          - ruczy
+          - supplied[reason=omitted]: l
+          - ohen,
           - foreign[lg=lat-Latn]: sit Avernus
           - lb[n=437]: Bezdrawona,
-          - foreign[lg=lat-Latn]: '[baratrum]'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: baratrum
           - obzerowana
           - foreign[lg=lat-Latn]: tibi dictum.
           - lb[n=438]:
@@ -1978,13 +2227,21 @@
           - lb[n=441]:
           - foreign[lg=lat-Latn]: Secretaria
           - tagytedlna,
-          - foreign[lg=lat-Latn]: legispericia [quo]que
+          - foreign[lg=lat-Latn]:
+            - 'legispericia '
+            - supplied[reason=lost]: quo
+            - que
           - lb[n=442]:
           - foreign[lg=lat-Latn]: Est
           - zakonoprawna
-          - foreign[lg=lat-Latn]: <sit>,
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=omitted]: sit
+            - ','
           - pysarzska
-          - foreign[lg=lat-Latn]: scriptoria [sit],
+          - foreign[lg=lat-Latn]:
+            - 'scriptoria '
+            - supplied[reason=lost]: sit
+            - ','
           - lb[n=443]:
           - foreign[lg=lat-Latn]: Versificatoria
           - versewatna
@@ -1997,7 +2254,8 @@
           - lb[n=445]:
           - foreign[lg=lat-Latn]: Est dictatoria
           - skladopysna,
-          - warhanova[rna]
+          - warhanova
+          - supplied[reason=lost]: rna
           - lb[n=446]:
           - foreign[lg=lat-Latn]: Organatoria notatoriaque
           - pysarstwo.
@@ -2021,7 +2279,9 @@
           - foreign[lg=lat-Latn]: cisoria.
           - lb[n=452]:
           - foreign[lg=lat-Latn]: Est
-          - rze<c>zokrawstwo,
+          - rze
+          - supplied[reason=omitted]: c
+          - zokrawstwo,
           - zakowstwo
           - foreign[lg=lat-Latn]: clericia sit,
           - lb[n=453]:
@@ -2033,7 +2293,10 @@
           - foreign[lg=lat-Latn]: Fabricatoria
           - kowarzstwo
           - foreign[lg=lat-Latn]: sartoriaque
-          - lb[n=455]: Krayczye[rzstwo], sewczowstwo
+          - lb[n=455]:
+          - Krayczye
+          - supplied[reason=lost]: rzstwo
+          - ', sewczowstwo'
           - foreign[lg=lat-Latn]: sutor ia campsoriaque
           - lb[n=456]:
           - foreign[lg=lat-Latn]: Est
@@ -2049,9 +2312,12 @@
           - sklenarzstwo,
           - pekarzstwo
           - lb[n=459]:
-          - foreign[lg=lat-Latn]: <Sit> Pistoria, braxatoria
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=omitted]: Sit
+            - ' Pistoria, braxatoria'
           - pywowarzstwo,
-          - foreign[lg=lat-Latn]: <dic>
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=omitted]: dic
           - foreign[lg=lat-Latn]: kuchynstwo.
           - lb[n=460]:
           - foreign[lg=lat-Latn]: Sit coquinaria, braseatoria
@@ -2059,32 +2325,48 @@
           - lb[n=461]:
           - foreign[lg=lat-Latn]: Ast
           - zahradnycztwo
-          - foreign[lg=lat-Latn]: dic ortulatoria, [posthec]
+          - foreign[lg=lat-Latn]:
+            - 'dic ortulatoria, '
+            - supplied[reason=lost]: posthec
           - lb[n=462]:
           - foreign[lg=lat-Latn]: Dices senatoria
           - conselstwo
           - foreign[lg=lat-Latn]: que
           - rybarzstwo
           - lb[n=463]:
-          - foreign[lg=lat-Latn]: <Est> Piscatoria, [est campanaria
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=omitted]: Est
+            - ' Piscatoria, [est campanaria'
           - zwonycztwo]
           - foreign[lg=lat-Latn]: que thaberna
           - lb[n=464]: Senkerzstwo
-          - foreign[lg=lat-Latn]: '[dicasque] erifusoria ['
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: dicasque
+            - ' erifusoria ['
           - zwonarzstwo]
           - lb[n=465]:
-          - foreign[lg=lat-Latn]: Sed iudicatoria <que>
+          - foreign[lg=lat-Latn]:
+            - 'Sed iudicatoria '
+            - supplied[reason=omitted]: que
           - rychtarzstwo
-          - foreign[lg=lat-Latn]: '[que dicas].'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: que dicas
+            - .
           - lb[n=466]:
-          - foreign[lg=lat-Latn]: Qualibet ex arte [poteris ea fingere parte],
+          - foreign[lg=lat-Latn]:
+            - 'Qualibet ex arte '
+            - supplied[reason=lost]: poteris ea fingere parte
+            - ','
           - lb[n=467]:
           - foreign[lg=lat-Latn]: Valdeque prolixum foret ad connumerandum.
       - chapter[n=XIII]:
         - head[lg=lat-Latn]: De artibus
         - p:
           - lb[n=468]:
-          - foreign[lg=lat-Latn]: Dic trogeczestne triviale[s], quadruviales
+          - foreign[lg=lat-Latn]:
+            - Dic trogeczestne triviale
+            - supplied[reason=lost]: s
+            - ', quadruviales'
           - lb[n=469]:
           - foreign[lg=lat-Latn]: Sunt
           - cztweroczestne,
@@ -2106,11 +2388,16 @@
           - foreign[lg=lat-Latn]: Sunt
           - rukowyetne,
           - foreign[lg=lat-Latn]: practicales
-          - zwi<c>kalywe.
+          - zwi
+          - supplied[reason=omitted]: c
+          - kalywe.
           - lb[n=474]:
           - foreign[lg=lat-Latn]: Suscipe corde tales iam quinque collaterales
           - lb[n=475]:
-          - foreign[lg=lat-Latn]: Ista modo di[s]cas, post solus talia fingas,
+          - foreign[lg=lat-Latn]:
+            - Ista modo di
+            - supplied[reason=lost]: s
+            - cas, post solus talia fingas,
           - lb[n=476]:
           - foreign[lg=lat-Latn]: Pluraque dixissem, si tedia non generassem
           - lb[n=477]:
@@ -2137,7 +2424,11 @@
           - lb[n=484]:
           - foreign[lg=lat-Latn]: Principium, primogenitus, sapiencia, virtus,
           - lb[n=485]:
-          - foreign[lg=lat-Latn]: Alpha caputque, finis sic tunc voc<it>atur [et eciam]
+          - foreign[lg=lat-Latn]:
+            - Alpha caputque, finis sic tunc voc
+            - supplied[reason=omitted]: it
+            - 'atur '
+            - supplied[reason=lost]: et eciam
           - lb[n=486]:
           - foreign[lg=lat-Latn]: Fons et origo tibi, paraclitus et mediator,
           - lb[n=487]:
@@ -2149,13 +2440,19 @@
           - lb[n=490]:
           - foreign[lg=lat-Latn]: Angelus et sponsus, pastorquc, propheta, sacerdos,
           - lb[n=491]:
-          - foreign[lg=lat-Latn]: A<na>thanatos, kiriosque theos, tetragramaton, ysos.
+          - foreign[lg=lat-Latn]:
+            - A
+            - supplied[reason=omitted]: na
+            - thanatos, kiriosque theos, tetragramaton, ysos.
           - lb[n=492]:
           - foreign[lg=lat-Latn]: Conservet dyanos secula per omnia doxa. - -
           - lb[n=493]:
           - foreign[lg=lat-Latn]: Et sic sunt dicta nunc omnia nomina sancta
           - lb[n=494]:
-          - foreign[lg=lat-Latn]: Summi factoris in signum laudis, <et> honoris,
+          - foreign[lg=lat-Latn]:
+            - 'Summi factoris in signum laudis, '
+            - supplied[reason=omitted]: et
+            - ' honoris,'
           - lb[n=495]:
           - foreign[lg=lat-Latn]: Plura sed aptantur in biblia, qucque ponuntur
           - lb[n=496]:
@@ -2175,9 +2472,15 @@
           - lb[n=503]:
           - foreign[lg=lat-Latn]: Est inmortalis, lumen, cherubyn, olei van,
           - lb[n=504]:
-          - foreign[lg=lat-Latn]: Olie, dabebelon [?], veritas, crathon, eley, chorim;
+          - foreign[lg=lat-Latn]:
+            - 'Olie, dabebelon '
+            - supplied[reason=lost]: '?'
+            - ', veritas, crathon, eley, chorim;'
           - lb[n=505]:
-          - foreign[lg=lat-Latn]: E[s]t caritas, manna, lapis, rex, pax machironque,
+          - foreign[lg=lat-Latn]:
+            - E
+            - supplied[reason=lost]: s
+            - t caritas, manna, lapis, rex, pax machironque,
           - lb[n=506]:
           - foreign[lg=lat-Latn]: Omnipotens, angla, post eternus, Oryonque,
           - lb[n=507]:
@@ -2194,7 +2497,10 @@
           - lb[n=511]:
           - foreign[lg=lat-Latn]: Numina Mercurius, Saturnus, Jupiter et Mars;
           - lb[n=512]:
-          - foreign[lg=lat-Latn]: Faunus, Satirus, Plut[o], Neptunus, Appollo,
+          - foreign[lg=lat-Latn]:
+            - Faunus, Satirus, Plut
+            - supplied[reason=lost]: o
+            - ', Neptunus, Appollo,'
           - lb[n=513]:
           - foreign[lg=lat-Latn]: Post Radomantus erit, Minos, Schalpus, Eyacus dic;
           - lb[n=514]:
@@ -2248,7 +2554,10 @@
           - lb[n=538]:
           - foreign[lg=lat-Latn]: Oriades, Musa, post Carnentisque Camena,
           - lb[n=539]:
-          - foreign[lg=lat-Latn]: Caliope, Thalia nunc coniungasque Se[le]ne.
+          - foreign[lg=lat-Latn]:
+            - Caliope, Thalia nunc coniungasque Se
+            - supplied[reason=lost]: le
+            - ne.
           - lb[n=540]:
           - foreign[lg=lat-Latn]: Nomina sed sancta non est michi scribere cura. -
       - chapter[n=III]:
@@ -2266,7 +2575,10 @@
           - foreign[lg=lat-Latn]: Kera, Renus, Syroe,
           - Czydlyana,
           - lb[n=545]:
-          - foreign[lg=lat-Latn]: Ge[ne]zareth, Yber, Cedron tenet, Achia palus,
+          - foreign[lg=lat-Latn]:
+            - Ge
+            - supplied[reason=lost]: ne
+            - zareth, Yber, Cedron tenet, Achia palus,
           - lb[n=546]:
           - foreign[lg=lat-Latn]: Maganus atque Scia, Lycaon, Ambusia,
           - Odra,
@@ -2279,7 +2591,12 @@
           - foreign[lg=lat-Latn]:
             - hi[rend=smallcaps]: Mo
             - ntes dic istos
-          - foreign[lg=lat-Latn]: Syon, Ely[c]on et Olymp<h>us,
+          - foreign[lg=lat-Latn]:
+            - Syon, Ely
+            - supplied[reason=lost]: c
+            - on et Olymp
+            - supplied[reason=omitted]: h
+            - us,
           - lb[n=549]:
           - foreign[lg=lat-Latn]: Syna cum Synay, Trinacris,
           - Ripus,
@@ -2289,7 +2606,10 @@
           - lb[n=551]: Petrinus,
           - foreign[lg=lat-Latn]: Coatrus, Oretras aqua, Lybanus, Ethna,
           - lb[n=552]:
-          - foreign[lg=lat-Latn]: Caucasus et Ciclas, Siris, Athas, [Patrata, Carpus].
+          - foreign[lg=lat-Latn]:
+            - 'Caucasus et Ciclas, Siris, Athas, '
+            - supplied[reason=lost]: Patrata, Carpus
+            - .
       - chapter[n=V]:
         - head[lg=lat-Latn]: Nomina lapidum
         - p:
@@ -2365,13 +2685,19 @@
           - lb[n=584]:
           - foreign[lg=lat-Latn]: Iherosolima, Sodoma, vel Apulia magna;
           - lb[n=585]:
-          - foreign[lg=lat-Latn]: Francia cum Niniven, sed Athenas, Pari[sius]. -
+          - foreign[lg=lat-Latn]:
+            - Francia cum Niniven, sed Athenas, Pari
+            - supplied[reason=lost]: sius
+            - . -
           - lb[n=586]:
           - foreign[lg=lat-Latn]: Plura non invenio, que iam recolo, tibi dico.
     - part[n=C]:
       - p:
         - lb[n=587]: Nunc
-        - foreign[lg=lat-Latn]: numerum ponam, <tibi> paucalia nomina quedam
+        - foreign[lg=lat-Latn]:
+          - 'numerum ponam, '
+          - supplied[reason=omitted]: tibi
+          - ' paucalia nomina quedam'
       - chapter[n=I]:
         - head[lg=lat-Latn]: De num. cardinalibus
         - p:
@@ -2593,7 +2919,10 @@
           - lb[n=637]:
           - foreign[lg=lat-Latn]: Ducentenarius vel trecentenariusque,
           - lb[n=638]:
-          - foreign[lg=lat-Latn]: Quadringenarius quingen<t>arius quoque, sexin-
+          - foreign[lg=lat-Latn]:
+            - Quadringenarius quingen
+            - supplied[reason=omitted]: t
+            - arius quoque, sexin-
           - lb[n=639]:
           - foreign[lg=lat-Latn]: Septingenarius, dic octingenarius hinc
           - lb[n=640]:
@@ -2610,7 +2939,10 @@
           - lb[n=645]:
           - foreign[lg=lat-Latn]: Est quadruplum, quintuplum, septuplum, sit octu-
           - lb[n=646]:
-          - foreign[lg=lat-Latn]: Vel noviplum, decuplumque [x'xx'] sociabis.
+          - foreign[lg=lat-Latn]:
+            - 'Vel noviplum, decuplumque '
+            - supplied[reason=lost]: x'xx'
+            - ' sociabis.'
           - lb[n=647]:
           - foreign[lg=lat-Latn]: Cetera dant plura, dic centuplum tibi mille.
       - chapter[n=IV]:
@@ -2739,7 +3071,9 @@
           - dwadczetykrat
           - foreign[lg=lat-Latn]: recte dispendius extat;
           - lb[n=677]:
-          - foreign[lg=lat-Latn]: "['xx'xx'] libram facit atque talentum."
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: "'xx'xx'"
+            - ' libram facit atque talentum.'
           - lb[n=678]:
           - foreign[lg=lat-Latn]: Sit dispendius hinc bis sumptus, dat tibi libram,
           - lb[n=679]:
@@ -2789,7 +3123,8 @@
           - foreign[lg=lat-Latn]: Quod vero tunc remanet,
           - byessye
           - dwye
-          - cztyrz[y?]
+          - cztyrz
+          - supplied[reason=lost]: y?
           - foreign[lg=lat-Latn]: fiet.
           - lb[n=694]:
           - foreign[lg=lat-Latn]: Quintum recipies quinticuns
@@ -2801,7 +3136,9 @@
           - lb[n=696]:
           - foreign[lg=lat-Latn]: Sextum cum tolles, tunc alias
           - puol
-          - p[a]te
+          - p
+          - supplied[reason=lost]: a
+          - te
           - foreign[lg=lat-Latn]: semis
           - lb[n=696]:
           - foreign[lg=lat-Latn]: Sed tria sunt decies triginta, quatuor quadraginta.
@@ -2841,14 +3178,19 @@
           - lb[n=713]:
           - foreign[lg=lat-Latn]: XL duplat idem, triplicat LX, L quoque sola
           - lb[n=714]:
-          - foreign[lg=lat-Latn]: Quinqu[a]ginta facit, nonaginta tibi dabit XC;
+          - foreign[lg=lat-Latn]:
+            - Quinqu
+            - supplied[reason=lost]: a
+            - ginta facit, nonaginta tibi dabit XC;
           - lb[n=715]:
           - foreign[lg=lat-Latn]: C dat centenos, M mille, C si preit, aufert.
           - lb[n=716]:
           - foreign[lg=lat-Latn]: Centum; quingenta D per se significabit,
           - lb[n=717]:
-          - foreign[lg=lat-Latn]: C[D] dat centenos quadringentos, DC sexgentos in
-              ...
+          - foreign[lg=lat-Latn]:
+            - C
+            - supplied[reason=lost]: D
+            - ' dat centenos quadringentos, DC sexgentos in ...'
           - lb[n=718]:
           - foreign[lg=lat-Latn]: Plus est difficilis numerus artificialis.
           - lb[n=719]:
@@ -2860,7 +3202,10 @@
           - lb[n=722]:
           - foreign[lg=lat-Latn]: C mille sexta dat, septima milia mille,
           - lb[n=723]:
-          - foreign[lg=lat-Latn]: Mille dat octava, sed millesies [m]ille deciesque;
+          - foreign[lg=lat-Latn]:
+            - 'Mille dat octava, sed millesies '
+            - supplied[reason=lost]: m
+            - ille deciesque;
           - lb[n=724]:
           - foreign[lg=lat-Latn]: Millesies nona dat millesies qucque centum,
           - lb[n=725]:
@@ -2906,7 +3251,10 @@
         - lb[n=10]:
         - foreign[lg=lat-Latn]: Gracia non laudis, laborando quatuor annis. -
         - lb[n=11]: Vyeda
-        - foreign[lg=lat-Latn]: sciens [h]emos
+        - foreign[lg=lat-Latn]:
+          - 'sciens '
+          - supplied[reason=lost]: h
+          - emos
         - rozkochane
         - czechy
         - foreign[lg=lat-Latn]: Bohemos,
@@ -3054,7 +3402,9 @@
           - sluncze,
           - foreign[lg=lat-Latn]: luna
           - myesiecz,
-          - foreign[lg=lat-Latn]: Dyana [ ... ]
+          - foreign[lg=lat-Latn]:
+            - 'Dyana '
+            - supplied[reason=lost]: ' ... '
           - luna,
           - lb[n=40]: Dennicze
           - foreign[lg=lat-Latn]: Lucifer,
@@ -3175,17 +3525,24 @@
           - foreign[lg=lat-Latn]: paradisus,
           - lb[n=58]:
           - foreign[lg=lat-Latn]: Ve
-          - byed[a],
+          - byed
+          - supplied[reason=lost]: a
+          - ','
           - czert
           - foreign[lg=lat-Latn]: demon, mors
           - ssmrt,
           - dehna
-          - foreign[lg=lat-Latn]: cacademo[n]
+          - foreign[lg=lat-Latn]:
+            - cacademo
+            - supplied[reason=lost]: n
           - lb[n=59]: Nekosnyk
           - foreign[lg=lat-Latn]: que Sathan, Belial
           - zmek,
           - dyess
-          - foreign[lg=lat-Latn]: Leviat[h]an,
+          - foreign[lg=lat-Latn]:
+            - Leviat
+            - supplied[reason=lost]: h
+            - an,
           - lb[n=60]:
           - foreign[lg=lat-Latn]: Asmodeus
           - sskarzedecz,
@@ -3288,7 +3645,9 @@
           - foreign[lg=lat-Latn]: Ortus erit
           - wychod,
           - statek
-          - foreign[lg=lat-Latn]: '[ ... ] substancia, stirps'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: ' ... '
+            - ' substancia, stirps'
           - plod,
           - lb[n=75]:
           - foreign[lg=lat-Latn]: Linea
@@ -3411,7 +3770,10 @@
           - syra
           - foreign[lg=lat-Latn]: sulphur;
           - lb[n=93]:
-          - foreign[lg=lat-Latn]: G<l>ipsus erit
+          - foreign[lg=lat-Latn]:
+            - G
+            - supplied[reason=omitted]: l
+            - ipsus erit
           - trupel,
           - foreign[lg=lat-Latn]: lubricum
           - ptzko,
@@ -3472,7 +3834,10 @@
           - olovo
           - foreign[lg=lat-Latn]: plumbum.
           - lb[n=102]:
-          - foreign[lg=lat-Latn]: E[s]t promontorium
+          - foreign[lg=lat-Latn]:
+            - E
+            - supplied[reason=lost]: s
+            - t promontorium
           - przihorzie
           - lesken
           - foreign[lg=lat-Latn]: que metallum,
@@ -3494,7 +3859,9 @@
           - foreign[lg=lat-Latn]: sit coliculusque
           - pahrbek,
           - lb[n=106]:
-          - foreign[lg=lat-Latn]: Scob[s]
+          - foreign[lg=lat-Latn]:
+            - Scob
+            - supplied[reason=lost]: s
           - smeti,
           - foreign[lg=lat-Latn]: scrobs
           - dolecz,
@@ -3615,7 +3982,9 @@
           - wrak,
           - lb[n=125]:
           - foreign[lg=lat-Latn]: Cristallus
-          - c[r]zystal,
+          - c
+          - supplied[reason=lost]: r
+          - zystal,
           - foreign[lg=lat-Latn]: amoritos
           - horkess,
           - foreign[lg=lat-Latn]: onix
@@ -3643,11 +4012,16 @@
           - foreign[lg=lat-Latn]: Sarda
           - tipel,
           - foreign[lg=lat-Latn]: prasius
-          - ssmy<e>slik,
+          - ssmy
+          - supplied[reason=omitted]: e
+          - slik,
           - zlatik
           - foreign[lg=lat-Latn]: est crisopassus,
           - lb[n=130]:
-          - foreign[lg=lat-Latn]: Ye<h>na
+          - foreign[lg=lat-Latn]:
+            - Ye
+            - supplied[reason=omitted]: h
+            - na
           - pruholt,
           - foreign[lg=lat-Latn]: medaris
           - strziedmik,
@@ -3658,7 +4032,10 @@
           - przist,
           - vedrziss
           - foreign[lg=lat-Latn]: abeston.
-          - lb[n=132]: Tyehl[y]n
+          - lb[n=132]:
+          - Tyehl
+          - supplied[reason=lost]: y
+          - n
           - foreign[lg=lat-Latn]: alectorius, sanius
           - zdrow,
           - czrwnye
@@ -3721,12 +4098,17 @@
           - foreign[lg=lat-Latn]: sit gagatromeus,
           - lb[n=143]: Peczlik
           - foreign[lg=lat-Latn]: getolitus,
-          - k[r]ussecz
+          - k
+          - supplied[reason=lost]: r
+          - ussecz
           - foreign[lg=lat-Latn]: alebrot,
           - ozrze
           - foreign[lg=lat-Latn]: corallus.
           - lb[n=144]:
-          - foreign[lg=lat-Latn]: E[s]t margarita
+          - foreign[lg=lat-Latn]:
+            - E
+            - supplied[reason=lost]: s
+            - t margarita
           - perla,
           - rozla
           - foreign[lg=lat-Latn]: pantheorita,
@@ -3862,7 +4244,10 @@
           - strzyeze]ha
           - foreign[lg=lat-Latn]: que ardor.
           - lb[n=167]:
-          - foreign[lg=lat-Latn]: E[s]t nebula
+          - foreign[lg=lat-Latn]:
+            - E
+            - supplied[reason=lost]: s
+            - t nebula
           - mhla,
           - duha
           - foreign[lg=lat-Latn]: dic iris, tedia
@@ -3880,7 +4265,10 @@
           - foreign[lg=lat-Latn]: gelu
           - mraz.
           - lb[n=170]:
-          - foreign[lg=lat-Latn]: E[s]t
+          - foreign[lg=lat-Latn]:
+            - E
+            - supplied[reason=lost]: s
+            - t
           - burziczyn
           - foreign[lg=lat-Latn]: boreas, vulturnus
           - osupr,
@@ -3909,7 +4297,10 @@
           - foreign[lg=lat-Latn]: Stilla
           - kapet,
           - oblak
-          - foreign[lg=lat-Latn]: nub[e]s, hec
+          - foreign[lg=lat-Latn]:
+            - nub
+            - supplied[reason=lost]: e
+            - s, hec
           - ta,
           - foreign[lg=lat-Latn]: cometaque
           - zazrak,
@@ -4012,7 +4403,10 @@
           - lb[n=190]:
           - foreign[lg=lat-Latn]: Situs
           - vloh,
-          - na[ys]lo[n]
+          - na
+          - supplied[reason=lost]: ys
+          - lo
+          - supplied[reason=lost]: n
           - foreign[lg=lat-Latn]: nadir,
           - obezrot
           - foreign[lg=lat-Latn]: orizon.
@@ -4048,7 +4442,9 @@
           - foreign[lg=lat-Latn]: Fitenne
           - naleto,
           - foreign[lg=lat-Latn]: dic illonitus
-          - ono<m>leto.
+          - ono
+          - supplied[reason=omitted]: m
+          - leto.
           - lb[n=196]: Wzapietie
           - foreign[lg=lat-Latn]: sit rursum, sed
           - dawno
@@ -4101,7 +4497,10 @@
     - part[n=II]:
       - head[lg=lat-Latn]: De aereis et monstrosi
       - chapter[n=1]:
-        - head[lg=lat-Latn]: De [altilibus] domesticis
+        - head[lg=lat-Latn]:
+          - 'De '
+          - supplied[reason=lost]: altilibus
+          - ' domesticis'
         - p:
           - lb[n=203]:
           - foreign[lg=lat-Latn]: Mentibus altilia prius ipsa domestica signa.
@@ -4153,7 +4552,8 @@
           - pisk,
           - foreign[lg=lat-Latn]: crista
           - hrzeben,
-          - foreign[lg=lat-Latn]: '[x/-]'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: x/-
           - sskorzepina
           - foreign[lg=lat-Latn]: testa,
           - lb[n=212]:
@@ -4172,7 +4572,10 @@
           - foreign[lg=lat-Latn]: pica, monedula
           - kawka.
           - lb[n=214]:
-          - foreign[lg=lat-Latn]: Anseri[n]um
+          - foreign[lg=lat-Latn]:
+            - Anseri
+            - supplied[reason=lost]: n
+            - um
           - husynecz,
           - foreign[lg=lat-Latn]: ovum
           - vaycze,
@@ -4399,7 +4802,10 @@
           - lb[n=252]: Quiczala
           - foreign[lg=lat-Latn]: buccigarus,
           - ragikras
-          - foreign[lg=lat-Latn]: sit a[v]eparadisus.
+          - foreign[lg=lat-Latn]:
+            - sit a
+            - supplied[reason=lost]: v
+            - eparadisus.
           - lb[n=253]:
           - foreign[lg=lat-Latn]: Fulicola
           - konopik,
@@ -4426,7 +4832,9 @@
           - czyerka,
           - lb[n=257]:
           - foreign[lg=lat-Latn]: Achantis
-          - konyst[r]ass,
+          - konyst
+          - supplied[reason=lost]: r
+          - ass,
           - foreign[lg=lat-Latn]: mergus
           - krzecharz,
           - foreign[lg=lat-Latn]: nepo
@@ -4441,7 +4849,10 @@
           - kulih,
           - foreign[lg=lat-Latn]: merops
           - wlha,
-          - foreign[lg=lat-Latn]: martur[i]a
+          - foreign[lg=lat-Latn]:
+            - martur
+            - supplied[reason=lost]: i
+            - a
           - plih,
           - lb[n=260]:
           - foreign[lg=lat-Latn]: Ortogrameta
@@ -4469,8 +4880,13 @@
           - foreign[lg=lat-Latn]: turtur,
           - lb[n=263]: Masloge
           - foreign[lg=lat-Latn]: placena,
-          - mi[e]ssek
-          - foreign[lg=lat-Latn]: ot[h]a
+          - mi
+          - supplied[reason=lost]: e
+          - ssek
+          - foreign[lg=lat-Latn]:
+            - ot
+            - supplied[reason=lost]: h
+            - a
           - papuch
           - foreign[lg=lat-Latn]: que philunda.
           - lb[n=265]:
@@ -4504,7 +4920,10 @@
           - ribak,
           - foreign[lg=lat-Latn]: morplex
           - ribulak,
-          - foreign[lg=lat-Latn]: ana[p]tes
+          - foreign[lg=lat-Latn]:
+            - ana
+            - supplied[reason=lost]: p
+            - tes
           - splak,
           - lb[n=270]:
           - foreign[lg=lat-Latn]: Auricepa
@@ -4746,7 +5165,9 @@
           - lb[n=310]: Bezhlawecz
           - foreign[lg=lat-Latn]: acephalus, sed
           - psyehlawecz
-          - foreign[lg=lat-Latn]: <sit> acenophalus.
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=omitted]: sit
+            - ' acenophalus.'
           - lb[n=311]:
           - foreign[lg=lat-Latn]: Panteos est
           - wzatecz,
@@ -4761,7 +5182,9 @@
           - vpistal,
           - lb[n=313]: Bubel
           - foreign[lg=lat-Latn]: Bucifalus,
-          - zlatow[o]lczek
+          - zlatow
+          - supplied[reason=lost]: o
+          - lczek
           - foreign[lg=lat-Latn]: auributalmus,
           - lb[n=314]: Rozbieliss
           - foreign[lg=lat-Latn]: albita,
@@ -4823,7 +5246,8 @@
           - foreign[lg=lat-Latn]: canite,
           - lb[n=326]: Velinczi
           - foreign[lg=lat-Latn]: magnite,
-          - zakonatecz[nyczy]
+          - zakonatecz
+          - supplied[reason=lost]: nyczy
           - foreign[lg=lat-Latn]: antomanite.
           - lb[n=327]: Patak
           - foreign[lg=lat-Latn]: plantinus,
@@ -4944,7 +5368,9 @@
           - klicz,
           - foreign[lg=lat-Latn]: spuma
           - piena,
-          - foreign[lg=lat-Latn]: '[ ... ] trutina;vaha.'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: ' ... '
+            - ' trutina;vaha.'
           - lb[n=348]:
           - foreign[lg=lat-Latn]: Margo sit
           - ohlubnye,
@@ -4989,7 +5415,10 @@
           - lb[n=355]:
           - foreign[lg=lat-Latn]: Diluvium
           - potopa,
-          - foreign[lg=lat-Latn]: precip[ic]ium quoque
+          - foreign[lg=lat-Latn]:
+            - precip
+            - supplied[reason=lost]: ic
+            - ium quoque
           - strczka,
           - lb[n=356]:
           - foreign[lg=lat-Latn]: Ambusia
@@ -5177,7 +5606,9 @@
           - foreign[lg=lat-Latn]: mirenula, dio
           - dnycz,
           - siekavecz
-          - foreign[lg=lat-Latn]: <quo>que quinella,
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=omitted]: quo
+            - que quinella,
           - lb[n=386]:
           - foreign[lg=lat-Latn]: Rugana
           - splon,
@@ -5286,7 +5717,9 @@
           - foreign[lg=lat-Latn]: capitenus.
           - lb[n=402]:
           - foreign[lg=lat-Latn]: Multipes est
-          - przienoz[o]d,
+          - przienoz
+          - supplied[reason=lost]: o
+          - d,
           - foreign[lg=lat-Latn]: raneus
           - zabod,
           - foreign[lg=lat-Latn]: alphora
@@ -5338,7 +5771,8 @@
           - foreign[lg=lat-Latn]: aniger
           - plusscz,
           - foreign[lg=lat-Latn]: gonger
-          - oplcza[nek]
+          - oplcza
+          - supplied[reason=lost]: nek
           - lb[n=411]:
           - foreign[lg=lat-Latn]: Pingita
           - bodnaczka,
@@ -5388,7 +5822,9 @@
           - patrzek,
           - lb[n=418]:
           - foreign[lg=lat-Latn]: Orcha
-          - flass[in],
+          - flass
+          - supplied[reason=lost]: in
+          - ','
           - vstaloss
           - foreign[lg=lat-Latn]: starma, silurusque
           - postarkoss.
@@ -5567,7 +6003,8 @@
           - foreign[lg=lat-Latn]: equoflínus,
           - lb[n=445]:
           - foreign[lg=lat-Latn]: Draconius
-          - <o>draczek,
+          - supplied[reason=omitted]: o
+          - draczek,
           - splakor
           - foreign[lg=lat-Latn]: ascoa, delphinus
           - ssczek.
@@ -5778,7 +6215,10 @@
           - lb[n=480]:
           - foreign[lg=lat-Latn]: Spondula
           - mostek
-          - foreign[lg=lat-Latn]: internodium [quo]que
+          - foreign[lg=lat-Latn]:
+            - 'internodium '
+            - supplied[reason=lost]: quo
+            - que
           - svieczek
           - lb[n=481]: Gyetrnyczye
           - foreign[lg=lat-Latn]: tucetum,
@@ -5876,7 +6316,10 @@
           - lb[n=498]: Lew
           - foreign[lg=lat-Latn]: leo
           - wlkque
-          - foreign[lg=lat-Latn]: lupusque le[e]na
+          - foreign[lg=lat-Latn]:
+            - lupusque le
+            - supplied[reason=lost]: e
+            - na
           - lwicze,
           - nedvied
           - foreign[lg=lat-Latn]: ursus
@@ -6116,8 +6559,13 @@
           - foreign[lg=lat-Latn]: duranus sit, anena
           - poluskal,
           - lb[n=537]:
-          - foreign[lg=lat-Latn]: Musi<n>o
-          - ko[c]zur,
+          - foreign[lg=lat-Latn]:
+            - Musi
+            - supplied[reason=omitted]: n
+            - o
+          - ko
+          - supplied[reason=lost]: c
+          - zur,
           - foreign[lg=lat-Latn]: ibidrus
           - osolurz,
           - owczir
@@ -6161,7 +6609,10 @@
           - foreign[lg=lat-Latn]: Finge
           - chlumacz,
           - husalecz
-          - foreign[lg=lat-Latn]: gali, ve[r]res quoque
+          - foreign[lg=lat-Latn]:
+            - gali, ve
+            - supplied[reason=lost]: r
+            - res quoque
           - kanecz;
           - lb[n=545]: Odrzipacz
           - foreign[lg=lat-Latn]: est calopus, tranes
@@ -6245,7 +6696,9 @@
           - foreign[lg=lat-Latn]: salomandra,
           - lb[n=559]:
           - foreign[lg=lat-Latn]: Hamelio
-          - cz[t]wrtnak,
+          - cz
+          - supplied[reason=lost]: t
+          - wrtnak,
           - foreign[lg=lat-Latn]: coluber
           - schovad,
           - foreign[lg=lat-Latn]: obdrico
@@ -6268,7 +6721,9 @@
           - polenyssczer,
           - lb[n=562]:
           - foreign[lg=lat-Latn]: Aspis
-          - hlus[e]cz,
+          - hlus
+          - supplied[reason=lost]: e
+          - cz,
           - hadieczka
           - foreign[lg=lat-Latn]: serpedo, rubeta
           - zabeczka,
@@ -6285,7 +6740,9 @@
           - foreign[lg=lat-Latn]: dispas
           - kranoh,
           - foreign[lg=lat-Latn]: anguis
-          - vtow[nik].
+          - vtow
+          - supplied[reason=lost]: nik
+          - .
           - lb[n=565]:
           - foreign[lg=lat-Latn]: Cameleon
           - sczirka,
@@ -6485,7 +6942,9 @@
           - sirnysscz,
           - foreign[lg=lat-Latn]: repulax
           - ssczipa,
-          - foreign[lg=lat-Latn]: lumbricus [est ?]
+          - foreign[lg=lat-Latn]:
+            - 'lumbricus '
+            - supplied[reason=lost]: est ?
           - hlis
           - lb[n=598]:
           - foreign[lg=lat-Latn]: Engula
@@ -6667,7 +7126,9 @@
           - zpustek
           - foreign[lg=lat-Latn]: bitta,
           - prachen
-          - foreign[lg=lat-Latn]: '[gles],'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: gles
+            - ','
           - lb[n=626]:
           - foreign[lg=lat-Latn]: Denical
           - powrhel,
@@ -6715,7 +7176,9 @@
           - foreign[lg=lat-Latn]: spatula
           - drziczye,
           - lb[n=633]:
-          - foreign[lg=lat-Latn]: '[ ... ] Capilentes'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: ' ... '
+            - ' Capilentes'
           - oktesty,
           - foreign[lg=lat-Latn]: sed
           - zviticze
@@ -6770,7 +7233,9 @@
           - vaz,
           - foreign[lg=lat-Latn]: nux
           - orzech,
-          - olsyn[e]cz
+          - olsyn
+          - supplied[reason=lost]: e
+          - cz
           - foreign[lg=lat-Latn]: alnus
           - lb[n=642]:
           - foreign[lg=lat-Latn]: Fagus
@@ -6801,7 +7266,9 @@
           - foreign[lg=lat-Latn]: ornus
           - obrzecztan,
           - lb[n=646]:
-          - foreign[lg=lat-Latn]: <V>ibex
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=omitted]: V
+            - ibex
           - ssvida,
           - foreign[lg=lat-Latn]: cedrus
           - cedrziss,
@@ -6964,7 +7431,8 @@
           - foreign[lg=lat-Latn]: farnis
           - muknie,
           - foreign[lg=lat-Latn]: framea
-          - so[snye.]
+          - so
+          - supplied[reason=lost]: snye.
           - lb[n=671]:
           - foreign[lg=lat-Latn]: Frangula sit
           - krussina,
@@ -7127,7 +7595,9 @@
           - zimoticzie,
           - lb[n=698]: Trnoslawy
           - foreign[lg=lat-Latn]: plurna,
-          - kloko[czy]nky
+          - kloko
+          - supplied[reason=lost]: czy
+          - nky
           - foreign[lg=lat-Latn]: sunt sicomorna.
           - lb[n=699]:
           - foreign[lg=lat-Latn]: Australina
@@ -7227,7 +7697,10 @@
           - lb[n=716]:
           - foreign[lg=lat-Latn]: Semen
           - syemie,
-          - foreign[lg=lat-Latn]: sege<te>s
+          - foreign[lg=lat-Latn]:
+            - sege
+            - supplied[reason=omitted]: te
+            - s
           - oseníe,
           - rukoviet
           - foreign[lg=lat-Latn]: quoque merges,
@@ -7266,7 +7739,8 @@
           - hrachovini,
           - lb[n=722]:
           - foreign[lg=lat-Latn]: Obgedi descilia,
-          - lok[et]
+          - lok
+          - supplied[reason=lost]: et
           - foreign[lg=lat-Latn]: ulna, sed
           - oklepi
           - foreign[lg=lat-Latn]: fruma.
@@ -7530,7 +8004,9 @@
           - foreign[lg=lat-Latn]: pultes
           - krupi,
           - foreign[lg=lat-Latn]: mella
-          - medunk[a],
+          - medunk
+          - supplied[reason=lost]: a
+          - ','
           - lb[n=754]:
           - foreign[lg=lat-Latn]: Raphanus est
           - rzedkev,
@@ -7587,7 +8063,9 @@
           - kolnik
           - foreign[lg=lat-Latn]: alsta,
           - ssczevik
-          - foreign[lg=lat-Latn]: '[...] locustum.'
+          - foreign[lg=lat-Latn]:
+            - gap[reason=lost,quantity=3,unit=character]:
+            - ' locustum.'
           - lb[n=773]: Hambuss
           - foreign[lg=lat-Latn]: uder,
           - czesnek
@@ -7603,7 +8081,9 @@
           - manholt,
           - foreign[lg=lat-Latn]: humulus
           - chmel,
-          - foreign[lg=lat-Latn]: bugla [ ...]
+          - foreign[lg=lat-Latn]:
+            - 'bugla '
+            - supplied[reason=lost]: ' ...'
           - kerhart.
           - lb[n=776]:
           - foreign[lg=lat-Latn]: Sit canapus
@@ -7826,7 +8306,10 @@
           - materzie
           - liczna,
           - lb[n=814]:
-          - foreign[lg=lat-Latn]: Sol[sti]cia
+          - foreign[lg=lat-Latn]:
+            - Sol
+            - supplied[reason=lost]: sti
+            - cia
           - slunecznyk,
           - foreign[lg=lat-Latn]: orobus
           - persan,
@@ -8137,8 +8620,14 @@
           - foreign[lg=lat-Latn]: plama,
           - flastr
           - foreign[lg=lat-Latn]: cathaplasma,
-          - lb[n=865]: Zapla[s]t
-          - foreign[lg=lat-Latn]: empla<u>stra,
+          - lb[n=865]:
+          - Zapla
+          - supplied[reason=lost]: s
+          - t
+          - foreign[lg=lat-Latn]:
+            - empla
+            - supplied[reason=omitted]: u
+            - stra,
           - brzle
           - foreign[lg=lat-Latn]: yarus,
           - ozvonnek
@@ -8168,7 +8657,10 @@
           - lb[n=870]:
           - foreign[lg=lat-Latn]: Gingiber est
           - zazwor
-          - foreign[lg=lat-Latn]: sit citwarium [quo]que
+          - foreign[lg=lat-Latn]:
+            - 'sit citwarium '
+            - supplied[reason=lost]: quo
+            - que
           - czytvar,
           - lb[n=871]:
           - foreign[lg=lat-Latn]: Tirana sit
@@ -8250,7 +8742,9 @@
           - foreign[lg=lat-Latn]: peredixon
           - ohple,
           - foreign[lg=lat-Latn]: storax
-          - snyep[e]l,
+          - snyep
+          - supplied[reason=lost]: e
+          - l,
           - lb[n=885]:
           - foreign[lg=lat-Latn]: Cassiana
           - pachnirz,
@@ -8282,7 +8776,9 @@
           - foreign[lg=lat-Latn]: Costum
           - kostl,
           - foreign[lg=lat-Latn]: agarus
-          - poczye[k],
+          - poczye
+          - supplied[reason=lost]: k
+          - ','
           - doczynek
           - foreign[lg=lat-Latn]: agaricus,
           - lb[n=890]:
@@ -8318,7 +8814,10 @@
           - ossna
           - foreign[lg=lat-Latn]: dragantum.
           - lb[n=895]:
-          - foreign[lg=lat-Latn]: Hec Constan[tin]us bene scit, Ypocras, Galienus.
+          - foreign[lg=lat-Latn]:
+            - Hec Constan
+            - supplied[reason=lost]: tin
+            - us bene scit, Ypocras, Galienus.
       - chapter[n=8]:
         - head[lg=lat-Latn]: De fragis et boletis
         - p:
@@ -8398,7 +8897,9 @@
           - orziess,
           - pestrzecz
           - foreign[lg=lat-Latn]: tuber, lupinacia
-          - ko[s]trzecz,
+          - ko
+          - supplied[reason=lost]: s
+          - trzecz,
           - lb[n=910]:
           - foreign[lg=lat-Latn]: Silipium
           - krzemenacz,
@@ -8563,7 +9064,10 @@
           - prapohan
           - foreign[lg=lat-Latn]: sit Samaritanus,
           - lb[n=936]:
-          - foreign[lg=lat-Latn]: Rute[n]us
+          - foreign[lg=lat-Latn]:
+            - Rute
+            - supplied[reason=lost]: n
+            - us
           - rusyenyn
           - foreign[lg=lat-Latn]: dic Ethiopesque
           - murzenyn.
@@ -8706,7 +9210,8 @@
           - czipr
           - foreign[lg=lat-Latn]: que bonus
           - dobri
-          - foreign[lg=lat-Latn]: <sit>
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=omitted]: sit
           - polenyn
           - foreign[lg=lat-Latn]: que Polonus.
           - lb[n=965]:
@@ -8789,7 +9294,9 @@
           - foreign[lg=lat-Latn]: patriarcha dico
           - przetawnyk,
           - lb[n=981]:
-          - foreign[lg=lat-Latn]: Centuri[o]
+          - foreign[lg=lat-Latn]:
+            - Centuri
+            - supplied[reason=lost]: o
           - stotir,
           - foreign[lg=lat-Latn]: ciliarcha
           - tisan,
@@ -8965,7 +9472,10 @@
           - vrocznyk
           - foreign[lg=lat-Latn]: tributarius,
           - lb[n=1012]:
-          - foreign[lg=lat-Latn]: Tor[na]mentator
+          - foreign[lg=lat-Latn]:
+            - Tor
+            - supplied[reason=lost]: na
+            - mentator
           - turnownyk,
           - ssczitnyk
           - foreign[lg=lat-Latn]: clipeator,
@@ -9160,7 +9670,10 @@
           - dyekanstvo
           - foreign[lg=lat-Latn]: sit decanatus,
           - lb[n=1051]:
-          - foreign[lg=lat-Latn]: Dico cel<er>arius
+          - foreign[lg=lat-Latn]:
+            - Dico cel
+            - supplied[reason=omitted]: er
+            - arius
           - klicznik,
           - zrodni
           - foreign[lg=lat-Latn]: pres,
@@ -9210,7 +9723,10 @@
           - modlytewnyk
           - foreign[lg=lat-Latn]: sit deprecator.
           - lb[n=1060]:
-          - foreign[lg=lat-Latn]: Prebe[n]dium sit
+          - foreign[lg=lat-Latn]:
+            - Prebe
+            - supplied[reason=lost]: n
+            - dium sit
           - obrok,
           - foreign[lg=lat-Latn]: eda
           - mlassk,
@@ -9688,7 +10204,10 @@
           - dnozlamanecz
           - foreign[lg=lat-Latn]: paraliticus,
           - lb[n=1150]: Wztrzlecz
-          - foreign[lg=lat-Latn]: arep[ti]cius,
+          - foreign[lg=lat-Latn]:
+            - arep
+            - supplied[reason=lost]: ti
+            - cius,
           - dyablownik
           - foreign[lg=lat-Latn]: demoniacus,
           - lb[n=1151]: Blazhun
@@ -9820,7 +10339,9 @@
           - foreign[lg=lat-Latn]: sit spaciator,
           - lb[n=1176]: Krzyvecz
           - foreign[lg=lat-Latn]: sarrago, vagus
-          - tula[c]zie,
+          - tula
+          - supplied[reason=lost]: c
+          - zie,
           - tulak
           - foreign[lg=lat-Latn]: girovagus.
           - lb[n=1177]:
@@ -9866,7 +10387,10 @@
           - foreign[lg=lat-Latn]: Frexa Tais, scortum
           - sskolcze,
           - sladusska
-          - foreign[lg=lat-Latn]: Glicerí<n>um
+          - foreign[lg=lat-Latn]:
+            - Glicerí
+            - supplied[reason=omitted]: n
+            - um
           - lb[n=1185]: Tlustyenka spissa, pohaczyerka
           - foreign[lg=lat-Latn]: fitonissa.
           - lb[n=1186]:
@@ -9882,7 +10406,9 @@
           - lb[n=1188]:
           - foreign[lg=lat-Latn]:
             - hi[rend=smallcaps]: Ac
-            - cipe personas per plurima nomina dic[t]as.
+            - cipe personas per plurima nomina dic
+            - supplied[reason=lost]: t
+            - as.
           - lb[n=1189]:
           - foreign[lg=lat-Latn]: Assiduus
           - snaznyk
@@ -9911,7 +10437,10 @@
           - foreign[lg=lat-Latn]: melancolicus
           - kalostudnek,
           - lb[n=1194]:
-          - foreign[lg=lat-Latn]: Manu[n]cus
+          - foreign[lg=lat-Latn]:
+            - Manu
+            - supplied[reason=lost]: n
+            - cus
           - krssnavecz,
           - foreign[lg=lat-Latn]: taga
           - drb,
@@ -9996,7 +10525,8 @@
           - foreign[lg=lat-Latn]: Et
           - kolenyss
           - foreign[lg=lat-Latn]: genutus,
-          - tru[p]
+          - tru
+          - supplied[reason=lost]: p
           - foreign[lg=lat-Latn]: arax,
           - kladynoh
           - foreign[lg=lat-Latn]: trapeditus.
@@ -10094,7 +10624,10 @@
           - foreign[lg=lat-Latn]: artator,
           - pozdravitel
           - foreign[lg=lat-Latn]: est salutator,
-          - lb[n=1227]: Sl[a]wni
+          - lb[n=1227]:
+          - Sl
+          - supplied[reason=lost]: a
+          - wni
           - foreign[lg=lat-Latn]: famosus,
           - obtopotnyk
           - foreign[lg=lat-Latn]: ambiciosus,
@@ -10189,7 +10722,10 @@
           - foreign[lg=lat-Latn]: ontro, dromo
           - spal,
           - lb[n=1245]: Klabonosecz
-          - foreign[lg=lat-Latn]: n[a]sulus,
+          - foreign[lg=lat-Latn]:
+            - n
+            - supplied[reason=lost]: a
+            - sulus,
           - smyechovalnecz
           - foreign[lg=lat-Latn]: ridiculosus,
           - lb[n=1246]:
@@ -10198,7 +10734,10 @@
           - klamak
           - foreign[lg=lat-Latn]: subsannator, demo
           - ssklebak,
-          - lb[n=1247]: D<a>vak
+          - lb[n=1247]:
+          - D
+          - supplied[reason=omitted]: a
+          - vak
           - foreign[lg=lat-Latn]: bimo, spumosus
           - zpienak,
           - prstak
@@ -10241,8 +10780,13 @@
           - lb[n=1255]: Czpacz
           - foreign[lg=lat-Latn]: bio, strumosus
           - volauecz,
-          - hr<o>bovecz
-          - foreign[lg=lat-Latn]: gibbo<io>sus,
+          - hr
+          - supplied[reason=omitted]: o
+          - bovecz
+          - foreign[lg=lat-Latn]:
+            - gibbo
+            - supplied[reason=omitted]: io
+            - sus,
           - lb[n=1256]: Prdlak
           - foreign[lg=lat-Latn]: bumbisator,
           - odmikatel
@@ -10651,7 +11195,9 @@
           - foreign[lg=lat-Latn]: varex,
           - prziehba
           - foreign[lg=lat-Latn]: verteba,
-          - kozli[c]zka
+          - kozli
+          - supplied[reason=lost]: c
+          - zka
           - foreign[lg=lat-Latn]: mínuga,
           - lb[n=1319]:
           - foreign[lg=lat-Latn]: Frontrix
@@ -10711,7 +11257,10 @@
           - foreign[lg=lat-Latn]: cardiaca, nerius
           - lodven,
           - vmla
-          - foreign[lg=lat-Latn]: medi[ca],
+          - foreign[lg=lat-Latn]:
+            - medi
+            - supplied[reason=lost]: ca
+            - ','
           - lb[n=1330]: Kvedna
           - foreign[lg=lat-Latn]: sciatica,
           - znuss
@@ -10753,7 +11302,8 @@
             - pediens membra de motibus accipe dicta.
           - lb[n=1337]: Viera
           - foreign[lg=lat-Latn]: fides,
-          - letor[a]
+          - letor
+          - supplied[reason=lost]: a
           - foreign[lg=lat-Latn]: complexio,
           - lek
           - foreign[lg=lat-Latn]: medicina,
@@ -10942,8 +11492,12 @@
           - foreign[lg=lat-Latn]: ambulacio
           - chodba.
           - lb[n=1368]: Ozyvaníe
-          - foreign[lg=lat-Latn]: sit echo<n>, ioculum
-          - <k>zert,
+          - foreign[lg=lat-Latn]:
+            - sit echo
+            - supplied[reason=omitted]: n
+            - ', ioculum'
+          - supplied[reason=omitted]: k
+          - zert,
           - dchel
           - foreign[lg=lat-Latn]: sit oregmon,
           - lb[n=1369]:
@@ -10990,7 +11544,8 @@
           - foreign[lg=lat-Latn]: saltus
           - skok,
           - foreign[lg=lat-Latn]: dic
-          - obrazk[a]
+          - obrazk
+          - supplied[reason=lost]: a
           - foreign[lg=lat-Latn]: reflexus,
           - lb[n=1376]:
           - foreign[lg=lat-Latn]: Hamacio
@@ -11119,12 +11674,17 @@
           - lb[n=1399]:
           - foreign[lg=lat-Latn]: Verba dabunt habitus, ut Aristotiles dat, et actus.
       - chapter[n=9]:
-        - head[lg=lat-Latn]: De mo[ri]bus
+        - head[lg=lat-Latn]:
+          - De mo
+          - supplied[reason=lost]: ri
+          - bus
         - p:
           - lb[n=1400]:
           - foreign[lg=lat-Latn]:
             - hi[rend=smallcaps]: Ta
-            - ctus, motus habe<n>s, de moribus accipe labes.
+            - ctus, motus habe
+            - supplied[reason=omitted]: n
+            - s, de moribus accipe labes.
           - lb[n=1401]:
           - foreign[lg=lat-Latn]: Iusticia
           - spravedlnost,
@@ -11229,7 +11789,9 @@
           - foreign[lg=lat-Latn]: dedecus
           - vsnost,
           - lb[n=1421]: Pycha
-          - foreign[lg=lat-Latn]: superbia, phiton<a>
+          - foreign[lg=lat-Latn]:
+            - superbia, phiton
+            - supplied[reason=omitted]: a
           - pohczína,
           - rozvoda
           - foreign[lg=lat-Latn]: scisma,
@@ -11265,7 +11827,10 @@
           - lb[n=1427]:
           - foreign[lg=lat-Latn]: Litigium
           - svarzeníe,
-          - foreign[lg=lat-Latn]: detrac<ta>cio sit
+          - foreign[lg=lat-Latn]:
+            - detrac
+            - supplied[reason=omitted]: ta
+            - cio sit
           - zpravovanie,
           - lb[n=1428]:
           - foreign[lg=lat-Latn]: Iniuria
@@ -11357,7 +11922,9 @@
           - prziezvahnanye,
           - lb[n=1446]:
           - foreign[lg=lat-Latn]: Incestus
-          - nek[a]znost,
+          - nek
+          - supplied[reason=lost]: a
+          - znost,
           - foreign[lg=lat-Latn]: stuprum
           - slepenost,
           - foreign[lg=lat-Latn]: scelus
@@ -11376,7 +11943,9 @@
           - foreign[lg=lat-Latn]: Illecebre
           - pestvo,
           - foreign[lg=lat-Latn]: dic castrimargia
-          - c[h]lipstvo,
+          - c
+          - supplied[reason=lost]: h
+          - lipstvo,
           - lb[n=1450]:
           - foreign[lg=lat-Latn]: Usura
           - lichva,
@@ -11408,7 +11977,10 @@
           - lb[n=1455]:
           - foreign[lg=lat-Latn]: Firmitas
           - twrdnost,
-          - foreign[lg=lat-Latn]: ignom[in]ía fiet
+          - foreign[lg=lat-Latn]:
+            - ignom
+            - supplied[reason=lost]: in
+            - ía fiet
           - ohawnost,
           - lb[n=1456]:
           - foreign[lg=lat-Latn]: Stabilitas
@@ -11455,17 +12027,25 @@
           - wsteklost,
           - pobiezka
           - foreign[lg=lat-Latn]: fuga, bilitas
-          - dwog[no]st.
+          - dwog
+          - supplied[reason=lost]: no
+          - st.
           - lb[n=1464]:
           - foreign[lg=lat-Latn]: Falsitas est
           - krzyvota,
           - vilnost
           - foreign[lg=lat-Latn]: fornicacio da,
           - lb[n=1465]:
-          - foreign[lg=lat-Latn]: Duricies <est>
+          - foreign[lg=lat-Latn]:
+            - 'Duricies '
+            - supplied[reason=omitted]: est
           - twrdost,
           - foreign[lg=lat-Latn]: prodigalitas
-          - ro<z>kotr<c>znost,
+          - ro
+          - supplied[reason=omitted]: z
+          - kotr
+          - supplied[reason=omitted]: c
+          - znost,
           - lb[n=1466]:
           - foreign[lg=lat-Latn]: Mortalitas
           - smrtedlnost,
@@ -11502,8 +12082,12 @@
           - foreign[lg=lat-Latn]: ulsta, repercio
           - zmenye,
           - lb[n=1472]:
-          - foreign[lg=lat-Latn]: Perdici[o]
-          - z[t]raczeníe
+          - foreign[lg=lat-Latn]:
+            - Perdici
+            - supplied[reason=lost]: o
+          - z
+          - supplied[reason=lost]: t
+          - raczeníe
           - foreign[lg=lat-Latn]: sit, aquisicio
           - dobyvaníe.
           - lb[n=1473]:
@@ -11672,7 +12256,10 @@
           - lb[n=1504]:
           - foreign[lg=lat-Latn]: Flaveitas
           - modrost
-          - foreign[lg=lat-Latn]: dic, citrin[itas] quoque
+          - foreign[lg=lat-Latn]:
+            - dic, citrin
+            - supplied[reason=lost]: itas
+            - ' quoque'
           - rusost.
           - lb[n=1505]:
           - foreign[lg=lat-Latn]: Glaucitas est
@@ -11720,13 +12307,17 @@
           - przicína
           - foreign[lg=lat-Latn]: dic additamentum.
           - lb[n=1514]:
-          - foreign[lg=lat-Latn]: Pestilencia <est>
+          - foreign[lg=lat-Latn]:
+            - 'Pestilencia '
+            - supplied[reason=omitted]: est
           - mor,
           - zpodek
           - foreign[lg=lat-Latn]: yma, caristia
           - drahor,
           - lb[n=1515]:
-          - foreign[lg=lat-Latn]: Indole[s]
+          - foreign[lg=lat-Latn]:
+            - Indole
+            - supplied[reason=lost]: s
           - zalozeníe,
           - foreign[lg=lat-Latn]: periferia dic
           - obnesenye.
@@ -11756,12 +12347,16 @@
           - foreign[lg=lat-Latn]: findulacio
           - zahvizdanye,
           - lb[n=1521]:
-          - foreign[lg=lat-Latn]: '[Au]dicio'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: Au
+            - dicio
           - sslichanye,
           - foreign[lg=lat-Latn]: prophetacio
           - prorokovanye,
           - lb[n=1522]: Spass
-          - foreign[lg=lat-Latn]: salus, igneita[s]
+          - foreign[lg=lat-Latn]:
+            - salus, igneita
+            - supplied[reason=lost]: s
           - ohennost,
           - neczest
           - foreign[lg=lat-Latn]: inhonestas,
@@ -11820,10 +12415,15 @@
           - lb[n=1533]: Tens
           - foreign[lg=lat-Latn]: lacio,
           - nevmyelost
-          - foreign[lg=lat-Latn]: ignorancia, [sit?] lues
+          - foreign[lg=lat-Latn]:
+            - 'ignorancia, '
+            - supplied[reason=lost]: sit?
+            - ' lues'
           - vspnost,
           - lb[n=1534]:
-          - foreign[lg=lat-Latn]: Ignora[cio]
+          - foreign[lg=lat-Latn]:
+            - Ignora
+            - supplied[reason=lost]: cio
           - neviedieníe
           - foreign[lg=lat-Latn]: terrorque
           - leczeníe.
@@ -11850,12 +12450,16 @@
           - vmrz,
           - foreign[lg=lat-Latn]: tropheus
           - ostaw,
-          - foreign[lg=lat-Latn]: "['/'xx/'us]."
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: "'/'xx/'us"
+            - .
           - lb[n=1539]:
           - foreign[lg=lat-Latn]: Tarditas
           - opozdyeníe,
           - foreign[lg=lat-Latn]: modificacio
-          - p[o]rownanye,
+          - p
+          - supplied[reason=lost]: o
+          - rownanye,
           - lb[n=1540]:
           - foreign[lg=lat-Latn]: Intoxicacio
           - travenye,
@@ -11865,7 +12469,10 @@
           - foreign[lg=lat-Latn]: Ipocinacio sit
           - opogina,
           - hroza
-          - foreign[lg=lat-Latn]: sit [h]orror.
+          - foreign[lg=lat-Latn]:
+            - 'sit '
+            - supplied[reason=lost]: h
+            - orror.
           - lb[n=1542]: Sladkost
           - foreign[lg=lat-Latn]: dulcedo, dic
           - horzkost
@@ -12027,7 +12634,9 @@
           - foreign[lg=lat-Latn]: iactus
           - wrzenye,
           - foreign[lg=lat-Latn]: vigor
-          - okrz[yenye].
+          - okrz
+          - supplied[reason=lost]: yenye
+          - .
           - lb[n=1572]:
           - foreign[lg=lat-Latn]: Uscio dic
           - ozzeníe,
@@ -12063,7 +12672,11 @@
           - foreign[lg=lat-Latn]: scretamen
           - chrkaníe,
           - foreign[lg=lat-Latn]: bolus
-          - vss<k>cz[e]níe.
+          - vss
+          - supplied[reason=omitted]: k
+          - cz
+          - supplied[reason=lost]: e
+          - níe.
           - lb[n=1579]:
           - foreign[lg=lat-Latn]: Portacio
           - nesenye,
@@ -12126,7 +12739,9 @@
           - foreign[lg=lat-Latn]: Decisio
           - zrzezanye,
           - foreign[lg=lat-Latn]: mactacio dic
-          - za[rzyeza]nye,
+          - za
+          - supplied[reason=lost]: rzyeza
+          - nye,
           - lb[n=1591]:
           - foreign[lg=lat-Latn]: Velacio
           - zavitie
@@ -12170,7 +12785,9 @@
           - zposobeníe,
           - lb[n=1599]:
           - foreign[lg=lat-Latn]: Fragracio
-          - zvonye[n]ie,
+          - zvonye
+          - supplied[reason=lost]: n
+          - ie,
           - foreign[lg=lat-Latn]: strangulacio
           - zadavenye,
           - lb[n=1600]:
@@ -12295,7 +12912,10 @@
           - lb[n=1625]: Dussna
           - foreign[lg=lat-Latn]: síchomachia, sit
           - mudrona
-          - foreign[lg=lat-Latn]: phi[zolog]ia,
+          - foreign[lg=lat-Latn]:
+            - phi
+            - supplied[reason=lost]: zolog
+            - ia,
           - lb[n=1626]:
           - foreign[lg=lat-Latn]: Notoria
           - znamina,
@@ -12305,7 +12925,10 @@
           - foreign[lg=lat-Latn]: sit magica, nigromancia
           - czrnokniha,
           - lb[n=1628]: Zemna
-          - foreign[lg=lat-Latn]: geoma[n]tica, dic
+          - foreign[lg=lat-Latn]:
+            - geoma
+            - supplied[reason=lost]: n
+            - tica, dic
           - ohnyczara
           - foreign[lg=lat-Latn]: piromanca
           - lb[n=1629]:
@@ -12328,7 +12951,9 @@
           - foreign[lg=lat-Latn]: Poetica
           - skladora,
           - foreign[lg=lat-Latn]: comedia sit
-          - pyesnotwor<n>a,
+          - pyesnotwor
+          - supplied[reason=omitted]: n
+          - a,
           - lb[n=1633]: Necznota
           - foreign[lg=lat-Latn]: tragedia,
           - prauopigka
@@ -12342,7 +12967,9 @@
           - foreign[lg=lat-Latn]: satíra,
           - lb[n=1635]:
           - foreign[lg=lat-Latn]: Alchimia
-          - cz[i]strna,
+          - cz
+          - supplied[reason=lost]: i
+          - strna,
           - foreign[lg=lat-Latn]: sit mechanica
           - chlapisturna,
           - lb[n=1636]: Tayla
@@ -12382,7 +13009,10 @@
           - foreign[lg=lat-Latn]: notatoria
           - znamotarzstvo
           - lb[n=1639a]:
-          - foreign[lg=lat-Latn]: <[Sculptoria] :zritstvo sit pictoriaque
+          - foreign[lg=lat-Latn]:
+            - <
+            - supplied[reason=lost]: Sculptoria
+            - ' :zritstvo sit pictoriaque'
           - malerzstvo>
           - lb[n=1644]:
           - foreign[lg=lat-Latn]: Orlogiatoria
@@ -12453,7 +13083,9 @@
           - foreign[lg=lat-Latn]: tabernatoria,
           - lb[n=1659]: Stklenyczstvo
           - foreign[lg=lat-Latn]: vitellaria,
-          - rich[t]a
+          - rich
+          - supplied[reason=lost]: t
+          - a
           - foreign[lg=lat-Latn]: iudicatoria.
           - lb[n=1660]: Smyena
           - foreign[lg=lat-Latn]: campsoria,
@@ -12462,7 +13094,10 @@
           - lb[n=1661]: Oracznye
           - foreign[lg=lat-Latn]: bucolica,
           - zvonarzstvo
-          - foreign[lg=lat-Latn]: sit <h>erifusoria,
+          - foreign[lg=lat-Latn]:
+            - 'sit '
+            - supplied[reason=omitted]: h
+            - erifusoria,
           - lb[n=1662]: Lowstwo
           - foreign[lg=lat-Latn]: venatoria,
           - konsselstvo
@@ -12477,7 +13112,8 @@
           - foreign[lg=lat-Latn]: navigatoria,
           - lb[n=1665]: Seczstvo
           - foreign[lg=lat-Latn]: sectoria,
-          - '[t]esarzstwo'
+          - supplied[reason=lost]: t
+          - esarzstwo
           - foreign[lg=lat-Latn]: carpentatoria,
           - lb[n=1666]:
           - foreign[lg=lat-Latn]: Pellifica
@@ -12576,7 +13212,10 @@
           - lb[n=1682]:
           - foreign[lg=lat-Latn]: Passio sit
           - trpenye,
-          - foreign[lg=lat-Latn]: const<r>ernacio
+          - foreign[lg=lat-Latn]:
+            - const
+            - supplied[reason=omitted]: r
+            - ernacio
           - zczepenyenye,
           - lb[n=1683]: Zawrat
           - foreign[lg=lat-Latn]: vertigo,
@@ -12591,8 +13230,15 @@
           - ozha,
           - lb[n=1685]:
           - foreign[lg=lat-Latn]: Colica
-          - t[rac]zeníe,
-          - foreign[lg=lat-Latn]: suff[o]si[o]la
+          - t
+          - supplied[reason=lost]: rac
+          - zeníe,
+          - foreign[lg=lat-Latn]:
+            - suff
+            - supplied[reason=lost]: o
+            - si
+            - supplied[reason=lost]: o
+            - la
           - zalevaníe,
           - lb[n=1686]:
           - foreign[lg=lat-Latn]: Pustula
@@ -12621,7 +13267,10 @@
           - foreign[lg=lat-Latn]: Diluria
           - sadno,
           - nador
-          - foreign[lg=lat-Latn]: arneda, glauco[m]a
+          - foreign[lg=lat-Latn]:
+            - arneda, glauco
+            - supplied[reason=lost]: m
+            - a
           - byelmo.
           - lb[n=1691]: Nadcha
           - foreign[lg=lat-Latn]: sit enfluxus,
@@ -12672,7 +13321,10 @@
           - foreign[lg=lat-Latn]: Pellicies
           - przímíet,
           - sskralup
-          - foreign[lg=lat-Latn]: squalor, u[n]gula
+          - foreign[lg=lat-Latn]:
+            - squalor, u
+            - supplied[reason=lost]: n
+            - gula
           - nehet,
           - lb[n=1700]: Czrvosubel
           - foreign[lg=lat-Latn]: blesia,
@@ -12740,7 +13392,9 @@
           - skrczka,
           - lb[n=1712]:
           - foreign[lg=lat-Latn]: Splenetica
-          - sliz[k]a,
+          - sliz
+          - supplied[reason=lost]: k
+          - a,
           - foreign[lg=lat-Latn]: periplemía dico
           - nadyzka.
           - lb[n=1713]:
@@ -12946,7 +13600,10 @@
           - lb[n=1749]:
           - foreign[lg=lat-Latn]: Privígnus
           - pastorek,
-          - foreign[lg=lat-Latn]: pr[o]nepos
+          - foreign[lg=lat-Latn]:
+            - pr
+            - supplied[reason=lost]: o
+            - nepos
           - prawnuk,
           - foreign[lg=lat-Latn]: lamidus
           - drzek
@@ -12978,7 +13635,8 @@
           - kmotra,
           - kmotr
           - foreign[lg=lat-Latn]: compater ac anus
-          - '[ba]bka'
+          - supplied[reason=lost]: ba
+          - bka
           - lb[n=1755]: Iatrusse
           - foreign[lg=lat-Latn]: fratripola,
           - przietelnícze
@@ -12989,7 +13647,10 @@
           - svak
           - foreign[lg=lat-Latn]: connubiator,
           - lb[n=1757]: Sirze
-          - foreign[lg=lat-Latn]: sorori<n>us, sed
+          - foreign[lg=lat-Latn]:
+            - sorori
+            - supplied[reason=omitted]: n
+            - us, sed
           - sestrzenecz
           - foreign[lg=lat-Latn]: est sororinus,
           - lb[n=1758]: Potet
@@ -13107,7 +13768,9 @@
           - foreign[lg=lat-Latn]: puerpera sit
           - omladyla,
           - lb[n=1779]:
-          - foreign[lg=lat-Latn]: Partus [ ... ]
+          - foreign[lg=lat-Latn]:
+            - 'Partus '
+            - supplied[reason=lost]: ' ... '
           - porodi,
           - foreign[lg=lat-Latn]: congratulamen
           - radovanki,
@@ -13124,7 +13787,9 @@
           - lb[n=1782]:
           - foreign[lg=lat-Latn]: Vicinus
           - sused,
-          - foreign[lg=lat-Latn]: '[ ..... ] sociellus'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: ' ..... '
+            - ' sociellus'
           - tovarzisek,
           - lb[n=1783]:
           - foreign[lg=lat-Latn]: Contractus
@@ -13141,7 +13806,9 @@
           - lb[n=1785]:
           - foreign[lg=lat-Latn]:
             - hi[rend=smallcaps]: Lu
-            - strans convivia statim elig<it>e fercula grata.
+            - strans convivia statim elig
+            - supplied[reason=omitted]: it
+            - e fercula grata.
           - lb[n=1886]:
           - foreign[lg=lat-Latn]: Esca
           - pokrm,
@@ -13474,7 +14141,10 @@
           - foreign[lg=lat-Latn]: villum
           - vessnecz
           - panczecz
-          - foreign[lg=lat-Latn]: que [F]alernum.
+          - foreign[lg=lat-Latn]:
+            - 'que '
+            - supplied[reason=lost]: F
+            - alernum.
           - lb[n=1842]: Mech
           - foreign[lg=lat-Latn]: bibera,
           - geczyna
@@ -13492,7 +14162,9 @@
           - lb[n=1844]: Litkup
           - foreign[lg=lat-Latn]: mercipotus, pigmentum
           - marcz,
-          - briz[d]yel
+          - briz
+          - supplied[reason=lost]: d
+          - yel
           - foreign[lg=lat-Latn]: orpus,
           - lb[n=1845]: Var
           - foreign[lg=lat-Latn]: braxatura, feculum
@@ -13572,7 +14244,9 @@
           - foreign[lg=lat-Latn]: pentum,
           - lb[n=1859]:
           - foreign[lg=lat-Latn]: Induvium
-          - wz[w]leczka,
+          - wz
+          - supplied[reason=lost]: w
+          - leczka,
           - foreign[lg=lat-Latn]: filum
           - nít,
           - foreign[lg=lat-Latn]: amictus
@@ -13782,11 +14456,16 @@
           - czuczlik
           - foreign[lg=lat-Latn]: cocca,
           - wrapa
-          - foreign[lg=lat-Latn]: '[...], [occa]'
+          - foreign[lg=lat-Latn]:
+            - gap[reason=lost,quantity=3,unit=character]:
+            - ', '
+            - supplied[reason=lost]: occa
           - zdyerek,
           - lb[n=1894]:
           - foreign[lg=lat-Latn]: Diplois
-          - dv[e]nasob
+          - dv
+          - supplied[reason=lost]: e
+          - nasob
           - foreign[lg=lat-Latn]: que subuncula
           - zaplata,
           - foreign[lg=lat-Latn]: sub
@@ -13797,12 +14476,17 @@
           - foreign[lg=lat-Latn]: culpo
           - postol,
           - foreign[lg=lat-Latn]: urbula
-          - par[uch],
+          - par
+          - supplied[reason=lost]: uch
+          - ','
           - lb[n=1896]:
           - foreign[lg=lat-Latn]: Sindo
           - czalun,
           - prema
-          - foreign[lg=lat-Latn]: torques, [...] collobra
+          - foreign[lg=lat-Latn]:
+            - 'torques, '
+            - gap[reason=lost,quantity=3,unit=character]:
+            - ' collobra'
           - sslema
           - lb[n=1897]:
           - foreign[lg=lat-Latn]: Et crinale
@@ -13812,7 +14496,10 @@
           - foreign[lg=lat-Latn]: mitraque
           - czepecz.
           - lb[n=1898]:
-          - foreign[lg=lat-Latn]: Gem[m]a
+          - foreign[lg=lat-Latn]:
+            - Gem
+            - supplied[reason=lost]: m
+            - a
           - biser,
           - foreign[lg=lat-Latn]: cileus
           - traczecz,
@@ -13856,7 +14543,10 @@
           - sskarpal
           - foreign[lg=lat-Latn]: sotular,
           - boti
-          - foreign[lg=lat-Latn]: ped[sar],
+          - foreign[lg=lat-Latn]:
+            - ped
+            - supplied[reason=lost]: sar
+            - ','
           - lb[n=1906]: Cordovanecz
           - foreign[lg=lat-Latn]: pedulus,
           - czatr
@@ -13866,7 +14556,9 @@
           - lb[n=1907]:
           - foreign[lg=lat-Latn]: Colligar
           - oboyczek,
-          - ws[k]et
+          - ws
+          - supplied[reason=lost]: k
+          - et
           - foreign[lg=lat-Latn]: urta, manubria
           - trzenek,
           - lb[n=1908]:
@@ -13888,7 +14580,10 @@
           - foreign[lg=lat-Latn]: rodor
           - vstnecz
           - lb[n=1911]:
-          - foreign[lg=lat-Latn]: Cu[l]tellusque
+          - foreign[lg=lat-Latn]:
+            - Cu
+            - supplied[reason=lost]: l
+            - tellusque
           - nozik,
           - foreign[lg=lat-Latn]: tricamen
           - vplet,
@@ -13926,7 +14621,10 @@
           - kment
           - foreign[lg=lat-Latn]: missia,
           - bruchlske
-          - foreign[lg=lat-Latn]: B[ruletum],
+          - foreign[lg=lat-Latn]:
+            - B
+            - supplied[reason=lost]: ruletum
+            - ','
           - lb[n=1917]:
           - foreign[lg=lat-Latn]: Polonicum
           - polske
@@ -13934,22 +14632,33 @@
           - colinske.
           - lb[n=1918]:
           - foreign[lg=lat-Latn]: Est paludamentum
-          - pawla[cz],
+          - pawla
+          - supplied[reason=lost]: cz
+          - ','
           - opatek
           - foreign[lg=lat-Latn]: sit oplentum,
           - lb[n=1919]:
           - foreign[lg=lat-Latn]: Parda ríness,
-          - p[o]wlak[a]
+          - p
+          - supplied[reason=lost]: o
+          - wlak
+          - supplied[reason=lost]: a
           - foreign[lg=lat-Latn]: lectega,
           - vieko
           - foreign[lg=lat-Latn]: dolitega,
           - lb[n=1920]:
           - foreign[lg=lat-Latn]: Planeticum
           - plaske
-          - foreign[lg=lat-Latn]: sit Gal<on>icum quoque
+          - foreign[lg=lat-Latn]:
+            - sit Gal
+            - supplied[reason=omitted]: on
+            - icum quoque
           - wlaske.
           - lb[n=1921]:
-          - foreign[lg=lat-Latn]: S[c]arlicium
+          - foreign[lg=lat-Latn]:
+            - S
+            - supplied[reason=lost]: c
+            - arlicium
           - ssarlat,
           - foreign[lg=lat-Latn]: brunaticum sit
           - brunat,
@@ -13968,7 +14677,10 @@
           - foreign[lg=lat-Latn]: barchanus, inga
           - kass,
           - pruhatecz
-          - foreign[lg=lat-Latn]: po[l]linarus.
+          - foreign[lg=lat-Latn]:
+            - po
+            - supplied[reason=lost]: l
+            - linarus.
           - lb[n=1925]:
           - foreign[lg=lat-Latn]: Grudímícum
           - chrudymske,
@@ -13977,13 +14689,18 @@
           - lb[n=1926]:
           - foreign[lg=lat-Latn]: Arbilana
           - bawlna,
-          - foreign[lg=lat-Latn]: '[....], ioppitura'
+          - foreign[lg=lat-Latn]:
+            - gap[reason=lost,quantity=4,unit=character]:
+            - ', ioppitura'
           - kabatína
           - lb[n=1927]:
           - foreign[lg=lat-Latn]: Et ciclas
           - knynzovecz,
           - foreign[lg=lat-Latn]: cerímoníum
-          - <po>pov[o]ssczenecz.
+          - supplied[reason=omitted]: po
+          - pov
+          - supplied[reason=lost]: o
+          - ssczenecz.
           - lb[n=1928]:
           - foreign[lg=lat-Latn]: Sit
           - samodyel
@@ -14144,13 +14861,18 @@
           - dska,
           - foreign[lg=lat-Latn]: murus
           - zed,
-          - foreign[lg=lat-Latn]: '[est] ríma'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: est
+            - ' ríma'
           - sskuta,
           - lb[n=1953]:
           - foreign[lg=lat-Latn]: Vectis
           - zavora,
           - stlup
-          - foreign[lg=lat-Latn]: columpnaque caust[e]rium
+          - foreign[lg=lat-Latn]:
+            - columpnaque caust
+            - supplied[reason=lost]: e
+            - rium
           - krb.
           - lb[n=1954]:
           - foreign[lg=lat-Latn]: Ostímata
@@ -14166,7 +14888,9 @@
           - tram,
           - lb[n=1956]: Dyera
           - foreign[lg=lat-Latn]: porus,
-          - ty[m]us
+          - ty
+          - supplied[reason=lost]: m
+          - us
           - przieklad
           - komyn
           - foreign[lg=lat-Latn]: que caminus,
@@ -14212,7 +14936,8 @@
           - podvoy,
           - lb[n=1964]:
           - foreign[lg=lat-Latn]: Circuleus
-          - '[ko]lowrat,'
+          - supplied[reason=lost]: ko
+          - lowrat,
           - foreign[lg=lat-Latn]: rus
           - chlev,
           - foreign[lg=lat-Latn]: urinaleque
@@ -14256,11 +14981,16 @@
           - foreign[lg=lat-Latn]: auca,
           - lb[n=1971]:
           - foreign[lg=lat-Latn]: Aspar
-          - des[k]natka,
+          - des
+          - supplied[reason=lost]: k
+          - natka,
           - foreign[lg=lat-Latn]: subtellia
           - zims
           - krow
-          - foreign[lg=lat-Latn]: a[t]ecta,
+          - foreign[lg=lat-Latn]:
+            - a
+            - supplied[reason=lost]: t
+            - ecta,
           - lb[n=1972]:
           - foreign[lg=lat-Latn]: Scandula
           - sluzebna,
@@ -14272,7 +15002,9 @@
           - pozda,
           - czelesen
           - foreign[lg=lat-Latn]: cirpus,
-          - zpod[p]ierka
+          - zpod
+          - supplied[reason=lost]: p
+          - ierka
           - foreign[lg=lat-Latn]: columen,
           - lb[n=1974]: Peczka
           - foreign[lg=lat-Latn]: feba, pirgo
@@ -14324,7 +15056,10 @@
           - foreign[lg=lat-Latn]: Bostar
           - chlew,
           - stagie
-          - foreign[lg=lat-Latn]: stabulum, palear<c>ia
+          - foreign[lg=lat-Latn]:
+            - stabulum, palear
+            - supplied[reason=omitted]: c
+            - ia
           - plewníe,
           - lb[n=1983]:
           - foreign[lg=lat-Latn]: Cenaculum
@@ -14425,7 +15160,10 @@
           - pirzie
           - foreign[lg=lat-Latn]: favilla,
           - lb[n=2000]: Okennycze
-          - foreign[lg=lat-Latn]: fo<d>rale, splendor
+          - foreign[lg=lat-Latn]:
+            - fo
+            - supplied[reason=omitted]: d
+            - rale, splendor
           - skviel,
           - foreign[lg=lat-Latn]: ticio
           - hlawnie,
@@ -14503,7 +15241,10 @@
           - kray
           - foreign[lg=lat-Latn]: apsis,
           - lb[n=2013]:
-          - foreign[lg=lat-Latn]: Est a[en]um
+          - foreign[lg=lat-Latn]:
+            - Est a
+            - supplied[reason=lost]: en
+            - um
           - myedienecz
           - foreign[lg=lat-Latn]: manuteriumque
           - vbrussecz.
@@ -14667,7 +15408,9 @@
           - poviezadlo.
           - lb[n=2041]:
           - foreign[lg=lat-Latn]: Finder
-          - vt[o]r,
+          - vt
+          - supplied[reason=lost]: o
+          - r,
           - poklikew
           - foreign[lg=lat-Latn]: cacabus, vertibula
           - mutew,
@@ -14678,8 +15421,13 @@
           - sakrista.
           - lb[n=2043]:
           - foreign[lg=lat-Latn]: Est orca
-          - flask[a],
-          - foreign[lg=lat-Latn]: locu[l]us
+          - flask
+          - supplied[reason=lost]: a
+          - ','
+          - foreign[lg=lat-Latn]:
+            - locu
+            - supplied[reason=lost]: l
+            - us
           - taska,
           - kaluicze
           - foreign[lg=lat-Latn]: maserca,
@@ -14707,7 +15455,9 @@
           - foreign[lg=lat-Latn]: census.
           - lb[n=2048]:
           - foreign[lg=lat-Latn]: '[Ponda'
-          - wa<r>zecz,
+          - wa
+          - supplied[reason=omitted]: r
+          - zecz,
           - foreign[lg=lat-Latn]: dragma <
           - trzyn>tren,
           - foreign[lg=lat-Latn]: '...as'
@@ -14778,8 +15528,12 @@
           - przitluk
           - foreign[lg=lat-Latn]: martareollum.
           - lb[n=2060]:
-          - foreign[lg=lat-Latn]: '[C]antarus est'
-          - ko[nw]ye,
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: C
+            - antarus est
+          - ko
+          - supplied[reason=lost]: nw
+          - ye,
           - rzepicze
           - foreign[lg=lat-Latn]: sit crater, amphora
           - banye,
@@ -14855,7 +15609,9 @@
           - povierek,
           - lb[n=2074]: Zakladove
           - foreign[lg=lat-Latn]: vades,
-          - zey[t]el
+          - zey
+          - supplied[reason=lost]: t
+          - el
           - foreign[lg=lat-Latn]: metro,
           - slanyczka
           - foreign[lg=lat-Latn]: salides.
@@ -14897,8 +15653,10 @@
           - rzerzab
           - foreign[lg=lat-Latn]: anabatrum.
           - lb[n=2081]:
-          - foreign[lg=lat-Latn]: Hec michi Vilhelmus dedit in Strakonicz [comes]
-              aptus.
+          - foreign[lg=lat-Latn]:
+            - 'Hec michi Vilhelmus dedit in Strakonicz '
+            - supplied[reason=lost]: comes
+            - ' aptus.'
       - chapter[n=3]:
         - head[lg=lat-Latn]: De civitate
         - p:
@@ -14973,7 +15731,9 @@
           - foreign[lg=lat-Latn]: taberna,
           - lb[n=2093]:
           - foreign[lg=lat-Latn]: Hospita
-          - host[y]enycze,
+          - host
+          - supplied[reason=lost]: y
+          - enycze,
           - foreign[lg=lat-Latn]: diversorium
           - posadnycze,
           - lb[n=2094]:
@@ -15106,7 +15866,9 @@
           - foreign[lg=lat-Latn]: Coquina
           - kuchíníe,
           - foreign[lg=lat-Latn]: vulgus
-          - chas[a],
+          - chas
+          - supplied[reason=lost]: a
+          - ','
           - foreign[lg=lat-Latn]: balnea
           - laznye,
           - lb[n=2116]:
@@ -15351,7 +16113,8 @@
           - luczistie.
           - lb[n=2155]:
           - foreign[lg=lat-Latn]: Tricuspis
-          - '[k]ronle,'
+          - supplied[reason=lost]: k
+          - ronle,
           - foreign[lg=lat-Latn]: mucro
           - plekno,
           - foreign[lg=lat-Latn]: lancea
@@ -15368,7 +16131,9 @@
           - oscziep
           - foreign[lg=lat-Latn]: framea, capulus
           - gilecz,
-          - foreign[lg=lat-Latn]: umbo [ ..... ]
+          - foreign[lg=lat-Latn]:
+            - 'umbo '
+            - supplied[reason=lost]: ' ..... '
           - pukla
           - lb[n=2158]:
           - foreign[lg=lat-Latn]: Et pugio
@@ -15557,9 +16322,14 @@
           - lb[n=2187]:
           - foreign[lg=lat-Latn]:
             - hi[rend=smallcaps]: Cl
-            - aretus pangit urb[e]s, homines modo tangit.
+            - aretus pangit urb
+            - supplied[reason=lost]: e
+            - s, homines modo tangit.
           - lb[n=2188]:
-          - foreign[lg=lat-Latn]: Agric[o]la
+          - foreign[lg=lat-Latn]:
+            - Agric
+            - supplied[reason=lost]: o
+            - la
           - zapluharz,
           - foreign[lg=lat-Latn]: hospes
           - hospodarz,
@@ -15572,7 +16342,9 @@
           - podruhynye,
           - lb[n=2190]: Podruh
           - foreign[lg=lat-Latn]: inquilinus, sons
-          - vin[i]k,
+          - vin
+          - supplied[reason=lost]: i
+          - k,
           - koferz
           - foreign[lg=lat-Latn]: decibínus,
           - lb[n=2191]: Myesczenyn
@@ -15654,7 +16426,9 @@
           - foreign[lg=lat-Latn]: que subulcus.
           - lb[n=2206]:
           - foreign[lg=lat-Latn]: Archimandrita
-          - kníe[z]ovecz
+          - kníe
+          - supplied[reason=lost]: z
+          - ovecz
           - vozotocz
           - foreign[lg=lat-Latn]: que vereda,
           - lb[n=2207]:
@@ -15741,7 +16515,9 @@
           - foreign[lg=lat-Latn]: Digno
           - dostak,
           - przíwuzen
-          - foreign[lg=lat-Latn]: consanguineus est [....]
+          - foreign[lg=lat-Latn]:
+            - 'consanguineus est '
+            - gap[reason=lost,quantity=4,unit=character]:
           - lb[n=2223]:
           - foreign[lg=lat-Latn]: Qui
           - kteri,
@@ -15812,7 +16588,10 @@
           - foreign[lg=lat-Latn]: dic inprecator
           - zaprositel,
           - lb[n=2236]: Rzecznik
-          - foreign[lg=lat-Latn]: pr[o]locutor,
+          - foreign[lg=lat-Latn]:
+            - pr
+            - supplied[reason=lost]: o
+            - locutor,
           - zalownik
           - foreign[lg=lat-Latn]: conquerulator,
           - lb[n=2237]:
@@ -15851,7 +16630,9 @@
           - bezzubecz,
           - lb[n=2244]:
           - foreign[lg=lat-Latn]: Emeritus
-          - wislu[z]czi,
+          - wislu
+          - supplied[reason=lost]: z
+          - czi,
           - foreign[lg=lat-Latn]: sit falconista
           - sokolczy,
           - lb[n=2245]:
@@ -15865,7 +16646,10 @@
           - protyvnik
           - foreign[lg=lat-Latn]: contrariator.
           - lb[n=2247]:
-          - foreign[lg=lat-Latn]: Cuncta Bohema fer[o], Ripenses voce sequendo.
+          - foreign[lg=lat-Latn]:
+            - Cuncta Bohema fer
+            - supplied[reason=lost]: o
+            - ', Ripenses voce sequendo.'
       - chapter[n=6]:
         - head[lg=lat-Latn]: De iudice
         - p:
@@ -15943,7 +16727,9 @@
           - foreign[lg=lat-Latn]: pagativum,
           - lb[n=2262]:
           - foreign[lg=lat-Latn]: Sanccio
-          - zaha<n>yeníe,
+          - zaha
+          - supplied[reason=omitted]: n
+          - yeníe,
           - foreign[lg=lat-Latn]: contestamen
           - odsviedczeníe.
           - lb[n=2263]:
@@ -15997,7 +16783,10 @@
           - lb[n=2271]:
           - foreign[lg=lat-Latn]: Vindicta
           - pomsta
-          - foreign[lg=lat-Latn]: contumaci[a]que
+          - foreign[lg=lat-Latn]:
+            - contumaci
+            - supplied[reason=lost]: a
+            - que
           - pokuta,
           - lb[n=2272]: Obtiezka
           - foreign[lg=lat-Latn]: gravamen,
@@ -16022,7 +16811,9 @@
           - przymluva,
           - foreign[lg=lat-Latn]: sit
           - klatva
-          - foreign[lg=lat-Latn]: '[ ... ] anatema,'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: ' ... '
+            - ' anatema,'
           - lb[n=2277]:
           - foreign[lg=lat-Latn]: Advocamen
           - zpraveníe,
@@ -16032,7 +16823,9 @@
           - foreign[lg=lat-Latn]: Et correctorium
           - popravek,
           - przepis
-          - foreign[lg=lat-Latn]: '[ ... ] rescriptum.'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: ' ... '
+            - ' rescriptum.'
           - lb[n=2279]:
           - foreign[lg=lat-Latn]: Mancipa sit
           - otroczstvo,
@@ -16040,7 +16833,9 @@
           - vbrmanstvo,
           - lb[n=2280]:
           - foreign[lg=lat-Latn]: Cirographus
-          - hampe[st],
+          - hampe
+          - supplied[reason=lost]: st
+          - ','
           - foreign[lg=lat-Latn]: privilegium quoque
           - hamffest
           - lb[n=2281]: Slozek
@@ -16222,7 +17017,9 @@
           - vtiezek,
           - foreign[lg=lat-Latn]: lucrum
           - zisk,
-          - foreign[lg=lat-Latn]: sumpci[o]
+          - foreign[lg=lat-Latn]:
+            - sumpci
+            - supplied[reason=lost]: o
           - wzatek,
           - lb[n=2315]:
           - foreign[lg=lat-Latn]: Concessus
@@ -16239,7 +17036,9 @@
           - zmrk
           - foreign[lg=lat-Latn]: amphiteatrum.
           - lb[n=2318]:
-          - foreign[lg=lat-Latn]: Est inmunímen<tum>
+          - foreign[lg=lat-Latn]:
+            - Est inmunímen
+            - supplied[reason=omitted]: tum
           - oczista,
           - pomvczenie
           - foreign[lg=lat-Latn]: punimen,
@@ -16316,7 +17115,9 @@
           - foreign[lg=lat-Latn]: monasterium.
           - lb[n=2331]: Boznycze
           - foreign[lg=lat-Latn]: delubrum, stola
-          - sstol[a],
+          - sstol
+          - supplied[reason=lost]: a
+          - ','
           - oltarna
           - foreign[lg=lat-Latn]: colubrum,
           - lb[n=2332]: Kaplicze
@@ -16403,7 +17204,9 @@
           - kostnícze,
           - zvon
           - foreign[lg=lat-Latn]: campana, iota
-          - ss[l]owcze,
+          - ss
+          - supplied[reason=lost]: l
+          - owcze,
           - lb[n=2347]:
           - foreign[lg=lat-Latn]: Psalterium
           - zaltarz,
@@ -16513,7 +17316,9 @@
           - lb[n=2365]:
           - foreign[lg=lat-Latn]: Sit
           - krzismo
-          - foreign[lg=lat-Latn]: crisma, [ .... ]
+          - foreign[lg=lat-Latn]:
+            - 'crisma, '
+            - supplied[reason=lost]: ' .... '
           - pobozna
           - foreign[lg=lat-Latn]: carisma,
           - lb[n=2366]:
@@ -16561,7 +17366,12 @@
           - vmyvaczka
           - foreign[lg=lat-Latn]: lavatorium.
           - lb[n=2374]: Obeczníe
-          - foreign[lg=lat-Latn]: c[e]n[o]bium,
+          - foreign[lg=lat-Latn]:
+            - c
+            - supplied[reason=lost]: e
+            - n
+            - supplied[reason=lost]: o
+            - bium,
           - nemocznícze
           - foreign[lg=lat-Latn]: dic egrotinum
           - lb[n=2375]:
@@ -16601,21 +17411,29 @@
           - broknie,
           - titl
           - foreign[lg=lat-Latn]: apex, reverenda
-          - ssyrokn[ie],
+          - ssyrokn
+          - supplied[reason=lost]: ie
+          - ','
           - lb[n=2382]:
           - foreign[lg=lat-Latn]: Donatus
           - dawnik,
           - foreign[lg=lat-Latn]: Doctrinale
           - navczewnik.
           - lb[n=2383]:
-          - foreign[lg=lat-Latn]: '[Hec] Olomucensis data presulis aucta Iohan[i]s.'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: Hec
+            - ' Olomucensis data presulis aucta Iohan'
+            - supplied[reason=lost]: i
+            - s.
       - chapter[n=8]:
         - head[lg=lat-Latn]: De festis
         - p:
           - lb[n=2384]:
           - foreign[lg=lat-Latn]:
             - hi[rend=smallcaps]: Pr
-            - edicta nosce[n]s defestis sumito discens.
+            - edicta nosce
+            - supplied[reason=lost]: n
+            - s defestis sumito discens.
           - lb[n=2385]: Wsed
           - foreign[lg=lat-Latn]: feria, indica
           - prazdna,
@@ -16626,13 +17444,18 @@
           - patek,
           - sobota
           - foreign[lg=lat-Latn]: sabatum, feria
-          - strzied<n>a
+          - strzied
+          - supplied[reason=omitted]: n
+          - a
           - foreign[lg=lat-Latn]: quarta,
           - lb[n=2387]:
           - foreign[lg=lat-Latn]: Quinta
           - cztwrtek,
           - vtery
-          - foreign[lg=lat-Latn]: sit tercia, <sit> secunda
+          - foreign[lg=lat-Latn]:
+            - 'sit tercia, '
+            - supplied[reason=omitted]: sit
+            - ' secunda'
           - pondyeli.
           - lb[n=2388]:
           - foreign[lg=lat-Latn]: Vigilie
@@ -16657,7 +17480,8 @@
           - foreign[lg=lat-Latn]: circumcisus
           - obrziezovanye
           - lb[n=2392]:
-          - foreign[lg=lat-Latn]: '[ ............................... ]'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: ' ............................... '
           - lb[n=2393]:
           - foreign[lg=lat-Latn]: Iubileus
           - myleto,
@@ -16696,7 +17520,8 @@
           - devietnik
           - foreign[lg=lat-Latn]: septuagesima,
           - lb[n=2400]:
-          - foreign[lg=lat-Latn]: '[Nonagesima ......................... ]'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: 'Nonagesima ......................... '
           - lb[n=2401]:
           - foreign[lg=lat-Latn]: Passio sit
           - muczeníe,
@@ -16723,7 +17548,10 @@
           - rano,
           - foreign[lg=lat-Latn]: decíma
           - dessatek,
-          - foreign[lg=lat-Latn]: fu[m]ales
+          - foreign[lg=lat-Latn]:
+            - fu
+            - supplied[reason=lost]: m
+            - ales
           - desetyna.
           - lb[n=2406]:
           - foreign[lg=lat-Latn]: Est kirius
@@ -16872,7 +17700,10 @@
           - spasodan,
           - bohonosie
           - foreign[lg=lat-Latn]: seraphin,
-          - lb[n=2432]: Zast[yn]ek
+          - lb[n=2432]:
+          - Zast
+          - supplied[reason=lost]: yn
+          - ek
           - foreign[lg=lat-Latn]: umbraculum, monus
           - vczba,
           - pamat
@@ -16920,12 +17751,17 @@
           - lb[n=2441]:
           - foreign[lg=lat-Latn]: '............................'
           - lb[n=2442]:
-          - foreign[lg=lat-Latn]: C[on]tricio
+          - foreign[lg=lat-Latn]:
+            - C
+            - supplied[reason=lost]: on
+            - tricio
           - sskrussenie
           - foreign[lg=lat-Latn]: maceracioque
           - sussenye.
           - lb[n=2443]:
-          - foreign[lg=lat-Latn]: Indulgencia s[it]
+          - foreign[lg=lat-Latn]:
+            - Indulgencia s
+            - supplied[reason=lost]: it
           - odpustek,
           - foreign[lg=lat-Latn]: confessio
           - zpovied
@@ -17009,7 +17845,9 @@
           - zrakosviet.
           - lb[n=2459]:
           - foreign[lg=lat-Latn]: Communicacio dic
-          - ob<e>czovanie,
+          - ob
+          - supplied[reason=omitted]: e
+          - czovanie,
           - znak
           - foreign[lg=lat-Latn]: titulus sit,
           - lb[n=2460]:
@@ -17025,7 +17863,8 @@
           - lb[n=2462]:
           - foreign[lg=lat-Latn]: Prohemíum
           - prwnod,
-          - foreign[lg=lat-Latn]: '[prologus]'
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=lost]: prologus
           - prorzek,
           - foreign[lg=lat-Latn]: coytus
           - schod,
@@ -17074,9 +17913,13 @@
           - sezvanyeníe,
           - lb[n=2471]:
           - foreign[lg=lat-Latn]: Remedium
-          - pomo[cz]na,
+          - pomo
+          - supplied[reason=lost]: cz
+          - na,
           - foreign[lg=lat-Latn]: dic cenodoxia
-          - chlub[n]a,
+          - chlub
+          - supplied[reason=lost]: n
+          - a,
           - lb[n=2472]:
           - foreign[lg=lat-Latn]: Dalmacia
           - svarnye,
@@ -17186,13 +18029,18 @@
           - vczitel
           - foreign[lg=lat-Latn]: docianus.
           - lb[n=2492]:
-          - foreign[lg=lat-Latn]: Esto cathecumi[n]us
+          - foreign[lg=lat-Latn]:
+            - Esto cathecumi
+            - supplied[reason=lost]: n
+            - us
           - nekrztienecz,
           - nesmrten
           - foreign[lg=lat-Latn]: atanatus
           - lb[n=2493]:
           - foreign[lg=lat-Latn]: Atque biathanatus
-          - z<a>traczenecz,
+          - z
+          - supplied[reason=omitted]: a
+          - traczenecz,
           - propaden
           - foreign[lg=lat-Latn]: catacismus,
           - lb[n=2494]: Kolaczi
@@ -17444,7 +18292,10 @@
           - sspail
           - foreign[lg=lat-Latn]: aprisa,
           - lb[n=2538]: Stanklerz
-          - foreign[lg=lat-Latn]: sustorna, reni [ ...?... ], pondra
+          - foreign[lg=lat-Latn]:
+            - 'sustorna, reni '
+            - supplied[reason=lost]: ' ...?... '
+            - ', pondra'
           - rzerzive,
           - lb[n=2539]:
           - foreign[lg=lat-Latn]: Vestipolum
@@ -17512,7 +18363,10 @@
           - foreign[lg=lat-Latn]: eflax, olfa
           - vonaczka.
           - lb[n=2549]:
-          - foreign[lg=lat-Latn]: Dic[cio] queque suum proprium fert significatum.
+          - foreign[lg=lat-Latn]:
+            - Dic
+            - supplied[reason=lost]: cio
+            - ' queque suum proprium fert significatum.'
       - chapter[n=2]:
         - head[lg=lat-Latn]: De fabris
         - p:
@@ -17599,9 +18453,16 @@
           - obvazek,
           - desscznyczka
           - foreign[lg=lat-Latn]: calops, trabula
-          - czvek<i>,
+          - czvek
+          - supplied[reason=omitted]: i
+          - ','
           - lb[n=2564]:
-          - foreign[lg=lat-Latn]: M[o]tax<t>a
+          - foreign[lg=lat-Latn]:
+            - M
+            - supplied[reason=lost]: o
+            - tax
+            - supplied[reason=omitted]: t
+            - a
           - przadeno,
           - foreign[lg=lat-Latn]: fusa
           - wrzeteno,
@@ -17676,7 +18537,9 @@
           - poczessanye
           - lb[n=2577]:
           - foreign[lg=lat-Latn]: Et filatorium
-          - nytidl[n]icze,
+          - nytidl
+          - supplied[reason=lost]: n
+          - icze,
           - kalkos
           - foreign[lg=lat-Latn]: alentrum,
           - lb[n=2578]: Przicze
@@ -17714,7 +18577,10 @@
           - lb[n=2583]:
           - foreign[lg=lat-Latn]: Novicius
           - nowak
-          - foreign[lg=lat-Latn]: fila[c]teriumque
+          - foreign[lg=lat-Latn]:
+            - fila
+            - supplied[reason=lost]: c
+            - teriumque
           - nakrznak,
           - lb[n=2584]:
           - foreign[lg=lat-Latn]: Carneator
@@ -17767,7 +18633,10 @@
           - oleyna
           - foreign[lg=lat-Latn]: lechitus.
           - lb[n=2593]:
-          - foreign[lg=lat-Latn]: A[ri]da
+          - foreign[lg=lat-Latn]:
+            - A
+            - supplied[reason=lost]: ri
+            - da
           - hut,
           - foreign[lg=lat-Latn]: andea
           - naprzih,
@@ -17838,7 +18707,9 @@
           - lb[n=2606]:
           - foreign[lg=lat-Latn]: Calicanus
           - czessierz
-          - foreign[lg=lat-Latn]: <con>cingulatorque
+          - foreign[lg=lat-Latn]:
+            - supplied[reason=omitted]: con
+            - cingulatorque
           - pasnerz.
           - lb[n=2607]:
           - foreign[lg=lat-Latn]: Pectarius
@@ -17897,7 +18768,10 @@
           - lb[n=2617]:
           - foreign[lg=lat-Latn]: Fabrica
           - kovarnye,
-          - foreign[lg=lat-Latn]: dic [.....] ignita
+          - foreign[lg=lat-Latn]:
+            - 'dic '
+            - gap[reason=lost,quantity=5,unit=character]:
+            - ' ignita'
           - wyhnye,
           - lb[n=2618]:
           - foreign[lg=lat-Latn]: Incus
@@ -17965,7 +18839,9 @@
           - lb[n=2628]:
           - foreign[lg=lat-Latn]: Flamigium
           - kopet,
-          - foreign[lg=lat-Latn]: fumigax [.....]
+          - foreign[lg=lat-Latn]:
+            - 'fumigax '
+            - gap[reason=lost,quantity=5,unit=character]:
           - hutraich.
           - lb[n=2629]:
           - foreign[lg=lat-Latn]: Armarifex
@@ -17978,7 +18854,8 @@
           - foreign[lg=lat-Latn]: decultura,
           - czentnerz
           - foreign[lg=lat-Latn]: stater, armuca
-          - '[...]lka,'
+          - gap[reason=lost,quantity=3,unit=character]:
+          - lka,
           - lb[n=2631]:
           - foreign[lg=lat-Latn]: Erlica
           - zvonovína,
@@ -18004,7 +18881,9 @@
           - lb[n=2635]: Podkova
           - foreign[lg=lat-Latn]: babata, trum
           - lissti,
-          - brada[t]icze
+          - brada
+          - supplied[reason=lost]: t
+          - icze
           - foreign[lg=lat-Latn]: federabrum,
           - lb[n=2636]:
           - foreign[lg=lat-Latn]: Nummisma
@@ -18047,7 +18926,10 @@
           - czlunek
           - foreign[lg=lat-Latn]: faselus,
           - lb[n=2643]:
-          - foreign[lg=lat-Latn]: Navi<s>ta
+          - foreign[lg=lat-Latn]:
+            - Navi
+            - supplied[reason=omitted]: s
+            - ta
           - lodynnyk,
           - foreign[lg=lat-Latn]: puppis
           - lodye,
@@ -18100,7 +18982,10 @@
           - foreign[lg=lat-Latn]: ubs
           - vrva,
           - wrsse
-          - foreign[lg=lat-Latn]: sag[ena],
+          - foreign[lg=lat-Latn]:
+            - sag
+            - supplied[reason=lost]: ena
+            - ','
           - lb[n=2652]:
           - foreign[lg=lat-Latn]: Balneator
           - lazebnik,
@@ -18111,7 +18996,10 @@
           - lb[n=2653]:
           - foreign[lg=lat-Latn]: Oleator
           - oleynik,
-          - foreign[lg=lat-Latn]: fle<u>botomator
+          - foreign[lg=lat-Latn]:
+            - fle
+            - supplied[reason=omitted]: u
+            - botomator
           - pusczedlnik
           - lb[n=2654]:
           - foreign[lg=lat-Latn]: Et
@@ -18137,14 +19025,17 @@
           - foreign[lg=lat-Latn]: flega
           - pusczadlo,
           - foreign[lg=lat-Latn]: ventosa
-          - <zo>banka,
+          - supplied[reason=omitted]: zo
+          - banka,
           - lb[n=2658]:
           - foreign[lg=lat-Latn]: Novacula
           - brzitva,
           - foreign[lg=lat-Latn]: spumax
           - sstrafow,
           - foreign[lg=lat-Latn]: anchora
-          - kot[va],
+          - kot
+          - supplied[reason=lost]: va
+          - ','
           - lb[n=2659]: Teplicze
           - foreign[lg=lat-Latn]: caldonia,
           - mítel
@@ -18224,7 +19115,11 @@
           - foreign[lg=lat-Latn]: intitulator
           - naznamenacz.
           - lb[n=2673]: Knyzna
-          - foreign[lg=lat-Latn]: lib<e>raria sit, scriptorium [...]
+          - foreign[lg=lat-Latn]:
+            - lib
+            - supplied[reason=omitted]: e
+            - 'raria sit, scriptorium '
+            - gap[reason=lost,quantity=3,unit=character]:
           - pisarna,
           - lb[n=2674]:
           - foreign[lg=lat-Latn]: Incaustum
