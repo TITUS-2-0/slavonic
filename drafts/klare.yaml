@@ -242,9 +242,9 @@
             - prwa.
           - lb[n=44]:
             - foreign[lg=lat-Latn]: Est ablativus
-            - odanek,
-            - foreign[lg=lat-Latn]: '['
-            - ro]dlyk
+            - 'odanek, '
+            - supplied[reason=lost]: ro
+            - dlyk
             - foreign[lg=lat-Latn]: genitivus,
           - lb[n=45]:
             - foreign[lg=lat-Latn]: Appositum
