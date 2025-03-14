@@ -12,11 +12,11 @@
           - jitáko to bódi.
       - s[n=3]:
         - Tè dua Misteriha principal.
-        - milestone[unit=subdivision]: 1
+        - milestone[unit=subdivision,n=1]
       - s[n=4]:
         - Tè parvi misterih iè dan sami Buh, dishtint tuv treh Persunah, chà ni sè
           clizzajo, Oggià, Sin, anù Sveti Duh, s nò samo bisido Santissima Trinitat.
-        - milestone[unit=subdivision]: 2
+        - milestone[unit=subdivision,n=2]
       - s[n=5]:
         - Tè sehond misterih, dà ta sehond persuna, chà to jè Sin, an jè se sdelal
           zlovech tuv svotè od Marie Vergine, an jè patel anù umar sa nas
@@ -29,7 +29,7 @@
     - p:
       - s[n=6]:
         - Dottrina od Jeshusa Cristusha.
-        - milestone[unit=subdivision]: 3
+        - milestone[unit=subdivision,n=3]
       - s[n=7]:
         - 'B: Dù te jè Creal, anù gial sè na tè Svit?'
       - s[n=8]:
@@ -321,7 +321,7 @@
       - s[n=116a]:
         - foreign[lg=lat-Latn]: Pater noster et
         - .
-        - milestone[unit=subdivision]: 4
+        - milestone[unit=subdivision,n=4]
       - s[n=117]:
         - Oggià nash cha ste tou Nebbe, Svete bodi uvashe İmme, pridi h an uvasha
           Crajuscha, bodi sdilana uvasha volontat, tachoj tou Nebbe pà sè nà Semgnì.
@@ -339,7 +339,7 @@
       - s[n=177]:
         - foreign[lg=lat-Latn]: Ave Maria
         - .
-        - milestone[unit=subdivision]: 5
+        - milestone[unit=subdivision,n=5]
       - s[n=120]:
         - 'Saludana bodite Maria punzhacha hrazije: Hosput je s uvami shihnana vi
           ste tami shanami anù shihnan je tè sat od uvashaha svotà jeshus'
@@ -356,7 +356,7 @@
       - s[n=178]:
         - foreign[lg=lat-Latn]: Credo
         - .
-        - milestone[unit=subdivision]: 6
+        - milestone[unit=subdivision,n=6]
       - s[n=123]:
         - J{.}à se verjen nà Boha Oggiò chà more uvsè
         - foreign[lg=deu-Latn]:
@@ -403,7 +403,7 @@
       - s[n=179]:
         - foreign[lg=lat-Latn]: Salve Regina
         - .
-        - milestone[unit=subdivision]: 7
+        - milestone[unit=subdivision,n=7]
       - s[n=138]:
         - Saludana bodite Crajzza, Matti od Mishericordie vita dolz nasha sperazha
           bodite saludana; Tah uvan mi uvpijamo bandini sinuvi od Eve.
@@ -426,7 +426,7 @@
       - s[n=180]:
         - foreign[lg=lat-Latn]: Angele Dei
         - .
-        - milestone[unit=subdivision]: 8
+        - milestone[unit=subdivision,n=8]
       - s[n=145]:
         - Agnul Boshij, h uvan cha jà si raccomandan, od shurigne dubrute, uvarite
           me, rezhinajte me, illuminajte me, hovarnajte me, din, anù nug.
@@ -436,7 +436,7 @@
     - p:
       - s[n=147]:
         - Att od Fede.
-        - milestone[unit=subdivision]: 9
+        - milestone[unit=subdivision,n=9]
       - s[n=148]:
         - Santiſsima Trinitat ja se verjen fermamentri dà vì stè dan sami Buh, tuv
           treh persunah realmentri dishtint, Oggià, nù Sin, anù Sveti Duh; moi hospud
@@ -450,7 +450,7 @@
     - p:
       - s[n=149]:
         - Att od Speranzhe.
-        - milestone[unit=subdivision]: 10
+        - milestone[unit=subdivision,n=10]
       - s[n=150]:
         - Moj Buh vi chà stè omnipotent, anù infinitamentri mishericordious, ia sè
           troshtan dà sauvojo meritou od jeshusha Cristusha nashaha Salvatorja, dà
@@ -460,7 +460,7 @@
     - p:
       - s[n=151]:
         - Att od Charitadi.
-        - milestone[unit=subdivision]: 11
+        - milestone[unit=subdivision,n=11]
       - s[n=152]:
         - Moj Buh ia uvan shincujen mo sarze, anù uvas aman tana uvsacho razijò, sauvojo
           tò cha vi stè tà dubruta infinit, degn di bit infinitamentri aman; anù tude
@@ -469,7 +469,7 @@
     - p:
       - s[n=153]:
         - Dolor od Contriziuni.
-        - milestone[unit=subdivision]: 12
+        - milestone[unit=subdivision,n=12]
       - s[n=154]:
         - Moj Buh iá si pintin, anù tò mi bojè anu vag displasha, cà si uvas offindinal
           uvas nò tilicho dubruto s memi hriſsi; anicoi dà ia sì subil Paravish, anù
@@ -479,7 +479,7 @@
         - anù se pubujshat; giò moi Buh ja bà tel rajshi uvmrit anicoi spet uvas offindinat.
   - section[n=12-1]:
     - p:
-      - milestone[unit=subdivision]: 13
+      - milestone[unit=subdivision,n=13]
       - s[n=155]:
         - 'B: Cacù se rezzè Rosharjo?'
       - s[n=156]:
@@ -502,7 +502,7 @@
     - p:
       - s[n=157]:
         - Part ta paruva Gaudious.
-        - milestone[unit=subdivision]: 14
+        - milestone[unit=subdivision,n=14]
       - s[n=158]:
         - 1. Cacù Maria Vergina concepila jesù Cristusha.
       - s[n=159]:
@@ -540,7 +540,7 @@
     - p:
       - s[n=163]:
         - Part ta sehont Dolorous
-        - milestone[unit=subdivision]: 15
+        - milestone[unit=subdivision,n=15]
       - s[n=164]:
         - 1. cacù Jesus Crishtush sputil Crij tou Uarte Getsemani
         - note:
@@ -559,7 +559,7 @@
     - p:
       - s[n=169]:
         - Part tretgna Glorios.
-        - milestone[unit=subdivision]: 16
+        - milestone[unit=subdivision,n=16]
       - s[n=170]:
         - 1. Cacù jesus je Resuscital od Smarti.
       - s[n=171]:

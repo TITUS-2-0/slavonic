@@ -50,9 +50,9 @@
 							<foreign xml:lang="deu-Latn">S. 181:</foreign>
 							<lb n="1" />jitáko to bódi.</note>
 					</s>
-					<s n="3" xml:id="section-1-p-2-s-3">Tè dua Misteriha principal.<milestone unit="subdivision" xml:id="section-1-p-2-s-3-milestone-1" n="1" />
+					<s n="3" xml:id="section-1-p-2-s-3">Tè dua Misteriha principal.<milestone unit="subdivision" n="1" xml:id="section-1-p-2-s-3-milestone-1" />
 					</s>
-					<s n="4" xml:id="section-1-p-2-s-4">Tè parvi misterih iè dan sami Buh, dishtint tuv treh Persunah, chà ni sè clizzajo, Oggià, Sin, anù Sveti Duh, s nò samo bisido Santissima Trinitat.<milestone unit="subdivision" xml:id="section-1-p-2-s-4-milestone-2" n="2" />
+					<s n="4" xml:id="section-1-p-2-s-4">Tè parvi misterih iè dan sami Buh, dishtint tuv treh Persunah, chà ni sè clizzajo, Oggià, Sin, anù Sveti Duh, s nò samo bisido Santissima Trinitat.<milestone unit="subdivision" n="2" xml:id="section-1-p-2-s-4-milestone-2" />
 					</s>
 					<s n="5" xml:id="section-1-p-2-s-5">Tè sehond misterih, dà ta sehond persuna, chà to jè Sin, an jè se sdelal zlovech tuv svotè od Marie Vergine, an jè patel anù umar sa nas<note xml:id="section-1-p-2-s-5-note-2">
 							<foreign xml:lang="deu-Latn">S. 182:</foreign>
@@ -61,7 +61,7 @@
 			</div>
 			<div n="2" xml:id="section-2" type="section" data-level="1">
 				<p xml:id="section-2-p-3">
-					<s n="6" xml:id="section-2-p-3-s-6">Dottrina od Jeshusa Cristusha.<milestone unit="subdivision" xml:id="section-2-p-3-s-6-milestone-3" n="3" />
+					<s n="6" xml:id="section-2-p-3-s-6">Dottrina od Jeshusa Cristusha.<milestone unit="subdivision" n="3" xml:id="section-2-p-3-s-6-milestone-3" />
 					</s>
 					<s n="7" xml:id="section-2-p-3-s-7">B: Dù te jè Creal, anù gial sè na tè Svit?</s>
 					<s n="8" xml:id="section-2-p-3-s-8">R. Buh.</s>
@@ -197,7 +197,7 @@
 					<s n="115" xml:id="section-3-p-4-s-115">Na İmme od Oggiè, nù od Sinu, anù od Svetaha Duha.</s>
 					<s n="116" xml:id="section-3-p-4-s-116">Tachu bodi.!!.</s>
 					<s n="116a" xml:id="section-3-p-4-s-117">
-						<foreign xml:lang="lat-Latn">Pater noster et</foreign> .<milestone unit="subdivision" xml:id="section-3-p-4-s-117-milestone-4" n="4" />
+						<foreign xml:lang="lat-Latn">Pater noster et</foreign> .<milestone unit="subdivision" n="4" xml:id="section-3-p-4-s-117-milestone-4" />
 					</s>
 					<s n="117" xml:id="section-3-p-4-s-118">Oggià nash cha ste tou Nebbe, Svete bodi uvashe İmme, pridi h an uvasha Crajuscha, bodi sdilana uvasha volontat, tachoj tou Nebbe pà sè nà Semgnì.</s>
 					<s n="118" xml:id="section-3-p-4-s-119">Dajte nan nash uvsachidigni Cruh, anù otpustite nan nashe dolhe taccoj mi odpushgiamo nashin dushnichen; anù ni pijte nas<note xml:id="section-3-p-4-s-119-note-14">
@@ -209,7 +209,7 @@
 			<div n="4" xml:id="section-4" type="section" data-level="1">
 				<p xml:id="section-4-p-5">
 					<s n="177" xml:id="section-4-p-5-s-121">
-						<foreign xml:lang="lat-Latn">Ave Maria</foreign> .<milestone unit="subdivision" xml:id="section-4-p-5-s-121-milestone-5" n="5" />
+						<foreign xml:lang="lat-Latn">Ave Maria</foreign> .<milestone unit="subdivision" n="5" xml:id="section-4-p-5-s-121-milestone-5" />
 					</s>
 					<s n="120" xml:id="section-4-p-5-s-122">Saludana bodite Maria punzhacha hrazije: Hosput je s uvami shihnana vi ste tami shanami anù shihnan je tè sat od uvashaha svotà jeshus<note xml:id="section-4-p-5-s-122-note-15">
 							<lb n="15" />Jéžuša</note> .</s>
@@ -220,7 +220,7 @@
 			<div n="5" xml:id="section-5" type="section" data-level="1">
 				<p xml:id="section-5-p-6">
 					<s n="178" xml:id="section-5-p-6-s-125">
-						<foreign xml:lang="lat-Latn">Credo</foreign> .<milestone unit="subdivision" xml:id="section-5-p-6-s-125-milestone-6" n="6" />
+						<foreign xml:lang="lat-Latn">Credo</foreign> .<milestone unit="subdivision" n="6" xml:id="section-5-p-6-s-125-milestone-6" />
 					</s>
 					<s n="123" xml:id="section-5-p-6-s-126">J{.}à se verjen nà Boha Oggiò chà more uvsè <foreign xml:lang="deu-Latn">
 							<note xml:id="section-5-p-6-s-126-note-16">
@@ -248,7 +248,7 @@
 			<div n="6" xml:id="section-6" type="section" data-level="1">
 				<p xml:id="section-6-p-7">
 					<s n="179" xml:id="section-6-p-7-s-141">
-						<foreign xml:lang="lat-Latn">Salve Regina</foreign> .<milestone unit="subdivision" xml:id="section-6-p-7-s-141-milestone-7" n="7" />
+						<foreign xml:lang="lat-Latn">Salve Regina</foreign> .<milestone unit="subdivision" n="7" xml:id="section-6-p-7-s-141-milestone-7" />
 					</s>
 					<s n="138" xml:id="section-6-p-7-s-142">Saludana bodite Crajzza, Matti od Mishericordie vita dolz nasha sperazha bodite saludana; Tah uvan mi uvpijamo bandini sinuvi od Eve.</s>
 					<s n="139" xml:id="section-6-p-7-s-143">Tah uvan mi uvsdahujamo toshni anù jozog, se u tì dolini od solsj.</s>
@@ -262,7 +262,7 @@
 			<div n="7" xml:id="section-7" type="section" data-level="1">
 				<p xml:id="section-7-p-8">
 					<s n="180" xml:id="section-7-p-8-s-149">
-						<foreign xml:lang="lat-Latn">Angele Dei</foreign> .<milestone unit="subdivision" xml:id="section-7-p-8-s-149-milestone-8" n="8" />
+						<foreign xml:lang="lat-Latn">Angele Dei</foreign> .<milestone unit="subdivision" n="8" xml:id="section-7-p-8-s-149-milestone-8" />
 					</s>
 					<s n="145" xml:id="section-7-p-8-s-150">Agnul Boshij, h uvan cha jà si raccomandan, od shurigne dubrute, uvarite me, rezhinajte me, illuminajte me, hovarnajte me, din, anù nug.</s>
 					<s n="146" xml:id="section-7-p-8-s-151">Taccù bodi.</s>
@@ -270,28 +270,28 @@
 			</div>
 			<div n="8" xml:id="section-8" type="section" data-level="1">
 				<p xml:id="section-8-p-9">
-					<s n="147" xml:id="section-8-p-9-s-152">Att od Fede.<milestone unit="subdivision" xml:id="section-8-p-9-s-152-milestone-9" n="9" />
+					<s n="147" xml:id="section-8-p-9-s-152">Att od Fede.<milestone unit="subdivision" n="9" xml:id="section-8-p-9-s-152-milestone-9" />
 					</s>
 					<s n="148" xml:id="section-8-p-9-s-153">Santiſsima Trinitat ja se verjen fermamentri dà vì stè dan sami Buh, tuv treh persunah realmentri dishtint, Oggià, nù Sin, anù Sveti Duh; moi hospud Giesù Crist ja se verjen dà vi stè dan sami Buh, ti cà se sdelal pa Zlovech, anù uvmar tana Crishu, sa nashe hrihe, resuscital anù shal un Paravish; moj Buh ja se verjen dà ti cha uvmarje touv dnin hriſse mortal hre sa simprj nutar v Peclò, anù ti cha uvmarje tou uvaſsi hrazzj hre sa simpri uvn Paravish; moj Buh ja se verjen uvsè sò anu vusè tò cha se verje Sveta Circouv Cattolich, sauvocha vi stè veritat infalibel stè nan rechal, anù nan rivellal.</s>
 				</p>
 			</div>
 			<div n="9" xml:id="section-9" type="section" data-level="1">
 				<p xml:id="section-9-p-10">
-					<s n="149" xml:id="section-9-p-10-s-154">Att od Speranzhe.<milestone unit="subdivision" xml:id="section-9-p-10-s-154-milestone-10" n="10" />
+					<s n="149" xml:id="section-9-p-10-s-154">Att od Speranzhe.<milestone unit="subdivision" n="10" xml:id="section-9-p-10-s-154-milestone-10" />
 					</s>
 					<s n="150" xml:id="section-9-p-10-s-155">Moj Buh vi chà stè omnipotent, anù infinitamentri mishericordious, ia sè troshtan dà sauvojo meritou od jeshusha Cristusha nashaha Salvatorja, dà vi mi datte nò vito etern, coj ia bon dellal opere od naha ver Cristiana taccoj ja preponinan di je sdelat s uvasho sveto hrazijo.</s>
 				</p>
 			</div>
 			<div n="10" xml:id="section-10" type="section" data-level="1">
 				<p xml:id="section-10-p-11">
-					<s n="151" xml:id="section-10-p-11-s-156">Att od Charitadi.<milestone unit="subdivision" xml:id="section-10-p-11-s-156-milestone-11" n="11" />
+					<s n="151" xml:id="section-10-p-11-s-156">Att od Charitadi.<milestone unit="subdivision" n="11" xml:id="section-10-p-11-s-156-milestone-11" />
 					</s>
 					<s n="152" xml:id="section-10-p-11-s-157">Moj Buh ia uvan shincujen mo sarze, anù uvas aman tana uvsacho razijò, sauvojo tò cha vi stè tà dubruta infinit, degn di bit infinitamentri aman; anù tude ja aman miha blishgnaha tacoj mlè ishtes, sauvojo uvas moj Buh.</s>
 				</p>
 			</div>
 			<div n="11" xml:id="section-11" type="section" data-level="1">
 				<p xml:id="section-11-p-12">
-					<s n="153" xml:id="section-11-p-12-s-158">Dolor od Contriziuni.<milestone unit="subdivision" xml:id="section-11-p-12-s-158-milestone-12" n="12" />
+					<s n="153" xml:id="section-11-p-12-s-158">Dolor od Contriziuni.<milestone unit="subdivision" n="12" xml:id="section-11-p-12-s-158-milestone-12" />
 					</s>
 					<s n="154" xml:id="section-11-p-12-s-159">Moj Buh iá si pintin, anù tò mi bojè anu vag displasha, cà si uvas offindinal uvas nò tilicho dubruto s memi hriſsi; anicoi dà ia sì subil Paravish, anù samaratal Peclò, però ià preponinan fermamentri di sè emendat<note xml:id="section-11-p-12-s-159-note-18">
 							<lb n="18" />zmendàt</note> anù se pubujshat; giò moi Buh ja bà tel rajshi uvmrit anicoi spet uvas offindinat.</s>
@@ -299,7 +299,7 @@
 			</div>
 			<div n="12-1" xml:id="section-12" type="section" data-level="1">
 				<p xml:id="section-12-p-13">
-					<milestone unit="subdivision" xml:id="section-12-p-13-milestone-13" n="13" />
+					<milestone unit="subdivision" n="13" xml:id="section-12-p-13-milestone-13" />
 					<s n="155" xml:id="section-12-p-13-s-160">B: Cacù se rezzè Rosharjo?</s>
 					<s n="156" xml:id="section-12-p-13-s-161">R: Se rezzhe 150.<note xml:id="section-12-p-13-s-161-note-19">
 							<lb n="19" />dànčantanárnupaterdòu_</note>
@@ -311,7 +311,7 @@
 			</div>
 			<div n="12-2" xml:id="section-13" type="section" data-level="1">
 				<p xml:id="section-13-p-14">
-					<s n="157" xml:id="section-13-p-14-s-162">Part ta paruva Gaudious.<milestone unit="subdivision" xml:id="section-13-p-14-s-162-milestone-14" n="14" />
+					<s n="157" xml:id="section-13-p-14-s-162">Part ta paruva Gaudious.<milestone unit="subdivision" n="14" xml:id="section-13-p-14-s-162-milestone-14" />
 					</s>
 					<s n="158" xml:id="section-13-p-14-s-163">1. Cacù Maria Vergina concepila jesù Cristusha.</s>
 					<s n="159" xml:id="section-13-p-14-s-164">2. cacu Maria Vergina idu<note xml:id="section-13-p-14-s-164-note-22">
@@ -333,7 +333,7 @@
 			</div>
 			<div n="12-3" xml:id="section-14" type="section" data-level="1">
 				<p xml:id="section-14-p-15">
-					<s n="163" xml:id="section-14-p-15-s-168">Part ta sehont Dolorous<milestone unit="subdivision" xml:id="section-14-p-15-s-168-milestone-15" n="15" />
+					<s n="163" xml:id="section-14-p-15-s-168">Part ta sehont Dolorous<milestone unit="subdivision" n="15" xml:id="section-14-p-15-s-168-milestone-15" />
 					</s>
 					<s n="164" xml:id="section-14-p-15-s-169">1. cacù Jesus Crishtush sputil Crij tou Uarte Getsemani<note xml:id="section-14-p-15-s-169-note-26">
 							<foreign xml:lang="deu-Latn">S. 207:</foreign>
@@ -346,7 +346,7 @@
 			</div>
 			<div n="12-4" xml:id="section-15" type="section" data-level="1">
 				<p xml:id="section-15-p-16">
-					<s n="169" xml:id="section-15-p-16-s-174">Part tretgna Glorios.<milestone unit="subdivision" xml:id="section-15-p-16-s-174-milestone-16" n="16" />
+					<s n="169" xml:id="section-15-p-16-s-174">Part tretgna Glorios.<milestone unit="subdivision" n="16" xml:id="section-15-p-16-s-174-milestone-16" />
 					</s>
 					<s n="170" xml:id="section-15-p-16-s-175">1. Cacù jesus je Resuscital od Smarti.</s>
 					<s n="171" xml:id="section-15-p-16-s-176">2. Cacù je shal dopo 40.<note xml:id="section-15-p-16-s-176-note-27">
