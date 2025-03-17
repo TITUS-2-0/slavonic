@@ -44,12 +44,12 @@
 			</p>
 		</front>
 		<body>
+			<s n="2" xml:id="s-2">Tacu bodi.<note xml:id="s-2-note-1">
+					<foreign xml:lang="deu-Latn">S. 181:</foreign>
+					<lb n="1" />jitáko to bódi.</note>
+			</s>
 			<div n="1" xml:id="section-1" type="section" data-level="1">
 				<p xml:id="section-1-p-2">
-					<s n="2" xml:id="section-1-p-2-s-2">Tacu bodi.<note xml:id="section-1-p-2-s-2-note-1">
-							<foreign xml:lang="deu-Latn">S. 181:</foreign>
-							<lb n="1" />jitáko to bódi.</note>
-					</s>
 					<s n="3" xml:id="section-1-p-2-s-3">Tè dua Misteriha principal.<milestone unit="subdivision" n="1" xml:id="section-1-p-2-s-3-milestone-1" />
 					</s>
 					<s n="4" xml:id="section-1-p-2-s-4">Tè parvi misterih iè dan sami Buh, dishtint tuv treh Persunah, chà ni sè clizzajo, Oggià, Sin, anù Sveti Duh, s nò samo bisido Santissima Trinitat.<milestone unit="subdivision" n="2" xml:id="section-1-p-2-s-4-milestone-2" />
