@@ -1,589 +1,2831 @@
-- front:
-  - p:
-    - s[n=1]:
-      - Nà ime od Oggiè, od Sinu, anù od Svetaha Duha.
 - body:
+  - foreign[lg=deu-Latn]: |-
+      Notes have been numbered.
+      Corrections and additions to the 1875 edition are incorporated into the main text and tagged as such.
+      Not maintained are: typographical distinction of archaisms and Romance and German loans, paragraph numbers, indications of line breaks in the manuscript, indications of writing errors.
+  - foreign[lg=deu-Latn]: |-
+      In the present TITUS edition, the following replacements have been made:
+         Russian e-oborotnoe   by   {e}
+         Greek omega      by   {o}
+         Serbian dje      by   {dj}
+         nj ligature      by   {nj}
+         oe ligature      by   æ
+         acute accent      by   '
+         dot above      by   {.}
+         bar below (underline macron)   by   _
+         inverted breve below   by   __
+      The two-letter-codes in the lemmatic forms has been replaced by one-letter codes (vowels with accent marks, consonants with haceks etc.). J.G.
+  - version: I
+  - s[n=1]:
+    - Nà
+    - ime
+    - od
+    - Oggiè
+    - ', '
+    - od
+    - Sinu
+    - ', '
+    - anù
+    - od
+    - Svetaha
+    - Duha
+    - .
   - section[n=1]:
-    - p:
-      - s[n=2]:
-        - Tacu bodi.
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 181:'
-          - jitáko to bódi.
-      - s[n=3]:
-        - Tè dua Misteriha principal.
-        - milestone[unit=subdivision,n=1]
-      - s[n=4]:
-        - Tè parvi misterih iè dan sami Buh, dishtint tuv treh Persunah, chà ni sè
-          clizzajo, Oggià, Sin, anù Sveti Duh, s nò samo bisido Santissima Trinitat.
-        - milestone[unit=subdivision,n=2]
-      - s[n=5]:
-        - Tè sehond misterih, dà ta sehond persuna, chà to jè Sin, an jè se sdelal
-          zlovech tuv svotè od Marie Vergine, an jè patel anù umar sa nas
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 182:'
-          - zá nas, rîšnike.
-        - tanà Crishu, an sè clizze Giesù Crisht, nash Redentor, ver Buh, anù ver
-          zlovech.
+    - s[n=2]:
+      - Tacu
+      - bodi
+      - '. '
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 181:'
+        - jitáko to bódi.
+    - s[n=3]:
+      - Tè
+      - dua
+      - Misteriha
+      - principal
+      - .
+      - milestone[unit=subdivision,n=1]
+    - s[n=4]:
+      - Tè
+      - parvi
+      - misterih
+      - iè
+      - dan
+      - sami
+      - Buh
+      - ', '
+      - dishtint
+      - tuv
+      - treh
+      - Persunah
+      - ', '
+      - chà
+      - ni
+      - sè
+      - clizzajo
+      - ', '
+      - Oggià
+      - ', '
+      - Sin
+      - ', '
+      - anù
+      - Sveti
+      - Duh
+      - ', '
+      - s
+      - nò
+      - samo
+      - bisido
+      - Santissima
+      - Trinitat
+      - .
+      - milestone[unit=subdivision,n=2]
+    - s[n=5]:
+      - Tè
+      - sehond
+      - misterih
+      - ', '
+      - dà
+      - ta
+      - sehond
+      - persuna
+      - ', '
+      - chà
+      - to
+      - jè
+      - Sin
+      - ', '
+      - an
+      - jè
+      - se
+      - sdelal
+      - zlovech
+      - tuv
+      - svotè
+      - od
+      - Marie
+      - Vergine
+      - ', '
+      - an
+      - jè
+      - patel
+      - anù
+      - umar
+      - sa
+      - nas
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 182:'
+        - zá nas, rîšnike.
+      - tanà
+      - Crishu
+      - ', '
+      - an
+      - sè
+      - clizze
+      - Giesù
+      - Crisht
+      - ', '
+      - nash
+      - Redentor
+      - ', '
+      - ver
+      - Buh
+      - ', '
+      - anù
+      - ver
+      - zlovech
+      - .
   - section[n=2]:
-    - p:
-      - s[n=6]:
-        - Dottrina od Jeshusa Cristusha.
-        - milestone[unit=subdivision,n=3]
-      - s[n=7]:
-        - 'B: Dù te jè Creal, anù gial sè na tè Svit?'
-      - s[n=8]:
-        - R. Buh.
-      - s[n=9]:
-        - 'B: Dù jè Buh?'
-      - s[n=10]:
-        - 'R: Creator anù hospudin od Neba, anù od Semgnè.'
-      - s[n=11]:
-        - 'B: Pocaj dà an ie tè Creal?'
-      - s[n=12]:
-        - 'R: Par dà ià ha snaj, anù ha amai, anù mu serviaj, se nà tin Svetu, anù
-          ha uvshivaj sa limar tuv Paravishe.'
-      - s[n=13]:
-        - 'B: Chè jè Buh?'
-      - s[n=14]:
-        - 'R: An jè tuv Paravishe, tanà Simgnè, anu tuv uvsachin meste.'
-      - s[n=15]:
-        - 'B: Gij je dan sam, aliboj vag Bohouv?'
-      - s[n=16]:
-        - 'R: jè dan sam, mà an jè dishtint tuv treh persunah, cà ni se clizho Oggià,
-          anù Sin, anù Sveti Duh, ca to je Santiſshima Trinitat.'
-      - s[n=17]:
-        - 'B: Sè tri persune, gij_ tò sò trij Bohovi?'
-      - s[n=18]:
-        - 'R: Nè ca je dan sam, savojo cà usacha od seh treh Persun, mà to ishtes
-          Esenzo, eshtes Soshtazo, ishtes Divinitat.'
-      - s[n=19]:
-        - 'B: Tami semi Persunami, gij_ jè chira boje vinzha?'
-      - s[n=20]:
-        - 'R: Ni sò uvsè raune tuv useh gnih perfeziunah.'
-      - s[n=21]:
-        - 'B: Od seh treh Persun, chira se je sdelala zhlovech?'
-      - s[n=22]:
-        - 'R: Tà sehond cà to jè Sin.'
-      - s[n=23]:
-        - 'B: chacu Sin Boshij, se sdelal zhlovech?'
-      - s[n=24]:
-        - 'R: An je usel dan svot, anù nò Dusho, tacoj mamo mi tuv shvote'
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 183:'
-          - tòpot sércon puríšim.
-        - od Marie Vergine, sas virtudijo od Svetaha Duha.
-      - s[n=25]:
-        - 'B: Chacu Sin Boshij, sè clizze sdilan zhlovech?'
-      - s[n=26]:
-        - 'R: An sè clizze Gisù Crisht, nash Redentor, ver Buh, anù ver zhlovech.'
-      - s[n=27]:
-        - 'B: Pocaj an jè se sdelal zhlovech?'
-      - s[n=28]:
-        - 'R: Par nas liberat s gnahà smartjo od Peclà, anù nan meritat nò vito sa
-          limar.'
-      - s[n=29]:
-        - 'B: chè je Giesu Crishst?'
-      - s[n=30]:
-        - 'R: Taccoj Buh an jè pousorot, taccoj Buh, anù zhlovech, an jè tuv Paravishe,
-          anù tuv Santiſsim Sacraminte.'
-      - s[n=31]:
-        - 'B: Coi jė touv Santiſsim Sacraminte?'
-      - s[n=32]:
-        - 'R: jė ver Shvot, anù Crij_, anu Dusha, anù Divinitat od Jeshusa Chrishtusha
-          tapod temi shpeciami od Cruha, anù od Vina.'
-      - s[n=33]:
-        - 'B: Coj to sè intinda te specie od Cruha, anu od Vina?'
-      - s[n=34]:
-        - 'R: Se intinda to cha se vidi, anù cushuje, cha to je color, savor, anù
-          quantitat.'
-      - s[n=35]:
-        - 'B: Gij_ tuv Oshtij consecranij, iè pà ta shostaza od Cruha?'
-      - s[n=36]:
-        - 'R: Nè chà na jè uvsà smudana anu transhustanziana tuv Svot, anù Crij od
-          Giesù Crishtusha s temi bisidami od Svete Consecraziuni.'
-      - s[n=37]:
-        - 'B: Coj se slomi Ostio, gij_ se slomi pa Svot od Giesù Crishtusha?'
-      - s[n=38]:
-        - 'R: Nè cà se slomi macoj tè Specie od Cruha.'
-      - s[n=39]:
-        - 'B: Coj sè ni slomi Svot od Giesù Crishtusha, touv chirj parti od te slomgnane
-          Oshtie Svot ostaje.'
-      - s[n=40]:
-        - 'R: An ostane zill tuv usachin droptu.'
-      - s[n=41]:
-        - 'B: Caccu mara bit preparan, par degnamentri sè Cummuniat?'
-      - s[n=42]:
-        - 'R: Mara bit sapostnà, od pul nogij sè almanco, dardu tu cha gie tit se
-          Cummuniat, anù se Spovedat bà bil touv hrise mortal, anù sdelat dan Att
-          od Fede, Speranzhe, od Caritadi, anù od Umiltadi prugia Santishim Sacramintu.'
-      - s[n=43]:
-        - 'B: Chilicu rizij tò gije par sdelat dan dobar Spuvet?'
-      - s[n=44]:
-        - 'R: Pet.'
-      - s[n=45]:
-        - 'B: Chiri to sò?'
-      - s[n=46]:
-        - 'R: 1. Sè mara smislit sve hrihe.'
-      - s[n=47]:
-        - 2. Marà met dolor cha je offindinal Boha.
-      - s[n=48]:
-        - 3. Marà sdelat proponiment nì offindinat vag Boha.
-      - s[n=49]:
-        - 4. Marà Spovedat clar svè hrihe Confesorju.
-      - s[n=50]:
-        - 5. Marà sodiſhfat pinitinzho
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 184:'
-          - kà spüvydnýk je dàl.
-        - .
-      - s[n=51]:
-        - 'B: Ti chà bà se spovedal senzha dolorja, aliboj proponiminta coj an bà
-          sdelal?'
-      - s[n=52]:
-        - 'R: Dan sacrilegij dan hrih Mortal.'
-      - s[n=53]:
-        - 'B: Chiri so ti chà hrejo nutar Uv peclò?'
-      - s[n=54]:
-        - 'R: Ti cha uvmarjo tuv dnin hrise mortal.'
-      - s[n=55]:
-        - 'B: Coj se dilla tuv Peclè?'
-      - s[n=56]:
-        - 'R: Se pati'
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 185:'
-          - s{e} patí.
-        - viliche torminte, anù sè shijè S hudigij.
-      - s[n=57]:
-        - 'B: Chiri sò ti chà hrejo uvn Paravis?'
-      - s[n=58]:
-        - 'R: Ti chà uvmarjo tuv hrazij Bohovij, anù chà ni ni nimajo nicar purhat
-          tuv Purgatorise.'
-      - s[n=59]:
-        - 'B: Coj se dilla tuv Paravishe?'
-      - s[n=60]:
-        - 'R: Sè uvshiua Boha tuv companij od Agnolouv, anù od teh Svetih, sà uvsò
-          Eternitat.'
-      - s[n=61]:
-        - 'B: Coj marà sè veruvat dan Cristian, cha giè tit uvn Paravish?'
-      - s[n=62]:
-        - 'R: Uvsè to chà Buh je rivelal Sveti Matirij Cerchvè, Cattolich, Aposhtolich,
-          Romanchi.'
-      - s[n=63]:
-        - 'B: Coj marà vedet dan dobar Chrishtian?'
-      - s[n=64]:
-        - 'R: Uvsè tò cha se contigni tou'
-        - foreign[lg=lat-Latn]: Credo
-        - ', anù tou'
-        - foreign[lg=lat-Latn]: Pater noster
-        - ', anù tou Comandatmiteh Bohovih, anù od Svete Cerchvè anù tuv Sacraminteh
-          Svetih.'
-      - s[n=65]:
-        - 'B: Coj je oblejan dan Crishtian, darshat anù oservat par se shalvat?'
-      - s[n=66]:
-        - 'R: An marà darshat, anù oſservat uvse Comandaminte Bohove, anù od Svete
-          Matere Cerchvè.'
-      - s[n=67]:
-        - 'B: Cacu marà se shivit dan Chrishtian?'
-      - s[n=68]:
-        - 'R: Tuv strahu Bohuvin.'
-      - s[n=69]:
-        - 'B: Chachu se marà shivit tou strahu Bohovin'
-      - s[n=70]:
-        - 'R: Se mara uvaruat od hriha, anù se esercitat touv Virtudah.'
-      - s[n=71]:
-        - 'B: Chilicu sò Virtut.'
-      - s[n=72]:
-        - 'R: Sò sedan trì Teologal, anu shtiri Cardinal.'
-      - s[n=73]:
-        - 'B: Ricite mi tè tri Teologal?'
-      - s[n=74]:
-        - 'R: To jè Feda, Speranza, anù Caritat.'
-      - s[n=75]:
-        - 'B: Ricite mi tè druhe moral, alìboi Cardinal.'
-      - s[n=76]:
-        - 'R: Tè shtiri Cardinal sè clizajo justizia, Temperanza, Forteza, anù Prudenza.'
-      - s[n=77]:
-        - 'B: Choj marà sdelat dan Christian, prit nicoj tit spat.'
-      - s[n=78]:
-        - 'R: An marà sdelat dan eſsham'
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 186:'
-          - spomè{nj} (ežáme).
-        - od gnahà conshijnzie, cha to jè si pomislit, cacu an je prihnal tè din,
-          od pujutreh dardu shvezera, anù gij an bà bil sdelal cach hrih, an marà
-          sdelat intant nò Contriziun, anu darshat namez
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 187:'
-          - na mènc.
-        - dardu tù chà an se spuvj, anù se spovedat prit cà an more.
-      - s[n=79]:
-        - 'B: Chilicu sò Comandamintouv Bohovih?'
-      - s[n=80]:
-        - 'R: Sò desat.'
-      - s[n=81]:
-        - 'B: chiri tò sò.'
-      - s[n=82]:
-        - 1. Verij se nà dnohà samaha Boha.
-      - s[n=83]:
-        - 2. Nì uvpamaj Bohovaha İmmana pres potribe.
-      - s[n=84]:
-        - 3. Svetuaj tè din Bohouv.
-      - s[n=85]:
-        - 4. Onoraj Oggiò, nù Mater.
-      - s[n=86]:
-        - 5. Nì uvbiuvaj.
-      - s[n=87]:
-        - 6. Ni hrishi svahunzhijo s trivin mison.
-      - s[n=88]:
-        - 7. Nì cradi.
-      - s[n=89]:
-        - 8. Ni lashi, aliboj falz teshtimoniazho
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 188:'
-          - ny dæ'laj fàlš teštimo{nj}jánčo.
-        - .
-      - s[n=90]:
-        - 9. Nì dishidirat teh drusih shin.
-      - s[n=91]:
-        - 10. Nì dishidirat teh drusih roube.
-      - s[n=92]:
-        - 'B: Chilicù so Comandamintouv od Svete Cerchvè.'
-      - s[n=93]:
-        - 'R: Sò pet.'
-      - s[n=94]:
-        - 'B: Chiri to sò?'
-      - s[n=95]:
-        - 'R: 1. Zut misho uvsacho Nedejo, anù quasane Nidile.'
-      - s[n=96]:
-        - 2. Postit
-        - note:
-          - p{o}stìt
-        - tuv Poste, Villije, anù Qutri
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 190:'
-          - kwátri (ku__átri).
-        - nì jest miſsa ni U petach, nù Uv sabboto.
-      - s[n=97]:
-        - 3. Sè Spovedat almancho nur Uv lette, anù sè Communiat ò Villichj noggij.
-      - s[n=98]:
-        - 4. Nì porazhat od tè parve Nedeje
-        - note:
-          - nædæ'j{e
-        - od Advinta dardu Pernahat, anù tè parve Sride postà
-        - note:
-          - postà
-        - dardu tò Nedejo pò Villich noggij.
-      - s[n=99]:
-        - 5. Saplatit Disitino.
-      - s[n=100]:
-        - 'B: chilicu sò Sacramintouv od Svete Cerchvè inshtituinj'
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 193:'
-          - '{dj}âni nûtur.'
-        - od jeshusha Cristusha sà sdrauje od nashe Dushe.
-      - s[n=101]:
-        - 'R: Sò Sedan.'
-      - s[n=102]:
-        - 'B: Chiri to sò.'
-      - s[n=103]:
-        - 1. je Carst cha nas dilla Christiane.
-      - s[n=104]:
-        - 2. je Birmagne cha nan daje hrazhjo deventat boje perfet Chrishtianen.
-      - s[n=105]:
-        - 3. je Santiſsim Sacrament cha ridj nasho Dusho, anù io conservaua tuv hrazhi.
-      - s[n=106]:
-        - 4. jè Spuvet, cha nan nishbrishuje hrihe.
-      - s[n=107]:
-        - 5. je Svete Oije, cha nan pomaha uvmrit tou hrazj, anu pà vag zhas daje
-          sdrauje svottù.
-      - s[n=108]:
-        - 6. jè Erove Shihnuvagne, chà in daje potishtat di dellat tè Sveti Funziuni.
-      - s[n=109]:
-        - 7. je Matrimonih cha daje tin porazhanin hrazio uvridit pò Chrishtianschin
-          sve ottroche touv pashij anù tou Caritadi
-      - s[n=110]:
-        - 'B: chire so te sadgne rezhj od Zlovecha?'
-      - s[n=111]:
-        - 'R: 1. jè Smart.'
-      - s[n=112]:
-        - 2. jè Sodgni din.
-      - s[n=113]:
-        - 3. jè Pechlò.
-      - s[n=114]:
-        - 4. je Paravish.
+    - s[n=6]:
+      - Dottrina
+      - od
+      - Jeshusa
+      - Cristusha
+      - .
+      - milestone[unit=subdivision,n=3]
+    - s[n=7]:
+      - B
+      - ': '
+      - Dù
+      - te
+      - jè
+      - Creal
+      - ', '
+      - anù
+      - gial
+      - sè
+      - na
+      - tè
+      - Svit
+      - '?'
+    - s[n=8]:
+      - R
+      - '. '
+      - Buh
+      - .
+    - s[n=9]:
+      - B
+      - ': '
+      - Dù
+      - jè
+      - Buh
+      - '?'
+    - s[n=10]:
+      - R
+      - ': '
+      - Creator
+      - anù
+      - hospudin
+      - od
+      - Neba
+      - ', '
+      - anù
+      - od
+      - Semgnè
+      - .
+    - s[n=11]:
+      - B
+      - ': '
+      - Pocaj
+      - dà
+      - an
+      - ie
+      - tè
+      - Creal
+      - '?'
+    - s[n=12]:
+      - R
+      - ': '
+      - Par
+      - dà
+      - ià
+      - ha
+      - snaj
+      - ', '
+      - anù
+      - ha
+      - amai
+      - ', '
+      - anù
+      - mu
+      - serviaj
+      - ', '
+      - se
+      - nà
+      - tin
+      - Svetu
+      - ', '
+      - anù
+      - ha
+      - uvshivaj
+      - sa
+      - limar
+      - tuv
+      - Paravishe
+      - .
+    - s[n=13]:
+      - B
+      - ': '
+      - Chè
+      - jè
+      - Buh
+      - '?'
+    - s[n=14]:
+      - R
+      - ': '
+      - An
+      - jè
+      - tuv
+      - Paravishe
+      - ', '
+      - tanà
+      - Simgnè
+      - ', '
+      - anu
+      - tuv
+      - uvsachin
+      - meste
+      - .
+    - s[n=15]:
+      - B
+      - ': '
+      - Gij
+      - je
+      - dan
+      - sam
+      - ', '
+      - aliboj
+      - vag
+      - Bohouv
+      - '?'
+    - s[n=16]:
+      - R
+      - ': '
+      - jè
+      - dan
+      - sam
+      - ', '
+      - mà
+      - an
+      - jè
+      - dishtint
+      - tuv
+      - treh
+      - persunah
+      - ', '
+      - cà
+      - ni
+      - se
+      - clizho
+      - Oggià
+      - ', '
+      - anù
+      - Sin
+      - ', '
+      - anù
+      - Sveti
+      - Duh
+      - ', '
+      - ca
+      - to
+      - je
+      - Santiſshima
+      - Trinitat
+      - .
+    - s[n=17]:
+      - B
+      - ': '
+      - Sè
+      - tri
+      - persune
+      - ', '
+      - gij_
+      - tò
+      - sò
+      - trij
+      - Bohovi
+      - '?'
+    - s[n=18]:
+      - R
+      - ': '
+      - Nè
+      - ca
+      - je
+      - dan
+      - sam
+      - ', '
+      - savojo
+      - cà
+      - usacha
+      - od
+      - seh
+      - treh
+      - Persun
+      - ', '
+      - mà
+      - to
+      - ishtes
+      - Esenzo
+      - ', '
+      - eshtes
+      - Soshtazo
+      - ', '
+      - ishtes
+      - Divinitat
+      - .
+    - s[n=19]:
+      - B
+      - ': '
+      - Tami
+      - semi
+      - Persunami
+      - ', '
+      - gij_
+      - jè
+      - chira
+      - boje
+      - vinzha
+      - '?'
+    - s[n=20]:
+      - R
+      - ': '
+      - Ni
+      - sò
+      - uvsè
+      - raune
+      - tuv
+      - useh
+      - gnih
+      - perfeziunah
+      - .
+    - s[n=21]:
+      - B
+      - ': '
+      - Od
+      - seh
+      - treh
+      - Persun
+      - ', '
+      - chira
+      - se
+      - je
+      - sdelala
+      - zhlovech
+      - '?'
+    - s[n=22]:
+      - R
+      - ': '
+      - Tà
+      - sehond
+      - cà
+      - to
+      - jè
+      - Sin
+      - .
+    - s[n=23]:
+      - B
+      - ': '
+      - chacu
+      - Sin
+      - Boshij
+      - ', '
+      - se
+      - sdelal
+      - zhlovech
+      - '?'
+    - s[n=24]:
+      - R
+      - ': '
+      - An
+      - je
+      - usel
+      - dan
+      - svot
+      - ', '
+      - anù
+      - nò
+      - Dusho
+      - ', '
+      - tacoj
+      - mamo
+      - mi
+      - tuv
+      - shvote
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 183:'
+        - tòpot sércon puríšim.
+      - od
+      - Marie
+      - Vergine
+      - ', '
+      - sas
+      - virtudijo
+      - od
+      - Svetaha
+      - Duha
+      - .
+    - s[n=25]:
+      - B
+      - ': '
+      - Chacu
+      - Sin
+      - Boshij
+      - ', '
+      - sè
+      - clizze
+      - sdilan
+      - zhlovech
+      - '?'
+    - s[n=26]:
+      - R
+      - ': '
+      - An
+      - sè
+      - clizze
+      - Gisù
+      - Crisht
+      - ', '
+      - nash
+      - Redentor
+      - ', '
+      - ver
+      - Buh
+      - ', '
+      - anù
+      - ver
+      - zhlovech
+      - .
+    - s[n=27]:
+      - B
+      - ': '
+      - Pocaj
+      - an
+      - jè
+      - se
+      - sdelal
+      - zhlovech
+      - '?'
+    - s[n=28]:
+      - R
+      - ': '
+      - Par
+      - nas
+      - liberat
+      - s
+      - gnahà
+      - smartjo
+      - od
+      - Peclà
+      - ', '
+      - anù
+      - nan
+      - meritat
+      - nò
+      - vito
+      - sa
+      - limar
+      - .
+    - s[n=29]:
+      - B
+      - ': '
+      - chè
+      - je
+      - Giesu
+      - Crishst
+      - '?'
+    - s[n=30]:
+      - R
+      - ': '
+      - Taccoj
+      - Buh
+      - an
+      - jè
+      - pousorot
+      - ', '
+      - taccoj
+      - Buh
+      - ', '
+      - anù
+      - zhlovech
+      - ', '
+      - an
+      - jè
+      - tuv
+      - Paravishe
+      - ', '
+      - anù
+      - tuv
+      - Santiſsim
+      - Sacraminte
+      - .
+    - s[n=31]:
+      - B
+      - ': '
+      - Coi
+      - jė
+      - touv
+      - Santiſsim
+      - Sacraminte
+      - '?'
+    - s[n=32]:
+      - R
+      - ': '
+      - jė
+      - ver
+      - Shvot
+      - ', '
+      - anù
+      - Crij_
+      - ', '
+      - anu
+      - Dusha
+      - ', '
+      - anù
+      - Divinitat
+      - od
+      - Jeshusa
+      - Chrishtusha
+      - tapod
+      - temi
+      - shpeciami
+      - od
+      - Cruha
+      - ', '
+      - anù
+      - od
+      - Vina
+      - .
+    - s[n=33]:
+      - B
+      - ': '
+      - Coj
+      - to
+      - sè
+      - intinda
+      - te
+      - specie
+      - od
+      - Cruha
+      - ', '
+      - anu
+      - od
+      - Vina
+      - '?'
+    - s[n=34]:
+      - R
+      - ': '
+      - Se
+      - intinda
+      - to
+      - cha
+      - se
+      - vidi
+      - ', '
+      - anù
+      - cushuje
+      - ', '
+      - cha
+      - to
+      - je
+      - color
+      - ', '
+      - savor
+      - ', '
+      - anù
+      - quantitat
+      - .
+    - s[n=35]:
+      - B
+      - ': '
+      - Gij_
+      - tuv
+      - Oshtij
+      - consecranij
+      - ', '
+      - iè
+      - pà
+      - ta
+      - shostaza
+      - od
+      - Cruha
+      - '?'
+    - s[n=36]:
+      - R
+      - ': '
+      - Nè
+      - chà
+      - na
+      - jè
+      - uvsà
+      - smudana
+      - anu
+      - transhustanziana
+      - tuv
+      - Svot
+      - ', '
+      - anù
+      - Crij
+      - od
+      - Giesù
+      - Crishtusha
+      - s
+      - temi
+      - bisidami
+      - od
+      - Svete
+      - Consecraziuni
+      - .
+    - s[n=37]:
+      - B
+      - ': '
+      - Coj
+      - se
+      - slomi
+      - Ostio
+      - ', '
+      - gij_
+      - se
+      - slomi
+      - pa
+      - Svot
+      - od
+      - Giesù
+      - Crishtusha
+      - '?'
+    - s[n=38]:
+      - R
+      - ': '
+      - Nè
+      - cà
+      - se
+      - slomi
+      - macoj
+      - tè
+      - Specie
+      - od
+      - Cruha
+      - .
+    - s[n=39]:
+      - B
+      - ': '
+      - Coj
+      - sè
+      - ni
+      - slomi
+      - Svot
+      - od
+      - Giesù
+      - Crishtusha
+      - ', '
+      - touv
+      - chirj
+      - parti
+      - od
+      - te
+      - slomgnane
+      - Oshtie
+      - Svot
+      - ostaje
+      - .
+    - s[n=40]:
+      - R
+      - ': '
+      - An
+      - ostane
+      - zill
+      - tuv
+      - usachin
+      - droptu
+      - .
+    - s[n=41]:
+      - B
+      - ': '
+      - Caccu
+      - mara
+      - bit
+      - preparan
+      - ', '
+      - par
+      - degnamentri
+      - sè
+      - Cummuniat
+      - '?'
+    - s[n=42]:
+      - R
+      - ': '
+      - Mara
+      - bit
+      - sapostnà
+      - ', '
+      - od
+      - pul
+      - nogij
+      - sè
+      - almanco
+      - ', '
+      - dardu
+      - tu
+      - cha
+      - gie
+      - tit
+      - se
+      - Cummuniat
+      - ', '
+      - anù
+      - se
+      - Spovedat
+      - bà
+      - bil
+      - touv
+      - hrise
+      - mortal
+      - ', '
+      - anù
+      - sdelat
+      - dan
+      - Att
+      - od
+      - Fede
+      - ', '
+      - Speranzhe
+      - ', '
+      - od
+      - Caritadi
+      - ', '
+      - anù
+      - od
+      - Umiltadi
+      - prugia
+      - Santishim
+      - Sacramintu
+      - .
+    - s[n=43]:
+      - B
+      - ': '
+      - Chilicu
+      - rizij
+      - tò
+      - gije
+      - par
+      - sdelat
+      - dan
+      - dobar
+      - Spuvet
+      - '?'
+    - s[n=44]:
+      - R
+      - ': '
+      - Pet
+      - .
+    - s[n=45]:
+      - B
+      - ': '
+      - Chiri
+      - to
+      - sò
+      - '?'
+    - s[n=46]:
+      - R
+      - ': '
+      - '1 '
+      - .
+      - Sè
+      - mara
+      - smislit
+      - sve
+      - hrihe
+      - .
+    - s[n=47]:
+      - '2 '
+      - .
+      - Marà
+      - met
+      - dolor
+      - cha
+      - je
+      - offindinal
+      - Boha
+      - .
+    - s[n=48]:
+      - '3 '
+      - .
+      - Marà
+      - sdelat
+      - proponiment
+      - nì
+      - offindinat
+      - vag
+      - Boha
+      - .
+    - s[n=49]:
+      - '4 '
+      - .
+      - Marà
+      - Spovedat
+      - clar
+      - svè
+      - hrihe
+      - Confesorju
+      - .
+    - s[n=50]:
+      - '5 '
+      - .
+      - Marà
+      - sodiſhfat
+      - pinitinzho
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 184:'
+        - kà spüvydnýk je dàl.
+      - .
+    - s[n=51]:
+      - B
+      - ': '
+      - Ti
+      - chà
+      - bà
+      - se
+      - spovedal
+      - senzha
+      - dolorja
+      - ', '
+      - aliboj
+      - proponiminta
+      - coj
+      - an
+      - bà
+      - sdelal
+      - '?'
+    - s[n=52]:
+      - R
+      - ': '
+      - Dan
+      - sacrilegij
+      - dan
+      - hrih
+      - Mortal
+      - .
+    - s[n=53]:
+      - B
+      - ': '
+      - Chiri
+      - so
+      - ti
+      - chà
+      - hrejo
+      - nutar
+      - Uv
+      - peclò
+      - '?'
+    - s[n=54]:
+      - R
+      - ': '
+      - Ti
+      - cha
+      - uvmarjo
+      - tuv
+      - dnin
+      - hrise
+      - mortal
+      - .
+    - s[n=55]:
+      - B
+      - ': '
+      - Coj
+      - se
+      - dilla
+      - tuv
+      - Peclè
+      - '?'
+    - s[n=56]:
+      - R
+      - ': '
+      - Se
+      - pati
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 185:'
+        - s{e} patí.
+      - viliche
+      - torminte
+      - ', '
+      - anù
+      - sè
+      - shijè
+      - S
+      - hudigij
+      - .
+    - s[n=57]:
+      - B
+      - ': '
+      - Chiri
+      - sò
+      - ti
+      - chà
+      - hrejo
+      - uvn
+      - Paravis
+      - '?'
+    - s[n=58]:
+      - R
+      - ': '
+      - Ti
+      - chà
+      - uvmarjo
+      - tuv
+      - hrazij
+      - Bohovij
+      - ', '
+      - anù
+      - chà
+      - ni
+      - ni
+      - nimajo
+      - nicar
+      - purhat
+      - tuv
+      - Purgatorise
+      - .
+    - s[n=59]:
+      - B
+      - ': '
+      - Coj
+      - se
+      - dilla
+      - tuv
+      - Paravishe
+      - '?'
+    - s[n=60]:
+      - R
+      - ': '
+      - Sè
+      - uvshiua
+      - Boha
+      - tuv
+      - companij
+      - od
+      - Agnolouv
+      - ', '
+      - anù
+      - od
+      - teh
+      - Svetih
+      - ', '
+      - sà
+      - uvsò
+      - Eternitat
+      - .
+    - s[n=61]:
+      - B
+      - ': '
+      - Coj
+      - marà
+      - sè
+      - veruvat
+      - dan
+      - Cristian
+      - ', '
+      - cha
+      - giè
+      - tit
+      - uvn
+      - Paravish
+      - '?'
+    - s[n=62]:
+      - R
+      - ': '
+      - Uvsè
+      - to
+      - chà
+      - Buh
+      - je
+      - rivelal
+      - Sveti
+      - Matirij
+      - Cerchvè
+      - ', '
+      - Cattolich
+      - ', '
+      - Aposhtolich
+      - ', '
+      - Romanchi
+      - .
+    - s[n=63]:
+      - B
+      - ': '
+      - Coj
+      - marà
+      - vedet
+      - dan
+      - dobar
+      - Chrishtian
+      - '?'
+    - s[n=64]:
+      - R
+      - ': '
+      - Uvsè
+      - tò
+      - cha
+      - se
+      - contigni
+      - tou
+      - foreign[lg=lat-Latn]: Credo
+      - ', '
+      - anù
+      - tou
+      - foreign[lg=lat-Latn]: Pater noster
+      - ', '
+      - anù
+      - tou
+      - Comandatmiteh
+      - Bohovih
+      - ', '
+      - anù
+      - od
+      - Svete
+      - Cerchvè
+      - anù
+      - tuv
+      - Sacraminteh
+      - Svetih
+      - .
+    - s[n=65]:
+      - B
+      - ': '
+      - Coj
+      - je
+      - oblejan
+      - dan
+      - Crishtian
+      - ', '
+      - darshat
+      - anù
+      - oservat
+      - par
+      - se
+      - shalvat
+      - '?'
+    - s[n=66]:
+      - R
+      - ': '
+      - An
+      - marà
+      - darshat
+      - ', '
+      - anù
+      - oſservat
+      - uvse
+      - Comandaminte
+      - Bohove
+      - ', '
+      - anù
+      - od
+      - Svete
+      - Matere
+      - Cerchvè
+      - .
+    - s[n=67]:
+      - B
+      - ': '
+      - Cacu
+      - marà
+      - se
+      - shivit
+      - dan
+      - Chrishtian
+      - '?'
+    - s[n=68]:
+      - R
+      - ': '
+      - Tuv
+      - strahu
+      - Bohuvin
+      - .
+    - s[n=69]:
+      - B
+      - ': '
+      - Chachu
+      - se
+      - marà
+      - shivit
+      - tou
+      - strahu
+      - Bohovin
+    - s[n=70]:
+      - R
+      - ': '
+      - Se
+      - mara
+      - uvaruat
+      - od
+      - hriha
+      - ', '
+      - anù
+      - se
+      - esercitat
+      - touv
+      - Virtudah
+      - .
+    - s[n=71]:
+      - B
+      - ': '
+      - Chilicu
+      - sò
+      - Virtut
+      - .
+    - s[n=72]:
+      - R
+      - ': '
+      - Sò
+      - sedan
+      - trì
+      - Teologal
+      - ', '
+      - anu
+      - shtiri
+      - Cardinal
+      - .
+    - s[n=73]:
+      - B
+      - ': '
+      - Ricite
+      - mi
+      - tè
+      - tri
+      - Teologal
+      - '?'
+    - s[n=74]:
+      - R
+      - ': '
+      - To
+      - jè
+      - Feda
+      - ', '
+      - Speranza
+      - ', '
+      - anù
+      - Caritat
+      - .
+    - s[n=75]:
+      - B
+      - ': '
+      - Ricite
+      - mi
+      - tè
+      - druhe
+      - moral
+      - ', '
+      - alìboi
+      - Cardinal
+      - .
+    - s[n=76]:
+      - R
+      - ': '
+      - Tè
+      - shtiri
+      - Cardinal
+      - sè
+      - clizajo
+      - justizia
+      - ', '
+      - Temperanza
+      - ', '
+      - Forteza
+      - ', '
+      - anù
+      - Prudenza
+      - .
+    - s[n=77]:
+      - B
+      - ': '
+      - Choj
+      - marà
+      - sdelat
+      - dan
+      - Christian
+      - ', '
+      - prit
+      - nicoj
+      - tit
+      - spat
+      - .
+    - s[n=78]:
+      - R
+      - ': '
+      - An
+      - marà
+      - sdelat
+      - dan
+      - eſsham
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 186:'
+        - spomè{nj} (ežáme).
+      - od
+      - gnahà
+      - conshijnzie
+      - ', '
+      - cha
+      - to
+      - jè
+      - si
+      - pomislit
+      - ', '
+      - cacu
+      - an
+      - je
+      - prihnal
+      - tè
+      - din
+      - ', '
+      - od
+      - pujutreh
+      - dardu
+      - shvezera
+      - ', '
+      - anù
+      - gij
+      - an
+      - bà
+      - bil
+      - sdelal
+      - cach
+      - hrih
+      - ', '
+      - an
+      - marà
+      - sdelat
+      - intant
+      - nò
+      - Contriziun
+      - ', '
+      - anu
+      - darshat
+      - namez
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 187:'
+        - na mènc.
+      - dardu
+      - tù
+      - chà
+      - an
+      - se
+      - spuvj
+      - ', '
+      - anù
+      - se
+      - spovedat
+      - prit
+      - cà
+      - an
+      - more
+      - .
+    - s[n=79]:
+      - B
+      - ': '
+      - Chilicu
+      - sò
+      - Comandamintouv
+      - Bohovih
+      - '?'
+    - s[n=80]:
+      - R
+      - ': '
+      - Sò
+      - desat
+      - .
+    - s[n=81]:
+      - B
+      - ': '
+      - chiri
+      - tò
+      - sò
+      - .
+    - s[n=82]:
+      - '1 '
+      - .
+      - Verij
+      - se
+      - nà
+      - dnohà
+      - samaha
+      - Boha
+      - .
+    - s[n=83]:
+      - '2 '
+      - .
+      - Nì
+      - uvpamaj
+      - Bohovaha
+      - İmmana
+      - pres
+      - potribe
+      - .
+    - s[n=84]:
+      - '3 '
+      - .
+      - Svetuaj
+      - tè
+      - din
+      - Bohouv
+      - .
+    - s[n=85]:
+      - '4 '
+      - .
+      - Onoraj
+      - Oggiò
+      - ', '
+      - nù
+      - Mater
+      - .
+    - s[n=86]:
+      - '5 '
+      - .
+      - Nì
+      - uvbiuvaj
+      - .
+    - s[n=87]:
+      - '6 '
+      - .
+      - Ni
+      - hrishi
+      - svahunzhijo
+      - s
+      - trivin
+      - mison
+      - .
+    - s[n=88]:
+      - '7 '
+      - .
+      - Nì
+      - cradi
+      - .
+    - s[n=89]:
+      - '8 '
+      - .
+      - Ni
+      - lashi
+      - ', '
+      - aliboj
+      - falz
+      - teshtimoniazho
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 188:'
+        - ny dæ'laj fàlš teštimo{nj}jánčo.
+      - .
+    - s[n=90]:
+      - '9 '
+      - .
+      - Nì
+      - dishidirat
+      - teh
+      - drusih
+      - shin
+      - .
+    - s[n=91]:
+      - '10 '
+      - .
+      - Nì
+      - dishidirat
+      - teh
+      - drusih
+      - roube
+      - .
+    - s[n=92]:
+      - B
+      - ': '
+      - Chilicù
+      - so
+      - Comandamintouv
+      - od
+      - Svete
+      - Cerchvè
+      - .
+    - s[n=93]:
+      - R
+      - ': '
+      - Sò
+      - pet
+      - .
+    - s[n=94]:
+      - B
+      - ': '
+      - Chiri
+      - to
+      - sò
+      - '?'
+    - s[n=95]:
+      - R
+      - ': '
+      - '1 '
+      - .
+      - Zut
+      - misho
+      - uvsacho
+      - Nedejo
+      - ', '
+      - anù
+      - quasane
+      - Nidile
+      - .
+    - s[n=96]:
+      - '2 '
+      - .
+      - Postit
+      - note:
+        - p{o}stìt
+      - tuv
+      - Poste
+      - ', '
+      - Villije
+      - ', '
+      - anù
+      - Qutri
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 190:'
+        - kwátri (ku__átri).
+      - nì
+      - jest
+      - miſsa
+      - ni
+      - U
+      - petach
+      - ', '
+      - nù
+      - Uv
+      - sabboto
+      - .
+    - s[n=97]:
+      - '3 '
+      - .
+      - Sè
+      - Spovedat
+      - almancho
+      - nur
+      - Uv
+      - lette
+      - ', '
+      - anù
+      - sè
+      - Communiat
+      - ò
+      - Villichj
+      - noggij
+      - .
+    - s[n=98]:
+      - '4 '
+      - .
+      - Nì
+      - porazhat
+      - od
+      - tè
+      - parve
+      - Nedeje
+      - note:
+        - nædæ'j{e
+      - od
+      - Advinta
+      - dardu
+      - Pernahat
+      - ', '
+      - anù
+      - tè
+      - parve
+      - Sride
+      - postà
+      - note:
+        - postà
+      - dardu
+      - tò
+      - Nedejo
+      - pò
+      - Villich
+      - noggij
+      - .
+    - s[n=99]:
+      - '5 '
+      - .
+      - Saplatit
+      - Disitino
+      - .
+    - s[n=100]:
+      - B
+      - ': '
+      - chilicu
+      - sò
+      - Sacramintouv
+      - od
+      - Svete
+      - Cerchvè
+      - inshtituinj
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 193:'
+        - '{dj}âni nûtur.'
+      - od
+      - jeshusha
+      - Cristusha
+      - sà
+      - sdrauje
+      - od
+      - nashe
+      - Dushe
+      - .
+    - s[n=101]:
+      - R
+      - ': '
+      - Sò
+      - Sedan
+      - .
+    - s[n=102]:
+      - B
+      - ': '
+      - Chiri
+      - to
+      - sò
+      - .
+    - s[n=103]:
+      - '1 '
+      - .
+      - je
+      - Carst
+      - cha
+      - nas
+      - dilla
+      - Christiane
+      - .
+    - s[n=104]:
+      - '2 '
+      - .
+      - je
+      - Birmagne
+      - cha
+      - nan
+      - daje
+      - hrazhjo
+      - deventat
+      - boje
+      - perfet
+      - Chrishtianen
+      - .
+    - s[n=105]:
+      - '3 '
+      - .
+      - je
+      - Santiſsim
+      - Sacrament
+      - cha
+      - ridj
+      - nasho
+      - Dusho
+      - ', '
+      - anù
+      - io
+      - conservaua
+      - tuv
+      - hrazhi
+      - .
+    - s[n=106]:
+      - '4 '
+      - .
+      - jè
+      - Spuvet
+      - ', '
+      - cha
+      - nan
+      - nishbrishuje
+      - hrihe
+      - .
+    - s[n=107]:
+      - '5 '
+      - .
+      - je
+      - Svete
+      - Oije
+      - ', '
+      - cha
+      - nan
+      - pomaha
+      - uvmrit
+      - tou
+      - hrazj
+      - ', '
+      - anu
+      - pà
+      - vag
+      - zhas
+      - daje
+      - sdrauje
+      - svottù
+      - .
+    - s[n=108]:
+      - '6 '
+      - .
+      - jè
+      - Erove
+      - Shihnuvagne
+      - ', '
+      - chà
+      - in
+      - daje
+      - potishtat
+      - di
+      - dellat
+      - tè
+      - Sveti
+      - Funziuni
+      - .
+    - s[n=109]:
+      - '7 '
+      - .
+      - je
+      - Matrimonih
+      - cha
+      - daje
+      - tin
+      - porazhanin
+      - hrazio
+      - uvridit
+      - pò
+      - Chrishtianschin
+      - sve
+      - ottroche
+      - touv
+      - pashij
+      - anù
+      - tou
+      - Caritadi
+    - s[n=110]:
+      - B
+      - ': '
+      - chire
+      - so
+      - te
+      - sadgne
+      - rezhj
+      - od
+      - Zlovecha
+      - '?'
+    - s[n=111]:
+      - R
+      - ': '
+      - '1 '
+      - .
+      - jè
+      - Smart
+      - .
+    - s[n=112]:
+      - '2 '
+      - .
+      - jè
+      - Sodgni
+      - din
+      - .
+    - s[n=113]:
+      - '3 '
+      - .
+      - jè
+      - Pechlò
+      - .
+    - s[n=114]:
+      - '4 '
+      - .
+      - je
+      - Paravish
+      - .
   - section[n=3]:
-    - p:
-      - s[n=115]:
-        - Na İmme od Oggiè, nù od Sinu, anù od Svetaha Duha.
-      - s[n=116]:
-        - Tachu bodi.!!.
-      - s[n=116a]:
-        - foreign[lg=lat-Latn]: Pater noster et
-        - .
-        - milestone[unit=subdivision,n=4]
-      - s[n=117]:
-        - Oggià nash cha ste tou Nebbe, Svete bodi uvashe İmme, pridi h an uvasha
-          Crajuscha, bodi sdilana uvasha volontat, tachoj tou Nebbe pà sè nà Semgnì.
-      - s[n=118]:
-        - Dajte nan nash uvsachidigni Cruh, anù otpustite nan nashe dolhe taccoj mi
-          odpushgiamo nashin dushnichen; anù ni pijte nas
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 194:'
-          - zap{e}jíte n{e}_s.
-        - tou tentaziun mà vibranite nas od hudaha od chrivaha.
-      - s[n=119]:
-        - Taccù bodi, aliboj Amen.
+    - s[n=115]:
+      - Na
+      - İmme
+      - od
+      - Oggiè
+      - ', '
+      - nù
+      - od
+      - Sinu
+      - ', '
+      - anù
+      - od
+      - Svetaha
+      - Duha
+      - .
+    - s[n=116]:
+      - Tachu
+      - bodi
+      - .
+      - '!! '
+      - .
+    - s[n=116a]:
+      - foreign[lg=lat-Latn]: Pater noster et
+      - .
+      - milestone[unit=subdivision,n=4]
+    - s[n=117]:
+      - Oggià
+      - nash
+      - cha
+      - ste
+      - tou
+      - Nebbe
+      - ', '
+      - Svete
+      - bodi
+      - uvashe
+      - İmme
+      - ', '
+      - pridi
+      - h
+      - an
+      - uvasha
+      - Crajuscha
+      - ', '
+      - bodi
+      - sdilana
+      - uvasha
+      - volontat
+      - ', '
+      - tachoj
+      - tou
+      - Nebbe
+      - pà
+      - sè
+      - nà
+      - Semgnì
+      - .
+    - s[n=118]:
+      - Dajte
+      - nan
+      - nash
+      - uvsachidigni
+      - Cruh
+      - ', '
+      - anù
+      - otpustite
+      - nan
+      - nashe
+      - dolhe
+      - taccoj
+      - mi
+      - odpushgiamo
+      - nashin
+      - dushnichen
+      - '; '
+      - anù
+      - ni
+      - pijte
+      - nas
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 194:'
+        - zap{e}jíte n{e}_s.
+      - tou
+      - tentaziun
+      - mà
+      - vibranite
+      - nas
+      - od
+      - hudaha
+      - od
+      - chrivaha
+      - .
+    - s[n=119]:
+      - Taccù
+      - bodi
+      - ', '
+      - aliboj
+      - Amen
+      - .
   - section[n=4]:
-    - p:
-      - s[n=177]:
-        - foreign[lg=lat-Latn]: Ave Maria
-        - .
-        - milestone[unit=subdivision,n=5]
-      - s[n=120]:
-        - 'Saludana bodite Maria punzhacha hrazije: Hosput je s uvami shihnana vi
-          ste tami shanami anù shihnan je tè sat od uvashaha svotà jeshus'
-        - note:
-          - Jéžuša
-        - .
-      - s[n=121]:
-        - Sveta Maria Mattj od Boha prosite sa nas hrishniche, ignan anù tou tò oro
-          od nashe smarti.
-      - s[n=122]:
-        - Taccù bodi.
+    - s[n=177]:
+      - foreign[lg=lat-Latn]: Ave Maria
+      - .
+      - milestone[unit=subdivision,n=5]
+    - s[n=120]:
+      - Saludana
+      - bodite
+      - Maria
+      - punzhacha
+      - hrazije
+      - ': '
+      - Hosput
+      - je
+      - s
+      - uvami
+      - shihnana
+      - vi
+      - ste
+      - tami
+      - shanami
+      - anù
+      - shihnan
+      - je
+      - tè
+      - sat
+      - od
+      - uvashaha
+      - svotà
+      - jeshus
+      - note:
+        - Jéžuša
+      - .
+    - s[n=121]:
+      - Sveta
+      - Maria
+      - Mattj
+      - od
+      - Boha
+      - prosite
+      - sa
+      - nas
+      - hrishniche
+      - ', '
+      - ignan
+      - anù
+      - tou
+      - tò
+      - oro
+      - od
+      - nashe
+      - smarti
+      - .
+    - s[n=122]:
+      - Taccù
+      - bodi
+      - .
   - section[n=5]:
-    - p:
-      - s[n=178]:
-        - foreign[lg=lat-Latn]: Credo
-        - .
-        - milestone[unit=subdivision,n=6]
-      - s[n=123]:
-        - J{.}à se verjen nà Boha Oggiò chà more uvsè
-        - foreign[lg=deu-Latn]:
-          - note:
-            - foreign[lg=deu-Latn]: 'S. 196:'
-            - ka mö'ræ u__sæ_N kèOS kì G
-        - Creatorja od Nebba, anù od Semgnè.
-      - s[n=124]:
-        - Anù nà jeshusſa Crishtusha gnahà samaha Sinu nashaha hospuda.
-      - s[n=125]:
-        - Ti cha jè bil concepin od Svetaha Duha nù povit od Marie Vergine.
-      - s[n=126]:
-        - Patel tàpot
-        - foreign[lg=lat-Latn]: Ponzio Pilato
-        - .
-      - s[n=127]:
-        - Bil gian na Chrish uvmar anù pogian.
-      - s[n=128]:
-        - An jè nislisal do u Peclò
+    - s[n=178]:
+      - foreign[lg=lat-Latn]: Credo
+      - .
+      - milestone[unit=subdivision,n=6]
+    - s[n=123]:
+      - J{.}à
+      - se
+      - verjen
+      - nà
+      - Boha
+      - Oggiò
+      - chà
+      - more
+      - uvsè
+      - foreign[lg=deu-Latn]:
         - note:
-          - foreign[lg=deu-Latn]: 'S. 197:'
-          - do prét pæklö_.
-        - ', te tretgni din an je uvstal od tih martvih.'
-      - s[n=129]:
-        - An jè shal un v Nebbe.
-      - s[n=130]:
-        - An sidj tana ti tesni od Boha Oggie cha more uvsè.
-      - s[n=131]:
-        - Od tù an giè prit judicat te shive anù tè martve.
-      - s[n=132]:
-        - J{.}à sè verjen nà Svetaha Duha.
-      - s[n=133]:
-        - Nà sveto Circou Chatolich, Communiun od tih svetih.
-      - s[n=134]:
-        - Odpushgiagnie od hrihou.
-      - s[n=135]:
-        - Uvstat spet s mison.
-      - s[n=136]:
-        - Shiujust sà limar.
-      - s[n=137]:
-        - Tachu bodi.
+          - foreign[lg=deu-Latn]: 'S. 196:'
+          - ka mö'ræ u__sæ_N kèOS kì G
+      - Creatorja
+      - od
+      - Nebba
+      - ', '
+      - anù
+      - od
+      - Semgnè
+      - .
+    - s[n=124]:
+      - Anù
+      - nà
+      - jeshusſa
+      - Crishtusha
+      - gnahà
+      - samaha
+      - Sinu
+      - nashaha
+      - hospuda
+      - .
+    - s[n=125]:
+      - Ti
+      - cha
+      - jè
+      - bil
+      - concepin
+      - od
+      - Svetaha
+      - Duha
+      - nù
+      - povit
+      - od
+      - Marie
+      - Vergine
+      - .
+    - s[n=126]:
+      - Patel
+      - tàpot
+      - foreign[lg=lat-Latn]: Ponzio Pilato
+      - .
+    - s[n=127]:
+      - Bil
+      - gian
+      - na
+      - Chrish
+      - uvmar
+      - anù
+      - pogian
+      - .
+    - s[n=128]:
+      - An
+      - jè
+      - nislisal
+      - do
+      - u
+      - Peclò
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 197:'
+        - do prét pæklö_.
+      - ', '
+      - te
+      - tretgni
+      - din
+      - an
+      - je
+      - uvstal
+      - od
+      - tih
+      - martvih
+      - .
+    - s[n=129]:
+      - An
+      - jè
+      - shal
+      - un
+      - v
+      - Nebbe
+      - .
+    - s[n=130]:
+      - An
+      - sidj
+      - tana
+      - ti
+      - tesni
+      - od
+      - Boha
+      - Oggie
+      - cha
+      - more
+      - uvsè
+      - .
+    - s[n=131]:
+      - Od
+      - tù
+      - an
+      - giè
+      - prit
+      - judicat
+      - te
+      - shive
+      - anù
+      - tè
+      - martve
+      - .
+    - s[n=132]:
+      - J{.}à
+      - sè
+      - verjen
+      - nà
+      - Svetaha
+      - Duha
+      - .
+    - s[n=133]:
+      - Nà
+      - sveto
+      - Circou
+      - Chatolich
+      - ', '
+      - Communiun
+      - od
+      - tih
+      - svetih
+      - .
+    - s[n=134]:
+      - Odpushgiagnie
+      - od
+      - hrihou
+      - .
+    - s[n=135]:
+      - Uvstat
+      - spet
+      - s
+      - mison
+      - .
+    - s[n=136]:
+      - Shiujust
+      - sà
+      - limar
+      - .
+    - s[n=137]:
+      - Tachu
+      - bodi
+      - .
   - section[n=6]:
-    - p:
-      - s[n=179]:
-        - foreign[lg=lat-Latn]: Salve Regina
-        - .
-        - milestone[unit=subdivision,n=7]
-      - s[n=138]:
-        - Saludana bodite Crajzza, Matti od Mishericordie vita dolz nasha sperazha
-          bodite saludana; Tah uvan mi uvpijamo bandini sinuvi od Eve.
-      - s[n=139]:
-        - Tah uvan mi uvsdahujamo toshni anù jozog, se u tì dolini od solsj.
-      - s[n=140]:
-        - Oh nute coshe nasha Advocata tah nan obratite uvashe smilne ozzi, anù po
-          uvsen bantu, pochashte nan pochashte nan te shihnani sat od uvashaha svotà
-          jeshus.
-      - s[n=141]:
-        - O smilna, o dobra, o dolz Vergina Maria.
-      - s[n=142]:
-        - Sdelaite me degn di moret uvas huvalit.
-      - s[n=143]:
-        - Virgina sagrana, daite mi virtut cuntra uvashin inimigen.
-      - s[n=144]:
-        - Taccù bodi.
+    - s[n=179]:
+      - foreign[lg=lat-Latn]: Salve Regina
+      - .
+      - milestone[unit=subdivision,n=7]
+    - s[n=138]:
+      - Saludana
+      - bodite
+      - Crajzza
+      - ', '
+      - Matti
+      - od
+      - Mishericordie
+      - vita
+      - dolz
+      - nasha
+      - sperazha
+      - bodite
+      - saludana
+      - '; '
+      - Tah
+      - uvan
+      - mi
+      - uvpijamo
+      - bandini
+      - sinuvi
+      - od
+      - Eve
+      - .
+    - s[n=139]:
+      - Tah
+      - uvan
+      - mi
+      - uvsdahujamo
+      - toshni
+      - anù
+      - jozog
+      - ', '
+      - se
+      - u
+      - tì
+      - dolini
+      - od
+      - solsj
+      - .
+    - s[n=140]:
+      - Oh
+      - nute
+      - coshe
+      - nasha
+      - Advocata
+      - tah
+      - nan
+      - obratite
+      - uvashe
+      - smilne
+      - ozzi
+      - ', '
+      - anù
+      - po
+      - uvsen
+      - bantu
+      - ', '
+      - pochashte
+      - nan
+      - pochashte
+      - nan
+      - te
+      - shihnani
+      - sat
+      - od
+      - uvashaha
+      - svotà
+      - jeshus
+      - .
+    - s[n=141]:
+      - O
+      - smilna
+      - ', '
+      - o
+      - dobra
+      - ', '
+      - o
+      - dolz
+      - Vergina
+      - Maria
+      - .
+    - s[n=142]:
+      - Sdelaite
+      - me
+      - degn
+      - di
+      - moret
+      - uvas
+      - huvalit
+      - .
+    - s[n=143]:
+      - Virgina
+      - sagrana
+      - ', '
+      - daite
+      - mi
+      - virtut
+      - cuntra
+      - uvashin
+      - inimigen
+      - .
+    - s[n=144]:
+      - Taccù
+      - bodi
+      - .
   - section[n=7]:
-    - p:
-      - s[n=180]:
-        - foreign[lg=lat-Latn]: Angele Dei
-        - .
-        - milestone[unit=subdivision,n=8]
-      - s[n=145]:
-        - Agnul Boshij, h uvan cha jà si raccomandan, od shurigne dubrute, uvarite
-          me, rezhinajte me, illuminajte me, hovarnajte me, din, anù nug.
-      - s[n=146]:
-        - Taccù bodi.
+    - s[n=180]:
+      - foreign[lg=lat-Latn]: Angele Dei
+      - .
+      - milestone[unit=subdivision,n=8]
+    - s[n=145]:
+      - Agnul
+      - Boshij
+      - ', '
+      - h
+      - uvan
+      - cha
+      - jà
+      - si
+      - raccomandan
+      - ', '
+      - od
+      - shurigne
+      - dubrute
+      - ', '
+      - uvarite
+      - me
+      - ', '
+      - rezhinajte
+      - me
+      - ', '
+      - illuminajte
+      - me
+      - ', '
+      - hovarnajte
+      - me
+      - ', '
+      - din
+      - ', '
+      - anù
+      - nug
+      - .
+    - s[n=146]:
+      - Taccù
+      - bodi
+      - .
   - section[n=8]:
-    - p:
-      - s[n=147]:
-        - Att od Fede.
-        - milestone[unit=subdivision,n=9]
-      - s[n=148]:
-        - Santiſsima Trinitat ja se verjen fermamentri dà vì stè dan sami Buh, tuv
-          treh persunah realmentri dishtint, Oggià, nù Sin, anù Sveti Duh; moi hospud
-          Giesù Crist ja se verjen dà vi stè dan sami Buh, ti cà se sdelal pa Zlovech,
-          anù uvmar tana Crishu, sa nashe hrihe, resuscital anù shal un Paravish;
-          moj Buh ja se verjen dà ti cha uvmarje touv dnin hriſse mortal hre sa simprj
-          nutar v Peclò, anù ti cha uvmarje tou uvaſsi hrazzj hre sa simpri uvn Paravish;
-          moj Buh ja se verjen uvsè sò anu vusè tò cha se verje Sveta Circouv Cattolich,
-          sauvocha vi stè veritat infalibel stè nan rechal, anù nan rivellal.
+    - s[n=147]:
+      - Att
+      - od
+      - Fede
+      - .
+      - milestone[unit=subdivision,n=9]
+    - s[n=148]:
+      - Santiſsima
+      - Trinitat
+      - ja
+      - se
+      - verjen
+      - fermamentri
+      - dà
+      - vì
+      - stè
+      - dan
+      - sami
+      - Buh
+      - ', '
+      - tuv
+      - treh
+      - persunah
+      - realmentri
+      - dishtint
+      - ', '
+      - Oggià
+      - ', '
+      - nù
+      - Sin
+      - ', '
+      - anù
+      - Sveti
+      - Duh
+      - '; '
+      - moi
+      - hospud
+      - Giesù
+      - Crist
+      - ja
+      - se
+      - verjen
+      - dà
+      - vi
+      - stè
+      - dan
+      - sami
+      - Buh
+      - ', '
+      - ti
+      - cà
+      - se
+      - sdelal
+      - pa
+      - Zlovech
+      - ', '
+      - anù
+      - uvmar
+      - tana
+      - Crishu
+      - ', '
+      - sa
+      - nashe
+      - hrihe
+      - ', '
+      - resuscital
+      - anù
+      - shal
+      - un
+      - Paravish
+      - '; '
+      - moj
+      - Buh
+      - ja
+      - se
+      - verjen
+      - dà
+      - ti
+      - cha
+      - uvmarje
+      - touv
+      - dnin
+      - hriſse
+      - mortal
+      - hre
+      - sa
+      - simprj
+      - nutar
+      - v
+      - Peclò
+      - ', '
+      - anù
+      - ti
+      - cha
+      - uvmarje
+      - tou
+      - uvaſsi
+      - hrazzj
+      - hre
+      - sa
+      - simpri
+      - uvn
+      - Paravish
+      - '; '
+      - moj
+      - Buh
+      - ja
+      - se
+      - verjen
+      - uvsè
+      - sò
+      - anu
+      - vusè
+      - tò
+      - cha
+      - se
+      - verje
+      - Sveta
+      - Circouv
+      - Cattolich
+      - ', '
+      - sauvocha
+      - vi
+      - stè
+      - veritat
+      - infalibel
+      - stè
+      - nan
+      - rechal
+      - ', '
+      - anù
+      - nan
+      - rivellal
+      - .
   - section[n=9]:
-    - p:
-      - s[n=149]:
-        - Att od Speranzhe.
-        - milestone[unit=subdivision,n=10]
-      - s[n=150]:
-        - Moj Buh vi chà stè omnipotent, anù infinitamentri mishericordious, ia sè
-          troshtan dà sauvojo meritou od jeshusha Cristusha nashaha Salvatorja, dà
-          vi mi datte nò vito etern, coj ia bon dellal opere od naha ver Cristiana
-          taccoj ja preponinan di je sdelat s uvasho sveto hrazijo.
+    - s[n=149]:
+      - Att
+      - od
+      - Speranzhe
+      - .
+      - milestone[unit=subdivision,n=10]
+    - s[n=150]:
+      - Moj
+      - Buh
+      - vi
+      - chà
+      - stè
+      - omnipotent
+      - ', '
+      - anù
+      - infinitamentri
+      - mishericordious
+      - ', '
+      - ia
+      - sè
+      - troshtan
+      - dà
+      - sauvojo
+      - meritou
+      - od
+      - jeshusha
+      - Cristusha
+      - nashaha
+      - Salvatorja
+      - ', '
+      - dà
+      - vi
+      - mi
+      - datte
+      - nò
+      - vito
+      - etern
+      - ', '
+      - coj
+      - ia
+      - bon
+      - dellal
+      - opere
+      - od
+      - naha
+      - ver
+      - Cristiana
+      - taccoj
+      - ja
+      - preponinan
+      - di
+      - je
+      - sdelat
+      - s
+      - uvasho
+      - sveto
+      - hrazijo
+      - .
   - section[n=10]:
-    - p:
-      - s[n=151]:
-        - Att od Charitadi.
-        - milestone[unit=subdivision,n=11]
-      - s[n=152]:
-        - Moj Buh ia uvan shincujen mo sarze, anù uvas aman tana uvsacho razijò, sauvojo
-          tò cha vi stè tà dubruta infinit, degn di bit infinitamentri aman; anù tude
-          ja aman miha blishgnaha tacoj mlè ishtes, sauvojo uvas moj Buh.
+    - s[n=151]:
+      - Att
+      - od
+      - Charitadi
+      - .
+      - milestone[unit=subdivision,n=11]
+    - s[n=152]:
+      - Moj
+      - Buh
+      - ia
+      - uvan
+      - shincujen
+      - mo
+      - sarze
+      - ', '
+      - anù
+      - uvas
+      - aman
+      - tana
+      - uvsacho
+      - razijò
+      - ', '
+      - sauvojo
+      - tò
+      - cha
+      - vi
+      - stè
+      - tà
+      - dubruta
+      - infinit
+      - ', '
+      - degn
+      - di
+      - bit
+      - infinitamentri
+      - aman
+      - '; '
+      - anù
+      - tude
+      - ja
+      - aman
+      - miha
+      - blishgnaha
+      - tacoj
+      - mlè
+      - ishtes
+      - ', '
+      - sauvojo
+      - uvas
+      - moj
+      - Buh
+      - .
   - section[n=11]:
-    - p:
-      - s[n=153]:
-        - Dolor od Contriziuni.
-        - milestone[unit=subdivision,n=12]
-      - s[n=154]:
-        - Moj Buh iá si pintin, anù tò mi bojè anu vag displasha, cà si uvas offindinal
-          uvas nò tilicho dubruto s memi hriſsi; anicoi dà ia sì subil Paravish, anù
-          samaratal Peclò, però ià preponinan fermamentri di sè emendat
-        - note:
-          - zmendàt
-        - anù se pubujshat; giò moi Buh ja bà tel rajshi uvmrit anicoi spet uvas offindinat.
+    - s[n=153]:
+      - Dolor
+      - od
+      - Contriziuni
+      - .
+      - milestone[unit=subdivision,n=12]
+    - s[n=154]:
+      - Moj
+      - Buh
+      - iá
+      - si
+      - pintin
+      - ', '
+      - anù
+      - tò
+      - mi
+      - bojè
+      - anu
+      - vag
+      - displasha
+      - ', '
+      - cà
+      - si
+      - uvas
+      - offindinal
+      - uvas
+      - nò
+      - tilicho
+      - dubruto
+      - s
+      - memi
+      - hriſsi
+      - '; '
+      - anicoi
+      - dà
+      - ia
+      - sì
+      - subil
+      - Paravish
+      - ', '
+      - anù
+      - samaratal
+      - Peclò
+      - ', '
+      - però
+      - ià
+      - preponinan
+      - fermamentri
+      - di
+      - sè
+      - emendat
+      - note:
+        - zmendàt
+      - anù
+      - se
+      - pubujshat
+      - '; '
+      - giò
+      - moi
+      - Buh
+      - ja
+      - bà
+      - tel
+      - rajshi
+      - uvmrit
+      - anicoi
+      - spet
+      - uvas
+      - offindinat
+      - .
   - section[n=12-1]:
-    - p:
-      - milestone[unit=subdivision,n=13]
-      - s[n=155]:
-        - 'B: Cacù se rezzè Rosharjo?'
-      - s[n=156]:
-        - 'R: Se rezzhe 150.'
-        - note:
-          - dànčantanárnupaterdòu_
-        - foreign[lg=lat-Latn]: Ave Maria
-        - ', anu 15.'
-        - note:
-          - pêtnijst
-        - foreign[lg=lat-Latn]: Pater noster
-        - cha to je 15. Stanzij, anù 15.
-        - foreign[lg=lat-Latn]: Gloria Patri
-        - ', ca to sò 5.'
-        - note:
-          - pêt
-        - Gaudios, anù 5. Dolorous, anù 5. Glorios anù touv uvsachi parti sè misli
-          dan Mishteri cà to je vita, Pashiun, Smar, anù Resureziun, od jeshusha Crishtusha.
+    - milestone[unit=subdivision,n=13]
+    - s[n=155]:
+      - B
+      - ': '
+      - Cacù
+      - se
+      - rezzè
+      - Rosharjo
+      - '?'
+    - s[n=156]:
+      - R
+      - ': '
+      - Se
+      - rezzhe
+      - '150 '
+      - .
+      - note:
+        - dànčantanárnupaterdòu_
+      - foreign[lg=lat-Latn]: Ave Maria
+      - ', '
+      - anu
+      - '15 '
+      - .
+      - note:
+        - pêtnijst
+      - foreign[lg=lat-Latn]: Pater noster
+      - cha
+      - to
+      - je
+      - '15 '
+      - .
+      - Stanzij
+      - ', '
+      - anù
+      - '15 '
+      - .
+      - foreign[lg=lat-Latn]: Gloria Patri
+      - ', '
+      - ca
+      - to
+      - sò
+      - '5 '
+      - .
+      - note:
+        - pêt
+      - Gaudios
+      - ', '
+      - anù
+      - '5 '
+      - .
+      - Dolorous
+      - ', '
+      - anù
+      - '5 '
+      - .
+      - Glorios
+      - anù
+      - touv
+      - uvsachi
+      - parti
+      - sè
+      - misli
+      - dan
+      - Mishteri
+      - cà
+      - to
+      - je
+      - vita
+      - ', '
+      - Pashiun
+      - ', '
+      - Smar
+      - ', '
+      - anù
+      - Resureziun
+      - ', '
+      - od
+      - jeshusha
+      - Crishtusha
+      - .
   - section[n=12-2]:
-    - p:
-      - s[n=157]:
-        - Part ta paruva Gaudious.
-        - milestone[unit=subdivision,n=14]
-      - s[n=158]:
-        - 1. Cacù Maria Vergina concepila jesù Cristusha.
-      - s[n=159]:
-        - 2. cacu Maria Vergina idu
-        - note:
-          - 3.pl.Aor Šúidù
-          - foreign[lg=deu-Latn]:
-            - Don
-            - foreign[lg=deu-Latn]: Stefano Valente
-            - hat noch selbst die Alten gehört, welche diese Form,
-          - jidù
-          - foreign[lg=deu-Latn]: od. ä., gebrauchten.
-        - iscat Sveto Elisabeto.
-      - s[n=160]:
-        - 3. cacu Maria Vergina povi
-        - note:
-          - povì.
-        - jesù Cristusha tou ni stalli.
-      - s[n=161]:
-        - 4. cacù Maria Vergina preshentala tuv roche Simeunu
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 203:'
-          - ö_t ta stáraha Šimeúna.
-        - .
-      - s[n=162]:
-        - 5. cacù Maria Vergina nalese
-        - note:
-          - nalæ'zæ
-          - foreign[lg=deu-Latn]: "(Archaismus)' = 'S. 205:"
-          - je nájšla
-          - foreign[lg=deu-Latn]: "'= 'S. 206:"
-          - je nalæ'zla
-        - tuv Templine jesù Crishtusha.
+    - s[n=157]:
+      - Part
+      - ta
+      - paruva
+      - Gaudious
+      - .
+      - milestone[unit=subdivision,n=14]
+    - s[n=158]:
+      - '1 '
+      - .
+      - Cacù
+      - Maria
+      - Vergina
+      - concepila
+      - jesù
+      - Cristusha
+      - .
+    - s[n=159]:
+      - '2 '
+      - .
+      - cacu
+      - Maria
+      - Vergina
+      - idu
+      - note:
+        - 3.pl.Aor Šúidù
+        - foreign[lg=deu-Latn]:
+          - Don
+          - foreign[lg=deu-Latn]: Stefano Valente
+          - hat noch selbst die Alten gehört, welche diese Form,
+        - jidù
+        - foreign[lg=deu-Latn]: od. ä., gebrauchten.
+      - iscat
+      - Sveto
+      - Elisabeto
+      - .
+    - s[n=160]:
+      - '3 '
+      - .
+      - cacu
+      - Maria
+      - Vergina
+      - povi
+      - note:
+        - povì.
+      - jesù
+      - Cristusha
+      - tou
+      - ni
+      - stalli
+      - .
+    - s[n=161]:
+      - '4 '
+      - .
+      - cacù
+      - Maria
+      - Vergina
+      - preshentala
+      - tuv
+      - roche
+      - Simeunu
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 203:'
+        - ö_t ta stáraha Šimeúna.
+      - .
+    - s[n=162]:
+      - '5 '
+      - .
+      - cacù
+      - Maria
+      - Vergina
+      - nalese
+      - note:
+        - nalæ'zæ
+        - foreign[lg=deu-Latn]: "(Archaismus)' = 'S. 205:"
+        - je nájšla
+        - foreign[lg=deu-Latn]: "'= 'S. 206:"
+        - je nalæ'zla
+      - tuv
+      - Templine
+      - jesù
+      - Crishtusha
+      - .
   - section[n=12-3]:
-    - p:
-      - s[n=163]:
-        - Part ta sehont Dolorous
-        - milestone[unit=subdivision,n=15]
-      - s[n=164]:
-        - 1. cacù Jesus Crishtush sputil Crij tou Uarte Getsemani
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 207:'
-          - tòu wàrtace od Jacémane.
-        - .
-      - s[n=165]:
-        - 2. cacù jesus Cristush je bil flagelan tapar nì Caluni.
-      - s[n=166]:
-        - 3. cacù jusus je nesal Crish uvn nà Calvarj.
-      - s[n=167]:
-        - 4. cacù jesus je bil Coronan, s nò tarnouo Caruno.
-      - s[n=168]:
-        - 5. cacù jesus je uvmar tana Crishu sa nas.
+    - s[n=163]:
+      - Part
+      - ta
+      - sehont
+      - Dolorous
+      - milestone[unit=subdivision,n=15]
+    - s[n=164]:
+      - '1 '
+      - .
+      - cacù
+      - Jesus
+      - Crishtush
+      - sputil
+      - Crij
+      - tou
+      - Uarte
+      - Getsemani
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 207:'
+        - tòu wàrtace od Jacémane.
+      - .
+    - s[n=165]:
+      - '2 '
+      - .
+      - cacù
+      - jesus
+      - Cristush
+      - je
+      - bil
+      - flagelan
+      - tapar
+      - nì
+      - Caluni
+      - .
+    - s[n=166]:
+      - '3 '
+      - .
+      - cacù
+      - jusus
+      - je
+      - nesal
+      - Crish
+      - uvn
+      - nà
+      - Calvarj
+      - .
+    - s[n=167]:
+      - '4 '
+      - .
+      - cacù
+      - jesus
+      - je
+      - bil
+      - Coronan
+      - ', '
+      - s
+      - nò
+      - tarnouo
+      - Caruno
+      - .
+    - s[n=168]:
+      - '5 '
+      - .
+      - cacù
+      - jesus
+      - je
+      - uvmar
+      - tana
+      - Crishu
+      - sa
+      - nas
+      - .
   - section[n=12-4]:
-    - p:
-      - s[n=169]:
-        - Part tretgna Glorios.
-        - milestone[unit=subdivision,n=16]
-      - s[n=170]:
-        - 1. Cacù jesus je Resuscital od Smarti.
-      - s[n=171]:
-        - 2. Cacù je shal dopo 40.
-        - note:
-          - štrêdi
-        - dnuv un Paravish.
-      - s[n=172]:
-        - 3. Cacù parshal Sveti Duh zhis Apostule jè illuminal
-        - note:
-          - ilumin{e}_t
-        - .
-      - s[n=173]:
-        - 4. Cacù Maria Vergina bè
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 210:'
-          - je bíla.
-        - nashanà od Agnulou tuv Paravish.
-      - s[n=174]:
-        - 5. Cacù Maria Vergina bè
-        - note:
-          - foreign[lg=deu-Latn]: 'S. 211:'
-          - je bíla.
-        - coronana tou Paravishe.
-      - s[n=175]:
-        - Gloria bodi visachimù Bohù.
-        - foreign[lg=deu-Latn]: Copetti. io 182121.
+    - s[n=169]:
+      - Part
+      - tretgna
+      - Glorios
+      - .
+      - milestone[unit=subdivision,n=16]
+    - s[n=170]:
+      - '1 '
+      - .
+      - Cacù
+      - jesus
+      - je
+      - Resuscital
+      - od
+      - Smarti
+      - .
+    - s[n=171]:
+      - '2 '
+      - .
+      - Cacù
+      - je
+      - shal
+      - dopo
+      - '40 '
+      - .
+      - note:
+        - štrêdi
+      - dnuv
+      - un
+      - Paravish
+      - .
+    - s[n=172]:
+      - '3 '
+      - .
+      - Cacù
+      - parshal
+      - Sveti
+      - Duh
+      - zhis
+      - Apostule
+      - jè
+      - illuminal
+      - note:
+        - ilumin{e}_t
+      - .
+    - s[n=173]:
+      - '4 '
+      - .
+      - Cacù
+      - Maria
+      - Vergina
+      - bè
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 210:'
+        - je bíla.
+      - nashanà
+      - od
+      - Agnulou
+      - tuv
+      - Paravish
+      - .
+    - s[n=174]:
+      - '5 '
+      - .
+      - Cacù
+      - Maria
+      - Vergina
+      - bè
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 211:'
+        - je bíla.
+      - coronana
+      - tou
+      - Paravishe
+      - .
+    - s[n=175]:
+      - Gloria
+      - bodi
+      - visachimù
+      - Bohù
+      - .
+      - foreign[lg=deu-Latn]: Copetti. io 182121.
+      - version: Notes
+    - s[n=1]:
+    - s[n=2]:
+    - s[n=3]:
+    - s[n=4]:
+    - s[n=5]:
+    - s[n=6]:
+    - s[n=7]:
+    - s[n=8]:
+    - s[n=9]:
+    - s[n=10]:
+    - s[n=11]:
+    - s[n=12]:
+    - s[n=13]:
+    - s[n=14]:
+    - s[n=15]:
+    - s[n=16]:
+    - s[n=17]:
+    - s[n=18]:
+    - s[n=19]:
+    - s[n=20]:
+    - s[n=21]:
+    - s[n=22]:
+    - s[n=23]:
+    - s[n=24]:
+    - s[n=25]:
+    - s[n=26]:
+    - s[n=27]:
+    - s[n=28]:
+    - s[n=29]:
+    - s[n=30]:
