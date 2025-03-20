@@ -20,15 +20,14 @@
 		<profileDesc>
 			<langUsage>
 				<language ident="orv-Cyrl-x-old-russian">Old Russian</language>
-				<language ident="deu-Latn">German</language>
 				<language ident="rus-Cyrl">Russian</language>
+				<language ident="deu-Latn">German</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="orv-Cyrl-x-old-russian">
 		<body>
 			<div n="1" xml:id="chapter-1" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">1</head>
 				<ab n="1" type="verse" xml:id="chapter-1-ab-1">
 					<foreign xml:lang="rus-Cyrl">Въ началѣ Богъ сотворилъ небеса и землю.</foreign>
 				</ab>
@@ -124,7 +123,6 @@
 				</ab>
 			</div>
 			<div n="2" xml:id="chapter-2" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">2</head>
 				<ab n="1" type="verse" xml:id="chapter-2-ab-32">
 					<foreign xml:lang="rus-Cyrl">Такимъ образомъ совершены небеса и земля и все воинство ихъ.</foreign>
 				</ab>
@@ -202,7 +200,6 @@
 				</ab>
 			</div>
 			<div n="3" xml:id="chapter-3" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">3</head>
 				<ab n="1" type="verse" xml:id="chapter-3-ab-57">
 					<foreign xml:lang="rus-Cyrl">Хитрѣйшiй изъ всѣхъ звѣрей полевыхъ, которыхъ Iегова Богъ создалъ, былъ змѣй. Онъ сказалъ женѣ: подлинно ли скiзалъ Богъ: не ѣшьте плодовъ ни съ какого дерева въ саду?</foreign>
 				</ab>
@@ -277,7 +274,6 @@
 				</ab>
 			</div>
 			<div n="4" xml:id="chapter-4" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">4</head>
 				<ab n="1" type="verse" xml:id="chapter-4-ab-81">
 					<foreign xml:lang="rus-Cyrl">Послѣ сего Адамъ позналъ Еву жену свою; и она зачала и родила Каина, и сказала: приобрѣла я человѣка отъ Iеговы.</foreign>
 				</ab>
@@ -358,7 +354,6 @@
 				</ab>
 			</div>
 			<div n="5" xml:id="chapter-5" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">5</head>
 				<ab n="1" type="verse" xml:id="chapter-5-ab-107">
 					<foreign xml:lang="rus-Cyrl">Вотъ родословiе Адама: со дня, въ который Богъ сотворилъ человѣка, Онъ создалъ его по подобiю Божiю.</foreign>
 				</ab>
@@ -457,7 +452,6 @@
 				</ab>
 			</div>
 			<div n="6" xml:id="chapter-6" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">6</head>
 				<ab n="1" type="verse" xml:id="chapter-6-ab-139">
 					<foreign xml:lang="rus-Cyrl">Когда люди начали умножаться на землѣ, и родились у нихъ дочери: то случилось,</foreign>
 				</ab>
@@ -526,7 +520,6 @@
 				</ab>
 			</div>
 			<div n="7" xml:id="chapter-7" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">7</head>
 				<ab n="1" type="verse" xml:id="chapter-7-ab-161">
 					<foreign xml:lang="rus-Cyrl">И сказалъ Iегова Ною: войди со всѣмъ семействомъ твоимъ въ ковчегъ; ибо тебя вижу Я праведнымъ предо Мною въ семъ вѣкѣ.</foreign>
 				</ab>
@@ -601,7 +594,6 @@
 				</ab>
 			</div>
 			<div n="8" xml:id="chapter-8" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">8</head>
 				<ab n="1" type="verse" xml:id="chapter-8-ab-185">
 					<foreign xml:lang="rus-Cyrl">Тогда Богъ вспомнилъ о Ноѣ, и о всѣхъ звѣряхъ, и о всемъ скотѣ, бывшихъ съ нимь въ ковчегѣ; и навелъ Богъ вѣтеръ на землю, и воды остановились.</foreign>
 				</ab>
@@ -670,7 +662,6 @@
 				</ab>
 			</div>
 			<div n="9" xml:id="chapter-9" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">9</head>
 				<ab n="1" type="verse" xml:id="chapter-9-ab-207">
 					<foreign xml:lang="rus-Cyrl">И благословилъ Богъ Ноя и сыновъ его, и сказалъ имъ: плодитесь и размножайтесь, и наполняйте землю.</foreign>
 				</ab>
@@ -760,7 +751,6 @@
 				</ab>
 			</div>
 			<div n="10" xml:id="chapter-10" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">10</head>
 				<ab n="1" type="verse" xml:id="chapter-10-ab-236">
 					<foreign xml:lang="rus-Cyrl">Вотъ родословiе сыновъ Ноевыхъ Сима, Хама и Iафета. Послѣ потопа родились у нихъ дѣти:</foreign>
 				</ab>
@@ -859,7 +849,6 @@
 				</ab>
 			</div>
 			<div n="11" xml:id="chapter-11" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">11</head>
 				<ab n="1" type="verse" xml:id="chapter-11-ab-268">
 					<foreign xml:lang="rus-Cyrl">Вся земля говорила однимъ языкомъ и однимъ нарѣчiемъ.</foreign>
 				</ab>
@@ -958,7 +947,6 @@
 				</ab>
 			</div>
 			<div n="12" xml:id="chapter-12" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">12</head>
 				<ab n="1" type="verse" xml:id="chapter-12-ab-300">
 					<foreign xml:lang="rus-Cyrl">Между тѣмъ Iегова сказалъ Авраму: поди изъ земли твоей, съ родины твоей, и изъ дома отца твоего въ землю, которую укажу тебѣ.</foreign>
 				</ab>
@@ -1021,7 +1009,6 @@
 				</ab>
 			</div>
 			<div n="13" xml:id="chapter-13" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">13</head>
 				<ab n="1" type="verse" xml:id="chapter-13-ab-320">
 					<foreign xml:lang="rus-Cyrl">И вышелъ Аврамъ изъ Египта, самъ, и жена его, и все, что у него было, и Лотъ съ нимъ, въ полуденный край.</foreign>
 				</ab>
@@ -1078,7 +1065,6 @@
 				</ab>
 			</div>
 			<div n="14" xml:id="chapter-14" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">14</head>
 				<ab n="1" type="verse" xml:id="chapter-14-ab-338">
 					<foreign xml:lang="rus-Cyrl">Случилось во дни Амрафела, царя Сеннаарскаго, Арiоха, царя Елласарскаго, Кедорлаомера царя Еламскаго и ¡идала царя Гоимскаго,</foreign>
 				</ab>
@@ -1153,7 +1139,6 @@
 				</ab>
 			</div>
 			<div n="15" xml:id="chapter-15" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">15</head>
 				<ab n="1" type="verse" xml:id="chapter-15-ab-362">
 					<foreign xml:lang="rus-Cyrl">Послѣ сихъ происшествiй, было слово Iеговы къ Авраму въ видѣнiи, и сказано: не бойся, Аврамъ; Я твой щитъ; награда твоя весьма велика.</foreign>
 				</ab>
@@ -1219,7 +1204,6 @@
 				</ab>
 			</div>
 			<div n="16" xml:id="chapter-16" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">16</head>
 				<ab n="1" type="verse" xml:id="chapter-16-ab-383">
 					<foreign xml:lang="rus-Cyrl">Но Сара, жена Аврамова, не раждала ему. И какъ у ней была служанка Египтянка, именемъ Агарь;</foreign>
 				</ab>
@@ -1270,7 +1254,6 @@
 				</ab>
 			</div>
 			<div n="17" xml:id="chapter-17" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">17</head>
 				<ab n="1" type="verse" xml:id="chapter-17-ab-399">
 					<foreign xml:lang="rus-Cyrl">Когда Авраму было девяносто девять лѣтъ отъ рожденiя, Iегова явился Авраму и сказалъ: Я Богъ всемогущiй; ходи предъ лицемъ Моимъ, и будь непороченъ;</foreign>
 				</ab>
@@ -1354,7 +1337,6 @@
 				</ab>
 			</div>
 			<div n="18" xml:id="chapter-18" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">18</head>
 				<ab n="1" type="verse" xml:id="chapter-18-ab-426">
 					<foreign xml:lang="rus-Cyrl">Опять явился ему Iегова у дубравы Мамре, когда онъ сидѣлъ у дверей шатра, во время зноя дневнаго.</foreign>
 				</ab>
@@ -1456,7 +1438,6 @@
 				</ab>
 			</div>
 			<div n="19" xml:id="chapter-19" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">19</head>
 				<ab n="1" type="verse" xml:id="chapter-19-ab-459">
 					<foreign xml:lang="rus-Cyrl">Между тѣмъ, два Ангела пришли въ Содомъ вечеромъ, когда Лоть сидѣлъ у воротъ Содомскихъ. Лотъ увидѣлъ и всталъ на встрѣчу имъ, и поклонился лицомъ до земли.</foreign>
 				</ab>
@@ -1573,7 +1554,6 @@
 				</ab>
 			</div>
 			<div n="20" xml:id="chapter-20" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">20</head>
 				<ab n="1" type="verse" xml:id="chapter-20-ab-497">
 					<foreign xml:lang="rus-Cyrl">Авраамъ пошелъ оттуда въ землю полуденную; и сталъ жить между Кадесомъ и между Суромъ; и пришелъ на время въ Гераръ.</foreign>
 				</ab>
@@ -1630,7 +1610,6 @@
 				</ab>
 			</div>
 			<div n="21" xml:id="chapter-21" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">21</head>
 				<ab n="1" type="verse" xml:id="chapter-21-ab-515">
 					<foreign xml:lang="rus-Cyrl">И посѣтилъ Iегова Сарру, какъ сказалъ; и сотворилъ Iегова Саррѣ, какъ говорилъ.</foreign>
 				</ab>
@@ -1735,7 +1714,6 @@
 				</ab>
 			</div>
 			<div n="22" xml:id="chapter-22" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">22</head>
 				<ab n="1" type="verse" xml:id="chapter-22-ab-549">
 					<foreign xml:lang="rus-Cyrl">И было, послѣ сихъ происшествiй, что Богъ искушалъ Авраама, и сказалъ ему: Авраамъ! онъ отвѣтствовалъ: вотъ я.</foreign>
 				</ab>
@@ -1810,7 +1788,6 @@
 				</ab>
 			</div>
 			<div n="23" xml:id="chapter-23" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">23</head>
 				<ab n="1" type="verse" xml:id="chapter-23-ab-573">
 					<foreign xml:lang="rus-Cyrl">Жизни Сарриной было сто двадцать семь лѣтъ. Вотъ лѣта жизни Сарриной.</foreign>
 				</ab>
@@ -1873,7 +1850,6 @@
 				</ab>
 			</div>
 			<div n="24" xml:id="chapter-24" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">24</head>
 				<ab n="1" type="verse" xml:id="chapter-24-ab-593">
 					<foreign xml:lang="rus-Cyrl">Авраамъ былъ уже старъ и въ лѣтахъ преклонныхъ. Iегова благословилъ Авраама всѣмъ.</foreign>
 				</ab>
@@ -2077,7 +2053,6 @@
 				</ab>
 			</div>
 			<div n="25" xml:id="chapter-25" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">25</head>
 				<ab n="1" type="verse" xml:id="chapter-25-ab-660">
 					<foreign xml:lang="rus-Cyrl">И взялъ Авраамъ еще жену, именемъ Хеттуру.</foreign>
 				</ab>
@@ -2182,7 +2157,6 @@
 				</ab>
 			</div>
 			<div n="26" xml:id="chapter-26" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">26</head>
 				<ab n="1" type="verse" xml:id="chapter-26-ab-694">
 					<foreign xml:lang="rus-Cyrl">Случился на землѣ голодъ, сверхъ прежняго голода, который былъ во дни Авраама, и пошелъ Исаакъ къ Авимелеху, царю Филистимскому, въ Гераръ.</foreign>
 				</ab>
@@ -2290,7 +2264,6 @@
 				</ab>
 			</div>
 			<div n="27" xml:id="chapter-27" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">27</head>
 				<ab n="1" type="verse" xml:id="chapter-27-ab-729">
 					<foreign xml:lang="rus-Cyrl">Когда Исаакъ состарѣлся, и притупилось зрѣнiе очей его, тогда онъ призвалъ старшаго сына своего Исава, и сказалъ ему: сынъ мой! сей отвѣтствовалъ: вотъ я!</foreign>
 				</ab>
@@ -2431,7 +2404,6 @@
 				</ab>
 			</div>
 			<div n="28" xml:id="chapter-28" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">28</head>
 				<ab n="1" type="verse" xml:id="chapter-28-ab-775">
 					<foreign xml:lang="rus-Cyrl">И призвалъ Исаакъ Iакова, и благословилъ его, и заповѣдалъ ему, говоря: не бери себѣ жены изъ дочерей Ханаанскихъ.</foreign>
 				</ab>
@@ -2500,7 +2472,6 @@
 				</ab>
 			</div>
 			<div n="29" xml:id="chapter-29" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">29</head>
 				<ab n="1" type="verse" xml:id="chapter-29-ab-797">
 					<foreign xml:lang="rus-Cyrl">И всталъ Iаковъ, и пошелъ въ землю сыновъ востока.</foreign>
 				</ab>
@@ -2608,7 +2579,6 @@
 				</ab>
 			</div>
 			<div n="30" xml:id="chapter-30" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">30</head>
 				<ab n="1" type="verse" xml:id="chapter-30-ab-832">
 					<foreign xml:lang="rus-Cyrl">Когда Рахиль увидѣла, что она не рождаетъ дѣтей Iакову, поревновала Рахиль сестрѣ своей, и сказала Iакову: дай мнѣ дѣтей; а если не такъ, то я умру.</foreign>
 				</ab>
@@ -2740,7 +2710,6 @@
 				</ab>
 			</div>
 			<div n="31" xml:id="chapter-31" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">31</head>
 				<ab n="1" type="verse" xml:id="chapter-31-ab-875">
 					<foreign xml:lang="rus-Cyrl">И услышалъ Iаковъ слова сыновъ Лавановыхъ, которые говорили: Iаковъ завладѣлъ всѣмъ, что было у отца нашего, и изъ имѣнiя отца нашего составилъ все богатство сiе.</foreign>
 				</ab>
@@ -2908,7 +2877,6 @@
 				</ab>
 			</div>
 			<div n="32" xml:id="chapter-32" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">32</head>
 				<ab n="1" type="verse" xml:id="chapter-32-ab-930">
 					<foreign xml:lang="rus-Cyrl">А Iаковъ пошелъ въ путь свой. И встрѣтили его ангелы Божiи.</foreign>
 				</ab>
@@ -3007,7 +2975,6 @@
 				</ab>
 			</div>
 			<div n="33" xml:id="chapter-33" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">33</head>
 				<ab n="1" type="verse" xml:id="chapter-33-ab-962">
 					<foreign xml:lang="rus-Cyrl">И возвелъ Iаковъ очи свои, и видитъ, и вотъ идетъ Исавъ, и съ нимъ четыреста человѣкъ. Тогда онъ раздѣлилъ дѣтей -- Лiи, Рахили и двумъ служанкамъ;</foreign>
 				</ab>
@@ -3070,7 +3037,6 @@
 				</ab>
 			</div>
 			<div n="34" xml:id="chapter-34" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">34</head>
 				<ab n="1" type="verse" xml:id="chapter-34-ab-982">
 					<foreign xml:lang="rus-Cyrl">Нѣкогда Дина, дочь Лiи, которую она родила Iакову, вышла посмотрѣть дочерей земли той.</foreign>
 				</ab>
@@ -3166,7 +3132,6 @@
 				</ab>
 			</div>
 			<div n="35" xml:id="chapter-35" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">35</head>
 				<ab n="1" type="verse" xml:id="chapter-35-ab-1013">
 					<foreign xml:lang="rus-Cyrl">Богъ сказалъ Iакову: встань, поди въ Ве¿иль, и живи тамъ; и устрой тамъ жертвейникъ Богу, явившемуся тебѣ, когда ты бѣжалъ отъ лица Исава, брата твоего.</foreign>
 				</ab>
@@ -3256,7 +3221,6 @@
 				</ab>
 			</div>
 			<div n="36" xml:id="chapter-36" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">36</head>
 				<ab n="1" type="verse" xml:id="chapter-36-ab-1042">
 					<foreign xml:lang="rus-Cyrl">Вотъ родословiе Исава, иначе Эдома.</foreign>
 				</ab>
@@ -3388,7 +3352,6 @@
 				</ab>
 			</div>
 			<div n="37" xml:id="chapter-37" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">37</head>
 				<ab n="1" type="verse" xml:id="chapter-37-ab-1085">
 					<foreign xml:lang="rus-Cyrl">А Iаковъ жилъ въ землѣ странствованiя отца своего, въ землѣ Ханаанской.</foreign>
 				</ab>
@@ -3499,7 +3462,6 @@
 				</ab>
 			</div>
 			<div n="38" xml:id="chapter-38" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">38</head>
 				<ab n="1" type="verse" xml:id="chapter-38-ab-1121">
 					<foreign xml:lang="rus-Cyrl">Въ то время случилось, что Iуда, отошедши отъ братьевъ своихъ, поставилъ шатеръ свой въ сосѣдствѣ одного Одолламитянина, которому имя Хира.</foreign>
 				</ab>
@@ -3592,7 +3554,6 @@
 				</ab>
 			</div>
 			<div n="39" xml:id="chapter-39" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">39</head>
 				<ab n="1" type="verse" xml:id="chapter-39-ab-1151">
 					<foreign xml:lang="rus-Cyrl">Iосифа же отвели въ Египетъ, и купилъ его изъ рукъ Измаильтянъ, приведшихъ его туда, Египтянинъ Потифаръ, евнухъ Фараоновъ, начальникъ тѣлохранителей.</foreign>
 				</ab>
@@ -3664,7 +3625,6 @@
 				</ab>
 			</div>
 			<div n="40" xml:id="chapter-40" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">40</head>
 				<ab n="1" type="verse" xml:id="chapter-40-ab-1174">
 					<foreign xml:lang="rus-Cyrl">Послѣ сихъ произшествiй случилось, что виночерпiй царя Египетскаго и хлѣбодаръ провинились предъ господиномъ своимъ, царемъ Египетскимъ.</foreign>
 				</ab>
@@ -3736,7 +3696,6 @@
 				</ab>
 			</div>
 			<div n="41" xml:id="chapter-41" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">41</head>
 				<ab n="1" type="verse" xml:id="chapter-41-ab-1197">
 					<foreign xml:lang="rus-Cyrl">По прошествiи двухъ лѣтъ случилось, что Фараонъ видѣлъ во снѣ, будто онъ стоялъ у рѣки.</foreign>
 				</ab>
@@ -3910,7 +3869,6 @@
 				</ab>
 			</div>
 			<div n="42" xml:id="chapter-42" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">42</head>
 				<ab n="1" type="verse" xml:id="chapter-42-ab-1254">
 					<foreign xml:lang="rus-Cyrl">Iаковъ видя, что въ Египтѣ есть продажа хлѣба, сказалъ сыновьямъ своимъ: что вы смотрите другъ на друга?</foreign>
 				</ab>
@@ -4027,7 +3985,6 @@
 				</ab>
 			</div>
 			<div n="43" xml:id="chapter-43" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">43</head>
 				<ab n="1" type="verse" xml:id="chapter-43-ab-1292">
 					<foreign xml:lang="rus-Cyrl">Между тѣмъ голодъ усилился на землѣ.</foreign>
 				</ab>
@@ -4132,7 +4089,6 @@
 				</ab>
 			</div>
 			<div n="44" xml:id="chapter-44" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">44</head>
 				<ab n="1" type="verse" xml:id="chapter-44-ab-1326">
 					<foreign xml:lang="rus-Cyrl">Потомъ далъ онъ управляющему домомъ его приказанiе, говоря: наполни мѣшки ихъ хлѣбомъ, сколько они могутъ нести, а серебро каждаго положи въ отверстiе мѣшка его.</foreign>
 				</ab>
@@ -4237,7 +4193,6 @@
 				</ab>
 			</div>
 			<div n="45" xml:id="chapter-45" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">45</head>
 				<ab n="1" type="verse" xml:id="chapter-45-ab-1360">
 					<foreign xml:lang="rus-Cyrl">Iосифъ не могъ болѣе удерживаться при всѣхъ, стоявшихъ около него, и сказалъ: удалите отъ меня всѣхъ. И не предстоялъ ему никто, когда Iосифъ открывалъ себя братьямъ своимъ.</foreign>
 				</ab>
@@ -4324,7 +4279,6 @@
 				</ab>
 			</div>
 			<div n="46" xml:id="chapter-46" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">46</head>
 				<ab n="1" type="verse" xml:id="chapter-46-ab-1388">
 					<foreign xml:lang="rus-Cyrl">И отправился Израиль со всѣмъ, что у него ни было, и пришелъ въ Беэр-Шаву, и принесъ жертву Богу отца своего Исаака.</foreign>
 				</ab>
@@ -4429,7 +4383,6 @@
 				</ab>
 			</div>
 			<div n="47" xml:id="chapter-47" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">47</head>
 				<ab n="1" type="verse" xml:id="chapter-47-ab-1422">
 					<foreign xml:lang="rus-Cyrl">И пришелъ Iосифъ къ Фараону, и извѣстилъ его, и сказалъ: отецъ мой и братья мои съ мелкимъ и крупнымъ скотомъ своимъ, и всѣмъ, что у нихъ есть, пришли изъ земли Ханаанской, и вотъ они въ землѣ Гесемъ.</foreign>
 				</ab>
@@ -4525,7 +4478,6 @@
 				</ab>
 			</div>
 			<div n="48" xml:id="chapter-48" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">48</head>
 				<ab n="1" type="verse" xml:id="chapter-48-ab-1453">
 					<foreign xml:lang="rus-Cyrl">И было послѣ сихъ произшеетвiй, сказали Iосифу: вотъ, отецъ твой боленъ. Тотда онъ взялъ съ собою двухъ сыновей своихъ, Манассiю и Ефрема.</foreign>
 				</ab>
@@ -4594,7 +4546,6 @@
 				</ab>
 			</div>
 			<div n="49" xml:id="chapter-49" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">49</head>
 				<ab n="1" type="verse" xml:id="chapter-49-ab-1475">
 					<foreign xml:lang="rus-Cyrl">Наконецъ Iаковъ призвалъ сыновъ своихъ и сказалъ: Соберитесь, и я возвѣщу вамъ, Что случится съ вами въ грядущiе дни.</foreign>
 				</ab>
@@ -4696,7 +4647,6 @@
 				</ab>
 			</div>
 			<div n="50" xml:id="chapter-50" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">50</head>
 				<ab n="1" type="verse" xml:id="chapter-50-ab-1508">
 					<foreign xml:lang="rus-Cyrl">Iосифъ палъ на лице отца своего, и плакалъ надъ нимъ, и цѣловалъ его.</foreign>
 				</ab>
@@ -4778,7 +4728,6 @@
 				</ab>
 			</div>
 			<div n="1" xml:id="chapter-51" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">1</head>
 				<ab n="1" type="verse" xml:id="chapter-51-ab-1534">
 					<foreign xml:lang="rus-Cyrl">Вотъ имена сыновъ Израилевыхъ, которые вошли въ Египетъ съ Iаковомъ, вошли каждый съ семействомъ своимъ:</foreign>
 				</ab>
@@ -4847,7 +4796,6 @@
 				</ab>
 			</div>
 			<div n="2" xml:id="chapter-52" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">2</head>
 				<ab n="1" type="verse" xml:id="chapter-52-ab-1556">
 					<foreign xml:lang="rus-Cyrl">Нѣкто изъ племени Левiина пошелъ и взялъ Левитянку.</foreign>
 				</ab>
@@ -4925,7 +4873,6 @@
 				</ab>
 			</div>
 			<div n="3" xml:id="chapter-53" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">3</head>
 				<ab n="1" type="verse" xml:id="chapter-53-ab-1581">
 					<foreign xml:lang="rus-Cyrl">Между тѣмъ Моисей былъ пастыремъ овецъ у Iофора тестя своего, священника Мадiамскаго. Однажды провелъ онъ стадо далеко въ пустыню, и пришелъ къ горѣ Божiей Хориву.</foreign>
 				</ab>
@@ -4994,7 +4941,6 @@
 				</ab>
 			</div>
 			<div n="4" xml:id="chapter-54" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">4</head>
 				<ab n="1" type="verse" xml:id="chapter-54-ab-1603">
 					<foreign xml:lang="rus-Cyrl">Но Моисей въ отвѣтъ сказалъ: а можетъ быть, они ее повѣрятъ мнѣ, и не послушаютъ гласа моего, и скажутъ: не явился тебѣ Iегова?</foreign>
 				</ab>
@@ -5090,7 +5036,6 @@
 				</ab>
 			</div>
 			<div n="5" xml:id="chapter-55" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">5</head>
 				<ab n="1" type="verse" xml:id="chapter-55-ab-1634">
 					<foreign xml:lang="rus-Cyrl">Послѣ сего Моисей и Ааронъ пришли къ Фараону, и сказали: такъ говоритъ Iегова Богъ Израилевъ: отпусти народъ Мой, чтобъ онъ совершилъ Мнѣ праздникъ въ пустынѣ.</foreign>
 				</ab>
@@ -5162,7 +5107,6 @@
 				</ab>
 			</div>
 			<div n="6" xml:id="chapter-56" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">6</head>
 				<ab n="1" type="verse" xml:id="chapter-56-ab-1657">
 					<foreign xml:lang="rus-Cyrl">И сказалъ Iегова Моисею: теперь увидишь ты, что Я сдѣлаю съ Фараономъ: по дѣйствiю руки крѣпкой онъ отпуститъ ихъ, по дѣйствiю руки крѣпкой даже выгонитъ ихъ изъ земли своей.</foreign>
 				</ab>
@@ -5255,7 +5199,6 @@
 				</ab>
 			</div>
 			<div n="7" xml:id="chapter-57" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">7</head>
 				<ab n="1" type="verse" xml:id="chapter-57-ab-1687">
 					<foreign xml:lang="rus-Cyrl">Но Iегова сказалъ Моисею: смотри, Я поставлю тебя богомъ Фараону; а Ааронъ, братъ твой, будетъ твоимъ пророкомъ.</foreign>
 				</ab>
@@ -5333,7 +5276,6 @@
 				</ab>
 			</div>
 			<div n="8" xml:id="chapter-58" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">8</head>
 				<ab n="1" type="verse" xml:id="chapter-58-ab-1712">
 					<foreign xml:lang="rus-Cyrl">И сказалъ Iегова Моисею: поди къ Фараону, и скажи ему: такъ говоритъ Iегова; отпусти народъ Мой, дабы онъ совершилъ Мнѣ служенiе.</foreign>
 				</ab>
@@ -5432,7 +5374,6 @@
 				</ab>
 			</div>
 			<div n="9" xml:id="chapter-59" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">9</head>
 				<ab n="1" type="verse" xml:id="chapter-59-ab-1744">
 					<foreign xml:lang="rus-Cyrl">И сказалъ Iегова Моисею: поди къ Фараону и скажи ему: такъ говоритъ Iегова, Богъ Евреевъ: отпусти народъ Мой, дабы онъ совершилъ Мнѣ служенiе.</foreign>
 				</ab>
@@ -5540,7 +5481,6 @@
 				</ab>
 			</div>
 			<div n="10" xml:id="chapter-60" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">10</head>
 				<ab n="1" type="verse" xml:id="chapter-60-ab-1779">
 					<foreign xml:lang="rus-Cyrl">И сказалъ Iегова Моисею: поди къ Фараону, ибо Я отягчилъ сердце его и сердце рабовъ его, дабы явить между ими сiи знаменiя Мои,</foreign>
 				</ab>
@@ -5630,7 +5570,6 @@
 				</ab>
 			</div>
 			<div n="11" xml:id="chapter-61" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">11</head>
 				<ab n="1" type="verse" xml:id="chapter-61-ab-1808">
 					<foreign xml:lang="rus-Cyrl">И сказалъ Iегова Моисею: еще одну казнь Я наведу на Фараона и на Египтянъ; послѣ того онъ отпуститъ васъ отсюда. Когда же онъ будетъ отпускать, то съ поспѣшностiю будетъ гнать всѣхъ васъ отсюда.</foreign>
 				</ab>
@@ -5663,7 +5602,6 @@
 				</ab>
 			</div>
 			<div n="12" xml:id="chapter-62" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">12</head>
 				<ab n="1" type="verse" xml:id="chapter-62-ab-1818">
 					<foreign xml:lang="rus-Cyrl">И сказалъ Iегова Моисею и Аарону въ землѣ Египетской:</foreign>
 				</ab>
@@ -5819,7 +5757,6 @@
 				</ab>
 			</div>
 			<div n="13" xml:id="chapter-63" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">13</head>
 				<ab n="1" type="verse" xml:id="chapter-63-ab-1869">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Iегова Моисею, и сказалъ:</foreign>
 				</ab>
@@ -5888,7 +5825,6 @@
 				</ab>
 			</div>
 			<div n="14" xml:id="chapter-64" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">14</head>
 				<ab n="1" type="verse" xml:id="chapter-64-ab-1891">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Iегова Моисею, и сказалъ:</foreign>
 				</ab>
@@ -5987,7 +5923,6 @@
 				</ab>
 			</div>
 			<div n="15" xml:id="chapter-65" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">15</head>
 				<ab n="1" type="verse" xml:id="chapter-65-ab-1923">
 					<foreign xml:lang="rus-Cyrl">Пою Iеговѣ: ибо Онъ высоко превознесся, Коня и всадника его ввергнулъ въ море.</foreign>
 				</ab>
@@ -6071,7 +6006,6 @@
 				</ab>
 			</div>
 			<div n="16" xml:id="chapter-66" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">16</head>
 				<ab n="1" type="verse" xml:id="chapter-66-ab-1950">
 					<foreign xml:lang="rus-Cyrl">Отправившись изъ Египта, пришло все общество сыновъ Израилевыхъ въ пустыню Синъ, что между Елимомъ и между Синаемъ, въ пятнадцатый день втораго мѣсяца по изшествiи ихъ изъ земли Египетской.</foreign>
 				</ab>
@@ -6182,7 +6116,6 @@
 				</ab>
 			</div>
 			<div n="17" xml:id="chapter-67" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">17</head>
 				<ab n="1" type="verse" xml:id="chapter-67-ab-1986">
 					<foreign xml:lang="rus-Cyrl">Потомъ отправилось все общество сыновъ Израилевыхъ изъ пустыни Синъ въ путь свой, по повелѣнiю Iеговы; и расположилось станомъ въ Рефидимѣ, и небыло воды пить народу.</foreign>
 				</ab>
@@ -6233,7 +6166,6 @@
 				</ab>
 			</div>
 			<div n="18" xml:id="chapter-68" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">18</head>
 				<ab n="1" type="verse" xml:id="chapter-68-ab-2002">
 					<foreign xml:lang="rus-Cyrl">Iо¿оръ, священникъ Мадiамскiй, тесть Моисеевъ, услышалъ все, что сдѣлалъ Богъ для Моисея, и для Израиля, народа Своего, когда вывелъ Iегова Израиля изъ Египта.</foreign>
 				</ab>
@@ -6317,7 +6249,6 @@
 				</ab>
 			</div>
 			<div n="19" xml:id="chapter-69" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">19</head>
 				<ab n="1" type="verse" xml:id="chapter-69-ab-2029">
 					<foreign xml:lang="rus-Cyrl">Въ третiй мѣсяцъ по изшествiи сыновъ Израиля изъ земли Египетской, въ самый день новолунiя, пришли они въ пустыню Синайскую.</foreign>
 				</ab>
@@ -6395,7 +6326,6 @@
 				</ab>
 			</div>
 			<div n="20" xml:id="chapter-70" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">20</head>
 				<ab n="1" type="verse" xml:id="chapter-70-ab-2054">
 					<foreign xml:lang="rus-Cyrl">Тогда изрекъ Богъ всѣ слова сiи, говоря:</foreign>
 				</ab>
@@ -6476,7 +6406,6 @@
 				</ab>
 			</div>
 			<div n="21" xml:id="chapter-71" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">21</head>
 				<ab n="1" type="verse" xml:id="chapter-71-ab-2080">
 					<foreign xml:lang="rus-Cyrl">И вотъ законы, которые ты предложишь имъ:</foreign>
 				</ab>
@@ -6587,7 +6516,6 @@
 				</ab>
 			</div>
 			<div n="22" xml:id="chapter-72" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">22</head>
 				<ab n="1" type="verse" xml:id="chapter-72-ab-2116">
 					<foreign xml:lang="rus-Cyrl">Если кто украдетъ вола или овцу, и заколетъ, или продастъ его: то пять воловъ заплатитъ за вола, и четыре овцы за овцу.</foreign>
 				</ab>
@@ -6683,7 +6611,6 @@
 				</ab>
 			</div>
 			<div n="23" xml:id="chapter-73" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">23</head>
 				<ab n="1" type="verse" xml:id="chapter-73-ab-2147">
 					<foreign xml:lang="rus-Cyrl">Не принимай пустаго слуха, не давай руки твоей беззаконнику, чтобы быть свидѣтелемъ въ пользу преступленiя.</foreign>
 				</ab>
@@ -6785,7 +6712,6 @@
 				</ab>
 			</div>
 			<div n="24" xml:id="chapter-74" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">24</head>
 				<ab n="1" type="verse" xml:id="chapter-74-ab-2180">
 					<foreign xml:lang="rus-Cyrl">Наконецъ было сказано Моисею: взойди къ Iеговѣ, ты и Ааронъ, Надавъ и Авiудъ и семьдесятъ изъ старѣйшинъ Израилевыхъ, и поклонитесь издали.</foreign>
 				</ab>
@@ -6842,7 +6768,6 @@
 				</ab>
 			</div>
 			<div n="25" xml:id="chapter-75" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">25</head>
 				<ab n="1" type="verse" xml:id="chapter-75-ab-2198">
 					<foreign xml:lang="rus-Cyrl">Тогда Iегова говорилъ къ Моисею, и сказалъ:</foreign>
 				</ab>
@@ -6965,7 +6890,6 @@
 				</ab>
 			</div>
 			<div n="26" xml:id="chapter-76" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">26</head>
 				<ab n="1" type="verse" xml:id="chapter-76-ab-2238">
 					<foreign xml:lang="rus-Cyrl">Скинiю же сдѣлай изъ десяти покрывалъ крученаго виссона яхонтоваго, и пурпуроваго, и червленаго цвѣта и на нихъ искусною работою вытки херувимовъ.</foreign>
 				</ab>
@@ -7079,7 +7003,6 @@
 				</ab>
 			</div>
 			<div n="27" xml:id="chapter-77" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">27</head>
 				<ab n="1" type="verse" xml:id="chapter-77-ab-2275">
 					<foreign xml:lang="rus-Cyrl">Сдѣлай жертвенникъ изъ дерева акацiи, длиною пяти локтей, и шириною пяти локтей, такъ чтобы онъ былъ четвероугольный, а вышиною трехъ локтей.</foreign>
 				</ab>
@@ -7145,7 +7068,6 @@
 				</ab>
 			</div>
 			<div n="28" xml:id="chapter-78" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">28</head>
 				<ab n="1" type="verse" xml:id="chapter-78-ab-2296">
 					<foreign xml:lang="rus-Cyrl">И возьми къ себѣ Аарона брата своего, и сыновъ его съ нимъ, отъ среды сыновъ Израилевыхъ, чтобы поставили ихъ во священники мнѣ: Аарона, Надава, и Авiуда, Елеазара и И¿амара, сыновъ Аароновыхъ.</foreign>
 				</ab>
@@ -7277,7 +7199,6 @@
 				</ab>
 			</div>
 			<div n="29" xml:id="chapter-79" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">29</head>
 				<ab n="1" type="verse" xml:id="chapter-79-ab-2339">
 					<foreign xml:lang="rus-Cyrl">И вотъ, что ты долженъ сдѣлать надъ ними, дабы посвятить ихъ во священники Мнѣ: возьми одного тельца изъ воловъ, и двухъ овновъ, безъ порока,</foreign>
 				</ab>
@@ -7418,7 +7339,6 @@
 				</ab>
 			</div>
 			<div n="30" xml:id="chapter-80" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">30</head>
 				<ab n="1" type="verse" xml:id="chapter-80-ab-2385">
 					<foreign xml:lang="rus-Cyrl">Еще сдѣлай жертвенникъ для приношенiя куренiй; изъ дерева акацiи сдѣлай его.</foreign>
 				</ab>
@@ -7535,7 +7455,6 @@
 				</ab>
 			</div>
 			<div n="31" xml:id="chapter-81" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">31</head>
 				<ab n="1" type="verse" xml:id="chapter-81-ab-2423">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Iегова Моисею и сказалъ:</foreign>
 				</ab>
@@ -7592,7 +7511,6 @@
 				</ab>
 			</div>
 			<div n="32" xml:id="chapter-82" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">32</head>
 				<ab n="1" type="verse" xml:id="chapter-82-ab-2441">
 					<foreign xml:lang="rus-Cyrl">Между тѣмъ народъ, видя, что Моисей долго не сходитъ съ горы, собрался къ Аарону, и говорилъ ему: встань и сдѣлай намъ бога, который бы шелъ передъ нами: ибо съ Моисеемъ, съ этимъ человѣкомъ, который вывелъ насъ изъ земли Египетской, не знаемъ, что сдѣлалось.</foreign>
 				</ab>
@@ -7700,7 +7618,6 @@
 				</ab>
 			</div>
 			<div n="33" xml:id="chapter-83" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">33</head>
 				<ab n="1" type="verse" xml:id="chapter-83-ab-2476">
 					<foreign xml:lang="rus-Cyrl">Потомъ Iегова сказалъ Моисею: поди, иди отсюда ты и народъ, который ты вывелъ изъ земли Египетской, въ землю, о которой Я клялся Аврааму, Исааку и Iакову, говоря: потомству твоему дамъ ее;</foreign>
 				</ab>
@@ -7772,7 +7689,6 @@
 				</ab>
 			</div>
 			<div n="34" xml:id="chapter-84" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">34</head>
 				<ab n="1" type="verse" xml:id="chapter-84-ab-2499">
 					<foreign xml:lang="rus-Cyrl">Потомъ Iегова сказалъ Моисею: вытеши себѣ двѣ скрижали каменныя, подобныя прежнимъ; и напиши на сихъ скрижаляхъ слова, какiя были на прежнихъ скрижаляхъ, которыя ты разбилъ.</foreign>
 				</ab>
@@ -7880,7 +7796,6 @@
 				</ab>
 			</div>
 			<div n="35" xml:id="chapter-85" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">35</head>
 				<ab n="1" type="verse" xml:id="chapter-85-ab-2534">
 					<foreign xml:lang="rus-Cyrl">И собралъ Моисей все общество сыновъ Израилевыхъ и сказалъ имъ: сiи суть слова, которыя Iегова заповѣдалъ исполнять:</foreign>
 				</ab>
@@ -7988,7 +7903,6 @@
 				</ab>
 			</div>
 			<div n="36" xml:id="chapter-86" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">36</head>
 				<ab n="1" type="verse" xml:id="chapter-86-ab-2569">
 					<foreign xml:lang="rus-Cyrl">И сталъ работать Веселiилъ и Аголiавъ и всѣ мужи мудрые сердцемъ, которымъ Iегова далъ мудрость и разумѣнiе, чтобъ умѣли производить всякую работу потребную для святилища точно такъ, какъ повелѣлъ Iегова.</foreign>
 				</ab>
@@ -8105,7 +8019,6 @@
 				</ab>
 			</div>
 			<div n="37" xml:id="chapter-87" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">37</head>
 				<ab n="1" type="verse" xml:id="chapter-87-ab-2607">
 					<foreign xml:lang="rus-Cyrl">Потомъ сдѣлалъ Веселiилъ ковчегъ изъ дерева акацiи, длина ему два локтя съ половиной, ширина ему полтора локтя, и высота ему полтора локтя.</foreign>
 				</ab>
@@ -8195,7 +8108,6 @@
 				</ab>
 			</div>
 			<div n="38" xml:id="chapter-88" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">38</head>
 				<ab n="1" type="verse" xml:id="chapter-88-ab-2636">
 					<foreign xml:lang="rus-Cyrl">И сдѣлалъ жертвенникъ всесожженiя изъ дерева акацiи длиною въ пять локтей, и шириною въ пять локтей, четыреугольный, вышиною въ три локтя.</foreign>
 				</ab>
@@ -8291,7 +8203,6 @@
 				</ab>
 			</div>
 			<div n="39" xml:id="chapter-89" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">39</head>
 				<ab n="1" type="verse" xml:id="chapter-89-ab-2667">
 					<foreign xml:lang="rus-Cyrl">Изъ яхонтовой же и пурпуровой и червленой ткани сдѣлали они служебныя одежды для служенiя во святилищѣ; также сдѣлали священныя одежды Аарону, такъ какъ повелѣлъ Iегова Моисею.</foreign>
 				</ab>
@@ -8423,7 +8334,6 @@
 				</ab>
 			</div>
 			<div n="40" xml:id="chapter-90" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">40</head>
 				<ab n="1" type="verse" xml:id="chapter-90-ab-2710">
 					<foreign xml:lang="rus-Cyrl">И сказалъ Iегова Моисею сими словами:</foreign>
 				</ab>
@@ -8541,7 +8451,6 @@
 				</ab>
 			</div>
 			<div n="1" xml:id="chapter-91" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">1</head>
 				<ab n="1" type="verse" xml:id="chapter-91-ab-2748">
 					<foreign xml:lang="rus-Cyrl">И призвалъ Господь Моисея и говорилъ ему изъ скинiи собранiя, и сказалъ:</foreign>
 				</ab>
@@ -8595,7 +8504,6 @@
 				</ab>
 			</div>
 			<div n="2" xml:id="chapter-92" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">2</head>
 				<ab n="1" type="verse" xml:id="chapter-92-ab-2765">
 					<foreign xml:lang="rus-Cyrl">Если какая душа хочетъ принести Господу приношенiе хлѣбное: пусть принесетъ пшеничной муки, и вольетъ на нее елея, и положитъ на нее ливана.</foreign>
 				</ab>
@@ -8646,7 +8554,6 @@
 				</ab>
 			</div>
 			<div n="3" xml:id="chapter-93" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">3</head>
 				<ab n="1" type="verse" xml:id="chapter-93-ab-2781">
 					<foreign xml:lang="rus-Cyrl">Если приноситъ кто жертву благодарственную, и приноситъ ее изъ крупнаго скота, мужескаго, или женскаго пола: пусть принесетъ ее Господу не имѣющую порока.</foreign>
 				</ab>
@@ -8700,7 +8607,6 @@
 				</ab>
 			</div>
 			<div n="4" xml:id="chapter-94" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">4</head>
 				<ab n="1" type="verse" xml:id="chapter-94-ab-2798">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Iегова Моисею, и сказалъ:</foreign>
 				</ab>
@@ -8808,7 +8714,6 @@
 				</ab>
 			</div>
 			<div n="5" xml:id="chapter-95" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">5</head>
 				<ab n="1" type="verse" xml:id="chapter-95-ab-2833">
 					<foreign xml:lang="rus-Cyrl">Если кто согрѣшитъ тѣмъ, что слышалъ злословiе и былъ свидѣтелемъ, или видѣлъ, или зналъ, но не сказалъ, и понесетъ на себѣ грѣхъ его;</foreign>
 				</ab>
@@ -8868,7 +8773,6 @@
 				</ab>
 			</div>
 			<div n="6" xml:id="chapter-96" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">6</head>
 				<ab n="1" type="verse" xml:id="chapter-96-ab-2852">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -8961,7 +8865,6 @@
 				</ab>
 			</div>
 			<div n="7" xml:id="chapter-97" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">7</head>
 				<ab n="1" type="verse" xml:id="chapter-97-ab-2882">
 					<foreign xml:lang="rus-Cyrl">Вотъ законъ о жертвѣ повинности: это великая святыня.</foreign>
 				</ab>
@@ -9078,7 +8981,6 @@
 				</ab>
 			</div>
 			<div n="8" xml:id="chapter-98" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">8</head>
 				<ab n="1" type="verse" xml:id="chapter-98-ab-2920">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -9189,7 +9091,6 @@
 				</ab>
 			</div>
 			<div n="9" xml:id="chapter-99" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">9</head>
 				<ab n="1" type="verse" xml:id="chapter-99-ab-2956">
 					<foreign xml:lang="rus-Cyrl">Въ осьмой день призвалъ Моисей Аарона, и сыновъ его, и старѣйшинъ Израилевыхъ,</foreign>
 				</ab>
@@ -9264,7 +9165,6 @@
 				</ab>
 			</div>
 			<div n="10" xml:id="chapter-100" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">10</head>
 				<ab n="1" type="verse" xml:id="chapter-100-ab-2980">
 					<foreign xml:lang="rus-Cyrl">Надавъ и Авiудъ, сыны Аароновы, взяли каждый свою кадильницу и положили въ нихъ огня, и всыпали на него куренiй и принесли предъ Господа огнь чуждый, котораго Онъ не велѣлъ имъ.</foreign>
 				</ab>
@@ -9327,7 +9227,6 @@
 				</ab>
 			</div>
 			<div n="11" xml:id="chapter-101" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">11</head>
 				<ab n="1" type="verse" xml:id="chapter-101-ab-3000">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею и Аарону, и сказалъ имъ:</foreign>
 				</ab>
@@ -9471,7 +9370,6 @@
 				</ab>
 			</div>
 			<div n="12" xml:id="chapter-102" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">12</head>
 				<ab n="1" type="verse" xml:id="chapter-102-ab-3047">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -9498,7 +9396,6 @@
 				</ab>
 			</div>
 			<div n="13" xml:id="chapter-103" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">13</head>
 				<ab n="1" type="verse" xml:id="chapter-103-ab-3055">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею и Аарону, и сказалъ:</foreign>
 				</ab>
@@ -9678,7 +9575,6 @@
 				</ab>
 			</div>
 			<div n="14" xml:id="chapter-104" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">14</head>
 				<ab n="1" type="verse" xml:id="chapter-104-ab-3114">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -9849,7 +9745,6 @@
 				</ab>
 			</div>
 			<div n="15" xml:id="chapter-105" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">15</head>
 				<ab n="1" type="verse" xml:id="chapter-105-ab-3170">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею и Аарону, и сказалъ:</foreign>
 				</ab>
@@ -9951,7 +9846,6 @@
 				</ab>
 			</div>
 			<div n="16" xml:id="chapter-106" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">16</head>
 				<ab n="1" type="verse" xml:id="chapter-106-ab-3203">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, по смерти двухъ сыновъ Аароновыхъ, когда они, приступивъ предъ лице Господне, умерли.</foreign>
 				</ab>
@@ -10056,7 +9950,6 @@
 				</ab>
 			</div>
 			<div n="17" xml:id="chapter-107" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">17</head>
 				<ab n="1" type="verse" xml:id="chapter-107-ab-3237">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -10107,7 +10000,6 @@
 				</ab>
 			</div>
 			<div n="18" xml:id="chapter-108" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">18</head>
 				<ab n="1" type="verse" xml:id="chapter-108-ab-3253">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -10200,7 +10092,6 @@
 				</ab>
 			</div>
 			<div n="19" xml:id="chapter-109" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">19</head>
 				<ab n="1" type="verse" xml:id="chapter-109-ab-3283">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Гоеподь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -10314,7 +10205,6 @@
 				</ab>
 			</div>
 			<div n="20" xml:id="chapter-110" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">20</head>
 				<ab n="1" type="verse" xml:id="chapter-110-ab-3320">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -10398,7 +10288,6 @@
 				</ab>
 			</div>
 			<div n="21" xml:id="chapter-111" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">21</head>
 				<ab n="1" type="verse" xml:id="chapter-111-ab-3347">
 					<foreign xml:lang="rus-Cyrl">И сказалъ Господь Моисею: объяви священникамъ сынамъ Аароновымъ, и скажи имъ: чтобы никто изъ нихъ не осквернялъ себя прикосновенiемъ къ умершему изъ народа своего.</foreign>
 				</ab>
@@ -10473,7 +10362,6 @@
 				</ab>
 			</div>
 			<div n="22" xml:id="chapter-112" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">22</head>
 				<ab n="1" type="verse" xml:id="chapter-112-ab-3371">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -10575,7 +10463,6 @@
 				</ab>
 			</div>
 			<div n="23" xml:id="chapter-113" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">23</head>
 				<ab n="1" type="verse" xml:id="chapter-113-ab-3404">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -10710,7 +10597,6 @@
 				</ab>
 			</div>
 			<div n="24" xml:id="chapter-114" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">24</head>
 				<ab n="1" type="verse" xml:id="chapter-114-ab-3448">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -10782,7 +10668,6 @@
 				</ab>
 			</div>
 			<div n="25" xml:id="chapter-115" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">25</head>
 				<ab n="1" type="verse" xml:id="chapter-115-ab-3471">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею на горѣ Синаѣ, и сказалъ:</foreign>
 				</ab>
@@ -10950,7 +10835,6 @@
 				</ab>
 			</div>
 			<div n="26" xml:id="chapter-116" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">26</head>
 				<ab n="1" type="verse" xml:id="chapter-116-ab-3526">
 					<foreign xml:lang="rus-Cyrl">Не дѣлайте себѣ идоловъ и истукановъ, и столповъ не ставьте у себя, и камней съ изображенiями не кладите въ землѣ вашей, чтобы кланяться предъ ними: ибо Я Господь, Богъ вашъ.</foreign>
 				</ab>
@@ -11091,7 +10975,6 @@
 				</ab>
 			</div>
 			<div n="27" xml:id="chapter-117" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">27</head>
 				<ab n="1" type="verse" xml:id="chapter-117-ab-3572">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -11197,7 +11080,6 @@
 				</ab>
 			</div>
 			<div n="1" xml:id="chapter-118" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">1</head>
 				<ab n="1" type="verse" xml:id="chapter-118-ab-3606">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею въ пустынѣ Синайской, въ скинiи собранiя, въ первый день втораго мѣсяца, во вторый годъ по изшествiи ихъ изъ земли Египетской, и сказалъ:</foreign>
 				</ab>
@@ -11362,7 +11244,6 @@
 				</ab>
 			</div>
 			<div n="2" xml:id="chapter-119" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">2</head>
 				<ab n="1" type="verse" xml:id="chapter-119-ab-3660">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею и Аарону, и сказалъ:</foreign>
 				</ab>
@@ -11467,7 +11348,6 @@
 				</ab>
 			</div>
 			<div n="3" xml:id="chapter-120" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">3</head>
 				<ab n="1" type="verse" xml:id="chapter-120-ab-3694">
 					<foreign xml:lang="rus-Cyrl">И вотъ родословiе Аарона и Моисея, когда говорилъ Господь Моисею на горѣ Синаѣ:</foreign>
 				</ab>
@@ -11623,7 +11503,6 @@
 				</ab>
 			</div>
 			<div n="4" xml:id="chapter-121" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">4</head>
 				<ab n="1" type="verse" xml:id="chapter-121-ab-3745">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею и Аарону, и сказалъ:</foreign>
 				</ab>
@@ -11773,7 +11652,6 @@
 				</ab>
 			</div>
 			<div n="5" xml:id="chapter-122" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">5</head>
 				<ab n="1" type="verse" xml:id="chapter-122-ab-3794">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -11869,7 +11747,6 @@
 				</ab>
 			</div>
 			<div n="6" xml:id="chapter-123" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">6</head>
 				<ab n="1" type="verse" xml:id="chapter-123-ab-3825">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -11953,7 +11830,6 @@
 				</ab>
 			</div>
 			<div n="7" xml:id="chapter-124" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">7</head>
 				<ab n="1" type="verse" xml:id="chapter-124-ab-3852">
 					<foreign xml:lang="rus-Cyrl">Когда Моисей поставилъ скинiю и помазалъ ее, и освятилъ ее и всѣ вещи ея, и жертвенникъ и всѣ сосуды его, и помазалъ ихъ и освятилъ ихъ:</foreign>
 				</ab>
@@ -12223,7 +12099,6 @@
 				</ab>
 			</div>
 			<div n="8" xml:id="chapter-125" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">8</head>
 				<ab n="1" type="verse" xml:id="chapter-125-ab-3941">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -12304,7 +12179,6 @@
 				</ab>
 			</div>
 			<div n="9" xml:id="chapter-126" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">9</head>
 				<ab n="1" type="verse" xml:id="chapter-126-ab-3967">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею въ пустынѣ Синайской во второй годъ по исшествiи ихъ изъ земли Египетской, въ первый мѣсяцъ, и сказалъ:</foreign>
 				</ab>
@@ -12376,7 +12250,6 @@
 				</ab>
 			</div>
 			<div n="10" xml:id="chapter-127" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">10</head>
 				<ab n="1" type="verse" xml:id="chapter-127-ab-3990">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -12487,7 +12360,6 @@
 				</ab>
 			</div>
 			<div n="11" xml:id="chapter-128" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">11</head>
 				<ab n="1" type="verse" xml:id="chapter-128-ab-4026">
 					<foreign xml:lang="rus-Cyrl">Тогда народъ сталъ жаловаться на бѣдствiе свое въ слухъ Господа. Господь услышалъ, и воспламенился гнѣвъ Его, и возгорѣлся между ними огнь Господенъ, и истреблялъ край стана.</foreign>
 				</ab>
@@ -12595,7 +12467,6 @@
 				</ab>
 			</div>
 			<div n="12" xml:id="chapter-129" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">12</head>
 				<ab n="1" type="verse" xml:id="chapter-129-ab-4061">
 					<foreign xml:lang="rus-Cyrl">И упрекали Марiамъ и Ааронъ Моисея за жену Е¿iоплянку, которую онъ взялъ; ибо онъ взялъ за себя Е¿iоплянку;</foreign>
 				</ab>
@@ -12643,7 +12514,6 @@
 				</ab>
 			</div>
 			<div n="13" xml:id="chapter-130" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">13</head>
 				<ab n="1" type="verse" xml:id="chapter-130-ab-4076">
 					<foreign xml:lang="rus-Cyrl">Послѣ сего народъ отправился изъ Асиро¿а, и остановился въ пустынѣ Фаранъ.</foreign>
 				</ab>
@@ -12748,7 +12618,6 @@
 				</ab>
 			</div>
 			<div n="14" xml:id="chapter-131" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">14</head>
 				<ab n="1" type="verse" xml:id="chapter-131-ab-4110">
 					<foreign xml:lang="rus-Cyrl">Тогда все общество подняло вопль, и плакалъ народъ въ ту ночь.</foreign>
 				</ab>
@@ -12886,7 +12755,6 @@
 				</ab>
 			</div>
 			<div n="15" xml:id="chapter-132" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">15</head>
 				<ab n="1" type="verse" xml:id="chapter-132-ab-4155">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -13012,7 +12880,6 @@
 				</ab>
 			</div>
 			<div n="16" xml:id="chapter-133" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">16</head>
 				<ab n="1" type="verse" xml:id="chapter-133-ab-4196">
 					<foreign xml:lang="rus-Cyrl">Корей, сынъ Ицгаровъ, сынъ Каа¿овъ, сынъ Левiинъ, и Да¿анъ и Авирамъ, сыны Елiава, и Онъ, сынъ Пеле¿а, сыны Рувимовы,</foreign>
 				</ab>
@@ -13165,7 +13032,6 @@
 				</ab>
 			</div>
 			<div n="17" xml:id="chapter-134" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">17</head>
 				<ab n="1" type="verse" xml:id="chapter-134-ab-4246">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -13207,7 +13073,6 @@
 				</ab>
 			</div>
 			<div n="18" xml:id="chapter-135" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">18</head>
 				<ab n="1" type="verse" xml:id="chapter-135-ab-4259">
 					<foreign xml:lang="rus-Cyrl">И сказалъ Господь Аарону: ты и сыны твои и домъ отца твоего понесете на себѣ грѣхъ за неисправность во святилищѣ; и ты и сыны твои съ тобою понесете на себѣ грѣхъ за неисправность въ священствѣ своемъ.</foreign>
 				</ab>
@@ -13306,7 +13171,6 @@
 				</ab>
 			</div>
 			<div n="19" xml:id="chapter-136" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">19</head>
 				<ab n="1" type="verse" xml:id="chapter-136-ab-4291">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею и Аарону, и сказалъ:</foreign>
 				</ab>
@@ -13375,7 +13239,6 @@
 				</ab>
 			</div>
 			<div n="20" xml:id="chapter-137" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">20</head>
 				<ab n="1" type="verse" xml:id="chapter-137-ab-4313">
 					<foreign xml:lang="rus-Cyrl">пришли сыны Израилевы, все общество, въ пустыню Цинъ въ первый мѣсяцъ, и остановился народъ въ Кадесѣ, и умерла тамъ Марiамъ, и погребена тамъ.</foreign>
 				</ab>
@@ -13465,7 +13328,6 @@
 				</ab>
 			</div>
 			<div n="21" xml:id="chapter-138" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">21</head>
 				<ab n="1" type="verse" xml:id="chapter-138-ab-4342">
 					<foreign xml:lang="rus-Cyrl">Хананейскiй царь Арада, живущiй къ югу, услышавъ, что Израиль идетъ дорогою отъ А¿арима, вступилъ въ сраженiе съ Израильтянами, и нѣсколько изъ нихъ взялъ въ плѣнъ.</foreign>
 				</ab>
@@ -13573,7 +13435,6 @@
 				</ab>
 			</div>
 			<div n="22" xml:id="chapter-139" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">22</head>
 				<ab n="1" type="verse" xml:id="chapter-139-ab-4377">
 					<foreign xml:lang="rus-Cyrl">И отправились сыны Израилевы, и остановились на равнинахъ Моава, по ту сторону Iордана, противъ Iерихона.</foreign>
 				</ab>
@@ -13699,7 +13560,6 @@
 				</ab>
 			</div>
 			<div n="23" xml:id="chapter-140" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">23</head>
 				<ab n="1" type="verse" xml:id="chapter-140-ab-4418">
 					<foreign xml:lang="rus-Cyrl">И сказалъ Валаамъ Валаку: построй мнѣ здѣсь семь жертвенниковъ, и представь мнѣ сюда семь тельцовъ и семь овновъ.</foreign>
 				</ab>
@@ -13792,7 +13652,6 @@
 				</ab>
 			</div>
 			<div n="24" xml:id="chapter-141" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">24</head>
 				<ab n="1" type="verse" xml:id="chapter-141-ab-4448">
 					<foreign xml:lang="rus-Cyrl">Валаамъ, видя, что Господу угодно благословлять Израиля, не пошелъ, какъ прежде, для гаданiя, но обратился лицемъ своимъ къ пустынѣ.</foreign>
 				</ab>
@@ -13870,7 +13729,6 @@
 				</ab>
 			</div>
 			<div n="25" xml:id="chapter-142" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">25</head>
 				<ab n="1" type="verse" xml:id="chapter-142-ab-4473">
 					<foreign xml:lang="rus-Cyrl">Израиль жилъ въ Ситтимѣ, и началъ народъ блудодѣйствовать съ дочерьми Моава.</foreign>
 				</ab>
@@ -13927,7 +13785,6 @@
 				</ab>
 			</div>
 			<div n="26" xml:id="chapter-143" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">26</head>
 				<ab n="1" type="verse" xml:id="chapter-143-ab-4491">
 					<foreign xml:lang="rus-Cyrl">Послѣ сего пораженiя сказалъ Господь Моисею и Елеазару, сыну Аарона, священнику:</foreign>
 				</ab>
@@ -14125,7 +13982,6 @@
 				</ab>
 			</div>
 			<div n="27" xml:id="chapter-144" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">27</head>
 				<ab n="1" type="verse" xml:id="chapter-144-ab-4556">
 					<foreign xml:lang="rus-Cyrl">И пришли дочери Салпаада, сына Хеферова, сына Галаадова, сына Махирова, сына Манассiина изъ племенъ Манассiи, сына Iосифова, и вотъ имена дочерей его: Махла, Ноа, Хогла, Милха и Фирца;</foreign>
 				</ab>
@@ -14197,7 +14053,6 @@
 				</ab>
 			</div>
 			<div n="28" xml:id="chapter-145" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">28</head>
 				<ab n="1" type="verse" xml:id="chapter-145-ab-4579">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -14293,7 +14148,6 @@
 				</ab>
 			</div>
 			<div n="29" xml:id="chapter-146" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">29</head>
 				<ab n="1" type="verse" xml:id="chapter-146-ab-4610">
 					<foreign xml:lang="rus-Cyrl">И въ седьмой мѣсяцъ, въ первый день мѣсяца, да будетъ у васъ священное собранiе, никакой работы не работайте, да будетъ это у васъ день трубнаго звука.</foreign>
 				</ab>
@@ -14413,7 +14267,6 @@
 				</ab>
 			</div>
 			<div n="30" xml:id="chapter-147" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">30</head>
 				<ab n="1" type="verse" xml:id="chapter-147-ab-4649">
 					<foreign xml:lang="rus-Cyrl">И сказалъ Моисей сынамъ Израилевымъ все, что повелѣлъ Господь Моисею.</foreign>
 				</ab>
@@ -14467,7 +14320,6 @@
 				</ab>
 			</div>
 			<div n="31" xml:id="chapter-148" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">31</head>
 				<ab n="1" type="verse" xml:id="chapter-148-ab-4666">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -14632,7 +14484,6 @@
 				</ab>
 			</div>
 			<div n="32" xml:id="chapter-149" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">32</head>
 				<ab n="1" type="verse" xml:id="chapter-149-ab-4720">
 					<foreign xml:lang="rus-Cyrl">У сыновъ Рувимовыхъ стадъ было много, и у сыновъ Гадовыхъ весьма много; и потому, когда увидѣли, что земля Iазеръ и земля Галаадъ есть мѣсто выгодное для стадъ,</foreign>
 				</ab>
@@ -14761,7 +14612,6 @@
 				</ab>
 			</div>
 			<div n="33" xml:id="chapter-150" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">33</head>
 				<ab n="1" type="verse" xml:id="chapter-150-ab-4762">
 					<foreign xml:lang="rus-Cyrl">Вотъ переходы сыновъ Израилевыхъ, которые вышли изъ земли Египетской съ полками своими, подъ рукою Моисея и Аарона.</foreign>
 				</ab>
@@ -14932,7 +14782,6 @@
 				</ab>
 			</div>
 			<div n="34" xml:id="chapter-151" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">34</head>
 				<ab n="1" type="verse" xml:id="chapter-151-ab-4818">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею, и сказалъ:</foreign>
 				</ab>
@@ -15022,7 +14871,6 @@
 				</ab>
 			</div>
 			<div n="35" xml:id="chapter-152" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">35</head>
 				<ab n="1" type="verse" xml:id="chapter-152-ab-4847">
 					<foreign xml:lang="rus-Cyrl">И говорилъ Господь Моисею на равнинахъ Моавитскихъ у Iордана насупротивъ Iерихона, и сказалъ:</foreign>
 				</ab>
@@ -15127,7 +14975,6 @@
 				</ab>
 			</div>
 			<div n="36" xml:id="chapter-153" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">36</head>
 				<ab n="1" type="verse" xml:id="chapter-153-ab-4881">
 					<foreign xml:lang="rus-Cyrl">Пришли начальники поколѣнiй племени сыновъ Галаада, сына Махирова, сына Манассiина, изъ племенъ сыновъ Iосифовыхъ, и говорили предъ Моисеемъ и предъ начальниками, главами поколѣнiй сыновъ Израилевыхъ,</foreign>
 				</ab>
@@ -15170,7 +15017,6 @@
 				</ab>
 			</div>
 			<div n="1" xml:id="chapter-154" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">1</head>
 				<ab n="1" type="verse" xml:id="chapter-154-ab-4894">
 					<foreign xml:lang="rus-Cyrl">Сiи суть слова, которыя говорилъ Моисей всѣмъ Израильтянамъ за Iорданомъ, въ пустынѣ на равнинѣ близъ Суфа, между Фараномъ, и Тофеломъ, и Лававомъ, и Асиро¿омъ и Дизагавомъ,</foreign>
 				</ab>
@@ -15311,7 +15157,6 @@
 				</ab>
 			</div>
 			<div n="2" xml:id="chapter-155" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">2</head>
 				<ab n="1" type="verse" xml:id="chapter-155-ab-4940">
 					<foreign xml:lang="rus-Cyrl">Потомъ мы обратились и отправились въ пустыню къ Чермному морю, какъ говорилъ мнѣ Господь, и много времени ходили вокругъ горы Сеира.</foreign>
 				</ab>
@@ -15425,7 +15270,6 @@
 				</ab>
 			</div>
 			<div n="3" xml:id="chapter-156" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">3</head>
 				<ab n="1" type="verse" xml:id="chapter-156-ab-4977">
 					<foreign xml:lang="rus-Cyrl">Обратившись оттуда, шли мы къ Васану, и выступилъ противъ насъ на войну Огъ, царь Васанскiй, со всѣмъ народомъ своимъ къ Едреи.</foreign>
 				</ab>
@@ -15515,7 +15359,6 @@
 				</ab>
 			</div>
 			<div n="4" xml:id="chapter-157" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">4</head>
 				<ab n="1" type="verse" xml:id="chapter-157-ab-5006">
 					<foreign xml:lang="rus-Cyrl">И нынѣ, Израиль, слушай постановленiя и законы, которые Я научаю васъ исполнять, дабы вы были живы, и пошли и наслѣдовали ту землю, которую Господь, Богъ отцевъ вашихъ, даетъ вамъ.</foreign>
 				</ab>
@@ -15665,7 +15508,6 @@
 				</ab>
 			</div>
 			<div n="5" xml:id="chapter-158" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">5</head>
 				<ab n="1" type="verse" xml:id="chapter-158-ab-5055">
 					<foreign xml:lang="rus-Cyrl">И воззвалъ Моисей ко всему Израилю, и сказалъ имъ: слушай, Израиль, постановленiя и законы, которые я изреку сегодня во уши ваши, и выучите ихъ и старайтесь исполнять ихъ.</foreign>
 				</ab>
@@ -15767,7 +15609,6 @@
 				</ab>
 			</div>
 			<div n="6" xml:id="chapter-159" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">6</head>
 				<ab n="1" type="verse" xml:id="chapter-159-ab-5088">
 					<foreign xml:lang="rus-Cyrl">Сiи суть заповѣди, постановленiя и законы, которымъ повелѣлъ Господь, Богъ вашъ, научить васъ, чтобы вы поступали такъ въ той землѣ, въ которую вы переходите, чтобы взять ее въ наслѣдiе;</foreign>
 				</ab>
@@ -15845,7 +15686,6 @@
 				</ab>
 			</div>
 			<div n="7" xml:id="chapter-160" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">7</head>
 				<ab n="1" type="verse" xml:id="chapter-160-ab-5113">
 					<foreign xml:lang="rus-Cyrl">Когда введетъ тебя Господь, Богъ твой, въ ту землю, въ которую ты идешь, чтобы взять ее въ наслѣдiе, и изгонитъ отъ лица твоего многочисленные народы, Хеттеевъ, Гергесеевъ, Аморреевъ, Хананеевъ, Ферезеевъ, Евеевъ и Iевусеевъ, семь народовъ, которые мнгочисленнѣе и сильнѣе тебя,</foreign>
 				</ab>
@@ -15926,7 +15766,6 @@
 				</ab>
 			</div>
 			<div n="8" xml:id="chapter-161" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">8</head>
 				<ab n="1" type="verse" xml:id="chapter-161-ab-5139">
 					<foreign xml:lang="rus-Cyrl">Всѣ заповѣди, которыя я заповѣдаю вамъ сегодня, старайтесь исполнять, дабы вы были живы и размножились, и пошли и наслѣдовали ту землю, которую съ клятвою обѣщалъ Господь отцамъ вашимъ.</foreign>
 				</ab>
@@ -15989,7 +15828,6 @@
 				</ab>
 			</div>
 			<div n="9" xml:id="chapter-162" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">9</head>
 				<ab n="1" type="verse" xml:id="chapter-162-ab-5159">
 					<foreign xml:lang="rus-Cyrl">Слушай, Израиль? ты теперь идешь за Iорданъ, чтобъ пойдти, взять въ наслѣдiе народы, которые болѣе и сильнѣе тебя, города большiе съ укрѣпленiями, возвышающимися до небесъ,</foreign>
 				</ab>
@@ -16079,7 +15917,6 @@
 				</ab>
 			</div>
 			<div n="10" xml:id="chapter-163" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">10</head>
 				<ab n="1" type="verse" xml:id="chapter-163-ab-5188">
 					<foreign xml:lang="rus-Cyrl">Въ то время сказалъ мнѣ Господь: вытеши себѣ двѣ скрижали каменныя, подобныя первымъ, и взойди ко Мнѣ на гору и сдѣлай себѣ деревянный ковчегъ.</foreign>
 				</ab>
@@ -16148,7 +15985,6 @@
 				</ab>
 			</div>
 			<div n="11" xml:id="chapter-164" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">11</head>
 				<ab n="1" type="verse" xml:id="chapter-164-ab-5210">
 					<foreign xml:lang="rus-Cyrl">Итакъ люби Господа, Бога твоего, и храни, что повелѣно Имъ хранить, и постановленiя Его, и заковы Его, и заповѣди Его во всѣ дни.</foreign>
 				</ab>
@@ -16247,7 +16083,6 @@
 				</ab>
 			</div>
 			<div n="12" xml:id="chapter-165" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">12</head>
 				<ab n="1" type="verse" xml:id="chapter-165-ab-5242">
 					<foreign xml:lang="rus-Cyrl">Сiи сутъ постановленiя и законы, которые вы должны стараться исполнять въ той землѣ, которую Господь, Богъ отцевъ твоихъ, даетъ тебѣ въ наслѣдiе во всѣ дни, которые вы будете жить на той землѣ:</foreign>
 				</ab>
@@ -16346,7 +16181,6 @@
 				</ab>
 			</div>
 			<div n="13" xml:id="chapter-166" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">13</head>
 				<ab n="1" type="verse" xml:id="chapter-166-ab-5274">
 					<foreign xml:lang="rus-Cyrl">Если возстанеть среди тебя пророкъ, или сновидецъ и представитъ тебѣ знаменiе или чудо,</foreign>
 				</ab>
@@ -16403,7 +16237,6 @@
 				</ab>
 			</div>
 			<div n="14" xml:id="chapter-167" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">14</head>
 				<ab n="1" type="verse" xml:id="chapter-167-ab-5292">
 					<foreign xml:lang="rus-Cyrl">Вы сыны Господа, Бога вашего, не надрѣзывайте тѣла вашего и не выстригайте волосъ надъ глазами вашими, плача по умершемъ:</foreign>
 				</ab>
@@ -16493,7 +16326,6 @@
 				</ab>
 			</div>
 			<div n="15" xml:id="chapter-168" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">15</head>
 				<ab n="1" type="verse" xml:id="chapter-168-ab-5321">
 					<foreign xml:lang="rus-Cyrl">По наступленiи седьмаго года дѣлай прощенiе.</foreign>
 				</ab>
@@ -16565,7 +16397,6 @@
 				</ab>
 			</div>
 			<div n="16" xml:id="chapter-169" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">16</head>
 				<ab n="1" type="verse" xml:id="chapter-169-ab-5344">
 					<foreign xml:lang="rus-Cyrl">Наблюдай мѣсяцъ Авивъ, и совершай Пасху Господу, Богу твоему, потому что въ мѣсяцѣ Авивѣ вывелъ тебя Господь, Богъ твой, изъ Египта ночью.</foreign>
 				</ab>
@@ -16634,7 +16465,6 @@
 				</ab>
 			</div>
 			<div n="17" xml:id="chapter-170" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">17</head>
 				<ab n="1" type="verse" xml:id="chapter-170-ab-5366">
 					<foreign xml:lang="rus-Cyrl">Не приноси въ жертву Господу, Богу твоему, вола, или овцы, на которой будетъ порокъ, или что-нибудь худое: поелику это мерзость для Господа, Бога твоего.</foreign>
 				</ab>
@@ -16697,7 +16527,6 @@
 				</ab>
 			</div>
 			<div n="18" xml:id="chapter-171" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">18</head>
 				<ab n="1" type="verse" xml:id="chapter-171-ab-5386">
 					<foreign xml:lang="rus-Cyrl">Священникамъ-левитамъ, всему колѣну Левiину не будетъ части и удѣла съ Израилемъ: они должны питаться жертвами Господа и Его частiю.</foreign>
 				</ab>
@@ -16766,7 +16595,6 @@
 				</ab>
 			</div>
 			<div n="19" xml:id="chapter-172" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">19</head>
 				<ab n="1" type="verse" xml:id="chapter-172-ab-5408">
 					<foreign xml:lang="rus-Cyrl">Когда Господь, Богъ твой, истребитъ народы, коихъ землю даетъ тебѣ Господь, Богъ твой, и ты вступишь въ наслѣдiе послѣ нихъ, и поселишься въ городахъ ихъ и домахъ ихъ:</foreign>
 				</ab>
@@ -16832,7 +16660,6 @@
 				</ab>
 			</div>
 			<div n="20" xml:id="chapter-173" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">20</head>
 				<ab n="1" type="verse" xml:id="chapter-173-ab-5429">
 					<foreign xml:lang="rus-Cyrl">Когда ты пойдешь на войну противъ врага твоего, и увидишь коней и колесницы и народа болѣе, нежели у тебя: то не бойся ихъ, ибо съ тобою Господь, Богъ твой, Который вывелъ тебя изъ земли Египетской.</foreign>
 				</ab>
@@ -16895,7 +16722,6 @@
 				</ab>
 			</div>
 			<div n="21" xml:id="chapter-174" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">21</head>
 				<ab n="1" type="verse" xml:id="chapter-174-ab-5449">
 					<foreign xml:lang="rus-Cyrl">Если въ землѣ, которую Господь, Богъ твой, даетъ тебѣ въ наслѣдiе, найденъ будетъ убитый, лежащiй на полѣ, и неизвѣстно будеть, кто убилъ его:</foreign>
 				</ab>
@@ -16967,7 +16793,6 @@
 				</ab>
 			</div>
 			<div n="22" xml:id="chapter-175" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">22</head>
 				<ab n="1" type="verse" xml:id="chapter-175-ab-5472">
 					<foreign xml:lang="rus-Cyrl">Когда увидишь вола брата твоего, или овцу его заблудившихся, не оставляй ихъ, но возврати ихъ брату твоему.</foreign>
 				</ab>
@@ -17060,7 +16885,6 @@
 				</ab>
 			</div>
 			<div n="23" xml:id="chapter-176" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">23</head>
 				<ab n="1" type="verse" xml:id="chapter-176-ab-5502">
 					<foreign xml:lang="rus-Cyrl">У кого раздавленъ или отрѣзанъ дѣтородный членъ, тотъ не можетъ войти въ общество Господа.</foreign>
 				</ab>
@@ -17138,7 +16962,6 @@
 				</ab>
 			</div>
 			<div n="24" xml:id="chapter-177" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">24</head>
 				<ab n="1" type="verse" xml:id="chapter-177-ab-5527">
 					<foreign xml:lang="rus-Cyrl">Если кто возьметъ жену и сдѣлается ея мужемъ, и послѣ она не будетъ имѣть благоволенiя въ глазахъ его, потому что онъ находитъ въ ней что-нибудь срамное, и напишетъ ей разводное письмо, и дастъ ей въ руки, и отпуститъ ее изъ дому своего,</foreign>
 				</ab>
@@ -17207,7 +17030,6 @@
 				</ab>
 			</div>
 			<div n="25" xml:id="chapter-178" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">25</head>
 				<ab n="1" type="verse" xml:id="chapter-178-ab-5549">
 					<foreign xml:lang="rus-Cyrl">Если будетъ тяжба между людьми, то пусть приведутъ ихъ въ судъ и разсудятъ ихъ, праваго пусть оправдаютъ, а виновнаго осудятъ.</foreign>
 				</ab>
@@ -17267,7 +17089,6 @@
 				</ab>
 			</div>
 			<div n="26" xml:id="chapter-179" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">26</head>
 				<ab n="1" type="verse" xml:id="chapter-179-ab-5568">
 					<foreign xml:lang="rus-Cyrl">Когда ты придешь въ землю, которую Господь, Богъ твой, даетъ тебѣ въ удѣлъ, и получишь ее въ наслѣдiе и поселишься на ней:</foreign>
 				</ab>
@@ -17327,7 +17148,6 @@
 				</ab>
 			</div>
 			<div n="27" xml:id="chapter-180" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">27</head>
 				<ab n="1" type="verse" xml:id="chapter-180-ab-5587">
 					<foreign xml:lang="rus-Cyrl">И заповѣдалъ Моисей и старѣйшины Израилевы народу, говоря: исполняйте всѣ заповѣди, которыя я заповѣдаю вамъ сегодня.</foreign>
 				</ab>
@@ -17408,7 +17228,6 @@
 				</ab>
 			</div>
 			<div n="28" xml:id="chapter-181" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">28</head>
 				<ab n="1" type="verse" xml:id="chapter-181-ab-5613">
 					<foreign xml:lang="rus-Cyrl">Если ты будешь слушать гласа Господа, Бога твоего, тщательно исполнять всѣ заповѣди Его, которыя я заповѣдаю тебѣ сегодня: то Господь, Богъ твой, поставитъ тебя выше всѣхъ народъ земли;</foreign>
 				</ab>
@@ -17615,7 +17434,6 @@
 				</ab>
 			</div>
 			<div n="29" xml:id="chapter-182" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">29</head>
 				<ab n="1" type="verse" xml:id="chapter-182-ab-5681">
 					<foreign xml:lang="rus-Cyrl">Вотъ слова завѣта, который Господь повелѣлъ Моисею поставить съ сынами Израилевыми въ землѣ Моавитской, кромѣ завѣта, который Господь поставилъ съ ними на Хоривѣ.</foreign>
 				</ab>
@@ -17705,7 +17523,6 @@
 				</ab>
 			</div>
 			<div n="30" xml:id="chapter-183" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">30</head>
 				<ab n="1" type="verse" xml:id="chapter-183-ab-5710">
 					<foreign xml:lang="rus-Cyrl">Когда придетъ на тебя все сiе, благословенiе и проклятiе, которыя изложилъ я тебѣ, и ты среди всѣхъ народовъ, къ которымъ изгонитъ тебя Господь, Богъ твой, обратишься къ сердцу твоему,</foreign>
 				</ab>
@@ -17768,7 +17585,6 @@
 				</ab>
 			</div>
 			<div n="31" xml:id="chapter-184" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">31</head>
 				<ab n="1" type="verse" xml:id="chapter-184-ab-5730">
 					<foreign xml:lang="rus-Cyrl">И пошелъ Моисей и говорилъ слова сiи всему Израилю.</foreign>
 				</ab>
@@ -17861,7 +17677,6 @@
 				</ab>
 			</div>
 			<div n="32" xml:id="chapter-185" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">32</head>
 				<ab n="1" type="verse" xml:id="chapter-185-ab-5760">
 					<foreign xml:lang="rus-Cyrl">Внемлите небеса, и я начну говорить; И слушай земля слова устъ моихъ.</foreign>
 				</ab>
@@ -18020,7 +17835,6 @@
 				</ab>
 			</div>
 			<div n="33" xml:id="chapter-186" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">33</head>
 				<ab n="1" type="verse" xml:id="chapter-186-ab-5812">
 					<foreign xml:lang="rus-Cyrl">Вотъ благословенiе, которымъ Моисей, человѣкъ Божiй, благословилъ сыновъ Израилевыхъ предъ смертiю своею.</foreign>
 				</ab>
@@ -18110,7 +17924,6 @@
 				</ab>
 			</div>
 			<div n="34" xml:id="chapter-187" type="chapter" data-level="1">
-				<head xml:lang="deu-Latn">34</head>
 				<ab n="1" type="verse" xml:id="chapter-187-ab-5841">
 					<foreign xml:lang="rus-Cyrl">И взошелъ Моисей съ равнинъ Моавитскихъ на гору Нево, на вершину Фазги, что противъ Iерихона, и показалъ ему Господь всю землю Галаадъ до самаго Дана,</foreign>
 				</ab>
