@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -34,11 +34,11 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="46-Latn">Sorbian</language>
+				<language ident="hsb-Latn">Upper Sorbian</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text xml:lang="46-Latn">
+	<text xml:lang="hsb-Latn">
 		<body>
 			<lg n="1" type="stanza" xml:id="lg-1">
 				<head>Prěni spěw</head>

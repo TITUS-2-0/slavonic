@@ -1,6 +1,7 @@
 - body:
   - fragment[n=AlxV]:
-    - head[lg=ces-Latn]: ZLOMEK SVATOVÍTSKÝ -
+    - head:
+      - foreign[lg=ces-Latn]: ZLOMEK SVATOVÍTSKÝ -
     - lg[type=stanza,n=1]:
       - l[n=1]: Jenž ze jmene byl věhlasný,
       - l[n=2]: jehož rozum byl tak jasný,
@@ -2617,7 +2618,8 @@
       - l[n=2460]: Tehdy, jemuž bě nevykla
       - l[n=2461]: '[...]'
   - fragment[n=AlxH]:
-    - head[lg=ces-Latn]: ZLOMEK JINDŘICHOHRADECKÝ -
+    - head:
+      - foreign[lg=ces-Latn]: ZLOMEK JINDŘICHOHRADECKÝ -
     - lg[type=stanza,n=1]:
       - l[n=1]: aby v tu všu vlast vehnali,
       - l[n=2]: měst i hradóv dobývali.
@@ -3150,7 +3152,8 @@
       - l[n=492]: z tak múdrého *rozmluvenie.
       - l[n=493]: Tak zřiece všici *svých pánóv
   - fragment[n=AlxVíd]:
-    - head[lg=ces-Latn]: ZLOMEK VÍDEŇSKÝ -
+    - head:
+      - foreign[lg=ces-Latn]: ZLOMEK VÍDEŇSKÝ -
     - lg[type=stanza,n=1]:
       - l[n=1]: Tako na smrt tekú slepě,
       - l[n=2]: vňuž ptáci váznú na lepě.
@@ -3277,7 +3280,8 @@
       - l[n=108]: o něm všecko zlé šepcúce,
       - l[n=109]: mnozí mdlobú sotně jdúce,
   - fragment[n=AlxB]:
-    - head[lg=ces-Latn]: ZLOMEK BUDĚJOVICKÝ -
+    - head:
+      - foreign[lg=ces-Latn]: ZLOMEK BUDĚJOVICKÝ -
     - lg[type=stanza,n=1]:
       - l[n=1]: ač podlé vašie čsti práva
       - l[n=2]: chcte sobě věrně pomoci
@@ -3652,7 +3656,8 @@
       - l[n=341]: vezme to, což nezaslúžil,
       - l[n=342]: jehož lepší bude núžil."
   - fragment[n=AlxBM]:
-    - head[lg=ces-Latn]: ZLOMEK BUDĚJOVICKOMUZEJNÍ -
+    - head:
+      - foreign[lg=ces-Latn]: ZLOMEK BUDĚJOVICKOMUZEJNÍ -
     - lg[type=stanza,n=1]:
       - l[n=1]: V tu dobu ta dva prorádcě,
       - l[n=2]: nevěrného skutka skládcě,
@@ -4026,7 +4031,8 @@
       - l[n=345]: Bud̕ ten birže smirtci uživ,
       - l[n=346]: ktož jest jé s právem zaslúživ
   - fragment[n=AlxM]:
-    - head[lg=ces-Latn]: ZLOMEK MUZEJNÍ -
+    - head:
+      - foreign[lg=ces-Latn]: ZLOMEK MUZEJNÍ -
     - lg[type=stanza,n=1]:
       - l[n=1]: všeho bych vám přěrád pomohl.
       - l[n=2]: Každému sě vás v tom sžěli,
@@ -4184,7 +4190,8 @@
       - l[n=123]: pravé přiezni na stvirzenie
       - l[n=124]: i všie řěči na znamenie
   - fragment[n=AlxŠ]:
-    - head[lg=ces-Latn]: ZLOMEK ŠAFAŘÍKŮV -
+    - head:
+      - foreign[lg=ces-Latn]: ZLOMEK ŠAFAŘÍKŮV -
     - lg[type=stanza,n=1]:
       - l[n=1]: mého sirdcě mysli rovný."
     - lg[type=stanza,n=2]:
@@ -4326,7 +4333,8 @@
       - l[n=90]: 'Tu král vecě: "Křistobole,'
       - l[n=91]: jesti vždy svobodná vóle
   - fragment[n=AlxO]:
-    - head[lg=ces-Latn]: ZLOMEK OSTŘIHOMSKÝ -
+    - head:
+      - foreign[lg=ces-Latn]: ZLOMEK OSTŘIHOMSKÝ -
     - lg[type=stanza,n=1]:
       - l[n=1]: i by ho bylo stokrát viece,
       - l[n=2]: na tvé skutky, na mysl zřiece,
@@ -4440,7 +4448,8 @@
       - l[n=87]: křičéc na smirt bez přestánie,
       - l[n=88]: jiejž smirt, že nelzě umřieti,
   - fragment[n=AlxBud]:
-    - head[lg=ces-Latn]: DRUHÝ ZLOMEK BUDĚJOVICKÝ -
+    - head:
+      - foreign[lg=ces-Latn]: DRUHÝ ZLOMEK BUDĚJOVICKÝ -
     - lg[type=stanza,n=1]:
       - l[n=1]: že, když král chtěl k městu jěti,
       - l[n=2]: poslal, dávaje věděti,

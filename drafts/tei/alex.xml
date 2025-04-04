@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -36,15 +36,17 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="32773-Latn-x-old-czech">Old Czech</language>
+				<language ident="ces-Latn-x-old-czech">Old Czech</language>
 				<language ident="ces-Latn">Czech</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text xml:lang="32773-Latn-x-old-czech">
+	<text xml:lang="ces-Latn-x-old-czech">
 		<body>
 			<div n="AlxV" xml:id="fragment-1" type="fragment" data-level="1">
-				<head xml:lang="ces-Latn">ZLOMEK SVATOVÍTSKÝ -</head>
+				<head>
+					<foreign xml:lang="ces-Latn">ZLOMEK SVATOVÍTSKÝ -</foreign>
+				</head>
 				<lg type="stanza" n="1" xml:id="fragment-1-lg-1">
 					<l n="1" xml:id="fragment-1-lg-1-l-1">Jenž ze jmene byl věhlasný,</l>
 					<l n="2" xml:id="fragment-1-lg-1-l-2">jehož rozum byl tak jasný,</l>
@@ -2670,7 +2672,9 @@
 				</lg>
 			</div>
 			<div n="AlxH" xml:id="fragment-2" type="fragment" data-level="1">
-				<head xml:lang="ces-Latn">ZLOMEK JINDŘICHOHRADECKÝ -</head>
+				<head>
+					<foreign xml:lang="ces-Latn">ZLOMEK JINDŘICHOHRADECKÝ -</foreign>
+				</head>
 				<lg type="stanza" n="1" xml:id="fragment-2-lg-57">
 					<l n="1" xml:id="fragment-2-lg-57-l-2462">aby v tu všu vlast vehnali,</l>
 					<l n="2" xml:id="fragment-2-lg-57-l-2463">měst i hradóv dobývali.</l>
@@ -3201,7 +3205,9 @@
 				</lg>
 			</div>
 			<div n="AlxVíd" xml:id="fragment-3" type="fragment" data-level="1">
-				<head xml:lang="ces-Latn">ZLOMEK VÍDEŇSKÝ -</head>
+				<head>
+					<foreign xml:lang="ces-Latn">ZLOMEK VÍDEŇSKÝ -</foreign>
+				</head>
 				<lg type="stanza" n="1" xml:id="fragment-3-lg-68">
 					<l n="1" xml:id="fragment-3-lg-68-l-2955">Tako na smrt tekú slepě,</l>
 					<l n="2" xml:id="fragment-3-lg-68-l-2956">vňuž ptáci váznú na lepě.</l>
@@ -3320,7 +3326,9 @@
 				</lg>
 			</div>
 			<div n="AlxB" xml:id="fragment-4" type="fragment" data-level="1">
-				<head xml:lang="ces-Latn">ZLOMEK BUDĚJOVICKÝ -</head>
+				<head>
+					<foreign xml:lang="ces-Latn">ZLOMEK BUDĚJOVICKÝ -</foreign>
+				</head>
 				<lg type="stanza" n="1" xml:id="fragment-4-lg-69">
 					<l n="1" xml:id="fragment-4-lg-69-l-3064">ač podlé vašie čsti práva</l>
 					<l n="2" xml:id="fragment-4-lg-69-l-3065">chcte sobě věrně pomoci</l>
@@ -3704,7 +3712,9 @@
 				</lg>
 			</div>
 			<div n="AlxBM" xml:id="fragment-5" type="fragment" data-level="1">
-				<head xml:lang="ces-Latn">ZLOMEK BUDĚJOVICKOMUZEJNÍ -</head>
+				<head>
+					<foreign xml:lang="ces-Latn">ZLOMEK BUDĚJOVICKOMUZEJNÍ -</foreign>
+				</head>
 				<lg type="stanza" n="1" xml:id="fragment-5-lg-85">
 					<l n="1" xml:id="fragment-5-lg-85-l-3406">V tu dobu ta dva prorádcě,</l>
 					<l n="2" xml:id="fragment-5-lg-85-l-3407">nevěrného skutka skládcě,</l>
@@ -4087,7 +4097,9 @@
 				</lg>
 			</div>
 			<div n="AlxM" xml:id="fragment-6" type="fragment" data-level="1">
-				<head xml:lang="ces-Latn">ZLOMEK MUZEJNÍ -</head>
+				<head>
+					<foreign xml:lang="ces-Latn">ZLOMEK MUZEJNÍ -</foreign>
+				</head>
 				<lg type="stanza" n="1" xml:id="fragment-6-lg-99">
 					<l n="1" xml:id="fragment-6-lg-99-l-3752">všeho bych vám přěrád pomohl.</l>
 					<l n="2" xml:id="fragment-6-lg-99-l-3753">Každému sě vás v tom sžěli,</l>
@@ -4238,7 +4250,9 @@
 				</lg>
 			</div>
 			<div n="AlxŠ" xml:id="fragment-7" type="fragment" data-level="1">
-				<head xml:lang="ces-Latn">ZLOMEK ŠAFAŘÍKŮV -</head>
+				<head>
+					<foreign xml:lang="ces-Latn">ZLOMEK ŠAFAŘÍKŮV -</foreign>
+				</head>
 				<lg type="stanza" n="1" xml:id="fragment-7-lg-105">
 					<l n="1" xml:id="fragment-7-lg-105-l-3876">mého sirdcě mysli rovný."</l>
 				</lg>
@@ -4359,7 +4373,9 @@
 				</lg>
 			</div>
 			<div n="AlxO" xml:id="fragment-8" type="fragment" data-level="1">
-				<head xml:lang="ces-Latn">ZLOMEK OSTŘIHOMSKÝ -</head>
+				<head>
+					<foreign xml:lang="ces-Latn">ZLOMEK OSTŘIHOMSKÝ -</foreign>
+				</head>
 				<lg type="stanza" n="1" xml:id="fragment-8-lg-107">
 					<l n="1" xml:id="fragment-8-lg-107-l-3967">i by ho bylo stokrát viece,</l>
 					<l n="2" xml:id="fragment-8-lg-107-l-3968">na tvé skutky, na mysl zřiece,</l>
@@ -4460,7 +4476,9 @@
 				</lg>
 			</div>
 			<div n="AlxBud" xml:id="fragment-9" type="fragment" data-level="1">
-				<head xml:lang="ces-Latn">DRUHÝ ZLOMEK BUDĚJOVICKÝ -</head>
+				<head>
+					<foreign xml:lang="ces-Latn">DRUHÝ ZLOMEK BUDĚJOVICKÝ -</foreign>
+				</head>
 				<lg type="stanza" n="1" xml:id="fragment-9-lg-108">
 					<l n="1" xml:id="fragment-9-lg-108-l-4055">že, když král chtěl k městu jěti,</l>
 					<l n="2" xml:id="fragment-9-lg-108-l-4056">poslal, dávaje věděti,</l>

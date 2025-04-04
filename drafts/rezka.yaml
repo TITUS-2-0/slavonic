@@ -3,11 +3,12 @@
     - s[n=1]:
       - Nà ime od Oggiè, od Sinu, anù od Svetaha Duha.
 - body:
-  - s[n=2]:
-    - Tacu bodi.
-    - note:
-      - foreign[lg=deu-Latn]: 'S. 181:'
-      - jitáko to bódi.
+  - p:
+    - s[n=2]:
+      - Tacu bodi.
+      - note:
+        - foreign[lg=deu-Latn]: 'S. 181:'
+        - jitáko to bódi.
   - section[n=1]:
     - p:
       - s[n=3]:
