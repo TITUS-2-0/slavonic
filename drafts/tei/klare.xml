@@ -33,12 +33,12 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="32773-Latn-x-old-czech">Old Czech</language>
+				<language ident="ces-Latn">Czech</language>
 				<language ident="lat-Latn">Latin</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text xml:lang="32773-Latn-x-old-czech">
+	<text xml:lang="ces-Latn">
 		<body>
 			<div n="Gramm." xml:id="book-1" type="book" data-level="1">
 				<div n="Proem." xml:id="book-1-part-1" type="part" data-level="2">

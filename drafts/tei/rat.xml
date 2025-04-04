@@ -19,13 +19,13 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="orv-Cyrl-x-old-russian">Old Russian</language>
+				<language ident="orv-Cyrl">Old Russian</language>
 				<language ident="rus-Cyrl">Russian</language>
 				<language ident="deu-Latn">German</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text xml:lang="orv-Cyrl-x-old-russian">
+	<text xml:lang="orv-Cyrl">
 		<body>
 			<div n="1" xml:id="chapter-1" type="chapter" data-level="1">
 				<ab n="1" type="verse" xml:id="chapter-1-ab-1">
