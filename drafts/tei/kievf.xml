@@ -1,0 +1,1599 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Kiev Folia</title>
+				<author>Unknown</author>
+			</titleStmt>
+			<editionStmt>
+				<edition n="1" />
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Goethe-Universität</publisher>
+				<pubPlace>Frankfurt</pubPlace>
+				<date>2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Missing metadata</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="chu-Glag">Church Slavic</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="chu-Glag">
+		<body>
+			<pb n="1v" />
+			<ab xml:id="ab-1">
+				<lb n="1" />
+				<choice>
+					<reg type="transliteration">ВЪ И҃В ДЬНЬ КЛІМЕНТА</reg>
+					<orig>ⰂⰟ Ⰻ҃Ⰲ ⰄⰠⰐⰠ ⰍⰎⰉⰏⰅⰐⰕⰀ</orig>
+				</choice>
+				<lb n="2" />
+				<choice>
+					<reg type="transliteration">Б҃ъ ᾽іже ны · л/ѣта ᾽огрѧдѫцѣ</reg>
+					<orig>Ⰱ҃ⱏ ᾽ⰺⰶⰵ ⱀⱏⰹ · ⰾ/ⱑⱅⰰ ᾽ⱁⰳⱃⱔⰴⱘⱌⱑ</orig>
+				</choice>
+				<lb n="3" />
+				<choice>
+					<reg type="transliteration">блаженаго кл/имента мѫ-</reg>
+					<orig>ⰱⰾⰰⰶⰵⱀⰰⰳⱁ ⰽⰾ/ⰻⰿⰵⱀⱅⰰ ⰿⱘ-</orig>
+				</choice>
+				<lb n="4" break="no" />
+				<choice>
+					<reg type="transliteration">ченіка твоего ᾽і папежа</reg>
+					<orig>ⱍⰵⱀⰹⰽⰰ ⱅⰲⱁⰵⰳⱁ ᾽ⰺ ⱂⰰⱂⰵⰶⰰ</orig>
+				</choice>
+				<lb n="5" />
+				<choice>
+					<reg type="transliteration">чьстьѭ веселі̆ші · под/а-</reg>
+					<orig>ⱍⱐⱄⱅⱐⱙ ⰲⰵⱄⰵⰾⰹ̆ⱎⰺ · ⱂⱁⰴ/ⰰ-</orig>
+				</choice>
+				<lb n="6" break="no" />
+				<choice>
+					<reg type="transliteration">ӡь мілостівъі̑ · д̀а ῾егоже</reg>
+					<orig>ⰸⱐ ⰿⰹⰾⱁⱄⱅⰹⰲⱏⰹ̑ · ⰴ\ⰰ ῾ⰵⰳⱁⰶⰵ</orig>
+				</choice>
+				<lb n="7" />
+				<choice>
+					<reg type="transliteration">чьсть чьстімъ · сіл/оѭ</reg>
+					<orig>ⱍⱐⱄⱅⱐ ⱍⱐⱄⱅⰹⰿⱏ · ⱄⰹⰾ/ⱁⱙ</orig>
+				</choice>
+				<lb n="8" />
+				<choice>
+					<reg type="transliteration">᾽убо мѫчен/иѣ ῾его наслѣдуе-</reg>
+					<orig>᾽ⱆⰱⱁ ⰿⱘⱍⰵⱀ/ⰻⱑ ῾ⰵⰳⱁ ⱀⰰⱄⰾⱑⰴⱆⰵ-</orig>
+				</choice>
+				<lb n="9" break="no" />
+				<choice>
+					<reg type="transliteration">мъ ··· г҃мь ··· НАДЪ ОПЛАТМЬ</reg>
+					<orig>ⰿⱏ ··· ⰳ҃ⰿⱐ ··· ⰐⰀⰄⰟ ⰑⰒⰎⰀⰕⰏⰠ</orig>
+				</choice>
+				<lb n="10" />
+				<choice>
+					<reg type="transliteration">Рован/иѧ̑ г҃і прінесеныѧ</reg>
+					<orig>Ⱃⱁⰲⰰⱀ/ⰻⱔ̑ ⰳ҃ⰹ ⱂⱃⰹⱀⰵⱄⰵⱀⱏⰹⱔ</orig>
+				</choice>
+				<lb n="11" />
+				<choice>
+					<reg type="transliteration">свѧт/і · ᾽і ходатаѧ̆цю</reg>
+					<orig>ⱄⰲⱔⱅ/ⰹ · ᾽ⰺ ⱈⱁⰴⰰⱅⰰⱔ̆ⱌⱓ</orig>
+				</choice>
+				<lb n="12" />
+				<choice>
+					<reg type="transliteration">блаженуму клименту</reg>
+					<orig>ⰱⰾⰰⰶⰵⱀⱆⰿⱆ ⰽⰾⰻⰿⰵⱀⱅⱆ</orig>
+				</choice>
+				<lb n="13" />
+				<choice>
+					<reg type="transliteration">мѫченику твоему · сймь</reg>
+					<orig>ⰿⱘⱍⰵⱀⰻⰽⱆ ⱅⰲⱁⰵⰿⱆ · ⱄⰻ̆ⰿⱐ</orig>
+				</choice>
+				<lb n="14" />
+				<choice>
+					<reg type="transliteration">н̀ы ᾽отъ грѣхъ̑ скврьностиі</reg>
+					<orig>ⱀ\ⱏⰹ ᾽ⱁⱅⱏ ⰳⱃⱑⱈⱏ̑ ⱄⰽⰲⱃⱐⱀⱁⱄⱅⰻⰺ</orig>
+				</choice>
+				<lb n="15" />
+				<choice>
+					<reg type="transliteration">нашіхъ ᾽очісті · г҃мь ·</reg>
+					<orig>ⱀⰰⱎⰺⱈⱏ ᾽ⱁⱍⰹⱄⱅⰹ · ⰳ҃ⰿⱐ ·</orig>
+				</choice>
+				<lb n="16" />
+				<choice>
+					<reg type="transliteration">ПРѢФАЦИѢ · ДО вѣчьнъі̑ б҃же</reg>
+					<orig>ⰒⰓⰡⰗⰀⰜⰋⰡ · ⰄⰑ ⰲⱑⱍⱐⱀⱏⰹ̑ ⰱ҃ⰶⰵ</orig>
+				</choice>
+				<lb n="17" />
+				<choice>
+					<reg type="transliteration">[Ч]/ьстьнӑго климента ӡако-</reg>
+					<orig>[Ⱍ]/ⱐⱄⱅⱐⱀⰰ̆ⰳⱁ ⰽⰾⰻⰿⰵⱀⱅⰰ ⰸⰰⰽⱁ-</orig>
+				</choice>
+				<lb n="18" break="no" />
+				<choice>
+					<reg type="transliteration">ньні̆ка ᾽і мѫчені̆ка чьст҃і</reg>
+					<orig>ⱀⱐⱀⰹ̆ⰽⰰ ᾽ⰺ ⰿⱘⱍⰵⱀⰹ̆ⰽⰰ ⱍⱐⱄⱅ҃ⰹ</orig>
+				</choice>
+				<lb n="19" />
+				<choice>
+					<reg type="transliteration">чьстѧце · ᾽іже ᾽утѧ̆же бы-</reg>
+					<orig>ⱍⱐⱄⱅⱔⱌⰵ · ᾽ⰺⰶⰵ ᾽ⱆⱅⱔ̆ⰶⰵ ⰱⱏⰹ-</orig>
+				</choice>
+				<lb n="20" break="no" />
+				<choice>
+					<reg type="transliteration">ті блажењуму ῾ап/осто-</reg>
+					<orig>ⱅⰹ ⰱⰾⰰⰶⰵⱀ҄ⱆⰿⱆ ῾ⰰⱂ/ⱁⱄⱅⱁ-</orig>
+				</choice>
+				<lb n="21" break="no" />
+				<choice>
+					<reg type="transliteration">лу твоему п/етру · въ· і̆-</reg>
+					<orig>ⰾⱆ ⱅⰲⱁⰵⰿⱆ ⱂ/ⰵⱅⱃⱆ · ⰲⱏ· ⰹ̆-</orig>
+				</choice>
+				<lb n="22" break="no" />
+				<choice>
+					<reg type="transliteration">нокості подругъ · въ· ᾽испо-</reg>
+					<orig>ⱀⱁⰽⱁⱄⱅⰹ ⱂⱁⰴⱃⱆⰳⱏ · ⰲⱏ· ᾽ⰻⱄⱂⱁ-</orig>
+				</choice>
+			</ab>
+			<pb n="2r" />
+			<ab xml:id="ab-2">
+				<lb n="1" />
+				<choice>
+					<reg type="transliteration">вѣді ᾽ученікъ · въ чьсті на-</reg>
+					<orig>ⰲⱑⰴⰹ ᾽ⱆⱍⰵⱀⰹⰽⱏ · ⰲⱏ ⱍⱐⱄⱅⰹ ⱀⰰ-</orig>
+				</choice>
+				<lb n="2" break="no" />
+				<choice>
+					<reg type="transliteration">мѣстьні̆къ · въ мѫченѝі на-</reg>
+					<orig>ⰿⱑⱄⱅⱐⱀⰹ̆ⰽⱏ · ⰲⱏ ⰿⱘⱍⰵⱀⰻ\ⰹ ⱀⰰ-</orig>
+				</choice>
+				<lb n="3" break="no" />
+				<choice>
+					<reg type="transliteration">слѣдьнк̆ъ · х҃мь г҃мь нашмь ·</reg>
+					<orig>ⱄⰾⱑⰴⱐⱀⰽ̆ⱏ · ⱈ҃ⰿⱐ ⰳ҃ⰿⱐ ⱀⰰⱎⰿⱐ ·</orig>
+				</choice>
+				<lb n="4" />
+				<choice>
+					<reg type="transliteration">ПО ВЪСѪДѢ ···</reg>
+					<orig>ⰒⰑ ⰂⰟⰔⰨⰄⰡ ···</orig>
+				</choice>
+				<lb n="5" />
+				<choice>
+					<reg type="transliteration">Т/ѣлесе свѧтаго ᾽і прѣдра-</reg>
+					<orig>Ⱅ/ⱑⰾⰵⱄⰵ ⱄⰲⱔⱅⰰⰳⱁ ᾽ⰺ ⱂⱃⱑⰴⱃⰰ-</orig>
+				</choice>
+				<lb n="6" break="no" />
+				<choice>
+					<reg type="transliteration">гыѧ̑ кръве напльнен̀і въ-</reg>
+					<orig>ⰳⱏⰹⱔ̑ ⰽⱃⱏⰲⰵ ⱀⰰⱂⰾⱐⱀⰵⱀ\ⰺ ⰲⱏ-</orig>
+				</choice>
+				<lb n="7" break="no" />
+				<choice>
+					<reg type="transliteration">лит/иѣ просі̆мъ г҃і б҃же нашь ·</reg>
+					<orig>ⰾⰻⱅ/ⰻⱑ ⱂⱃⱁⱄⰺ̆ⰿⱏ ⰳ҃ⰹ ⰱ҃ⰶⰵ ⱀⰰⱎⱐ ·</orig>
+				</choice>
+				<lb n="8" />
+				<choice>
+					<reg type="transliteration">да еже милостіваѣ ᾽обѣц/ѣ-</reg>
+					<orig>ⰴⰰ ⰵⰶⰵ ⰿⰻⰾⱁⱄⱅⰹⰲⰰⱑ ᾽ⱁⰱⱑⱌ/ⱑ-</orig>
+				</choice>
+				<lb n="9" break="no" />
+				<choice>
+					<reg type="transliteration">н/и/ѣ носі̆мъ · рѣснот/івьнаѣ</reg>
+					<orig>ⱀ/ⰻ/ⱑ ⱀⱁⱄⰺ̆ⰿⱏ · ⱃⱑⱄⱀⱁⱅ/ⰹⰲⱐⱀⰰⱑ</orig>
+				</choice>
+				<lb n="10" />
+				<choice>
+					<reg type="transliteration">᾽иӡдр҃ѣшен/и/ѣ ᾽обьмемъ · г҃мь ···</reg>
+					<orig>᾽ⰻⰸⰴⱃ҃ⱑⱎⰵⱀ/ⰻ/ⱑ ᾽ⱁⰱⱐⰿⰵⰿⱏ · ⰳ҃ⰿⱐ ···</orig>
+				</choice>
+				<lb n="11" />
+				<choice>
+					<reg type="transliteration">ВЪ ТЪӠЕ ДЬНЬ ФЕЛІЦТЫ ·</reg>
+					<orig>ⰂⰟ ⰕⰟⰈⰅ ⰄⰠⰐⰠ ⰗⰅⰎⰉⰜⰕⰟⰉ ·</orig>
+				</choice>
+				<lb n="12" />
+				<choice>
+					<reg type="transliteration">Под/аӡь н/амъ просімъ тѧ</reg>
+					<orig>Ⱂⱁⰴ/ⰰⰸⱐ ⱀ/ⰰⰿⱏ ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ</orig>
+				</choice>
+				<lb n="13" />
+				<choice>
+					<reg type="transliteration">в/ьсемогы̆і б҃же · блажены-</reg>
+					<orig>ⰲ/ⱐⱄⰵⰿⱁⰳⱏⰹ̆ⰺ ⰱ҃ⰶⰵ · ⰱⰾⰰⰶⰵⱀⱏⰹ-</orig>
+				</choice>
+				<lb n="14" break="no" />
+				<choice>
+					<reg type="transliteration">ѧ̑ раді̑ мѫченіцѧ̑ твоеѧ̑</reg>
+					<orig>ⱔ̑ ⱃⰰⰴⰹ̑ ⰿⱘⱍⰵⱀⰹⱌⱔ̑ ⱅⰲⱁⰵⱔ̑</orig>
+				</choice>
+				<lb n="15" />
+				<choice>
+					<reg type="transliteration">феліціты̑ въкупьнѫѭ</reg>
+					<orig>ⱇⰵⰾⰹⱌⰹⱅⱏⰹ̑ ⰲⱏⰽⱆⱂⱐⱀⱘⱙ</orig>
+				</choice>
+				<lb n="16" />
+				<choice>
+					<reg type="transliteration">молитвѫ · ᾽і тоѧ̆ӡе раді̑</reg>
+					<orig>ⰿⱁⰾⰻⱅⰲⱘ · ᾽ⰺ ⱅⱁⱔ̆ⰸⰵ ⱃⰰⰴⰹ̑</orig>
+				</choice>
+				<lb n="17" />
+				<choice>
+					<reg type="transliteration">ӡашчі̆ті н̀ы · г҃мь · НДЪ ᾽ОПЛ</reg>
+					<orig>ⰸⰰⱎⱍⰹ̆ⱅⰹ ⱀ\ⱏⰹ · ⰳ҃ⰿⱐ · ⰐⰄⰟ ᾽ⰑⰒⰎ</orig>
+				</choice>
+				<lb n="18" />
+				<choice>
+					<reg type="transliteration">На служьбы людиі твоіхъ</reg>
+					<orig>Ⱀⰰ ⱄⰾⱆⰶⱐⰱⱏⰹ ⰾⱓⰴⰻⰺ ⱅⰲⱁⰺⱈⱏ</orig>
+				</choice>
+				<lb n="19" />
+				<choice>
+					<reg type="transliteration">милостиѭ пріӡьр/і · ᾽і ???</reg>
+					<orig>ⰿⰻⰾⱁⱄⱅⰻⱙ ⱂⱃⰹⰸⱐⱃ/ⰹ · ᾽ⰺ ???</orig>
+				</choice>
+				<lb n="20" />
+				<choice>
+					<reg type="transliteration">се н̀ы чьстьѭ свѧтыхъ чь-</reg>
+					<orig>ⱄⰵ ⱀ\ⱏⰹ ⱍⱐⱄⱅⱐⱙ ⱄⰲⱔⱅⱏⰹⱈⱏ ⱍⱐ-</orig>
+				</choice>
+				<lb n="21" break="no" />
+				<choice>
+					<reg type="transliteration">сті̆мъ · сътворі н̀ы радо-</reg>
+					<orig>ⱄⱅⰹ̆ⰿⱏ · ⱄⱏⱅⰲⱁⱃⰹ ⱀ\ⱏⰹ ⱃⰰⰴⱁ-</orig>
+				</choice>
+				<lb n="22" break="no" />
+				<choice>
+					<reg type="transliteration">стьны · въ вѣчьнѣ̆мь живот[ѣ]</reg>
+					<orig>ⱄⱅⱐⱀⱏⰹ · ⰲⱏ ⰲⱑⱍⱐⱀⱑ̆ⰿⱐ ⰶⰻⰲⱁⱅ[ⱑ]</orig>
+				</choice>
+			</ab>
+			<pb n="2v" />
+			<ab xml:id="ab-3">
+				<lb n="1" />
+				<choice>
+					<reg type="transliteration">ПО ВЪСѪДѢ ··</reg>
+					<orig>ⰒⰑ ⰂⰟⰔⰨⰄⰡ ··</orig>
+				</choice>
+				<lb n="2" />
+				<choice>
+					<reg type="transliteration">Смѣрьно тѧ молймъ в/ьсе-</reg>
+					<orig>Ⱄⰿⱑⱃⱐⱀⱁ ⱅⱔ ⰿⱁⰾⰻ̆ⰿⱏ ⰲ/ⱐⱄⰵ-</orig>
+				</choice>
+				<lb n="3" break="no" />
+				<choice>
+					<reg type="transliteration">могъі̑ б҃же · молитвамі свѧ-</reg>
+					<orig>ⰿⱁⰳⱏⰹ̑ ⰱ҃ⰶⰵ · ⰿⱁⰾⰻⱅⰲⰰⰿⰹ ⱄⰲⱔ-</orig>
+				</choice>
+				<lb n="4" break="no" />
+				<choice>
+					<reg type="transliteration">тыхъ твоіхъ · ᾽і ты самъ</reg>
+					<orig>ⱅⱏⰹⱈⱏ ⱅⰲⱁⰺⱈⱏ · ᾽ⰺ ⱅⱏⰹ ⱄⰰⰿⱏ</orig>
+				</choice>
+				<lb n="5" />
+				<choice>
+					<reg type="transliteration">бѫ̑ді · ᾽і даръ твоі въселі</reg>
+					<orig>ⰱⱘ̑ⰴⰹ · ᾽ⰺ ⰴⰰⱃⱏ ⱅⰲⱁⰹ ⰲⱏⱄⰵⰾⰹ</orig>
+				</choice>
+				<lb n="6" />
+				<choice>
+					<reg type="transliteration">въ н̀ы · ᾽і врѣмѧ наше въ</reg>
+					<orig>ⰲⱏ ⱀ\ⱏⰹ · ᾽ⰺ ⰲⱃⱑⰿⱔ ⱀⰰⱎⰵ ⰲⱏ</orig>
+				</choice>
+				<lb n="7" />
+				<choice>
+					<reg type="transliteration">правьдѫ пост/аві ·· г҃мь ··</reg>
+					<orig>ⱂⱃⰰⰲⱐⰴⱘ ⱂⱁⱄⱅ/ⰰⰲⰹ ·· ⰳ҃ⰿⱐ ··</orig>
+				</choice>
+				<lb n="8" />
+				<choice>
+					<reg type="transliteration">МЬШѢ НА В/ЬСѦ ДЬНІ ВЬ-</reg>
+					<orig>ⰏⰠⰞⰡ ⰐⰀ Ⰲ/ⰠⰔⰤ ⰄⰠⰐⰊ ⰂⰠ-</orig>
+				</choice>
+				<lb n="9" break="no" />
+				<choice>
+					<reg type="transliteration">СЕГО ЛѢТА ᾽ОБІДѪЦѢ ··</reg>
+					<orig>ⰔⰅⰃⰑ ⰎⰡⰕⰀ ᾽ⰑⰁⰉⰄⰨⰜⰡ ··</orig>
+				</choice>
+				<lb n="10" />
+				<choice>
+					<reg type="transliteration">Б҃ъ ᾽іже тварь св/оѭ ве-</reg>
+					<orig>Ⰱ҃ⱏ ᾽ⰺⰶⰵ ⱅⰲⰰⱃⱐ ⱄⰲ/ⱁⱙ ⰲⰵ-</orig>
+				</choice>
+				<lb n="11" break="no" />
+				<choice>
+					<reg type="transliteration">л/мі пом/ілова · ᾽і по гнѣ-</reg>
+					<orig>ⰾ/ⰿⰹ ⱂⱁⰿ/ⰹⰾⱁⰲⰰ · ᾽ⰺ ⱂⱁ ⰳⱀⱑ-</orig>
+				</choice>
+				<lb n="12" break="no" />
+				<choice>
+					<reg type="transliteration">вѣ своемь · ᾽иӡволі въ-</reg>
+					<orig>ⰲⱑ ⱄⰲⱁⰵⰿⱐ · ᾽ⰻⰸⰲⱁⰾⰹ ⰲⱏ-</orig>
+				</choice>
+				<lb n="13" break="no" />
+				<choice>
+					<reg type="transliteration">плътиті сѧ съп/асениѣ ра-</reg>
+					<orig>ⱂⰾⱏⱅⰻⱅⰹ ⱄⱔ ⱄⱏⱂ/ⰰⱄⰵⱀⰻⱑ ⱃⰰ-</orig>
+				</choice>
+				<lb n="14" break="no" />
+				<choice>
+					<reg type="transliteration">ді чловѣчьска · ᾽і въсхо-</reg>
+					<orig>ⰴⰹ ⱍⰾⱁⰲⱑⱍⱐⱄⰽⰰ · ᾽ⰺ ⰲⱏⱄⱈⱁ-</orig>
+				</choice>
+				<lb n="15" break="no" />
+				<choice>
+					<reg type="transliteration">тѣвъ н/амъ ᾽утврьді срь-</reg>
+					<orig>ⱅⱑⰲⱏ ⱀ/ⰰⰿⱏ ᾽ⱆⱅⰲⱃⱐⰴⰹ ⱄⱃⱐ-</orig>
+				</choice>
+				<lb n="16" break="no" />
+				<choice>
+					<reg type="transliteration">дьцѣ н/ашѣ · ᾽і милостиѭ</reg>
+					<orig>ⰴⱐⱌⱑ ⱀ/ⰰⱎⱑ · ᾽ⰺ ⰿⰻⰾⱁⱄⱅⰻⱙ</orig>
+				</choice>
+				<lb n="17" />
+				<choice>
+					<reg type="transliteration">тво/еѭ просвѣті н̀ы · г҃мь ·</reg>
+					<orig>ⱅⰲⱁ/ⰵⱙ ⱂⱃⱁⱄⰲⱑⱅⰹ ⱀ\ⱏⰹ · ⰳ҃ⰿⱐ ·</orig>
+				</choice>
+				<lb n="18" />
+				<choice>
+					<reg type="transliteration">НАДЪ ᾽ОПЛАТЪМЬ ··</reg>
+					<orig>ⰐⰀⰄⰟ ᾽ⰑⰒⰎⰀⰕⰟⰏⰠ ··</orig>
+				</choice>
+				<lb n="19" />
+				<choice>
+					<reg type="transliteration">Бліӡъ н/асъ бѫді г҃і пр/осі-</reg>
+					<orig>Ⰱⰾⰹⰸⱏ ⱀ/ⰰⱄⱏ ⰱⱘⰴⰹ ⰳ҃ⰹ ⱂⱃ/ⱁⱄⰹ-</orig>
+				</choice>
+				<lb n="20" break="no" />
+				<choice>
+					<reg type="transliteration">мъ тѧ · ᾽і мол/ітвѫ нашѫ</reg>
+					<orig>ⰿⱏ ⱅⱔ · ᾽ⰺ ⰿⱁⰾ/ⰹⱅⰲⱘ ⱀⰰⱎⱘ</orig>
+				</choice>
+				<lb n="21" />
+				<choice>
+					<reg type="transliteration">усл/ыші · д̀а ᾽упъван/ие</reg>
+					<orig>ⱆⱄⰾ/ⱏⰹⱎⰹ · ⰴ\ⰰ ᾽ⱆⱂⱏⰲⰰⱀ/ⰻⰵ</orig>
+				</choice>
+				<lb n="22" />
+				<choice>
+					<reg type="transliteration">[въ]ньм/емъ дѣљъ своіхъ ·</reg>
+					<orig>[ⰲⱏ]ⱀⱐⰿ/ⰵⰿⱏ ⰴⱑⰾ҄ⱏ ⱄⰲⱁⰹⱈⱏ ·</orig>
+				</choice>
+				<lb n="23" />
+				<choice>
+					<reg type="transliteration">і въ любъвь даръ сь т/е-</reg>
+					<orig>ⰺ ⰲⱏ ⰾⱓⰱⱏⰲⱐ ⰴⰰⱃⱏ ⱄⱐ ⱅ/ⰵ-</orig>
+				</choice>
+				<lb n="24" break="no" />
+				<choice>
+					<reg type="transliteration">бѣ пріносімъ · г҃мь ··</reg>
+					<orig>ⰱⱑ ⱂⱃⰹⱀⱁⱄⰹⰿⱏ · ⰳ҃ⰿⱐ ··</orig>
+				</choice>
+			</ab>
+			<pb n="3r" />
+			<ab xml:id="ab-4">
+				<lb n="1" />
+				<choice>
+					<reg type="transliteration">ПРѢФАЦИѢ · вѣчьнъі̑ б҃же ·</reg>
+					<orig>ⰒⰓⰡⰗⰀⰜⰋⰡ · ⰲⱑⱍⱐⱀⱏⰹ̑ ⰱ҃ⰶⰵ ·</orig>
+				</choice>
+				<lb n="2" />
+				<choice>
+					<reg type="transliteration">Небесьскы̆ѧ тв/оѧ сіљы</reg>
+					<orig>Ⱀⰵⰱⰵⱄⱐⱄⰽⱏⰹ̆ⱔ ⱅⰲ/ⱁⱔ ⱄⰺⰾ҄ⱏⰹ</orig>
+				</choice>
+				<lb n="3" />
+				<choice>
+					<reg type="transliteration">просі̆мъ ᾽і м/олімъ · д̀а съ</reg>
+					<orig>ⱂⱃⱁⱄⰹ̆ⰿⱏ ᾽ⰺ ⰿ/ⱁⰾⰹⰿⱏ · ⰴ\ⰰ ⱄⱏ</orig>
+				</choice>
+				<lb n="4" />
+				<choice>
+					<reg type="transliteration">в/ышьні̆мі твоімі · до-</reg>
+					<orig>ⰲ/ⱏⰹⱎⱐⱀⰹ̆ⰿⰹ ⱅⰲⱁⰹⰿⰹ · ⰴⱁ-</orig>
+				</choice>
+				<lb n="5" break="no" />
+				<choice>
+					<reg type="transliteration">сто·᾽іны сътворіші н̀ы · ᾽і</reg>
+					<orig>ⱄⱅⱁ·᾽ⰹⱀⱏⰹ ⱄⱏⱅⰲⱁⱃⰹⱎⰹ ⱀ\ⱏⰹ · ᾽ⰺ</orig>
+				</choice>
+				<lb n="6" />
+				<choice>
+					<reg type="transliteration">вѣчьн/аѣ тв/оѣ ᾽іхъже жѧда-</reg>
+					<orig>ⰲⱑⱍⱐⱀ/ⰰⱑ ⱅⰲ/ⱁⱑ ᾽ⰺⱈⱏⰶⰵ ⰶⱔⰴⰰ-</orig>
+				</choice>
+				<lb n="7" break="no" />
+				<choice>
+					<reg type="transliteration">емъ подӑсъ н/амъ мілості-</reg>
+					<orig>ⰵⰿⱏ ⱂⱁⰴⰰ̆ⱄⱏ ⱀ/ⰰⰿⱏ ⰿⰺⰾⱁⱄⱅⰹ-</orig>
+				</choice>
+				<lb n="8" break="no" />
+				<choice>
+					<reg type="transliteration">вьно · х҃мь г҃мь н/ашімь · ᾽імь</reg>
+					<orig>ⰲⱐⱀⱁ · ⱈ҃ⰿⱐ ⰳ҃ⰿⱐ ⱀ/ⰰⱎⰹⰿⱐ · ᾽ⰺⰿⱐ</orig>
+				</choice>
+				<lb n="9" />
+				<choice>
+					<reg type="transliteration">ПО ВЪСѪДѢ ··</reg>
+					<orig>ⰒⰑ ⰂⰟⰔⰨⰄⰡ ··</orig>
+				</choice>
+				<lb n="10" />
+				<choice>
+					<reg type="transliteration">Пр/осімъ тѧ г҃і даӡь н/амъ ·</reg>
+					<orig>Ⱂⱃ/ⱁⱄⰹⰿⱏ ⱅⱔ ⰳ҃ⰹ ⰴⰰⰸⱐ ⱀ/ⰰⰿⱏ ·</orig>
+				</choice>
+				<lb n="11" />
+				<choice>
+					<reg type="transliteration">д̀а свѧ̆тъі̑ твоі въсѫдъ</reg>
+					<orig>ⰴ\ⰰ ⱄⰲⱔ̆ⱅⱏⰹ̑ ⱅⰲⱁⰹ ⰲⱏⱄⱘⰴⱏ</orig>
+				</choice>
+				<lb n="12" />
+				<choice>
+					<reg type="transliteration">пріемлѭце д/остоіні бѫ̑-</reg>
+					<orig>ⱂⱃⰹⰵⰿⰾⱙⱌⰵ ⰴ/ⱁⱄⱅⱁⰹⱀⰹ ⰱⱘ̑-</orig>
+				</choice>
+				<lb n="13" break="no" />
+				<choice>
+					<reg type="transliteration">демъ ᾽оч/ішчен/иѣ твоего ·</reg>
+					<orig>ⰴⰵⰿⱏ ᾽ⱁⱍ/ⰹⱎⱍⰵⱀ/ⰻⱑ ⱅⰲⱁⰵⰳⱁ ·</orig>
+				</choice>
+				<lb n="14" />
+				<choice>
+					<reg type="transliteration">᾽і в/ѣра твоѣ въ н/асъ да въ-</reg>
+					<orig>᾽ⰺ ⰲ/ⱑⱃⰰ ⱅⰲⱁⱑ ⰲⱏ ⱀ/ⰰⱄⱏ ⰴⰰ ⰲⱏ-</orig>
+				</choice>
+				<lb n="15" break="no" />
+				<choice>
+					<reg type="transliteration">ӡдрӑстетъ · г҃мь нашімь и҃см ·</reg>
+					<orig>ⰸⰴⱃⰰ̆ⱄⱅⰵⱅⱏ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹⰿⱐ ⰻ҃ⱄⰿ ·</orig>
+				</choice>
+				<lb n="16" />
+				<choice>
+					<reg type="transliteration">МЬШѢ · Б҃ · ᾽О ТОМЬӠЕ ··</reg>
+					<orig>ⰏⰠⰞⰡ · Ⰱ҃ · ᾽Ⱁ ⰕⰑⰏⰠⰈⰅ ··</orig>
+				</choice>
+				<lb n="17" />
+				<choice>
+					<reg type="transliteration">Просімъ тѧ вьсемогъі̑ вѣ-</reg>
+					<orig>Ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ ⰲⱐⱄⰵⰿⱁⰳⱏⰹ̑ ⰲⱑ-</orig>
+				</choice>
+				<lb n="18" break="no" />
+				<choice>
+					<reg type="transliteration">чьнъі̑ б҃же · пріӡьрі на мо-</reg>
+					<orig>ⱍⱐⱀⱏⰹ̑ ⰱ҃ⰶⰵ · ⱂⱃⰹⰸⱐⱃⰹ ⱀⰰ ⰿⱁ-</orig>
+				</choice>
+				<lb n="19" break="no" />
+				<choice>
+					<reg type="transliteration">літвѫ нашѫ · ᾽і вънѫ-</reg>
+					<orig>ⰾⰹⱅⰲⱘ ⱀⰰⱎⱘ · ᾽ⰺ ⰲⱏⱀⱘ-</orig>
+				</choice>
+				<lb n="20" break="no" />
+				<choice>
+					<reg type="transliteration">трьнѣѣ нашѣ ᾽очісті · ᾽ѣже</reg>
+					<orig>ⱅⱃⱐⱀⱑⱑ ⱀⰰⱎⱑ ᾽ⱁⱍⰹⱄⱅⰹ · ᾽ⱑⰶⰵ</orig>
+				</choice>
+				<lb n="21" />
+				<choice>
+					<reg type="transliteration">н̀ы сушѧтъ грѣхы̑ наші-</reg>
+					<orig>ⱀ\ⱏⰹ ⱄⱆⱎⱔⱅⱏ ⰳⱃⱑⱈⱏⰹ̑ ⱀⰰⱎⰹ-</orig>
+				</choice>
+				<lb n="22" break="no" />
+				<choice>
+					<reg type="transliteration">мі · д̀а мілостіѭ твое-</reg>
+					<orig>ⰿⰹ · ⰴ\ⰰ ⰿⰹⰾⱁⱄⱅⰹⱙ ⱅⰲⱁⰵ-</orig>
+				</choice>
+				<lb n="23" break="no" />
+				<choice>
+					<reg type="transliteration">ѭ ᾽іӡбаві ны · г҃мь наші</reg>
+					<orig>ⱙ ᾽ⰺⰸⰱⰰⰲⰹ ⱀⱏⰹ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹ</orig>
+				</choice>
+				<lb n="24" />
+				<choice>
+					<reg type="transliteration">НАДЪ ᾽ОПЛАТЪМЬ ·</reg>
+					<orig>ⰐⰀⰄⰟ ᾽ⰑⰒⰎⰀⰕⰟⰏⰠ ·</orig>
+				</choice>
+			</ab>
+			<pb n="3v" />
+			<ab xml:id="ab-5">
+				<lb n="1" />
+				<choice>
+					<reg type="transliteration">Сьі пріносъ прінесенъі̑ т/ебѣ</reg>
+					<orig>Ⱄⱐⰹ ⱂⱃⰹⱀⱁⱄⱏ ⱂⱃⰹⱀⰵⱄⰵⱀⱏⰹ̑ ⱅ/ⰵⰱⱑ</orig>
+				</choice>
+				<lb n="2" />
+				<choice>
+					<reg type="transliteration">г҃і просімъ тѧ пріімі̑ · ᾽і-</reg>
+					<orig>ⰳ҃ⰹ ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ ⱂⱃⰹⰺⰿⰹ̑ · ᾽ⰺ-</orig>
+				</choice>
+				<lb n="3" break="no" />
+				<choice>
+					<reg type="transliteration">же ῾/есі благословестілъ</reg>
+					<orig>ⰶⰵ ῾/ⰵⱄⰹ ⰱⰾⰰⰳⱁⱄⰾⱁⰲⰵⱄⱅⰹⰾⱏ</orig>
+				</choice>
+				<lb n="4" />
+				<choice>
+					<reg type="transliteration">на съпасен/ие наше · г҃мь наші ·</reg>
+					<orig>ⱀⰰ ⱄⱏⱂⰰⱄⰵⱀ/ⰻⰵ ⱀⰰⱎⰵ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹ ·</orig>
+				</choice>
+				<lb n="5" />
+				<choice>
+					<reg type="transliteration">ПРѢФАЦИѢ · ДО вѣчьн б҃же ·</reg>
+					<orig>ⰒⰓⰡⰗⰀⰜⰋⰡ · ⰄⰑ ⰲⱑⱍⱐⱀ ⰱ҃ⰶⰵ ·</orig>
+				</choice>
+				<lb n="6" />
+				<choice>
+					<reg type="transliteration">Да сѧ т/ебе дрьжімъ ᾽і міло-</reg>
+					<orig>Ⰴⰰ ⱄⱔ ⱅ/ⰵⰱⰵ ⰴⱃⱐⰶⰹⰿⱏ ᾽ⰺ ⰿⰹⰾⱁ-</orig>
+				</choice>
+				<lb n="7" break="no" />
+				<choice>
+					<reg type="transliteration">сті твоеѧ̑ просімъ · прі-</reg>
+					<orig>ⱄⱅⰹ ⱅⰲⱁⰵⱔ̑ ⱂⱃⱁⱄⰹⰿⱏ · ⱂⱃⰹ-</orig>
+				</choice>
+				<lb n="8" break="no" />
+				<choice>
+					<reg type="transliteration">ӡъвалъ ны /еси г҃і · д̀а ᾽испра-</reg>
+					<orig>ⰸⱏⰲⰰⰾⱏ ⱀⱏⰹ /ⰵⱄⰻ ⰳ҃ⰹ · ⰴ\ⰰ ᾽ⰻⱄⱂⱃⰰ-</orig>
+				</choice>
+				<lb n="9" break="no" />
+				<choice>
+					<reg type="transliteration">ві ны ᾽̀і ᾽очісті · не н/аші-</reg>
+					<orig>ⰲⰹ ⱀⱏⰹ ᾽\ⰺ ᾽ⱁⱍⰹⱄⱅⰺ · ⱀⰵ ⱀ/ⰰⱎⰹ-</orig>
+				</choice>
+				<lb n="10" break="no" />
+				<choice>
+					<reg type="transliteration">хъ дѣљъ раді · нъ ᾽обѣта тво-</reg>
+					<orig>ⱈⱏ ⰴⱑⰾ҄ⱏ ⱃⰰⰴⰹ · ⱀⱏ ᾽ⱁⰱⱑⱅⰰ ⱅⰲⱁ-</orig>
+				</choice>
+				<lb n="11" break="no" />
+				<choice>
+					<reg type="transliteration">его раді ᾽іже ῾/есі ᾽обѣцѣлъ</reg>
+					<orig>ⰵⰳⱁ ⱃⰰⰴⰹ ᾽ⰺⰶⰵ ῾/ⰵⱄⰹ ᾽ⱁⰱⱑⱌⱑⰾⱏ</orig>
+				</choice>
+				<lb n="12" />
+				<choice>
+					<reg type="transliteration">н/амъ · да въӡможемъ ду-</reg>
+					<orig>ⱀ/ⰰⰿⱏ · ⰴⰰ ⰲⱏⰸⰿⱁⰶⰵⰿⱏ ⰴⱆ-</orig>
+				</choice>
+				<lb n="13" break="no" />
+				<choice>
+					<reg type="transliteration">шѣмі ᾽і тѣлесы̑ ᾽і мысль-</reg>
+					<orig>ⱎⱑⰿⰹ ᾽ⰺ ⱅⱑⰾⰵⱄⱏⰹ̑ ᾽ⰺ ⰿⱏⰹⱄⰾⱐ-</orig>
+				</choice>
+				<lb n="14" break="no" />
+				<choice>
+					<reg type="transliteration">мі нашімі · пріѧти ӡапо-</reg>
+					<orig>ⰿⰹ ⱀⰰⱎⰹⰿⰺ · ⱂⱃⰹⱔⱅⰻ ⰸⰰⱂⱁ-</orig>
+				</choice>
+				<lb n="15" break="no" />
+				<choice>
+					<reg type="transliteration">вѣді твоѧ · ῾ѧже ῾есі посъ-</reg>
+					<orig>ⰲⱑⰴⰹ ⱅⰲⱁⱔ · ῾ⱔⰶⰵ ῾ⰵⱄⰹ ⱂⱁⱄⱏ-</orig>
+				</choice>
+				<lb n="16" break="no" />
+				<choice>
+					<reg type="transliteration">лалъ къ намъ · х҃мь г҃мь на-</reg>
+					<orig>ⰾⰰⰾⱏ ⰽⱏ ⱀⰰⰿⱏ · ⱈ҃ⰿⱐ ⰳ҃ⰿⱐ ⱀⰰ-</orig>
+				</choice>
+				<lb n="17" break="no" />
+				<choice>
+					<reg type="transliteration">шімь · ᾽і̆мьже велічь ··</reg>
+					<orig>ⱎⰹⰿⱐ · ᾽ⰹ̆ⰿⱐⰶⰵ ⰲⰵⰾⰹⱍⱐ ··</orig>
+				</choice>
+				<lb n="18" />
+				<choice>
+					<reg type="transliteration">ПО ВЪСѪДѢ ··</reg>
+					<orig>ⰒⰑ ⰂⰟⰔⰨⰄⰡ ··</orig>
+				</choice>
+				<lb n="19" />
+				<choice>
+					<reg type="transliteration">Свѧтъі̑ твоі въсѫдъ</reg>
+					<orig>Ⱄⰲⱔⱅⱏⰹ̑ ⱅⰲⱁⰹ ⰲⱏⱄⱘⰴⱏ</orig>
+				</choice>
+				<lb n="20" />
+				<choice>
+					<reg type="transliteration">г҃і іже /есмь въӡѧлі мо-</reg>
+					<orig>ⰳ҃ⰹ ⰺⰶⰵ /ⰵⱄⰿⱐ ⰲⱏⰸⱔⰾⰹ ⰿⱁ-</orig>
+				</choice>
+				<lb n="21" break="no" />
+				<choice>
+					<reg type="transliteration">лімъ т̀ѧ · да ᾽очіститъ</reg>
+					<orig>ⰾⰺⰿⱏ ⱅ\ⱔ · ⰴⰰ ᾽ⱁⱍⰹⱄⱅⰻⱅⱏ</orig>
+				</choice>
+				<lb n="22" />
+				<choice>
+					<reg type="transliteration">ны отъ грѣхъ̑ нашіхъ · ᾽і</reg>
+					<orig>ⱀⱏⰹ ⱁⱅⱏ ⰳⱃⱑⱈⱏ̑ ⱀⰰⱎⰹⱈⱏ · ᾽ⰺ</orig>
+				</choice>
+				<lb n="23" />
+				<choice>
+					<reg type="transliteration">къ небесьсцѣ̀і любъві</reg>
+					<orig>ⰽⱏ ⱀⰵⰱⰵⱄⱐⱄⱌⱑ\ⰹ ⰾⱓⰱⱏⰲⰹ</orig>
+				</choice>
+				<lb n="24" />
+				<choice>
+					<reg type="transliteration">[при]ведетъ њы · г҃мь наь ·</reg>
+					<orig>[ⱂⱃⰻ]ⰲⰵⰴⰵⱅⱏ ⱀ҄ⱏⰹ · ⰳ҃ⰿⱐ ⱀⰰⱐ ·</orig>
+				</choice>
+			</ab>
+			<pb n="4r" />
+			<ab xml:id="ab-6">
+				<lb n="1" />
+				<choice>
+					<reg type="transliteration">МЬШѢ · В · О ТОМЬӠЕ ··</reg>
+					<orig>ⰏⰠⰞⰡ · Ⰲ · Ⱁ ⰕⰑⰏⰠⰈⰅ ··</orig>
+				</choice>
+				<lb n="2" />
+				<choice>
+					<reg type="transliteration">Просі̆мъ тѧ вьсемогъі̑</reg>
+					<orig>Ⱂⱃⱁⱄⰹ̆ⰿⱏ ⱅⱔ ⰲⱐⱄⰵⰿⱁⰳⱏⰹ̑</orig>
+				</choice>
+				<lb n="3" />
+				<choice>
+					<reg type="transliteration">б҃же да ᾽ѣкоже /есмъ скръбьні</reg>
+					<orig>ⰱ҃ⰶⰵ ⰴⰰ ᾽ⱑⰽⱁⰶⰵ /ⰵⱄⰿⱏ ⱄⰽⱃⱏⰱⱐⱀⰹ</orig>
+				</choice>
+				<lb n="4" />
+				<choice>
+					<reg type="transliteration">грѣхы̑ нашімі · мілость-</reg>
+					<orig>ⰳⱃⱑⱈⱏⰹ̑ ⱀⰰⱎⰹⰿⰺ · ⰿⰹⰾⱁⱄⱅⱐ-</orig>
+				</choice>
+				<lb n="5" break="no" />
+				<choice>
+					<reg type="transliteration">ѭ твоеѭ ᾽отъ вьсѣхъ ӡъ-</reg>
+					<orig>ⱙ ⱅⰲⱁⰵⱙ ᾽ⱁⱅⱏ ⰲⱐⱄⱑⱈⱏ ⰸⱏ-</orig>
+				</choice>
+				<lb n="6" break="no" />
+				<choice>
+					<reg type="transliteration">лиі нашіхъ ᾽очісті н̀ы ·</reg>
+					<orig>ⰾⰻⰹ ⱀⰰⱎⰹⱈⱏ ᾽ⱁⱍⰹⱄⱅⰹ ⱀ\ⱏⰹ ·</orig>
+				</choice>
+				<lb n="7" />
+				<choice>
+					<reg type="transliteration">г҃мь ·· НАДЪ ᾽ОПЛАТЪМЬ ·</reg>
+					<orig>ⰳ҃ⰿⱐ ·· ⰐⰀⰄⰟ ᾽ⰑⰒⰎⰀⰕⰟⰏⰠ ·</orig>
+				</choice>
+				<lb n="8" />
+				<choice>
+					<reg type="transliteration">Пріімі г҃і просімъ тѧ при-</reg>
+					<orig>Ⱂⱃⰹⰺⰿⰹ ⰳ҃ⰹ ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ ⱂⱃⰻ-</orig>
+				</choice>
+				<lb n="9" break="no" />
+				<choice>
+					<reg type="transliteration">носъ с̀ь · прінесенъі̑ т/ебѣ ·</reg>
+					<orig>ⱀⱁⱄⱏ ⱄ\ⱐ · ⱂⱃⰹⱀⰵⱄⰵⱀⱏⰹ̑ ⱅ/ⰵⰱⱑ ·</orig>
+				</choice>
+				<lb n="10" />
+				<choice>
+					<reg type="transliteration">᾽иӡбавлен/иѣ раді чловѣ-</reg>
+					<orig>᾽ⰻⰸⰱⰰⰲⰾⰵⱀ/ⰻⱑ ⱃⰰⰴⰹ ⱍⰾⱁⰲⱑ-</orig>
+				</choice>
+				<lb n="11" break="no" />
+				<choice>
+					<reg type="transliteration">чьска · ᾽і съдрав/іе н/амъ</reg>
+					<orig>ⱍⱐⱄⰽⰰ · ᾽ⰺ ⱄⱏⰴⱃⰰⰲ/ⰹⰵ ⱀ/ⰰⰿⱏ</orig>
+				</choice>
+				<lb n="12" />
+				<choice>
+					<reg type="transliteration">д/аӡь · ᾽і душѧ нашѧ ᾽і тѣ-</reg>
+					<orig>ⰴ/ⰰⰸⱐ · ᾽ⰺ ⰴⱆⱎⱔ ⱀⰰⱎⱔ ᾽ⰺ ⱅⱑ-</orig>
+				</choice>
+				<lb n="13" break="no" />
+				<choice>
+					<reg type="transliteration">леса ᾽очисті · ῾а молітвѫ</reg>
+					<orig>ⰾⰵⱄⰰ ᾽ⱁⱍⰻⱄⱅⰹ · ῾ⰰ ⰿⱁⰾⰹⱅⰲⱘ</orig>
+				</choice>
+				<lb n="14" />
+				<choice>
+					<reg type="transliteration">нашѫ приімі ·· г҃мь · ПРѢФ</reg>
+					<orig>ⱀⰰⱎⱘ ⱂⱃⰻⰺⰿⰹ ·· ⰳ҃ⰿⱐ · ⰒⰓⰡⰗ</orig>
+				</choice>
+				<lb n="15" />
+				<choice>
+					<reg type="transliteration">ДО вѣчьнъі̑ б҃же ··</reg>
+					<orig>ⰄⰑ ⰲⱑⱍⱐⱀⱏⰹ̑ ⰱ҃ⰶⰵ ··</orig>
+				</choice>
+				<lb n="16" />
+				<choice>
+					<reg type="transliteration">Ты /есі животъ н/ашь г҃і о-</reg>
+					<orig>Ⱅⱏⰹ /ⰵⱄⰹ ⰶⰻⰲⱁⱅⱏ ⱀ/ⰰⱎⱐ ⰳ҃ⰹ ⱁ-</orig>
+				</choice>
+				<lb n="17" break="no" />
+				<choice>
+					<reg type="transliteration">тъ небытіѣ бо въ быт[ие]</reg>
+					<orig>ⱅⱏ ⱀⰵⰱⱏⰹⱅⰹⱑ ⰱⱁ ⰲⱏ ⰱⱏⰹⱅ[ⰻⰵ]</orig>
+				</choice>
+				<lb n="18" />
+				<choice>
+					<reg type="transliteration">сътворілъ ны есі · ᾽і от[ъ]-</reg>
+					<orig>ⱄⱏⱅⰲⱁⱃⰹⰾⱏ ⱀⱏⰹ ⰵⱄⰹ · ᾽ⰺ ⱁⱅ[ⱏ]-</orig>
+				</choice>
+				<lb n="19" break="no" />
+				<choice>
+					<reg type="transliteration">п/адъшѧ въскрѣсі пакы ·</reg>
+					<orig>ⱂ/ⰰⰴⱏⱎⱔ ⰲⱏⱄⰽⱃⱑⱄⰹ ⱂⰰⰽⱏⰹ ·</orig>
+				</choice>
+				<lb n="20" />
+				<choice>
+					<reg type="transliteration">д̀а намъ не достоітъ тебѣ</reg>
+					<orig>ⰴ\ⰰ ⱀⰰⰿⱏ ⱀⰵ ⰴⱁⱄⱅⱁⰹⱅⱏ ⱅⰵⰱⱑ</orig>
+				</choice>
+				<lb n="21" />
+				<choice>
+					<reg type="transliteration">съгрѣшаті · твоѣ же сѫ-</reg>
+					<orig>ⱄⱏⰳⱃⱑⱎⰰⱅⰹ · ⱅⰲⱁⱑ ⰶⰵ ⱄⱘ-</orig>
+				</choice>
+				<lb n="22" break="no" />
+				<choice>
+					<reg type="transliteration">тъ вьсѣ̑ · небесьскаѣ і ӡе-</reg>
+					<orig>ⱅⱏ ⰲⱐⱄⱑ̑ · ⱀⰵⰱⰵⱄⱐⱄⰽⰰⱑ ⰺ ⰸⰵ-</orig>
+				</choice>
+				<lb n="23" break="no" />
+				<choice>
+					<reg type="transliteration">мльскаѣ г҃і · да ты самъ</reg>
+					<orig>ⰿⰾⱐⱄⰽⰰⱑ ⰳ҃ⰹ · ⰴⰰ ⱅⱏⰹ ⱄⰰⰿⱏ</orig>
+				</choice>
+				<lb n="24" />
+				<choice>
+					<reg type="transliteration">᾽отъ грѣхъ̑ нашіхъ ᾽и[ӡбави]</reg>
+					<orig>᾽ⱁⱅⱏ ⰳⱃⱑⱈⱏ̑ ⱀⰰⱎⰹⱈⱏ ᾽ⰻ[ⰸⰱⰰⰲⰻ]</orig>
+				</choice>
+				<lb n="25" />
+				<choice>
+					<reg type="transliteration">ны · х҃мь г҃мь ··</reg>
+					<orig>ⱀⱏⰹ · ⱈ҃ⰿⱐ ⰳ҃ⰿⱐ ··</orig>
+				</choice>
+			</ab>
+			<pb n="4v" />
+			<ab xml:id="ab-7">
+				<lb n="1" />
+				<choice>
+					<reg type="transliteration">ПО ВЪСѪДѢ ··</reg>
+					<orig>ⰒⰑ ⰂⰟⰔⰨⰄⰡ ··</orig>
+				</choice>
+				<lb n="2" />
+				<choice>
+					<reg type="transliteration">Д/аӡь н/амъ · вьсемогъі̑ б҃же ·</reg>
+					<orig>Ⰴ/ⰰⰸⱐ ⱀ/ⰰⰿⱏ · ⰲⱐⱄⰵⰿⱁⰳⱏⰹ̑ ⰱ҃ⰶⰵ ·</orig>
+				</choice>
+				<lb n="3" />
+				<choice>
+					<reg type="transliteration">да ᾽ѣкоже ны ῾есі небесьсќыѧ</reg>
+					<orig>ⰴⰰ ᾽ⱑⰽⱁⰶⰵ ⱀⱏⰹ ῾ⰵⱄⰹ ⱀⰵⰱⰵⱄⱐⱄⰽⱏⰹⱔ</orig>
+				</choice>
+				<lb n="4" />
+				<choice>
+					<reg type="transliteration">піцѧ̑ насытілъ · такоӡе</reg>
+					<orig>ⱂⰹⱌⱔ̑ ⱀⰰⱄⱏⰹⱅⰹⰾⱏ · ⱅⰰⰽⱁⰸⰵ</orig>
+				</choice>
+				<lb n="5" />
+				<choice>
+					<reg type="transliteration">же ᾽і животъ н/ашь сіло-</reg>
+					<orig>ⰶⰵ ᾽ⰺ ⰶⰻⰲⱁⱅⱏ ⱀ/ⰰⱎⱐ ⱄⰹⰾⱁ-</orig>
+				</choice>
+				<lb n="6" break="no" />
+				<choice>
+					<reg type="transliteration">ѭ твоеѭ ᾽утврьді · г҃мь ·</reg>
+					<orig>ⱙ ⱅⰲⱁⰵⱙ ᾽ⱆⱅⰲⱃⱐⰴⰹ · ⰳ҃ⰿⱐ ·</orig>
+				</choice>
+				<lb n="7" />
+				<choice>
+					<reg type="transliteration">МЬШѢ · Г҃ ·· ᾽О ТОМЬӠЕ ··</reg>
+					<orig>ⰏⰠⰞⰡ · Ⰳ҃ ·· ᾽Ⱁ ⰕⰑⰏⰠⰈⰅ ··</orig>
+				</choice>
+				<lb n="8" />
+				<choice>
+					<reg type="transliteration">[Ц]ѣсарьствѣ нашемь г҃і мі-</reg>
+					<orig>[Ⱌ]ⱑⱄⰰⱃⱐⱄⱅⰲⱑ ⱀⰰⱎⰵⰿⱐ ⰳ҃ⰹ ⰿⰹ-</orig>
+				</choice>
+				<lb n="9" break="no" />
+				<choice>
+					<reg type="transliteration">лостьѭ твоеѭ пріӡьрі̑ ·</reg>
+					<orig>ⰾⱁⱄⱅⱐⱙ ⱅⰲⱁⰵⱙ ⱂⱃⰹⰸⱐⱃⰹ̑ ·</orig>
+				</choice>
+				<lb n="10" />
+				<choice>
+					<reg type="transliteration">᾽і не ᾽отъд/аӡь нашего ту-</reg>
+					<orig>᾽ⰺ ⱀⰵ ᾽ⱁⱅⱏⰴ/ⰰⰸⱐ ⱀⰰⱎⰵⰳⱁ ⱅⱆ-</orig>
+				</choice>
+				<lb n="11" break="no" />
+				<choice>
+					<reg type="transliteration">ӡі̆мъ · ᾽і не ᾽обраті н/асъ</reg>
+					<orig>ⰸⰺ̆ⰿⱏ · ᾽ⰺ ⱀⰵ ᾽ⱁⰱⱃⰰⱅⰹ ⱀ/ⰰⱄⱏ</orig>
+				</choice>
+				<lb n="12" />
+				<choice>
+					<reg type="transliteration">въ плѣ̆нъ народомъ пога-</reg>
+					<orig>ⰲⱏ ⱂⰾⱑ̆ⱀⱏ ⱀⰰⱃⱁⰴⱁⰿⱏ ⱂⱁⰳⰰ-</orig>
+				</choice>
+				<lb n="13" break="no" />
+				<choice>
+					<reg type="transliteration">ньсќымъ · х҃а раді г҃і на-</reg>
+					<orig>ⱀⱐⱄⰽⱏⰹⰿⱏ · ⱈ҃ⰰ ⱃⰰⰴⰹ ⰳ҃ⰹ ⱀⰰ-</orig>
+				</choice>
+				<lb n="14" break="no" />
+				<choice>
+					<reg type="transliteration">шего· ᾽іже цѣсарітъ съ ᾽оть-</reg>
+					<orig>ⱎⰵⰳⱁ· ᾽ⰹⰶⰵ ⱌⱑⱄⰰⱃⰹⱅⱏ ⱄⱏ ᾽ⱁⱅⱐ-</orig>
+				</choice>
+				<lb n="15" break="no" />
+				<choice>
+					<reg type="transliteration">цемь ᾽і съ свѧтымь ··</reg>
+					<orig>ⱌⰵⰿⱐ ᾽ⰺ ⱄⱏ ⱄⰲⱔⱅⱏⰹⰿⱐ ··</orig>
+				</choice>
+				<lb n="16" />
+				<choice>
+					<reg type="transliteration">НАДЪ ᾽ОПЛАТЪМЬ ·</reg>
+					<orig>ⰐⰀⰄⰟ ᾽ⰑⰒⰎⰀⰕⰟⰏⰠ ·</orig>
+				</choice>
+				<lb n="17" />
+				<choice>
+					<reg type="transliteration">[Т]воѣ циркънаѣ тврьдь ӡа-</reg>
+					<orig>[Ⱅ]ⰲⱁⱑ ⱌⰻⱃⰽⱏⱀⰰⱑ ⱅⰲⱃⱐⰴⱐ ⰸⰰ-</orig>
+				</choice>
+				<lb n="18" break="no" />
+				<choice>
+					<reg type="transliteration">шчіті ны г҃і · ѭже ᾽/есі</reg>
+					<orig>ⱎⱍⰹⱅⰹ ⱀⱏⰹ ⰳ҃ⰹ · ⱙⰶⰵ ᾽/ⰵⱄⰹ</orig>
+				</choice>
+				<lb n="19" />
+				<choice>
+					<reg type="transliteration">᾽обраӡъмь своімь ᾽упо-</reg>
+					<orig>᾽ⱁⰱⱃⰰⰸⱏⰿⱐ ⱄⰲⱁⰹⰿⱐ ᾽ⱆⱂⱁ-</orig>
+				</choice>
+				<lb n="20" break="no" />
+				<choice>
+					<reg type="transliteration">добілъ · ѭже њы чьсті-</reg>
+					<orig>ⰴⱁⰱⰹⰾⱏ · ⱙⰶⰵ ⱀ҄ⱏⰹ ⱍⱐⱄⱅⰹ-</orig>
+				</choice>
+				<lb n="21" break="no" />
+				<choice>
+					<reg type="transliteration">мъ н/а бальство н/аше · то-</reg>
+					<orig>ⰿⱏ ⱀ/ⰰ ⰱⰰⰾⱐⱄⱅⰲⱁ ⱀ/ⰰⱎⰵ · ⱅⱁ-</orig>
+				</choice>
+				<lb n="22" break="no" />
+				<choice>
+					<reg type="transliteration">[г]о раді ῾есі н/амъ вѣчь-</reg>
+					<orig>[ⰳ]ⱁ ⱃⰰⰴⰹ ῾ⰵⱄⰹ ⱀ/ⰰⰿⱏ ⰲⱑⱍⱐ-</orig>
+				</choice>
+				<lb n="23" break="no" />
+				<choice>
+					<reg type="transliteration">[н]ое ᾽обѣцѣние принеслъ ··</reg>
+					<orig>[ⱀ]ⱁⰵ ᾽ⱁⰱⱑⱌⱑⱀⰻⰵ ⱂⱃⰻⱀⰵⱄⰾⱏ ··</orig>
+				</choice>
+				<lb n="24" />
+				<choice>
+					<reg type="transliteration">[҃г]мь нашімь ··</reg>
+					<orig>[҃ⰳ]ⰿⱐ ⱀⰰⱎⰹⰿⱐ ··</orig>
+				</choice>
+			</ab>
+			<pb n="5r" />
+			<ab xml:id="ab-8">
+				<lb n="1" />
+				<choice>
+					<reg type="transliteration">ПРѢФ[АЦИѢ Д] ???</reg>
+					<orig>ⰒⰓⰡⰗ[ⰀⰜⰋⰡ Ⰴ] ???</orig>
+				</choice>
+				<lb n="2" />
+				<choice>
+					<reg type="transliteration">Да ᾽ѣкыже сѫ̆тъ твоѧ сі ·</reg>
+					<orig>Ⰴⰰ ᾽ⱑⰽⱏⰹⰶⰵ ⱄⱘ̆ⱅⱏ ⱅⰲⱁⱔ ⱄⰹ ·</orig>
+				</choice>
+				<lb n="3" />
+				<choice>
+					<reg type="transliteration">слўжьбы въжлюблены̆-</reg>
+					<orig>ⱄⰾⱆ̆ⰶⱐⰱⱏⰹ ⰲⱏⰶⰾⱓⰱⰾⰵⱀⱏⰹ̆-</orig>
+				</choice>
+				<lb n="4" break="no" />
+				<choice>
+					<reg type="transliteration">ѧ · тӑкыже мысльмі сво-</reg>
+					<orig>ⱔ · ⱅⰰ̆ⰽⱏⰹⰶⰵ ⰿⱏⰹⱄⰾⱐⰿⰹ ⱄⰲⱁ-</orig>
+				</choice>
+				<lb n="5" break="no" />
+				<choice>
+					<reg type="transliteration">імі ны творімъ · ῾а ты</reg>
+					<orig>ⰹⰿⰹ ⱀⱏⰹ ⱅⰲⱁⱃⰹⰿⱏ · ῾ⰰ ⱅⱏⰹ</orig>
+				</choice>
+				<lb n="6" />
+				<choice>
+					<reg type="transliteration">самъ г҃і присно ны пріемлі ·</reg>
+					<orig>ⱄⰰⰿⱏ ⰳ҃ⰹ ⱂⱃⰻⱄⱀⱁ ⱀⱏⰹ ⱂⱃⰹⰵⰿⰾⰹ ·</orig>
+				</choice>
+				<lb n="7" />
+				<choice>
+					<reg type="transliteration">да въӡможемъ правьдь-</reg>
+					<orig>ⰴⰰ ⰲⱏⰸⰿⱁⰶⰵⰿⱏ ⱂⱃⰰⰲⱐⰴⱐ-</orig>
+				</choice>
+				<lb n="8" break="no" />
+				<choice>
+					<reg type="transliteration">наѣ твоѣ наслѣдоваті ·</reg>
+					<orig>ⱀⰰⱑ ⱅⰲⱁⱑ ⱀⰰⱄⰾⱑⰴⱁⰲⰰⱅⰹ ·</orig>
+				</choice>
+				<lb n="9" />
+				<choice>
+					<reg type="transliteration">᾽̀і ᾽отъ непріѣӡніњъ дѣљъ</reg>
+					<orig>᾽\ⰺ ᾽ⱁⱅⱏ ⱀⰵⱂⱃⰹⱑⰸⱀⰹⱀ҄ⱏ ⰴⱑⰾ҄ⱏ</orig>
+				</choice>
+				<lb n="10" />
+				<choice>
+					<reg type="transliteration">᾽чіститі сѧ · х҃мь г҃мь н/аш-</reg>
+					<orig>᾽ⱍⰹⱄⱅⰻⱅⰹ ⱄⱔ · ⱈ҃ⰿⱐ ⰳ҃ⰿⱐ ⱀ/ⰰⱎ-</orig>
+				</choice>
+				<lb n="11" break="no" />
+				<choice>
+					<reg type="transliteration">мь · ᾽і̆мьже велічьство ··</reg>
+					<orig>ⰿⱐ · ᾽ⰹ̆ⰿⱐⰶⰵ ⰲⰵⰾⰹⱍⱐⱄⱅⰲⱁ ··</orig>
+				</choice>
+				<lb n="12" />
+				<choice>
+					<reg type="transliteration">ПО ВЪСѪДѢ ·</reg>
+					<orig>ⰒⰑ ⰂⰟⰔⰨⰄⰡ ·</orig>
+				</choice>
+				<lb n="13" />
+				<choice>
+					<reg type="transliteration">Твоѣ свѧтаѣ вьсемогъі̑</reg>
+					<orig>Ⱅⰲⱁⱑ ⱄⰲⱔⱅⰰⱑ ⰲⱐⱄⰵⰿⱁⰳⱏⰹ̑</orig>
+				</choice>
+				<lb n="14" />
+				<choice>
+					<reg type="transliteration">б҃же · ᾽ѣже се н̀ы пріемлемъ ·</reg>
+					<orig>ⰱ҃ⰶⰵ · ᾽ⱑⰶⰵ ⱄⰵ ⱀ\ⱏⰹ ⱂⱃⰹⰵⰿⰾⰵⰿⱏ ·</orig>
+				</choice>
+				<lb n="15" />
+				<choice>
+					<reg type="transliteration">на раӡдрѣшен/ие · ᾽і на ᾽очишче-</reg>
+					<orig>ⱀⰰ ⱃⰰⰸⰴⱃⱑⱎⰵⱀ/ⰻⰵ · ᾽ⰺ ⱀⰰ ᾽ⱁⱍⰻⱎⱍⰵ-</orig>
+				</choice>
+				<lb n="16" break="no" />
+				<choice>
+					<reg type="transliteration">нйе н/амъ бѫдѫ · ῾а ты са-</reg>
+					<orig>ⱀⰻ̆ⰵ ⱀ/ⰰⰿⱏ ⰱⱘⰴⱘ · ῾ⰰ ⱅⱏⰹ ⱄⰰ-</orig>
+				</choice>
+				<lb n="17" break="no" />
+				<choice>
+					<reg type="transliteration">мъ помоцьѭ твоеѭ вѣ-</reg>
+					<orig>ⰿⱏ ⱂⱁⰿⱁⱌⱐⱙ ⱅⰲⱁⰵⱙ ⰲⱑ-</orig>
+				</choice>
+				<lb n="18" break="no" />
+				<choice>
+					<reg type="transliteration">чьноѭ ӡашчіті ны · г҃мь</reg>
+					<orig>ⱍⱐⱀⱁⱙ ⰸⰰⱎⱍⰹⱅⰹ ⱀⱏⰹ · ⰳ҃ⰿⱐ</orig>
+				</choice>
+				<lb n="19" />
+				<choice>
+					<reg type="transliteration">МЬШѢ · Д҃ · ᾽О ТОМЬӠЕ ··</reg>
+					<orig>ⰏⰠⰞⰡ · Ⰴ҃ · ᾽Ⱁ ⰕⰑⰏⰠⰈⰅ ··</orig>
+				</choice>
+				<lb n="20" />
+				<choice>
+					<reg type="transliteration">Просімъ тѧ г҃і въӡдві-</reg>
+					<orig>Ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ ⰳ҃ⰹ ⰲⱏⰸⰴⰲⰹ-</orig>
+				</choice>
+				<lb n="21" break="no" />
+				<choice>
+					<reg type="transliteration">гні срьдьца н/ашѣ къ тебѣ ᾽о-</reg>
+					<orig>ⰳⱀⰹ ⱄⱃⱐⰴⱐⱌⰰ ⱀ/ⰰⱎⱑ ⰽⱏ ⱅⰵⰱⱑ ᾽ⱁ-</orig>
+				</choice>
+				<lb n="22" break="no" />
+				<choice>
+					<reg type="transliteration">тъ ӡемльскыхъ похот[ии]</reg>
+					<orig>ⱅⱏ ⰸⰵⰿⰾⱐⱄⰽⱏⰹⱈⱏ ⱂⱁⱈⱁⱅ[ⰻⰻ]</orig>
+				</choice>
+				<lb n="23" />
+				<choice>
+					<reg type="transliteration">да въӡможемъ хотѣті [не]-</reg>
+					<orig>ⰴⰰ ⰲⱏⰸⰿⱁⰶⰵⰿⱏ ⱈⱁⱅⱑⱅⰹ [ⱀⰵ]-</orig>
+				</choice>
+				<lb n="24" break="no" />
+				<choice>
+					<reg type="transliteration">бесьскымъ твоімъ ···</reg>
+					<orig>ⰱⰵⱄⱐⱄⰽⱏⰹⰿⱏ ⱅⰲⱁⰹⰿⱏ ···</orig>
+				</choice>
+			</ab>
+			<pb n="5v" />
+			<ab xml:id="ab-9">
+				<lb n="1" />
+				<choice>
+					<reg type="transliteration">[НАДЪ ОПЛАТ]ЪМЬ·</reg>
+					<orig>[ⰐⰀⰄⰟ ⰑⰒⰎⰀⰕ]ⰟⰏⰠ·</orig>
+				</choice>
+				<lb n="2" />
+				<choice>
+					<reg type="transliteration">Ѣкыже дары ᾽імамъ · прѣдъ</reg>
+					<orig>Ⱑⰽⱏⰹⰶⰵ ⰴⰰⱃⱏⰹ ᾽ⰺⰿⰰⰿⱏ · ⱂⱃⱑⰴⱏ</orig>
+				</choice>
+				<lb n="3" />
+				<choice>
+					<reg type="transliteration">тобоѭ сѫтъ · ᾽і просімъ</reg>
+					<orig>ⱅⱁⰱⱁⱙ ⱄⱘⱅⱏ · ᾽ⰺ ⱂⱃⱁⱄⰹⰿⱏ</orig>
+				</choice>
+				<lb n="4" />
+				<choice>
+					<reg type="transliteration">тѧ пріімі ѧ · да ᾽і ны въӡмо-</reg>
+					<orig>ⱅⱔ ⱂⱃⰹⰺⰿⰹ ⱔ · ⰴⰰ ᾽ⰹ ⱀⱏⰹ ⰲⱏⰸⰿⱁ-</orig>
+				</choice>
+				<lb n="5" break="no" />
+				<choice>
+					<reg type="transliteration">жемъ въ въжлюблениі тво-</reg>
+					<orig>ⰶⰵⰿⱏ ⰲⱏ ⰲⱏⰶⰾⱓⰱⰾⰵⱀⰻⰹ ⱅⰲⱁ-</orig>
+				</choice>
+				<lb n="6" break="no" />
+				<choice>
+					<reg type="transliteration">емь · г҃мь нашімь · ПРѢФА-</reg>
+					<orig>ⰵⰿⱐ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹⰿⱐ · ⰒⰓⰡⰗⰀ-</orig>
+				</choice>
+				<lb n="7" break="no" />
+				<choice>
+					<reg type="transliteration">ЦИѢ · ДО вѣчьнъі̑ б҃же ··</reg>
+					<orig>ⰜⰋⰡ · ⰄⰑ ⰲⱑⱍⱐⱀⱏⰹ̑ ⰱ҃ⰶⰵ ··</orig>
+				</choice>
+				<lb n="8" />
+				<choice>
+					<reg type="transliteration">Ӡълоба нашѣ не върѣсні сѧ въ</reg>
+					<orig>Ⰸⱏⰾⱁⰱⰰ ⱀⰰⱎⱑ ⱀⰵ ⰲⱏⱃⱑⱄⱀⰹ ⱄⱔ ⰲⱏ</orig>
+				</choice>
+				<lb n="9" />
+				<choice>
+					<reg type="transliteration">н/асъ · н̀ъ ᾽иӡдрѣшение вѣчь-</reg>
+					<orig>ⱀ/ⰰⱄⱏ · ⱀ\ⱏ ᾽ⰻⰸⰴⱃⱑⱎⰵⱀⰻⰵ ⰲⱑⱍⱐ-</orig>
+				</choice>
+				<lb n="10" break="no" />
+				<choice>
+					<reg type="transliteration">ное прісно н/амъ бѫді · г҃і</reg>
+					<orig>ⱀⱁⰵ ⱂⱃⰹⱄⱀⱁ ⱀ/ⰰⰿⱏ ⰱⱘⰴⰹ · ⰳ҃ⰹ</orig>
+				</choice>
+				<lb n="11" />
+				<choice>
+					<reg type="transliteration">нашего раді · тъ бо н̀ы сӑ-</reg>
+					<orig>ⱀⰰⱎⰵⰳⱁ ⱃⰰⰴⰹ · ⱅⱏ ⰱⱁ ⱀ\ⱏⰹ ⱄⰰ̆-</orig>
+				</choice>
+				<lb n="12" break="no" />
+				<choice>
+					<reg type="transliteration">мъ ᾽отъ тьмьны̆хъ ᾽отъве-</reg>
+					<orig>ⰿⱏ ᾽ⱁⱅⱏ ⱅⱐⰿⱐⱀⱏⰹ̆ⱈⱏ ᾽ⱁⱅⱏⰲⰵ-</orig>
+				</choice>
+				<lb n="13" break="no" />
+				<choice>
+					<reg type="transliteration">де · ᾽̀і ᾽очісті · ᾽і ӡаклепе ·</reg>
+					<orig>ⰴⰵ · ᾽\ⰺ ᾽ⱁⱍⰹⱄⱅⰹ · ᾽ⰺ ⰸⰰⰽⰾⰵⱂⰵ ·</orig>
+				</choice>
+				<lb n="14" />
+				<choice>
+					<reg type="transliteration">᾽і достоіно ᾽иӡбаві · х҃мь</reg>
+					<orig>᾽ⰺ ⰴⱁⱄⱅⱁⰹⱀⱁ ᾽ⰻⰸⰱⰰⰲⰹ · ⱈ҃ⰿⱐ</orig>
+				</choice>
+				<lb n="15" />
+				<choice>
+					<reg type="transliteration">г҃мь нашимь ·· ПО ВЪСѪДѢ ·</reg>
+					<orig>ⰳ҃ⰿⱐ ⱀⰰⱎⰻⰿⱐ ·· ⰒⰑ ⰂⰟⰔⰨⰄⰡ ·</orig>
+				</choice>
+				<lb n="16" />
+				<choice>
+					<reg type="transliteration">Въсѫдьнаѣ молітва нашѣ</reg>
+					<orig>Ⰲⱏⱄⱘⰴⱐⱀⰰⱑ ⰿⱁⰾⰹⱅⰲⰰ ⱀⰰⱎⱑ</orig>
+				</choice>
+				<lb n="17" />
+				<choice>
+					<reg type="transliteration">᾽утврьді њы г҃і вѣчьнымі</reg>
+					<orig>᾽ⱆⱅⰲⱃⱐⰴⰹ ⱀ҄ⱏⰹ ⰳ҃ⰹ ⰲⱑⱍⱐⱀⱏⰹⰿⰹ</orig>
+				</choice>
+				<lb n="18" />
+				<choice>
+					<reg type="transliteration">твоімі · ᾽і под/аӡь н/амъ съ-</reg>
+					<orig>ⱅⰲⱁⰹⰿⰹ · ᾽ⰺ ⱂⱁⰴ/ⰰⰸⱐ ⱀ/ⰰⰿⱏ ⱄⱏ-</orig>
+				</choice>
+				<lb n="19" break="no" />
+				<choice>
+					<reg type="transliteration">пасение твое · г҃мь нашімь ··</reg>
+					<orig>ⱂⰰⱄⰵⱀⰻⰵ ⱅⰲⱁⰵ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹⰿⱐ ··</orig>
+				</choice>
+				<lb n="20" />
+				<choice>
+					<reg type="transliteration">МЬШѢ · Е҃ · ᾽О ТОМЬӠЕ ··</reg>
+					<orig>ⰏⰠⰞⰡ · Ⰵ҃ · ᾽Ⱁ ⰕⰑⰏⰠⰈⰅ ··</orig>
+				</choice>
+				<lb n="21" />
+				<choice>
+					<reg type="transliteration">[Т]ы г҃і ᾽отьмі ны ᾽отъ лѫкавь-</reg>
+					<orig>[Ⱅ]ⱏⰹ ⰳ҃ⰹ ᾽ⱁⱅⱐⰿⰹ ⱀⱏⰹ ᾽ⱁⱅⱏ ⰾⱘⰽⰰⰲⱐ-</orig>
+				</choice>
+				<lb n="22" break="no" />
+				<choice>
+					<reg type="transliteration">ства нашего · ᾽і твоеѭ міло-</reg>
+					<orig>ⱄⱅⰲⰰ ⱀⰰⱎⰵⰳⱁ · ᾽ⰺ ⱅⰲⱁⰵⱙ ⰿⰹⰾⱁ-</orig>
+				</choice>
+				<lb n="23" break="no" />
+				<choice>
+					<reg type="transliteration">стиѭ ᾽обрати ны на правьдѫ</reg>
+					<orig>ⱄⱅⰻⱙ ᾽ⱁⰱⱃⰰⱅⰻ ⱀⱏⰹ ⱀⰰ ⱂⱃⰰⰲⱐⰴⱘ</orig>
+				</choice>
+				<lb n="24" />
+				<choice>
+					<reg type="transliteration">твоѭ · г҃мь нашімь ··</reg>
+					<orig>ⱅⰲⱁⱙ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹⰿⱐ ··</orig>
+				</choice>
+			</ab>
+			<pb n="6r" />
+			<ab xml:id="ab-10">
+				<lb n="1" />
+				<choice>
+					<reg type="transliteration">НАДЪ ᾽ОПЛАТЪМЬ ··</reg>
+					<orig>ⰐⰀⰄⰟ ᾽ⰑⰒⰎⰀⰕⰟⰏⰠ ··</orig>
+				</choice>
+				<lb n="2" />
+				<choice>
+					<reg type="transliteration">Прінесенъі̑ т/ебѣ г҃і сьі даръ</reg>
+					<orig>Ⱂⱃⰹⱀⰵⱄⰵⱀⱏⰹ̑ ⱅ/ⰵⰱⱑ ⰳ҃ⰹ ⱄⱐⰹ ⰴⰰⱃⱏ</orig>
+				</choice>
+				<lb n="3" />
+				<choice>
+					<reg type="transliteration">᾽іже ты ῾/есі далъ ᾽і сътво-</reg>
+					<orig>᾽ⰺⰶⰵ ⱅⱏⰹ ῾/ⰵⱄⰹ ⰴⰰⰾⱏ ᾽ⰺ ⱄⱏⱅⰲⱁ-</orig>
+				</choice>
+				<lb n="4" break="no" />
+				<choice>
+					<reg type="transliteration">рілъ · ціръкъве раді̑ твое-</reg>
+					<orig>ⱃⰺⰾⱏ · ⱌⰺⱃⱏⰽⱏⰲⰵ ⱃⰰⰴⰹ̑ ⱅⰲⱁⰵ-</orig>
+				</choice>
+				<lb n="5" break="no" />
+				<choice>
+					<reg type="transliteration">ѧ̑ · ᾽і жівота ᾽і прѣставле-</reg>
+					<orig>ⱔ̑ · ᾽ⰺ ⰶⰹⰲⱁⱅⰰ ᾽ⰺ ⱂⱃⱑⱄⱅⰰⰲⰾⰵ-</orig>
+				</choice>
+				<lb n="6" break="no" />
+				<choice>
+					<reg type="transliteration">ниѣ нашего раді · ᾽і съвѣсту-</reg>
+					<orig>ⱀⰻⱑ ⱀⰰⱎⰵⰳⱁ ⱃⰰⰴⰹ · ᾽ⰺ ⱄⱏⰲⱑⱄⱅⱆ-</orig>
+				</choice>
+				<lb n="7" break="no" />
+				<choice>
+					<reg type="transliteration">емъ н̀ы · ᾽ѣко бальство ῾е-</reg>
+					<orig>ⰵⰿⱏ ⱀ\ⱏⰹ · ᾽ⱑⰽⱁ ⰱⰰⰾⱐⱄⱅⰲⱁ ῾ⰵ-</orig>
+				</choice>
+				<lb n="8" break="no" />
+				<choice>
+					<reg type="transliteration">стъ т̀о живота вѣчьнаго ·</reg>
+					<orig>ⱄⱅⱏ ⱅ\ⱁ ⰶⰻⰲⱁⱅⰰ ⰲⱑⱍⱐⱀⰰⰳⱁ ·</orig>
+				</choice>
+				<lb n="9" />
+				<choice>
+					<reg type="transliteration">г҃мь · ПРѢФАЦИѢ · ДО</reg>
+					<orig>ⰳ҃ⰿⱐ · ⰒⰓⰡⰗⰀⰜⰋⰡ · ⰄⰑ</orig>
+				</choice>
+				<lb n="10" />
+				<choice>
+					<reg type="transliteration">вѣчьнъі̑ б҃же ··</reg>
+					<orig>ⰲⱑⱍⱐⱀⱏⰹ̑ ⰱ҃ⰶⰵ ··</orig>
+				</choice>
+				<lb n="11" />
+				<choice>
+					<reg type="transliteration">Молімъ сѧ и҃су х҃у сыну</reg>
+					<orig>Ⰿⱁⰾⰹⰿⱏ ⱄⱔ ⰻ҃ⱄⱆ ⱈ҃ⱆ ⱄⱏⰹⱀⱆ</orig>
+				</choice>
+				<lb n="12" />
+				<choice>
+					<reg type="transliteration">твоему г҃і нашему · да</reg>
+					<orig>ⱅⰲⱁⰵⰿⱆ ⰳ҃ⰹ ⱀⰰⱎⰵⰿⱆ · ⰴⰰ</orig>
+				</choice>
+				<lb n="13" />
+				<choice>
+					<reg type="transliteration">мілостьѭ своеѭ ӡашчі-</reg>
+					<orig>ⰿⰹⰾⱁⱄⱅⱐⱙ ⱄⰲⱁⰵⱙ ⰸⰰⱎⱍⰹ-</orig>
+				</choice>
+				<lb n="14" break="no" />
+				<choice>
+					<reg type="transliteration">тітъ ны ᾽і съпасетъ ; бе-</reg>
+					<orig>ⱅⰹⱅⱏ ⱀⱏⰹ ᾽ⰺ ⱄⱏⱂⰰⱄⰵⱅⱏ ; ⰱⰵ-</orig>
+				</choice>
+				<lb n="15" break="no" />
+				<choice>
+					<reg type="transliteration">ж негоже бо мілості не въ-</reg>
+					<orig>ⰶ ⱀⰵⰳⱁⰶⰵ ⰱⱁ ⰿⰹⰾⱁⱄⱅⰹ ⱀⰵ ⰲⱏ-</orig>
+				</choice>
+				<lb n="16" break="no" />
+				<choice>
+					<reg type="transliteration">ӡможемъ ничьсоже сътво-</reg>
+					<orig>ⰸⰿⱁⰶⰵⰿⱏ ⱀⰻⱍⱐⱄⱁⰶⰵ ⱄⱏⱅⰲⱁ-</orig>
+				</choice>
+				<lb n="17" break="no" />
+				<choice>
+					<reg type="transliteration">ріті · тѣ̆мьже самого</reg>
+					<orig>ⱃⰹⱅⰺ · ⱅⱑ̆ⰿⱐⰶⰵ ⱄⰰⰿⱁⰳⱁ</orig>
+				</choice>
+				<lb n="18" />
+				<choice>
+					<reg type="transliteration">῾его раді дары ᾽і мілость</reg>
+					<orig>῾ⰵⰳⱁ ⱃⰰⰴⰹ ⰴⰰⱃⱏⰹ ᾽ⰺ ⰿⰹⰾⱁⱄⱅⱐ</orig>
+				</choice>
+				<lb n="19" />
+				<choice>
+					<reg type="transliteration">пріемлемъ ᾽і въ любъві</reg>
+					<orig>ⱂⱃⰹⰵⰿⰾⰵⰿⱏ ᾽ⰺ ⰲⱏ ⰾⱓⰱⱏⰲⰹ</orig>
+				</choice>
+				<lb n="20" />
+				<choice>
+					<reg type="transliteration">живемъ · х҃мь г҃мь нашімь</reg>
+					<orig>ⰶⰻⰲⰵⰿⱏ · ⱈ҃ⰿⱐ ⰳ҃ⰿⱐ ⱀⰰⱎⰹⰿⱐ</orig>
+				</choice>
+				<lb n="21" />
+				<choice>
+					<reg type="transliteration">ПО ВЪСѪДѢ ··</reg>
+					<orig>ⰒⰑ ⰂⰟⰔⰨⰄⰡ ··</orig>
+				</choice>
+				<lb n="22" />
+				<choice>
+					<reg type="transliteration">Въсѫда твоего г҃і насы-</reg>
+					<orig>Ⰲⱏⱄⱘⰴⰰ ⱅⰲⱁⰵⰳⱁ ⰳ҃ⰹ ⱀⰰⱄⱏⰹ-</orig>
+				</choice>
+				<lb n="23" break="no" />
+				<choice>
+					<reg type="transliteration">цені просімъ тѧ · ᾽отъ вь-</reg>
+					<orig>ⱌⰵⱀⰹ ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ · ᾽ⱁⱅⱏ ⰲⱐ-</orig>
+				</choice>
+			</ab>
+			<pb n="6v" />
+			<ab xml:id="ab-11">
+				<lb n="1" />
+				<choice>
+					<reg type="transliteration">сѣхъ противѧці̆хъ сѧ н/а-</reg>
+					<orig>ⱄⱑⱈⱏ ⱂⱃⱁⱅⰻⰲⱔⱌⰺ̆ⱈⱏ ⱄⱔ ⱀ/ⰰ-</orig>
+				</choice>
+				<lb n="2" break="no" />
+				<choice>
+					<reg type="transliteration">мъ съпасі ны · г҃мь наші ··</reg>
+					<orig>ⰿⱏ ⱄⱏⱂⰰⱄⰹ ⱀⱏⰹ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹ ··</orig>
+				</choice>
+				<lb n="3" />
+				<choice>
+					<reg type="transliteration">МЬШѢ О МѪЧЕНІЦѢХЪ ··</reg>
+					<orig>ⰏⰠⰞⰡ Ⱁ ⰏⰨⰝⰅⰐⰉⰜⰡⰘⰟ ··</orig>
+				</choice>
+				<lb n="4" />
+				<choice>
+					<reg type="transliteration">Мѫченіќъ твоіхъ г҃і чь-</reg>
+					<orig>Ⰿⱘⱍⰵⱀⰺⰽⱏ ⱅⰲⱁⰹⱈⱏ ⰳ҃ⰹ ⱍⱐ-</orig>
+				</choice>
+				<lb n="5" break="no" />
+				<choice>
+					<reg type="transliteration">сті чьстѧц̀е молімъ тѧ</reg>
+					<orig>ⱄⱅⰹ ⱍⱐⱄⱅⱔⱌ\ⰵ ⰿⱁⰾⰹⰿⱏ ⱅⱔ</orig>
+				</choice>
+				<lb n="6" />
+				<choice>
+					<reg type="transliteration">просѧце · да ᾽ѣкоже ѧ ῾/есі</reg>
+					<orig>ⱂⱃⱁⱄⱔⱌⰵ · ⰴⰰ ᾽ⱑⰽⱁⰶⰵ ⱔ ῾/ⰵⱄⰹ</orig>
+				</choice>
+				<lb n="7" />
+				<choice>
+					<reg type="transliteration">славоѭ твоеѭ небесьскоо-</reg>
+					<orig>ⱄⰾⰰⰲⱁⱙ ⱅⰲⱁⰵⱙ ⱀⰵⰱⰵⱄⱐⱄⰽⱁⱁ-</orig>
+				</choice>
+				<lb n="8" break="no" />
+				<choice>
+					<reg type="transliteration">ѭ ᾽утврьділъ · такоӡе же</reg>
+					<orig>ⱙ ᾽ⱆⱅⰲⱃⱐⰴⰹⰾⱏ · ⱅⰰⰽⱁⰸⰵ ⰶⰵ</orig>
+				</choice>
+				<lb n="9" />
+				<choice>
+					<reg type="transliteration">᾽і н̀ы мілостіѭ твоеѭ</reg>
+					<orig>᾽ⰺ ⱀ\ⱏⰹ ⰿⰹⰾⱁⱄⱅⰹⱙ ⱅⰲⱁⰵⱙ</orig>
+				</choice>
+				<lb n="10" />
+				<choice>
+					<reg type="transliteration">прі̆мі̑ г҃мь ·· НАДЪ ОПЛАТМЬ ·</reg>
+					<orig>ⱂⱃⰺ̆ⰿⰹ̑ ⰳ҃ⰿⱐ ·· ⰐⰀⰄⰟ ⰑⰒⰎⰀⰕⰏⰠ ·</orig>
+				</choice>
+				<lb n="11" />
+				<choice>
+					<reg type="transliteration">Пріносъ г҃і прінесенъі̑ т/ебѣ</reg>
+					<orig>Ⱂⱃⰹⱀⱁⱄⱏ ⰳ҃ⰹ ⱂⱃⰹⱀⰵⱄⰵⱀⱏⰹ̑ ⱅ/ⰵⰱⱑ</orig>
+				</choice>
+				<lb n="12" />
+				<choice>
+					<reg type="transliteration">мѫченіќъ свѧты̑хъ ра-</reg>
+					<orig>ⰿⱘⱍⰵⱀⰹⰽⱏ ⱄⰲⱔⱅⱏⰹ̑ⱈⱏ ⱃⰰ-</orig>
+				</choice>
+				<lb n="13" break="no" />
+				<choice>
+					<reg type="transliteration">ді примі̑ · ᾽і молітвамі</reg>
+					<orig>ⰴⰹ ⱂⱃⰻⰿⰹ̑ · ᾽ⰺ ⰿⱁⰾⰹⱅⰲⰰⰿⰹ</orig>
+				</choice>
+				<lb n="14" />
+				<choice>
+					<reg type="transliteration">᾽іхъ ᾽і ӡаповѣдьмі твоі-</reg>
+					<orig>᾽ⰺⱈⱏ ᾽ⰺ ⰸⰰⱂⱁⰲⱑⰴⱐⰿⰹ ⱅⰲⱁⰺ-</orig>
+				</choice>
+				<lb n="15" break="no" />
+				<choice>
+					<reg type="transliteration">мі пріспѣі н/амъ помоць</reg>
+					<orig>ⰿⰹ ⱂⱃⰹⱄⱂⱑⰹ ⱀ/ⰰⰿⱏ ⱂⱁⰿⱁⱌⱐ</orig>
+				</choice>
+				<lb n="16" />
+				<choice>
+					<reg type="transliteration">твоѣ · г҃мь · ПО ВЪСѪДѢ ··</reg>
+					<orig>ⱅⰲⱁⱑ · ⰳ҃ⰿⱐ · ⰒⰑ ⰂⰟⰔⰨⰄⰡ ··</orig>
+				</choice>
+				<lb n="17" />
+				<choice>
+					<reg type="transliteration">᾽Оч/исті ны г҃і просімъ тѧ</reg>
+					<orig>᾽Ⱁⱍ/ⰻⱄⱅⰹ ⱀⱏⰹ ⰳ҃ⰹ ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ</orig>
+				</choice>
+				<lb n="18" />
+				<choice>
+					<reg type="transliteration">небесьсќыхъ твоіхъ ра-</reg>
+					<orig>ⱀⰵⰱⰵⱄⱐⱄⰽⱏⰹⱈⱏ ⱅⰲⱁⰹⱈⱏ ⱃⰰ-</orig>
+				</choice>
+				<lb n="19" break="no" />
+				<choice>
+					<reg type="transliteration">ді̑ ӡаповѣдьі̑ · ᾽̀і ᾽утврь-</reg>
+					<orig>ⰴⰹ̑ ⰸⰰⱂⱁⰲⱑⰴⱐⰹ̑ · ᾽\ⰺ ᾽ⱆⱅⰲⱃⱐ-</orig>
+				</choice>
+				<lb n="20" break="no" />
+				<choice>
+					<reg type="transliteration">д/і н̀ы да славимъ тѧ прѣ-</reg>
+					<orig>ⰴ/ⰹ ⱀ\ⱏⰹ ⰴⰰ ⱄⰾⰰⰲⰻⰿⱏ ⱅⱔ ⱂⱃⱑ-</orig>
+				</choice>
+				<lb n="21" break="no" />
+				<choice>
+					<reg type="transliteration">дъ свѧты̑мі твоімі</reg>
+					<orig>ⰴⱏ ⱄⰲⱔⱅⱏⰹ̑ⰿⰹ ⱅⰲⱁⰹⰿⰺ</orig>
+				</choice>
+				<lb n="22" />
+				<choice>
+					<reg type="transliteration">молітвамі нашімі ·</reg>
+					<orig>ⰿⱁⰾⰹⱅⰲⰰⰿⰹ ⱀⰰⱎⰹⰿⰹ ·</orig>
+				</choice>
+				<lb n="23" />
+				<choice>
+					<reg type="transliteration">г҃мь нашімь ··</reg>
+					<orig>ⰳ҃ⰿⱐ ⱀⰰⱎⰹⰿⱐ ··</orig>
+				</choice>
+			</ab>
+			<pb n="7r" />
+			<ab xml:id="ab-12">
+				<lb n="1" />
+				<choice>
+					<reg type="transliteration">МЬШѢ ᾽О ВЬС/ѢХЪ НЕБЕСЬСКЪ*[И]-</reg>
+					<orig>ⰏⰠⰞⰡ ᾽Ⱁ ⰂⰠⰔ/ⰡⰘⰟ ⰐⰅⰁⰅⰔⰠⰔⰍⰟ*[Ⰻ]-</orig>
+				</choice>
+				<lb n="2" break="no" />
+				<choice>
+					<reg type="transliteration">ХЪ СІЛАХЪ · Помлімъ сѧ ··</reg>
+					<orig>ⰘⰟ ⰔⰊⰎⰀⰘⰟ · Ⱂⱁⰿⰾⰹⰿⱏ ⱄⱔ ··</orig>
+				</choice>
+				<lb n="3" />
+				<choice>
+					<reg type="transliteration">Б҃ъ ᾽іже н̀ы молітвы раді̑</reg>
+					<orig>Ⰱ҃ⱏ ᾽ⰹⰶⰵ ⱀ\ⱏⰹ ⰿⱁⰾⰺⱅⰲⱏⰹ ⱃⰰⰴⰹ̑</orig>
+				</choice>
+				<lb n="4" />
+				<choice>
+					<reg type="transliteration">блажењыѧ̑ б҃цѧ̑ ᾽і прісно-</reg>
+					<orig>ⰱⰾⰰⰶⰵⱀ҄ⱏⰹⱔ̑ ⰱ҃ⱌⱔ̑ ᾽ⰺ ⱂⱃⰹⱄⱀⱁ-</orig>
+				</choice>
+				<lb n="5" break="no" />
+				<choice>
+					<reg type="transliteration">дѣвы̑ маріѧ̑ · ᾽і блажењы-</reg>
+					<orig>ⰴⱑⰲⱏⰹ̑ ⰿⰰⱃⰹⱔ̑ · ᾽ⰺ ⰱⰾⰰⰶⰵⱀ҄ⱏⰹ-</orig>
+				</choice>
+				<lb n="6" break="no" />
+				<choice>
+					<reg type="transliteration">хъ раді̑ ῾анђељъ тво/іхъ · ᾽і</reg>
+					<orig>ⱈⱏ ⱃⰰⰴⰹ̑ ῾ⰰⱀⰼⰵⰾ҄ⱏ ⱅⰲⱁ/ⰹⱈⱏ · ᾽ⰺ</orig>
+				</choice>
+				<lb n="7" />
+				<choice>
+					<reg type="transliteration">вьс/ѣхъ небесьскыхъ сіла-</reg>
+					<orig>ⰲⱐⱄ/ⱑⱈⱏ ⱀⰵⰱⰵⱄⱐⱄⰽⱏⰹⱈⱏ ⱄⰹⰾⰰ-</orig>
+				</choice>
+				<lb n="8" break="no" />
+				<choice>
+					<reg type="transliteration">хъ · ᾽і апостољъ · ᾽і мѫче-</reg>
+					<orig>ⱈⱏ · ᾽ⰺ ⰰⱂⱁⱄⱅⱁⰾ҄ⱏ · ᾽ⰺ ⰿⱘⱍⰵ-</orig>
+				</choice>
+				<lb n="9" break="no" />
+				<choice>
+					<reg type="transliteration">ніќъ · ᾽і прѣподобьњыхъ ·</reg>
+					<orig>ⱀⰺⰽⱏ · ᾽ⰺ ⱂⱃⱑⱂⱁⰴⱁⰱⱐⱀ҄ⱏⰹⱈⱏ ·</orig>
+				</choice>
+				<lb n="10" />
+				<choice>
+					<reg type="transliteration">᾽і чісты̑хъ дѣвъ̑ · ᾽і въс/ѣхъ</reg>
+					<orig>᾽ⰺ ⱍⰹⱄⱅⱏⰹ̑ⱈⱏ ⰴⱑⰲⱏ̑ · ᾽ⰺ ⰲⱏⱄ/ⱑⱈⱏ</orig>
+				</choice>
+				<lb n="11" />
+				<choice>
+					<reg type="transliteration">свѧты̑хъ твоіхъ молі-</reg>
+					<orig>ⱄⰲⱔⱅⱏⰹ̑ⱈⱏ ⱅⰲⱁⰺⱈⱏ ⰿⱁⰾⰺ-</orig>
+				</choice>
+				<lb n="12" break="no" />
+				<choice>
+					<reg type="transliteration">твамі · прісно н̀ы въӡве-</reg>
+					<orig>ⱅⰲⰰⰿⰹ · ⱂⱃⰹⱄⱀⱁ ⱀ\ⱏⰹ ⰲⱏⰸⰲⰵ-</orig>
+				</choice>
+				<lb n="13" break="no" />
+				<choice>
+					<reg type="transliteration">селілъ ῾/есі · просімъ тѧ</reg>
+					<orig>ⱄⰵⰾⰹⰾⱏ ῾/ⰵⱄⰹ · ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ</orig>
+				</choice>
+				<lb n="14" />
+				<choice>
+					<reg type="transliteration">г҃і · да ᾽ѣкоже н̀ы чьсті̆мъ</reg>
+					<orig>ⰳ҃ⰹ · ⰴⰰ ᾽ⱑⰽⱁⰶⰵ ⱀ\ⱏⰹ ⱍⱐⱄⱅⰹ̆ⰿⱏ</orig>
+				</choice>
+				<lb n="15" />
+				<choice>
+					<reg type="transliteration">чьсті с̀і ᾽іхъ на вьсѧ дьні</reg>
+					<orig>ⱍⱐⱄⱅⰹ ⱄ\ⰹ ᾽ⰺⱈⱏ ⱀⰰ ⰲⱐⱄⱔ ⰴⱐⱀⰹ</orig>
+				</choice>
+				<lb n="16" />
+				<choice>
+					<reg type="transliteration">милостьѭ тво/еѭ д/аӡь</reg>
+					<orig>ⰿⰻⰾⱁⱄⱅⱐⱙ ⱅⰲⱁ/ⰵⱙ ⰴ/ⰰⰸⱐ</orig>
+				</choice>
+				<lb n="17" />
+				<choice>
+					<reg type="transliteration">н/амъ прйсно наслѣдов/аті ·</reg>
+					<orig>ⱀ/ⰰⰿⱏ ⱂⱃⰻ̆ⱄⱀⱁ ⱀⰰⱄⰾⱑⰴⱁⰲ/ⰰⱅⰹ ·</orig>
+				</choice>
+				<lb n="18" />
+				<choice>
+					<reg type="transliteration">небесьсќыѧ тв/оѧ с/илы ··</reg>
+					<orig>ⱀⰵⰱⰵⱄⱐⱄⰽⱏⰹⱔ ⱅⰲ/ⱁⱔ ⱄ/ⰻⰾⱏⰹ ··</orig>
+				</choice>
+				<lb n="19" />
+				<choice>
+					<reg type="transliteration">г҃мь нашмь · НАД ᾽ОПЛАТМЬ ·</reg>
+					<orig>ⰳ҃ⰿⱐ ⱀⰰⱎⰿⱐ · ⰐⰀⰄ ᾽ⰑⰒⰎⰀⰕⰏⰠ ·</orig>
+				</choice>
+				<lb n="20" />
+				<choice>
+					<reg type="transliteration">Даръ сь принесењы тебѣ г҃і</reg>
+					<orig>Ⰴⰰⱃⱏ ⱄⱐ ⱂⱃⰻⱀⰵⱄⰵⱀ҄ⱏⰹ ⱅⰵⰱⱑ ⰳ҃ⰹ</orig>
+				</choice>
+				<lb n="21" />
+				<choice>
+					<reg type="transliteration">вьс/ѣхъ свѧты̑хъ небесь-</reg>
+					<orig>ⰲⱐⱄ/ⱑⱈⱏ ⱄⰲⱔⱅⱏⰹ̑ⱈⱏ ⱀⰵⰱⰵⱄⱐ-</orig>
+				</choice>
+				<lb n="22" break="no" />
+				<choice>
+					<reg type="transliteration">сќыхъ сіљъ раді̑ · ᾽і вьсѣ-</reg>
+					<orig>ⱄⰽⱏⰹⱈⱏ ⱄⰺⰾ҄ⱏ ⱃⰰⰴⰹ̑ · ᾽ⰺ ⰲⱐⱄⱑ-</orig>
+				</choice>
+				<lb n="23" break="no" />
+				<choice>
+					<reg type="transliteration">хъ свѧты̑хъ · твоіхъ рад[и]</reg>
+					<orig>ⱈⱏ ⱄⰲⱔⱅⱏⰹ̑ⱈⱏ · ⱅⰲⱁⰹⱈⱏ ⱃⰰⰴ[ⰻ]</orig>
+				</choice>
+			</ab>
+			<pb n="7v" />
+			<ab xml:id="ab-13">
+				<lb n="1" />
+				<choice>
+					<reg type="transliteration">᾽і правьдьњыхъ раді̑ · бѫ-</reg>
+					<orig>᾽ⰺ ⱂⱃⰰⰲⱐⰴⱐⱀ҄ⱏⰹⱈⱏ ⱃⰰⰴⰹ̑ · ⰱⱘ-</orig>
+				</choice>
+				<lb n="2" break="no" />
+				<choice>
+					<reg type="transliteration">ді т/ебѣ въ хвӑлѫ · ῾а намъ</reg>
+					<orig>ⰴⰹ ⱅ/ⰵⰱⱑ ⰲⱏ ⱈⰲⰰ̆ⰾⱘ · ῾ⰰ ⱀⰰⰿⱏ</orig>
+				</choice>
+				<lb n="3" />
+				<choice>
+					<reg type="transliteration">молітвамі ᾽іхъ достоі-</reg>
+					<orig>ⰿⱁⰾⰹⱅⰲⰰⰿⰹ ᾽ⰺⱈⱏ ⰴⱁⱄⱅⱁⰹ-</orig>
+				</choice>
+				<lb n="4" break="no" />
+				<choice>
+					<reg type="transliteration">ное ᾽отъплаті · г҃мь нашімь</reg>
+					<orig>ⱀⱁⰵ ᾽ⱁⱅⱏⱂⰾⰰⱅⰹ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹⰿⱐ</orig>
+				</choice>
+				<lb n="5" />
+				<choice>
+					<reg type="transliteration">ПО ВЪСѪДѢ ··</reg>
+					<orig>ⰒⰑ ⰂⰟⰔⰨⰄⰡ ··</orig>
+				</choice>
+				<lb n="6" />
+				<choice>
+					<reg type="transliteration">Просімъ тѧ г҃і · даӡь намъ</reg>
+					<orig>Ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ ⰳ҃ⰹ · ⰴⰰⰸⱐ ⱀⰰⰿⱏ</orig>
+				</choice>
+				<lb n="7" />
+				<choice>
+					<reg type="transliteration">молітвамі вьсѣхъ небе-</reg>
+					<orig>ⰿⱁⰾⰹⱅⰲⰰⰿⰹ ⰲⱐⱄⱑⱈⱏ ⱀⰵⰱⰵ-</orig>
+				</choice>
+				<lb n="8" break="no" />
+				<choice>
+					<reg type="transliteration">сьсќыхъ с/илахъ · ᾽і вьс/ѣхъ</reg>
+					<orig>ⱄⱐⱄⰽⱏⰹⱈⱏ ⱄ/ⰻⰾⰰⱈⱏ · ᾽ⰺ ⰲⱐⱄ/ⱑⱈⱏ</orig>
+				</choice>
+				<lb n="9" />
+				<choice>
+					<reg type="transliteration">свѧты̑хъ твоіхъ · ᾽і дѣљъ</reg>
+					<orig>ⱄⰲⱔⱅⱏⰹ̑ⱈⱏ ⱅⰲⱁⰹⱈⱏ · ᾽ⰺ ⰴⱑⰾ҄ⱏ</orig>
+				</choice>
+				<lb n="10" />
+				<choice>
+					<reg type="transliteration">᾽іхъ раді̑ правьдьныхъ · въ-</reg>
+					<orig>᾽ⰺⱈⱏ ⱃⰰⰴⰹ̑ ⱂⱃⰰⰲⱐⰴⱐⱀⱏⰹⱈⱏ · ⰲⱏ-</orig>
+				</choice>
+				<lb n="11" break="no" />
+				<choice>
+					<reg type="transliteration">сѫдъмь сі̆мь въӡѧты-</reg>
+					<orig>ⱄⱘⰴⱏⰿⱐ ⱄⰺ̆ⰿⱐ ⰲⱏⰸⱔⱅⱏⰹ-</orig>
+				</choice>
+				<lb n="12" break="no" />
+				<choice>
+					<reg type="transliteration">мь · ᾽очісті срьдьцѣ нашѣ</reg>
+					<orig>ⰿⱐ · ᾽ⱁⱍⰹⱄⱅⰹ ⱄⱃⱐⰴⱐⱌⱑ ⱀⰰⱎⱑ</orig>
+				</choice>
+				<lb n="13" />
+				<choice>
+					<reg type="transliteration">᾽отъ грѣхъ̑ нашіхъ · г҃мь на ··</reg>
+					<orig>᾽ⱁⱅⱏ ⰳⱃⱑⱈⱏ̑ ⱀⰰⱎⰹⱈⱏ · ⰳ҃ⰿⱐ ⱀⰰ ··</orig>
+				</choice>
+				<lb n="14" />
+				<choice>
+					<reg type="transliteration">МОЛИТВА · Б҃ ·</reg>
+					<orig>ⰏⰑⰎⰋⰕⰂⰀ · Ⰱ҃ ·</orig>
+				</choice>
+				<lb n="15" />
+				<choice>
+					<reg type="transliteration">Сътвор/і н̀ы г҃і б҃же причѧ-</reg>
+					<orig>Ⱄⱏⱅⰲⱁⱃ/ⰹ ⱀ\ⱏⰹ ⰳ҃ⰹ ⰱ҃ⰶⰵ ⱂⱃⰻⱍⱔ-</orig>
+				</choice>
+				<lb n="16" break="no" />
+				<choice>
+					<reg type="transliteration">стьњы свѧтѣі̑ б҃ці ᾽і при-</reg>
+					<orig>ⱄⱅⱐⱀ҄ⱏⰹ ⱄⰲⱔⱅⱑⰹ̑ ⰱ҃ⱌⰹ ᾽ⰺ ⱂⱃⰻ-</orig>
+				</choice>
+				<lb n="17" break="no" />
+				<choice>
+					<reg type="transliteration">снодѣвѣ марѝі · ᾽і д/остоі-</reg>
+					<orig>ⱄⱀⱁⰴⱑⰲⱑ ⰿⰰⱃⰻ\ⰹ · ᾽ⰺ ⰴ/ⱁⱄⱅⱁⰹ-</orig>
+				</choice>
+				<lb n="18" break="no" />
+				<choice>
+					<reg type="transliteration">ны свѧты̑хъ ῾анђељъ ᾽і</reg>
+					<orig>ⱀⱏⰹ ⱄⰲⱔⱅⱏⰹ̑ⱈⱏ ῾ⰰⱀⰼⰵⰾ҄ⱏ ᾽ⰺ</orig>
+				</choice>
+				<lb n="19" />
+				<choice>
+					<reg type="transliteration">[б]лаженыхъ ῾апостољъ · мѫ-</reg>
+					<orig>[ⰱ]ⰾⰰⰶⰵⱀⱏⰹⱈⱏ ῾ⰰⱂⱁⱄⱅⱁⰾ҄ⱏ · ⰿⱘ-</orig>
+				</choice>
+				<lb n="20" break="no" />
+				<choice>
+					<reg type="transliteration">[че]ніќъ · ᾽і прѣподобьныхъ</reg>
+					<orig>[ⱍⰵ]ⱀⰺⰽⱏ · ᾽ⰺ ⱂⱃⱑⱂⱁⰴⱁⰱⱐⱀⱏⰹⱈⱏ</orig>
+				</choice>
+				<lb n="21" />
+				<choice>
+					<reg type="transliteration">[и] чістыхъ дѣвъ̑ · ᾽і вьс[ѣ]-</reg>
+					<orig>[ⰻ] ⱍⰹⱄⱅⱏⰹⱈⱏ ⰴⱑⰲⱏ̑ · ᾽ⰺ ⰲⱐⱄ[ⱑ]-</orig>
+				</choice>
+				<lb n="22" break="no" />
+				<choice>
+					<reg type="transliteration">[хъ] свѧтыхъ тво/іхъ · мо-</reg>
+					<orig>[ⱈⱏ] ⱄⰲⱔⱅⱏⰹⱈⱏ ⱅⰲⱁ/ⰹⱈⱏ · ⰿⱁ-</orig>
+				</choice>
+				<lb n="23" break="no" />
+				<choice>
+					<reg type="transliteration">[ли]твамі ᾽іхъ ӡашчіт/і</reg>
+					<orig>[ⰾⰻ]ⱅⰲⰰⰿⰹ ᾽ⰺⱈⱏ ⰸⰰⱎⱍⰹⱅ/ⰹ</orig>
+				</choice>
+				<lb n="24" />
+				<choice>
+					<reg type="transliteration">њы</reg>
+					<orig>ⱀ҄ⱏⰹ</orig>
+				</choice>
+			</ab>
+		</body>
+	</text>
+</TEI>

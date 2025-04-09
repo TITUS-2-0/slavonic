@@ -1,0 +1,1251 @@
+- body:
+  - pb[n=1v]
+  - ab:
+    - lb[n=1]
+    - choice:
+      - reg@transliteration: ВЪ И҃В ДЬНЬ КЛІМЕНТА
+      - orig: ⰂⰟ Ⰻ҃Ⰲ ⰄⰠⰐⰠ ⰍⰎⰉⰏⰅⰐⰕⰀ
+    - lb[n=2]
+    - choice:
+      - reg@transliteration: Б҃ъ ᾽іже ны · л/ѣта ᾽огрѧдѫцѣ
+      - orig: Ⰱ҃ⱏ ᾽ⰺⰶⰵ ⱀⱏⰹ · ⰾ/ⱑⱅⰰ ᾽ⱁⰳⱃⱔⰴⱘⱌⱑ
+    - lb[n=3]
+    - choice:
+      - reg@transliteration: блаженаго кл/имента мѫ-
+      - orig: ⰱⰾⰰⰶⰵⱀⰰⰳⱁ ⰽⰾ/ⰻⰿⰵⱀⱅⰰ ⰿⱘ-
+    - lb[n=4,break=no]
+    - choice:
+      - reg@transliteration: ченіка твоего ᾽і папежа
+      - orig: ⱍⰵⱀⰹⰽⰰ ⱅⰲⱁⰵⰳⱁ ᾽ⰺ ⱂⰰⱂⰵⰶⰰ
+    - lb[n=5]
+    - choice:
+      - reg@transliteration: чьстьѭ веселі̆ші · под/а-
+      - orig: ⱍⱐⱄⱅⱐⱙ ⰲⰵⱄⰵⰾⰹ̆ⱎⰺ · ⱂⱁⰴ/ⰰ-
+    - lb[n=6,break=no]
+    - choice:
+      - reg@transliteration: ӡь мілостівъі̑ · д̀а ῾егоже
+      - orig: ⰸⱐ ⰿⰹⰾⱁⱄⱅⰹⰲⱏⰹ̑ · ⰴ\ⰰ ῾ⰵⰳⱁⰶⰵ
+    - lb[n=7]
+    - choice:
+      - reg@transliteration: чьсть чьстімъ · сіл/оѭ
+      - orig: ⱍⱐⱄⱅⱐ ⱍⱐⱄⱅⰹⰿⱏ · ⱄⰹⰾ/ⱁⱙ
+    - lb[n=8]
+    - choice:
+      - reg@transliteration: ᾽убо мѫчен/иѣ ῾его наслѣдуе-
+      - orig: ᾽ⱆⰱⱁ ⰿⱘⱍⰵⱀ/ⰻⱑ ῾ⰵⰳⱁ ⱀⰰⱄⰾⱑⰴⱆⰵ-
+    - lb[n=9,break=no]
+    - choice:
+      - reg@transliteration: мъ ··· г҃мь ··· НАДЪ ОПЛАТМЬ
+      - orig: ⰿⱏ ··· ⰳ҃ⰿⱐ ··· ⰐⰀⰄⰟ ⰑⰒⰎⰀⰕⰏⰠ
+    - lb[n=10]
+    - choice:
+      - reg@transliteration: Рован/иѧ̑ г҃і прінесеныѧ
+      - orig: Ⱃⱁⰲⰰⱀ/ⰻⱔ̑ ⰳ҃ⰹ ⱂⱃⰹⱀⰵⱄⰵⱀⱏⰹⱔ
+    - lb[n=11]
+    - choice:
+      - reg@transliteration: свѧт/і · ᾽і ходатаѧ̆цю
+      - orig: ⱄⰲⱔⱅ/ⰹ · ᾽ⰺ ⱈⱁⰴⰰⱅⰰⱔ̆ⱌⱓ
+    - lb[n=12]
+    - choice:
+      - reg@transliteration: блаженуму клименту
+      - orig: ⰱⰾⰰⰶⰵⱀⱆⰿⱆ ⰽⰾⰻⰿⰵⱀⱅⱆ
+    - lb[n=13]
+    - choice:
+      - reg@transliteration: мѫченику твоему · сймь
+      - orig: ⰿⱘⱍⰵⱀⰻⰽⱆ ⱅⰲⱁⰵⰿⱆ · ⱄⰻ̆ⰿⱐ
+    - lb[n=14]
+    - choice:
+      - reg@transliteration: н̀ы ᾽отъ грѣхъ̑ скврьностиі
+      - orig: ⱀ\ⱏⰹ ᾽ⱁⱅⱏ ⰳⱃⱑⱈⱏ̑ ⱄⰽⰲⱃⱐⱀⱁⱄⱅⰻⰺ
+    - lb[n=15]
+    - choice:
+      - reg@transliteration: нашіхъ ᾽очісті · г҃мь ·
+      - orig: ⱀⰰⱎⰺⱈⱏ ᾽ⱁⱍⰹⱄⱅⰹ · ⰳ҃ⰿⱐ ·
+    - lb[n=16]
+    - choice:
+      - reg@transliteration: ПРѢФАЦИѢ · ДО вѣчьнъі̑ б҃же
+      - orig: ⰒⰓⰡⰗⰀⰜⰋⰡ · ⰄⰑ ⰲⱑⱍⱐⱀⱏⰹ̑ ⰱ҃ⰶⰵ
+    - lb[n=17]
+    - choice:
+      - reg@transliteration: '[Ч]/ьстьнӑго климента ӡако-'
+      - orig: '[Ⱍ]/ⱐⱄⱅⱐⱀⰰ̆ⰳⱁ ⰽⰾⰻⰿⰵⱀⱅⰰ ⰸⰰⰽⱁ-'
+    - lb[n=18,break=no]
+    - choice:
+      - reg@transliteration: ньні̆ка ᾽і мѫчені̆ка чьст҃і
+      - orig: ⱀⱐⱀⰹ̆ⰽⰰ ᾽ⰺ ⰿⱘⱍⰵⱀⰹ̆ⰽⰰ ⱍⱐⱄⱅ҃ⰹ
+    - lb[n=19]
+    - choice:
+      - reg@transliteration: чьстѧце · ᾽іже ᾽утѧ̆же бы-
+      - orig: ⱍⱐⱄⱅⱔⱌⰵ · ᾽ⰺⰶⰵ ᾽ⱆⱅⱔ̆ⰶⰵ ⰱⱏⰹ-
+    - lb[n=20,break=no]
+    - choice:
+      - reg@transliteration: ті блажењуму ῾ап/осто-
+      - orig: ⱅⰹ ⰱⰾⰰⰶⰵⱀ҄ⱆⰿⱆ ῾ⰰⱂ/ⱁⱄⱅⱁ-
+    - lb[n=21,break=no]
+    - choice:
+      - reg@transliteration: лу твоему п/етру · въ· і̆-
+      - orig: ⰾⱆ ⱅⰲⱁⰵⰿⱆ ⱂ/ⰵⱅⱃⱆ · ⰲⱏ· ⰹ̆-
+    - lb[n=22,break=no]
+    - choice:
+      - reg@transliteration: нокості подругъ · въ· ᾽испо-
+      - orig: ⱀⱁⰽⱁⱄⱅⰹ ⱂⱁⰴⱃⱆⰳⱏ · ⰲⱏ· ᾽ⰻⱄⱂⱁ-
+  - pb[n=2r]
+  - ab:
+    - lb[n=1]
+    - choice:
+      - reg@transliteration: вѣді ᾽ученікъ · въ чьсті на-
+      - orig: ⰲⱑⰴⰹ ᾽ⱆⱍⰵⱀⰹⰽⱏ · ⰲⱏ ⱍⱐⱄⱅⰹ ⱀⰰ-
+    - lb[n=2,break=no]
+    - choice:
+      - reg@transliteration: мѣстьні̆къ · въ мѫченѝі на-
+      - orig: ⰿⱑⱄⱅⱐⱀⰹ̆ⰽⱏ · ⰲⱏ ⰿⱘⱍⰵⱀⰻ\ⰹ ⱀⰰ-
+    - lb[n=3,break=no]
+    - choice:
+      - reg@transliteration: слѣдьнк̆ъ · х҃мь г҃мь нашмь ·
+      - orig: ⱄⰾⱑⰴⱐⱀⰽ̆ⱏ · ⱈ҃ⰿⱐ ⰳ҃ⰿⱐ ⱀⰰⱎⰿⱐ ·
+    - lb[n=4]
+    - choice:
+      - reg@transliteration: ПО ВЪСѪДѢ ···
+      - orig: ⰒⰑ ⰂⰟⰔⰨⰄⰡ ···
+    - lb[n=5]
+    - choice:
+      - reg@transliteration: Т/ѣлесе свѧтаго ᾽і прѣдра-
+      - orig: Ⱅ/ⱑⰾⰵⱄⰵ ⱄⰲⱔⱅⰰⰳⱁ ᾽ⰺ ⱂⱃⱑⰴⱃⰰ-
+    - lb[n=6,break=no]
+    - choice:
+      - reg@transliteration: гыѧ̑ кръве напльнен̀і въ-
+      - orig: ⰳⱏⰹⱔ̑ ⰽⱃⱏⰲⰵ ⱀⰰⱂⰾⱐⱀⰵⱀ\ⰺ ⰲⱏ-
+    - lb[n=7,break=no]
+    - choice:
+      - reg@transliteration: лит/иѣ просі̆мъ г҃і б҃же нашь ·
+      - orig: ⰾⰻⱅ/ⰻⱑ ⱂⱃⱁⱄⰺ̆ⰿⱏ ⰳ҃ⰹ ⰱ҃ⰶⰵ ⱀⰰⱎⱐ ·
+    - lb[n=8]
+    - choice:
+      - reg@transliteration: да еже милостіваѣ ᾽обѣц/ѣ-
+      - orig: ⰴⰰ ⰵⰶⰵ ⰿⰻⰾⱁⱄⱅⰹⰲⰰⱑ ᾽ⱁⰱⱑⱌ/ⱑ-
+    - lb[n=9,break=no]
+    - choice:
+      - reg@transliteration: н/и/ѣ носі̆мъ · рѣснот/івьнаѣ
+      - orig: ⱀ/ⰻ/ⱑ ⱀⱁⱄⰺ̆ⰿⱏ · ⱃⱑⱄⱀⱁⱅ/ⰹⰲⱐⱀⰰⱑ
+    - lb[n=10]
+    - choice:
+      - reg@transliteration: ᾽иӡдр҃ѣшен/и/ѣ ᾽обьмемъ · г҃мь ···
+      - orig: ᾽ⰻⰸⰴⱃ҃ⱑⱎⰵⱀ/ⰻ/ⱑ ᾽ⱁⰱⱐⰿⰵⰿⱏ · ⰳ҃ⰿⱐ ···
+    - lb[n=11]
+    - choice:
+      - reg@transliteration: ВЪ ТЪӠЕ ДЬНЬ ФЕЛІЦТЫ ·
+      - orig: ⰂⰟ ⰕⰟⰈⰅ ⰄⰠⰐⰠ ⰗⰅⰎⰉⰜⰕⰟⰉ ·
+    - lb[n=12]
+    - choice:
+      - reg@transliteration: Под/аӡь н/амъ просімъ тѧ
+      - orig: Ⱂⱁⰴ/ⰰⰸⱐ ⱀ/ⰰⰿⱏ ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ
+    - lb[n=13]
+    - choice:
+      - reg@transliteration: в/ьсемогы̆і б҃же · блажены-
+      - orig: ⰲ/ⱐⱄⰵⰿⱁⰳⱏⰹ̆ⰺ ⰱ҃ⰶⰵ · ⰱⰾⰰⰶⰵⱀⱏⰹ-
+    - lb[n=14,break=no]
+    - choice:
+      - reg@transliteration: ѧ̑ раді̑ мѫченіцѧ̑ твоеѧ̑
+      - orig: ⱔ̑ ⱃⰰⰴⰹ̑ ⰿⱘⱍⰵⱀⰹⱌⱔ̑ ⱅⰲⱁⰵⱔ̑
+    - lb[n=15]
+    - choice:
+      - reg@transliteration: феліціты̑ въкупьнѫѭ
+      - orig: ⱇⰵⰾⰹⱌⰹⱅⱏⰹ̑ ⰲⱏⰽⱆⱂⱐⱀⱘⱙ
+    - lb[n=16]
+    - choice:
+      - reg@transliteration: молитвѫ · ᾽і тоѧ̆ӡе раді̑
+      - orig: ⰿⱁⰾⰻⱅⰲⱘ · ᾽ⰺ ⱅⱁⱔ̆ⰸⰵ ⱃⰰⰴⰹ̑
+    - lb[n=17]
+    - choice:
+      - reg@transliteration: ӡашчі̆ті н̀ы · г҃мь · НДЪ ᾽ОПЛ
+      - orig: ⰸⰰⱎⱍⰹ̆ⱅⰹ ⱀ\ⱏⰹ · ⰳ҃ⰿⱐ · ⰐⰄⰟ ᾽ⰑⰒⰎ
+    - lb[n=18]
+    - choice:
+      - reg@transliteration: На служьбы людиі твоіхъ
+      - orig: Ⱀⰰ ⱄⰾⱆⰶⱐⰱⱏⰹ ⰾⱓⰴⰻⰺ ⱅⰲⱁⰺⱈⱏ
+    - lb[n=19]
+    - choice:
+      - reg@transliteration: милостиѭ пріӡьр/і · ᾽і ???
+      - orig: ⰿⰻⰾⱁⱄⱅⰻⱙ ⱂⱃⰹⰸⱐⱃ/ⰹ · ᾽ⰺ ???
+    - lb[n=20]
+    - choice:
+      - reg@transliteration: се н̀ы чьстьѭ свѧтыхъ чь-
+      - orig: ⱄⰵ ⱀ\ⱏⰹ ⱍⱐⱄⱅⱐⱙ ⱄⰲⱔⱅⱏⰹⱈⱏ ⱍⱐ-
+    - lb[n=21,break=no]
+    - choice:
+      - reg@transliteration: сті̆мъ · сътворі н̀ы радо-
+      - orig: ⱄⱅⰹ̆ⰿⱏ · ⱄⱏⱅⰲⱁⱃⰹ ⱀ\ⱏⰹ ⱃⰰⰴⱁ-
+    - lb[n=22,break=no]
+    - choice:
+      - reg@transliteration: стьны · въ вѣчьнѣ̆мь живот[ѣ]
+      - orig: ⱄⱅⱐⱀⱏⰹ · ⰲⱏ ⰲⱑⱍⱐⱀⱑ̆ⰿⱐ ⰶⰻⰲⱁⱅ[ⱑ]
+  - pb[n=2v]
+  - ab:
+    - lb[n=1]
+    - choice:
+      - reg@transliteration: ПО ВЪСѪДѢ ··
+      - orig: ⰒⰑ ⰂⰟⰔⰨⰄⰡ ··
+    - lb[n=2]
+    - choice:
+      - reg@transliteration: Смѣрьно тѧ молймъ в/ьсе-
+      - orig: Ⱄⰿⱑⱃⱐⱀⱁ ⱅⱔ ⰿⱁⰾⰻ̆ⰿⱏ ⰲ/ⱐⱄⰵ-
+    - lb[n=3,break=no]
+    - choice:
+      - reg@transliteration: могъі̑ б҃же · молитвамі свѧ-
+      - orig: ⰿⱁⰳⱏⰹ̑ ⰱ҃ⰶⰵ · ⰿⱁⰾⰻⱅⰲⰰⰿⰹ ⱄⰲⱔ-
+    - lb[n=4,break=no]
+    - choice:
+      - reg@transliteration: тыхъ твоіхъ · ᾽і ты самъ
+      - orig: ⱅⱏⰹⱈⱏ ⱅⰲⱁⰺⱈⱏ · ᾽ⰺ ⱅⱏⰹ ⱄⰰⰿⱏ
+    - lb[n=5]
+    - choice:
+      - reg@transliteration: бѫ̑ді · ᾽і даръ твоі въселі
+      - orig: ⰱⱘ̑ⰴⰹ · ᾽ⰺ ⰴⰰⱃⱏ ⱅⰲⱁⰹ ⰲⱏⱄⰵⰾⰹ
+    - lb[n=6]
+    - choice:
+      - reg@transliteration: въ н̀ы · ᾽і врѣмѧ наше въ
+      - orig: ⰲⱏ ⱀ\ⱏⰹ · ᾽ⰺ ⰲⱃⱑⰿⱔ ⱀⰰⱎⰵ ⰲⱏ
+    - lb[n=7]
+    - choice:
+      - reg@transliteration: правьдѫ пост/аві ·· г҃мь ··
+      - orig: ⱂⱃⰰⰲⱐⰴⱘ ⱂⱁⱄⱅ/ⰰⰲⰹ ·· ⰳ҃ⰿⱐ ··
+    - lb[n=8]
+    - choice:
+      - reg@transliteration: МЬШѢ НА В/ЬСѦ ДЬНІ ВЬ-
+      - orig: ⰏⰠⰞⰡ ⰐⰀ Ⰲ/ⰠⰔⰤ ⰄⰠⰐⰊ ⰂⰠ-
+    - lb[n=9,break=no]
+    - choice:
+      - reg@transliteration: СЕГО ЛѢТА ᾽ОБІДѪЦѢ ··
+      - orig: ⰔⰅⰃⰑ ⰎⰡⰕⰀ ᾽ⰑⰁⰉⰄⰨⰜⰡ ··
+    - lb[n=10]
+    - choice:
+      - reg@transliteration: Б҃ъ ᾽іже тварь св/оѭ ве-
+      - orig: Ⰱ҃ⱏ ᾽ⰺⰶⰵ ⱅⰲⰰⱃⱐ ⱄⰲ/ⱁⱙ ⰲⰵ-
+    - lb[n=11,break=no]
+    - choice:
+      - reg@transliteration: л/мі пом/ілова · ᾽і по гнѣ-
+      - orig: ⰾ/ⰿⰹ ⱂⱁⰿ/ⰹⰾⱁⰲⰰ · ᾽ⰺ ⱂⱁ ⰳⱀⱑ-
+    - lb[n=12,break=no]
+    - choice:
+      - reg@transliteration: вѣ своемь · ᾽иӡволі въ-
+      - orig: ⰲⱑ ⱄⰲⱁⰵⰿⱐ · ᾽ⰻⰸⰲⱁⰾⰹ ⰲⱏ-
+    - lb[n=13,break=no]
+    - choice:
+      - reg@transliteration: плътиті сѧ съп/асениѣ ра-
+      - orig: ⱂⰾⱏⱅⰻⱅⰹ ⱄⱔ ⱄⱏⱂ/ⰰⱄⰵⱀⰻⱑ ⱃⰰ-
+    - lb[n=14,break=no]
+    - choice:
+      - reg@transliteration: ді чловѣчьска · ᾽і въсхо-
+      - orig: ⰴⰹ ⱍⰾⱁⰲⱑⱍⱐⱄⰽⰰ · ᾽ⰺ ⰲⱏⱄⱈⱁ-
+    - lb[n=15,break=no]
+    - choice:
+      - reg@transliteration: тѣвъ н/амъ ᾽утврьді срь-
+      - orig: ⱅⱑⰲⱏ ⱀ/ⰰⰿⱏ ᾽ⱆⱅⰲⱃⱐⰴⰹ ⱄⱃⱐ-
+    - lb[n=16,break=no]
+    - choice:
+      - reg@transliteration: дьцѣ н/ашѣ · ᾽і милостиѭ
+      - orig: ⰴⱐⱌⱑ ⱀ/ⰰⱎⱑ · ᾽ⰺ ⰿⰻⰾⱁⱄⱅⰻⱙ
+    - lb[n=17]
+    - choice:
+      - reg@transliteration: тво/еѭ просвѣті н̀ы · г҃мь ·
+      - orig: ⱅⰲⱁ/ⰵⱙ ⱂⱃⱁⱄⰲⱑⱅⰹ ⱀ\ⱏⰹ · ⰳ҃ⰿⱐ ·
+    - lb[n=18]
+    - choice:
+      - reg@transliteration: НАДЪ ᾽ОПЛАТЪМЬ ··
+      - orig: ⰐⰀⰄⰟ ᾽ⰑⰒⰎⰀⰕⰟⰏⰠ ··
+    - lb[n=19]
+    - choice:
+      - reg@transliteration: Бліӡъ н/асъ бѫді г҃і пр/осі-
+      - orig: Ⰱⰾⰹⰸⱏ ⱀ/ⰰⱄⱏ ⰱⱘⰴⰹ ⰳ҃ⰹ ⱂⱃ/ⱁⱄⰹ-
+    - lb[n=20,break=no]
+    - choice:
+      - reg@transliteration: мъ тѧ · ᾽і мол/ітвѫ нашѫ
+      - orig: ⰿⱏ ⱅⱔ · ᾽ⰺ ⰿⱁⰾ/ⰹⱅⰲⱘ ⱀⰰⱎⱘ
+    - lb[n=21]
+    - choice:
+      - reg@transliteration: усл/ыші · д̀а ᾽упъван/ие
+      - orig: ⱆⱄⰾ/ⱏⰹⱎⰹ · ⰴ\ⰰ ᾽ⱆⱂⱏⰲⰰⱀ/ⰻⰵ
+    - lb[n=22]
+    - choice:
+      - reg@transliteration: '[въ]ньм/емъ дѣљъ своіхъ ·'
+      - orig: '[ⰲⱏ]ⱀⱐⰿ/ⰵⰿⱏ ⰴⱑⰾ҄ⱏ ⱄⰲⱁⰹⱈⱏ ·'
+    - lb[n=23]
+    - choice:
+      - reg@transliteration: і въ любъвь даръ сь т/е-
+      - orig: ⰺ ⰲⱏ ⰾⱓⰱⱏⰲⱐ ⰴⰰⱃⱏ ⱄⱐ ⱅ/ⰵ-
+    - lb[n=24,break=no]
+    - choice:
+      - reg@transliteration: бѣ пріносімъ · г҃мь ··
+      - orig: ⰱⱑ ⱂⱃⰹⱀⱁⱄⰹⰿⱏ · ⰳ҃ⰿⱐ ··
+  - pb[n=3r]
+  - ab:
+    - lb[n=1]
+    - choice:
+      - reg@transliteration: ПРѢФАЦИѢ · вѣчьнъі̑ б҃же ·
+      - orig: ⰒⰓⰡⰗⰀⰜⰋⰡ · ⰲⱑⱍⱐⱀⱏⰹ̑ ⰱ҃ⰶⰵ ·
+    - lb[n=2]
+    - choice:
+      - reg@transliteration: Небесьскы̆ѧ тв/оѧ сіљы
+      - orig: Ⱀⰵⰱⰵⱄⱐⱄⰽⱏⰹ̆ⱔ ⱅⰲ/ⱁⱔ ⱄⰺⰾ҄ⱏⰹ
+    - lb[n=3]
+    - choice:
+      - reg@transliteration: просі̆мъ ᾽і м/олімъ · д̀а съ
+      - orig: ⱂⱃⱁⱄⰹ̆ⰿⱏ ᾽ⰺ ⰿ/ⱁⰾⰹⰿⱏ · ⰴ\ⰰ ⱄⱏ
+    - lb[n=4]
+    - choice:
+      - reg@transliteration: в/ышьні̆мі твоімі · до-
+      - orig: ⰲ/ⱏⰹⱎⱐⱀⰹ̆ⰿⰹ ⱅⰲⱁⰹⰿⰹ · ⰴⱁ-
+    - lb[n=5,break=no]
+    - choice:
+      - reg@transliteration: сто·᾽іны сътворіші н̀ы · ᾽і
+      - orig: ⱄⱅⱁ·᾽ⰹⱀⱏⰹ ⱄⱏⱅⰲⱁⱃⰹⱎⰹ ⱀ\ⱏⰹ · ᾽ⰺ
+    - lb[n=6]
+    - choice:
+      - reg@transliteration: вѣчьн/аѣ тв/оѣ ᾽іхъже жѧда-
+      - orig: ⰲⱑⱍⱐⱀ/ⰰⱑ ⱅⰲ/ⱁⱑ ᾽ⰺⱈⱏⰶⰵ ⰶⱔⰴⰰ-
+    - lb[n=7,break=no]
+    - choice:
+      - reg@transliteration: емъ подӑсъ н/амъ мілості-
+      - orig: ⰵⰿⱏ ⱂⱁⰴⰰ̆ⱄⱏ ⱀ/ⰰⰿⱏ ⰿⰺⰾⱁⱄⱅⰹ-
+    - lb[n=8,break=no]
+    - choice:
+      - reg@transliteration: вьно · х҃мь г҃мь н/ашімь · ᾽імь
+      - orig: ⰲⱐⱀⱁ · ⱈ҃ⰿⱐ ⰳ҃ⰿⱐ ⱀ/ⰰⱎⰹⰿⱐ · ᾽ⰺⰿⱐ
+    - lb[n=9]
+    - choice:
+      - reg@transliteration: ПО ВЪСѪДѢ ··
+      - orig: ⰒⰑ ⰂⰟⰔⰨⰄⰡ ··
+    - lb[n=10]
+    - choice:
+      - reg@transliteration: Пр/осімъ тѧ г҃і даӡь н/амъ ·
+      - orig: Ⱂⱃ/ⱁⱄⰹⰿⱏ ⱅⱔ ⰳ҃ⰹ ⰴⰰⰸⱐ ⱀ/ⰰⰿⱏ ·
+    - lb[n=11]
+    - choice:
+      - reg@transliteration: д̀а свѧ̆тъі̑ твоі въсѫдъ
+      - orig: ⰴ\ⰰ ⱄⰲⱔ̆ⱅⱏⰹ̑ ⱅⰲⱁⰹ ⰲⱏⱄⱘⰴⱏ
+    - lb[n=12]
+    - choice:
+      - reg@transliteration: пріемлѭце д/остоіні бѫ̑-
+      - orig: ⱂⱃⰹⰵⰿⰾⱙⱌⰵ ⰴ/ⱁⱄⱅⱁⰹⱀⰹ ⰱⱘ̑-
+    - lb[n=13,break=no]
+    - choice:
+      - reg@transliteration: демъ ᾽оч/ішчен/иѣ твоего ·
+      - orig: ⰴⰵⰿⱏ ᾽ⱁⱍ/ⰹⱎⱍⰵⱀ/ⰻⱑ ⱅⰲⱁⰵⰳⱁ ·
+    - lb[n=14]
+    - choice:
+      - reg@transliteration: ᾽і в/ѣра твоѣ въ н/асъ да въ-
+      - orig: ᾽ⰺ ⰲ/ⱑⱃⰰ ⱅⰲⱁⱑ ⰲⱏ ⱀ/ⰰⱄⱏ ⰴⰰ ⰲⱏ-
+    - lb[n=15,break=no]
+    - choice:
+      - reg@transliteration: ӡдрӑстетъ · г҃мь нашімь и҃см ·
+      - orig: ⰸⰴⱃⰰ̆ⱄⱅⰵⱅⱏ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹⰿⱐ ⰻ҃ⱄⰿ ·
+    - lb[n=16]
+    - choice:
+      - reg@transliteration: МЬШѢ · Б҃ · ᾽О ТОМЬӠЕ ··
+      - orig: ⰏⰠⰞⰡ · Ⰱ҃ · ᾽Ⱁ ⰕⰑⰏⰠⰈⰅ ··
+    - lb[n=17]
+    - choice:
+      - reg@transliteration: Просімъ тѧ вьсемогъі̑ вѣ-
+      - orig: Ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ ⰲⱐⱄⰵⰿⱁⰳⱏⰹ̑ ⰲⱑ-
+    - lb[n=18,break=no]
+    - choice:
+      - reg@transliteration: чьнъі̑ б҃же · пріӡьрі на мо-
+      - orig: ⱍⱐⱀⱏⰹ̑ ⰱ҃ⰶⰵ · ⱂⱃⰹⰸⱐⱃⰹ ⱀⰰ ⰿⱁ-
+    - lb[n=19,break=no]
+    - choice:
+      - reg@transliteration: літвѫ нашѫ · ᾽і вънѫ-
+      - orig: ⰾⰹⱅⰲⱘ ⱀⰰⱎⱘ · ᾽ⰺ ⰲⱏⱀⱘ-
+    - lb[n=20,break=no]
+    - choice:
+      - reg@transliteration: трьнѣѣ нашѣ ᾽очісті · ᾽ѣже
+      - orig: ⱅⱃⱐⱀⱑⱑ ⱀⰰⱎⱑ ᾽ⱁⱍⰹⱄⱅⰹ · ᾽ⱑⰶⰵ
+    - lb[n=21]
+    - choice:
+      - reg@transliteration: н̀ы сушѧтъ грѣхы̑ наші-
+      - orig: ⱀ\ⱏⰹ ⱄⱆⱎⱔⱅⱏ ⰳⱃⱑⱈⱏⰹ̑ ⱀⰰⱎⰹ-
+    - lb[n=22,break=no]
+    - choice:
+      - reg@transliteration: мі · д̀а мілостіѭ твое-
+      - orig: ⰿⰹ · ⰴ\ⰰ ⰿⰹⰾⱁⱄⱅⰹⱙ ⱅⰲⱁⰵ-
+    - lb[n=23,break=no]
+    - choice:
+      - reg@transliteration: ѭ ᾽іӡбаві ны · г҃мь наші
+      - orig: ⱙ ᾽ⰺⰸⰱⰰⰲⰹ ⱀⱏⰹ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹ
+    - lb[n=24]
+    - choice:
+      - reg@transliteration: НАДЪ ᾽ОПЛАТЪМЬ ·
+      - orig: ⰐⰀⰄⰟ ᾽ⰑⰒⰎⰀⰕⰟⰏⰠ ·
+  - pb[n=3v]
+  - ab:
+    - lb[n=1]
+    - choice:
+      - reg@transliteration: Сьі пріносъ прінесенъі̑ т/ебѣ
+      - orig: Ⱄⱐⰹ ⱂⱃⰹⱀⱁⱄⱏ ⱂⱃⰹⱀⰵⱄⰵⱀⱏⰹ̑ ⱅ/ⰵⰱⱑ
+    - lb[n=2]
+    - choice:
+      - reg@transliteration: г҃і просімъ тѧ пріімі̑ · ᾽і-
+      - orig: ⰳ҃ⰹ ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ ⱂⱃⰹⰺⰿⰹ̑ · ᾽ⰺ-
+    - lb[n=3,break=no]
+    - choice:
+      - reg@transliteration: же ῾/есі благословестілъ
+      - orig: ⰶⰵ ῾/ⰵⱄⰹ ⰱⰾⰰⰳⱁⱄⰾⱁⰲⰵⱄⱅⰹⰾⱏ
+    - lb[n=4]
+    - choice:
+      - reg@transliteration: на съпасен/ие наше · г҃мь наші ·
+      - orig: ⱀⰰ ⱄⱏⱂⰰⱄⰵⱀ/ⰻⰵ ⱀⰰⱎⰵ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹ ·
+    - lb[n=5]
+    - choice:
+      - reg@transliteration: ПРѢФАЦИѢ · ДО вѣчьн б҃же ·
+      - orig: ⰒⰓⰡⰗⰀⰜⰋⰡ · ⰄⰑ ⰲⱑⱍⱐⱀ ⰱ҃ⰶⰵ ·
+    - lb[n=6]
+    - choice:
+      - reg@transliteration: Да сѧ т/ебе дрьжімъ ᾽і міло-
+      - orig: Ⰴⰰ ⱄⱔ ⱅ/ⰵⰱⰵ ⰴⱃⱐⰶⰹⰿⱏ ᾽ⰺ ⰿⰹⰾⱁ-
+    - lb[n=7,break=no]
+    - choice:
+      - reg@transliteration: сті твоеѧ̑ просімъ · прі-
+      - orig: ⱄⱅⰹ ⱅⰲⱁⰵⱔ̑ ⱂⱃⱁⱄⰹⰿⱏ · ⱂⱃⰹ-
+    - lb[n=8,break=no]
+    - choice:
+      - reg@transliteration: ӡъвалъ ны /еси г҃і · д̀а ᾽испра-
+      - orig: ⰸⱏⰲⰰⰾⱏ ⱀⱏⰹ /ⰵⱄⰻ ⰳ҃ⰹ · ⰴ\ⰰ ᾽ⰻⱄⱂⱃⰰ-
+    - lb[n=9,break=no]
+    - choice:
+      - reg@transliteration: ві ны ᾽̀і ᾽очісті · не н/аші-
+      - orig: ⰲⰹ ⱀⱏⰹ ᾽\ⰺ ᾽ⱁⱍⰹⱄⱅⰺ · ⱀⰵ ⱀ/ⰰⱎⰹ-
+    - lb[n=10,break=no]
+    - choice:
+      - reg@transliteration: хъ дѣљъ раді · нъ ᾽обѣта тво-
+      - orig: ⱈⱏ ⰴⱑⰾ҄ⱏ ⱃⰰⰴⰹ · ⱀⱏ ᾽ⱁⰱⱑⱅⰰ ⱅⰲⱁ-
+    - lb[n=11,break=no]
+    - choice:
+      - reg@transliteration: его раді ᾽іже ῾/есі ᾽обѣцѣлъ
+      - orig: ⰵⰳⱁ ⱃⰰⰴⰹ ᾽ⰺⰶⰵ ῾/ⰵⱄⰹ ᾽ⱁⰱⱑⱌⱑⰾⱏ
+    - lb[n=12]
+    - choice:
+      - reg@transliteration: н/амъ · да въӡможемъ ду-
+      - orig: ⱀ/ⰰⰿⱏ · ⰴⰰ ⰲⱏⰸⰿⱁⰶⰵⰿⱏ ⰴⱆ-
+    - lb[n=13,break=no]
+    - choice:
+      - reg@transliteration: шѣмі ᾽і тѣлесы̑ ᾽і мысль-
+      - orig: ⱎⱑⰿⰹ ᾽ⰺ ⱅⱑⰾⰵⱄⱏⰹ̑ ᾽ⰺ ⰿⱏⰹⱄⰾⱐ-
+    - lb[n=14,break=no]
+    - choice:
+      - reg@transliteration: мі нашімі · пріѧти ӡапо-
+      - orig: ⰿⰹ ⱀⰰⱎⰹⰿⰺ · ⱂⱃⰹⱔⱅⰻ ⰸⰰⱂⱁ-
+    - lb[n=15,break=no]
+    - choice:
+      - reg@transliteration: вѣді твоѧ · ῾ѧже ῾есі посъ-
+      - orig: ⰲⱑⰴⰹ ⱅⰲⱁⱔ · ῾ⱔⰶⰵ ῾ⰵⱄⰹ ⱂⱁⱄⱏ-
+    - lb[n=16,break=no]
+    - choice:
+      - reg@transliteration: лалъ къ намъ · х҃мь г҃мь на-
+      - orig: ⰾⰰⰾⱏ ⰽⱏ ⱀⰰⰿⱏ · ⱈ҃ⰿⱐ ⰳ҃ⰿⱐ ⱀⰰ-
+    - lb[n=17,break=no]
+    - choice:
+      - reg@transliteration: шімь · ᾽і̆мьже велічь ··
+      - orig: ⱎⰹⰿⱐ · ᾽ⰹ̆ⰿⱐⰶⰵ ⰲⰵⰾⰹⱍⱐ ··
+    - lb[n=18]
+    - choice:
+      - reg@transliteration: ПО ВЪСѪДѢ ··
+      - orig: ⰒⰑ ⰂⰟⰔⰨⰄⰡ ··
+    - lb[n=19]
+    - choice:
+      - reg@transliteration: Свѧтъі̑ твоі въсѫдъ
+      - orig: Ⱄⰲⱔⱅⱏⰹ̑ ⱅⰲⱁⰹ ⰲⱏⱄⱘⰴⱏ
+    - lb[n=20]
+    - choice:
+      - reg@transliteration: г҃і іже /есмь въӡѧлі мо-
+      - orig: ⰳ҃ⰹ ⰺⰶⰵ /ⰵⱄⰿⱐ ⰲⱏⰸⱔⰾⰹ ⰿⱁ-
+    - lb[n=21,break=no]
+    - choice:
+      - reg@transliteration: лімъ т̀ѧ · да ᾽очіститъ
+      - orig: ⰾⰺⰿⱏ ⱅ\ⱔ · ⰴⰰ ᾽ⱁⱍⰹⱄⱅⰻⱅⱏ
+    - lb[n=22]
+    - choice:
+      - reg@transliteration: ны отъ грѣхъ̑ нашіхъ · ᾽і
+      - orig: ⱀⱏⰹ ⱁⱅⱏ ⰳⱃⱑⱈⱏ̑ ⱀⰰⱎⰹⱈⱏ · ᾽ⰺ
+    - lb[n=23]
+    - choice:
+      - reg@transliteration: къ небесьсцѣ̀і любъві
+      - orig: ⰽⱏ ⱀⰵⰱⰵⱄⱐⱄⱌⱑ\ⰹ ⰾⱓⰱⱏⰲⰹ
+    - lb[n=24]
+    - choice:
+      - reg@transliteration: '[при]ведетъ њы · г҃мь наь ·'
+      - orig: '[ⱂⱃⰻ]ⰲⰵⰴⰵⱅⱏ ⱀ҄ⱏⰹ · ⰳ҃ⰿⱐ ⱀⰰⱐ ·'
+  - pb[n=4r]
+  - ab:
+    - lb[n=1]
+    - choice:
+      - reg@transliteration: МЬШѢ · В · О ТОМЬӠЕ ··
+      - orig: ⰏⰠⰞⰡ · Ⰲ · Ⱁ ⰕⰑⰏⰠⰈⰅ ··
+    - lb[n=2]
+    - choice:
+      - reg@transliteration: Просі̆мъ тѧ вьсемогъі̑
+      - orig: Ⱂⱃⱁⱄⰹ̆ⰿⱏ ⱅⱔ ⰲⱐⱄⰵⰿⱁⰳⱏⰹ̑
+    - lb[n=3]
+    - choice:
+      - reg@transliteration: б҃же да ᾽ѣкоже /есмъ скръбьні
+      - orig: ⰱ҃ⰶⰵ ⰴⰰ ᾽ⱑⰽⱁⰶⰵ /ⰵⱄⰿⱏ ⱄⰽⱃⱏⰱⱐⱀⰹ
+    - lb[n=4]
+    - choice:
+      - reg@transliteration: грѣхы̑ нашімі · мілость-
+      - orig: ⰳⱃⱑⱈⱏⰹ̑ ⱀⰰⱎⰹⰿⰺ · ⰿⰹⰾⱁⱄⱅⱐ-
+    - lb[n=5,break=no]
+    - choice:
+      - reg@transliteration: ѭ твоеѭ ᾽отъ вьсѣхъ ӡъ-
+      - orig: ⱙ ⱅⰲⱁⰵⱙ ᾽ⱁⱅⱏ ⰲⱐⱄⱑⱈⱏ ⰸⱏ-
+    - lb[n=6,break=no]
+    - choice:
+      - reg@transliteration: лиі нашіхъ ᾽очісті н̀ы ·
+      - orig: ⰾⰻⰹ ⱀⰰⱎⰹⱈⱏ ᾽ⱁⱍⰹⱄⱅⰹ ⱀ\ⱏⰹ ·
+    - lb[n=7]
+    - choice:
+      - reg@transliteration: г҃мь ·· НАДЪ ᾽ОПЛАТЪМЬ ·
+      - orig: ⰳ҃ⰿⱐ ·· ⰐⰀⰄⰟ ᾽ⰑⰒⰎⰀⰕⰟⰏⰠ ·
+    - lb[n=8]
+    - choice:
+      - reg@transliteration: Пріімі г҃і просімъ тѧ при-
+      - orig: Ⱂⱃⰹⰺⰿⰹ ⰳ҃ⰹ ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ ⱂⱃⰻ-
+    - lb[n=9,break=no]
+    - choice:
+      - reg@transliteration: носъ с̀ь · прінесенъі̑ т/ебѣ ·
+      - orig: ⱀⱁⱄⱏ ⱄ\ⱐ · ⱂⱃⰹⱀⰵⱄⰵⱀⱏⰹ̑ ⱅ/ⰵⰱⱑ ·
+    - lb[n=10]
+    - choice:
+      - reg@transliteration: ᾽иӡбавлен/иѣ раді чловѣ-
+      - orig: ᾽ⰻⰸⰱⰰⰲⰾⰵⱀ/ⰻⱑ ⱃⰰⰴⰹ ⱍⰾⱁⰲⱑ-
+    - lb[n=11,break=no]
+    - choice:
+      - reg@transliteration: чьска · ᾽і съдрав/іе н/амъ
+      - orig: ⱍⱐⱄⰽⰰ · ᾽ⰺ ⱄⱏⰴⱃⰰⰲ/ⰹⰵ ⱀ/ⰰⰿⱏ
+    - lb[n=12]
+    - choice:
+      - reg@transliteration: д/аӡь · ᾽і душѧ нашѧ ᾽і тѣ-
+      - orig: ⰴ/ⰰⰸⱐ · ᾽ⰺ ⰴⱆⱎⱔ ⱀⰰⱎⱔ ᾽ⰺ ⱅⱑ-
+    - lb[n=13,break=no]
+    - choice:
+      - reg@transliteration: леса ᾽очисті · ῾а молітвѫ
+      - orig: ⰾⰵⱄⰰ ᾽ⱁⱍⰻⱄⱅⰹ · ῾ⰰ ⰿⱁⰾⰹⱅⰲⱘ
+    - lb[n=14]
+    - choice:
+      - reg@transliteration: нашѫ приімі ·· г҃мь · ПРѢФ
+      - orig: ⱀⰰⱎⱘ ⱂⱃⰻⰺⰿⰹ ·· ⰳ҃ⰿⱐ · ⰒⰓⰡⰗ
+    - lb[n=15]
+    - choice:
+      - reg@transliteration: ДО вѣчьнъі̑ б҃же ··
+      - orig: ⰄⰑ ⰲⱑⱍⱐⱀⱏⰹ̑ ⰱ҃ⰶⰵ ··
+    - lb[n=16]
+    - choice:
+      - reg@transliteration: Ты /есі животъ н/ашь г҃і о-
+      - orig: Ⱅⱏⰹ /ⰵⱄⰹ ⰶⰻⰲⱁⱅⱏ ⱀ/ⰰⱎⱐ ⰳ҃ⰹ ⱁ-
+    - lb[n=17,break=no]
+    - choice:
+      - reg@transliteration: тъ небытіѣ бо въ быт[ие]
+      - orig: ⱅⱏ ⱀⰵⰱⱏⰹⱅⰹⱑ ⰱⱁ ⰲⱏ ⰱⱏⰹⱅ[ⰻⰵ]
+    - lb[n=18]
+    - choice:
+      - reg@transliteration: сътворілъ ны есі · ᾽і от[ъ]-
+      - orig: ⱄⱏⱅⰲⱁⱃⰹⰾⱏ ⱀⱏⰹ ⰵⱄⰹ · ᾽ⰺ ⱁⱅ[ⱏ]-
+    - lb[n=19,break=no]
+    - choice:
+      - reg@transliteration: п/адъшѧ въскрѣсі пакы ·
+      - orig: ⱂ/ⰰⰴⱏⱎⱔ ⰲⱏⱄⰽⱃⱑⱄⰹ ⱂⰰⰽⱏⰹ ·
+    - lb[n=20]
+    - choice:
+      - reg@transliteration: д̀а намъ не достоітъ тебѣ
+      - orig: ⰴ\ⰰ ⱀⰰⰿⱏ ⱀⰵ ⰴⱁⱄⱅⱁⰹⱅⱏ ⱅⰵⰱⱑ
+    - lb[n=21]
+    - choice:
+      - reg@transliteration: съгрѣшаті · твоѣ же сѫ-
+      - orig: ⱄⱏⰳⱃⱑⱎⰰⱅⰹ · ⱅⰲⱁⱑ ⰶⰵ ⱄⱘ-
+    - lb[n=22,break=no]
+    - choice:
+      - reg@transliteration: тъ вьсѣ̑ · небесьскаѣ і ӡе-
+      - orig: ⱅⱏ ⰲⱐⱄⱑ̑ · ⱀⰵⰱⰵⱄⱐⱄⰽⰰⱑ ⰺ ⰸⰵ-
+    - lb[n=23,break=no]
+    - choice:
+      - reg@transliteration: мльскаѣ г҃і · да ты самъ
+      - orig: ⰿⰾⱐⱄⰽⰰⱑ ⰳ҃ⰹ · ⰴⰰ ⱅⱏⰹ ⱄⰰⰿⱏ
+    - lb[n=24]
+    - choice:
+      - reg@transliteration: ᾽отъ грѣхъ̑ нашіхъ ᾽и[ӡбави]
+      - orig: ᾽ⱁⱅⱏ ⰳⱃⱑⱈⱏ̑ ⱀⰰⱎⰹⱈⱏ ᾽ⰻ[ⰸⰱⰰⰲⰻ]
+    - lb[n=25]
+    - choice:
+      - reg@transliteration: ны · х҃мь г҃мь ··
+      - orig: ⱀⱏⰹ · ⱈ҃ⰿⱐ ⰳ҃ⰿⱐ ··
+  - pb[n=4v]
+  - ab:
+    - lb[n=1]
+    - choice:
+      - reg@transliteration: ПО ВЪСѪДѢ ··
+      - orig: ⰒⰑ ⰂⰟⰔⰨⰄⰡ ··
+    - lb[n=2]
+    - choice:
+      - reg@transliteration: Д/аӡь н/амъ · вьсемогъі̑ б҃же ·
+      - orig: Ⰴ/ⰰⰸⱐ ⱀ/ⰰⰿⱏ · ⰲⱐⱄⰵⰿⱁⰳⱏⰹ̑ ⰱ҃ⰶⰵ ·
+    - lb[n=3]
+    - choice:
+      - reg@transliteration: да ᾽ѣкоже ны ῾есі небесьсќыѧ
+      - orig: ⰴⰰ ᾽ⱑⰽⱁⰶⰵ ⱀⱏⰹ ῾ⰵⱄⰹ ⱀⰵⰱⰵⱄⱐⱄⰽⱏⰹⱔ
+    - lb[n=4]
+    - choice:
+      - reg@transliteration: піцѧ̑ насытілъ · такоӡе
+      - orig: ⱂⰹⱌⱔ̑ ⱀⰰⱄⱏⰹⱅⰹⰾⱏ · ⱅⰰⰽⱁⰸⰵ
+    - lb[n=5]
+    - choice:
+      - reg@transliteration: же ᾽і животъ н/ашь сіло-
+      - orig: ⰶⰵ ᾽ⰺ ⰶⰻⰲⱁⱅⱏ ⱀ/ⰰⱎⱐ ⱄⰹⰾⱁ-
+    - lb[n=6,break=no]
+    - choice:
+      - reg@transliteration: ѭ твоеѭ ᾽утврьді · г҃мь ·
+      - orig: ⱙ ⱅⰲⱁⰵⱙ ᾽ⱆⱅⰲⱃⱐⰴⰹ · ⰳ҃ⰿⱐ ·
+    - lb[n=7]
+    - choice:
+      - reg@transliteration: МЬШѢ · Г҃ ·· ᾽О ТОМЬӠЕ ··
+      - orig: ⰏⰠⰞⰡ · Ⰳ҃ ·· ᾽Ⱁ ⰕⰑⰏⰠⰈⰅ ··
+    - lb[n=8]
+    - choice:
+      - reg@transliteration: '[Ц]ѣсарьствѣ нашемь г҃і мі-'
+      - orig: '[Ⱌ]ⱑⱄⰰⱃⱐⱄⱅⰲⱑ ⱀⰰⱎⰵⰿⱐ ⰳ҃ⰹ ⰿⰹ-'
+    - lb[n=9,break=no]
+    - choice:
+      - reg@transliteration: лостьѭ твоеѭ пріӡьрі̑ ·
+      - orig: ⰾⱁⱄⱅⱐⱙ ⱅⰲⱁⰵⱙ ⱂⱃⰹⰸⱐⱃⰹ̑ ·
+    - lb[n=10]
+    - choice:
+      - reg@transliteration: ᾽і не ᾽отъд/аӡь нашего ту-
+      - orig: ᾽ⰺ ⱀⰵ ᾽ⱁⱅⱏⰴ/ⰰⰸⱐ ⱀⰰⱎⰵⰳⱁ ⱅⱆ-
+    - lb[n=11,break=no]
+    - choice:
+      - reg@transliteration: ӡі̆мъ · ᾽і не ᾽обраті н/асъ
+      - orig: ⰸⰺ̆ⰿⱏ · ᾽ⰺ ⱀⰵ ᾽ⱁⰱⱃⰰⱅⰹ ⱀ/ⰰⱄⱏ
+    - lb[n=12]
+    - choice:
+      - reg@transliteration: въ плѣ̆нъ народомъ пога-
+      - orig: ⰲⱏ ⱂⰾⱑ̆ⱀⱏ ⱀⰰⱃⱁⰴⱁⰿⱏ ⱂⱁⰳⰰ-
+    - lb[n=13,break=no]
+    - choice:
+      - reg@transliteration: ньсќымъ · х҃а раді г҃і на-
+      - orig: ⱀⱐⱄⰽⱏⰹⰿⱏ · ⱈ҃ⰰ ⱃⰰⰴⰹ ⰳ҃ⰹ ⱀⰰ-
+    - lb[n=14,break=no]
+    - choice:
+      - reg@transliteration: шего· ᾽іже цѣсарітъ съ ᾽оть-
+      - orig: ⱎⰵⰳⱁ· ᾽ⰹⰶⰵ ⱌⱑⱄⰰⱃⰹⱅⱏ ⱄⱏ ᾽ⱁⱅⱐ-
+    - lb[n=15,break=no]
+    - choice:
+      - reg@transliteration: цемь ᾽і съ свѧтымь ··
+      - orig: ⱌⰵⰿⱐ ᾽ⰺ ⱄⱏ ⱄⰲⱔⱅⱏⰹⰿⱐ ··
+    - lb[n=16]
+    - choice:
+      - reg@transliteration: НАДЪ ᾽ОПЛАТЪМЬ ·
+      - orig: ⰐⰀⰄⰟ ᾽ⰑⰒⰎⰀⰕⰟⰏⰠ ·
+    - lb[n=17]
+    - choice:
+      - reg@transliteration: '[Т]воѣ циркънаѣ тврьдь ӡа-'
+      - orig: '[Ⱅ]ⰲⱁⱑ ⱌⰻⱃⰽⱏⱀⰰⱑ ⱅⰲⱃⱐⰴⱐ ⰸⰰ-'
+    - lb[n=18,break=no]
+    - choice:
+      - reg@transliteration: шчіті ны г҃і · ѭже ᾽/есі
+      - orig: ⱎⱍⰹⱅⰹ ⱀⱏⰹ ⰳ҃ⰹ · ⱙⰶⰵ ᾽/ⰵⱄⰹ
+    - lb[n=19]
+    - choice:
+      - reg@transliteration: ᾽обраӡъмь своімь ᾽упо-
+      - orig: ᾽ⱁⰱⱃⰰⰸⱏⰿⱐ ⱄⰲⱁⰹⰿⱐ ᾽ⱆⱂⱁ-
+    - lb[n=20,break=no]
+    - choice:
+      - reg@transliteration: добілъ · ѭже њы чьсті-
+      - orig: ⰴⱁⰱⰹⰾⱏ · ⱙⰶⰵ ⱀ҄ⱏⰹ ⱍⱐⱄⱅⰹ-
+    - lb[n=21,break=no]
+    - choice:
+      - reg@transliteration: мъ н/а бальство н/аше · то-
+      - orig: ⰿⱏ ⱀ/ⰰ ⰱⰰⰾⱐⱄⱅⰲⱁ ⱀ/ⰰⱎⰵ · ⱅⱁ-
+    - lb[n=22,break=no]
+    - choice:
+      - reg@transliteration: '[г]о раді ῾есі н/амъ вѣчь-'
+      - orig: '[ⰳ]ⱁ ⱃⰰⰴⰹ ῾ⰵⱄⰹ ⱀ/ⰰⰿⱏ ⰲⱑⱍⱐ-'
+    - lb[n=23,break=no]
+    - choice:
+      - reg@transliteration: '[н]ое ᾽обѣцѣние принеслъ ··'
+      - orig: '[ⱀ]ⱁⰵ ᾽ⱁⰱⱑⱌⱑⱀⰻⰵ ⱂⱃⰻⱀⰵⱄⰾⱏ ··'
+    - lb[n=24]
+    - choice:
+      - reg@transliteration: '[҃г]мь нашімь ··'
+      - orig: '[҃ⰳ]ⰿⱐ ⱀⰰⱎⰹⰿⱐ ··'
+  - pb[n=5r]
+  - ab:
+    - lb[n=1]
+    - choice:
+      - reg@transliteration: ПРѢФ[АЦИѢ Д] ???
+      - orig: ⰒⰓⰡⰗ[ⰀⰜⰋⰡ Ⰴ] ???
+    - lb[n=2]
+    - choice:
+      - reg@transliteration: Да ᾽ѣкыже сѫ̆тъ твоѧ сі ·
+      - orig: Ⰴⰰ ᾽ⱑⰽⱏⰹⰶⰵ ⱄⱘ̆ⱅⱏ ⱅⰲⱁⱔ ⱄⰹ ·
+    - lb[n=3]
+    - choice:
+      - reg@transliteration: слўжьбы въжлюблены̆-
+      - orig: ⱄⰾⱆ̆ⰶⱐⰱⱏⰹ ⰲⱏⰶⰾⱓⰱⰾⰵⱀⱏⰹ̆-
+    - lb[n=4,break=no]
+    - choice:
+      - reg@transliteration: ѧ · тӑкыже мысльмі сво-
+      - orig: ⱔ · ⱅⰰ̆ⰽⱏⰹⰶⰵ ⰿⱏⰹⱄⰾⱐⰿⰹ ⱄⰲⱁ-
+    - lb[n=5,break=no]
+    - choice:
+      - reg@transliteration: імі ны творімъ · ῾а ты
+      - orig: ⰹⰿⰹ ⱀⱏⰹ ⱅⰲⱁⱃⰹⰿⱏ · ῾ⰰ ⱅⱏⰹ
+    - lb[n=6]
+    - choice:
+      - reg@transliteration: самъ г҃і присно ны пріемлі ·
+      - orig: ⱄⰰⰿⱏ ⰳ҃ⰹ ⱂⱃⰻⱄⱀⱁ ⱀⱏⰹ ⱂⱃⰹⰵⰿⰾⰹ ·
+    - lb[n=7]
+    - choice:
+      - reg@transliteration: да въӡможемъ правьдь-
+      - orig: ⰴⰰ ⰲⱏⰸⰿⱁⰶⰵⰿⱏ ⱂⱃⰰⰲⱐⰴⱐ-
+    - lb[n=8,break=no]
+    - choice:
+      - reg@transliteration: наѣ твоѣ наслѣдоваті ·
+      - orig: ⱀⰰⱑ ⱅⰲⱁⱑ ⱀⰰⱄⰾⱑⰴⱁⰲⰰⱅⰹ ·
+    - lb[n=9]
+    - choice:
+      - reg@transliteration: ᾽̀і ᾽отъ непріѣӡніњъ дѣљъ
+      - orig: ᾽\ⰺ ᾽ⱁⱅⱏ ⱀⰵⱂⱃⰹⱑⰸⱀⰹⱀ҄ⱏ ⰴⱑⰾ҄ⱏ
+    - lb[n=10]
+    - choice:
+      - reg@transliteration: ᾽чіститі сѧ · х҃мь г҃мь н/аш-
+      - orig: ᾽ⱍⰹⱄⱅⰻⱅⰹ ⱄⱔ · ⱈ҃ⰿⱐ ⰳ҃ⰿⱐ ⱀ/ⰰⱎ-
+    - lb[n=11,break=no]
+    - choice:
+      - reg@transliteration: мь · ᾽і̆мьже велічьство ··
+      - orig: ⰿⱐ · ᾽ⰹ̆ⰿⱐⰶⰵ ⰲⰵⰾⰹⱍⱐⱄⱅⰲⱁ ··
+    - lb[n=12]
+    - choice:
+      - reg@transliteration: ПО ВЪСѪДѢ ·
+      - orig: ⰒⰑ ⰂⰟⰔⰨⰄⰡ ·
+    - lb[n=13]
+    - choice:
+      - reg@transliteration: Твоѣ свѧтаѣ вьсемогъі̑
+      - orig: Ⱅⰲⱁⱑ ⱄⰲⱔⱅⰰⱑ ⰲⱐⱄⰵⰿⱁⰳⱏⰹ̑
+    - lb[n=14]
+    - choice:
+      - reg@transliteration: б҃же · ᾽ѣже се н̀ы пріемлемъ ·
+      - orig: ⰱ҃ⰶⰵ · ᾽ⱑⰶⰵ ⱄⰵ ⱀ\ⱏⰹ ⱂⱃⰹⰵⰿⰾⰵⰿⱏ ·
+    - lb[n=15]
+    - choice:
+      - reg@transliteration: на раӡдрѣшен/ие · ᾽і на ᾽очишче-
+      - orig: ⱀⰰ ⱃⰰⰸⰴⱃⱑⱎⰵⱀ/ⰻⰵ · ᾽ⰺ ⱀⰰ ᾽ⱁⱍⰻⱎⱍⰵ-
+    - lb[n=16,break=no]
+    - choice:
+      - reg@transliteration: нйе н/амъ бѫдѫ · ῾а ты са-
+      - orig: ⱀⰻ̆ⰵ ⱀ/ⰰⰿⱏ ⰱⱘⰴⱘ · ῾ⰰ ⱅⱏⰹ ⱄⰰ-
+    - lb[n=17,break=no]
+    - choice:
+      - reg@transliteration: мъ помоцьѭ твоеѭ вѣ-
+      - orig: ⰿⱏ ⱂⱁⰿⱁⱌⱐⱙ ⱅⰲⱁⰵⱙ ⰲⱑ-
+    - lb[n=18,break=no]
+    - choice:
+      - reg@transliteration: чьноѭ ӡашчіті ны · г҃мь
+      - orig: ⱍⱐⱀⱁⱙ ⰸⰰⱎⱍⰹⱅⰹ ⱀⱏⰹ · ⰳ҃ⰿⱐ
+    - lb[n=19]
+    - choice:
+      - reg@transliteration: МЬШѢ · Д҃ · ᾽О ТОМЬӠЕ ··
+      - orig: ⰏⰠⰞⰡ · Ⰴ҃ · ᾽Ⱁ ⰕⰑⰏⰠⰈⰅ ··
+    - lb[n=20]
+    - choice:
+      - reg@transliteration: Просімъ тѧ г҃і въӡдві-
+      - orig: Ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ ⰳ҃ⰹ ⰲⱏⰸⰴⰲⰹ-
+    - lb[n=21,break=no]
+    - choice:
+      - reg@transliteration: гні срьдьца н/ашѣ къ тебѣ ᾽о-
+      - orig: ⰳⱀⰹ ⱄⱃⱐⰴⱐⱌⰰ ⱀ/ⰰⱎⱑ ⰽⱏ ⱅⰵⰱⱑ ᾽ⱁ-
+    - lb[n=22,break=no]
+    - choice:
+      - reg@transliteration: тъ ӡемльскыхъ похот[ии]
+      - orig: ⱅⱏ ⰸⰵⰿⰾⱐⱄⰽⱏⰹⱈⱏ ⱂⱁⱈⱁⱅ[ⰻⰻ]
+    - lb[n=23]
+    - choice:
+      - reg@transliteration: да въӡможемъ хотѣті [не]-
+      - orig: ⰴⰰ ⰲⱏⰸⰿⱁⰶⰵⰿⱏ ⱈⱁⱅⱑⱅⰹ [ⱀⰵ]-
+    - lb[n=24,break=no]
+    - choice:
+      - reg@transliteration: бесьскымъ твоімъ ···
+      - orig: ⰱⰵⱄⱐⱄⰽⱏⰹⰿⱏ ⱅⰲⱁⰹⰿⱏ ···
+  - pb[n=5v]
+  - ab:
+    - lb[n=1]
+    - choice:
+      - reg@transliteration: '[НАДЪ ОПЛАТ]ЪМЬ·'
+      - orig: '[ⰐⰀⰄⰟ ⰑⰒⰎⰀⰕ]ⰟⰏⰠ·'
+    - lb[n=2]
+    - choice:
+      - reg@transliteration: Ѣкыже дары ᾽імамъ · прѣдъ
+      - orig: Ⱑⰽⱏⰹⰶⰵ ⰴⰰⱃⱏⰹ ᾽ⰺⰿⰰⰿⱏ · ⱂⱃⱑⰴⱏ
+    - lb[n=3]
+    - choice:
+      - reg@transliteration: тобоѭ сѫтъ · ᾽і просімъ
+      - orig: ⱅⱁⰱⱁⱙ ⱄⱘⱅⱏ · ᾽ⰺ ⱂⱃⱁⱄⰹⰿⱏ
+    - lb[n=4]
+    - choice:
+      - reg@transliteration: тѧ пріімі ѧ · да ᾽і ны въӡмо-
+      - orig: ⱅⱔ ⱂⱃⰹⰺⰿⰹ ⱔ · ⰴⰰ ᾽ⰹ ⱀⱏⰹ ⰲⱏⰸⰿⱁ-
+    - lb[n=5,break=no]
+    - choice:
+      - reg@transliteration: жемъ въ въжлюблениі тво-
+      - orig: ⰶⰵⰿⱏ ⰲⱏ ⰲⱏⰶⰾⱓⰱⰾⰵⱀⰻⰹ ⱅⰲⱁ-
+    - lb[n=6,break=no]
+    - choice:
+      - reg@transliteration: емь · г҃мь нашімь · ПРѢФА-
+      - orig: ⰵⰿⱐ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹⰿⱐ · ⰒⰓⰡⰗⰀ-
+    - lb[n=7,break=no]
+    - choice:
+      - reg@transliteration: ЦИѢ · ДО вѣчьнъі̑ б҃же ··
+      - orig: ⰜⰋⰡ · ⰄⰑ ⰲⱑⱍⱐⱀⱏⰹ̑ ⰱ҃ⰶⰵ ··
+    - lb[n=8]
+    - choice:
+      - reg@transliteration: Ӡълоба нашѣ не върѣсні сѧ въ
+      - orig: Ⰸⱏⰾⱁⰱⰰ ⱀⰰⱎⱑ ⱀⰵ ⰲⱏⱃⱑⱄⱀⰹ ⱄⱔ ⰲⱏ
+    - lb[n=9]
+    - choice:
+      - reg@transliteration: н/асъ · н̀ъ ᾽иӡдрѣшение вѣчь-
+      - orig: ⱀ/ⰰⱄⱏ · ⱀ\ⱏ ᾽ⰻⰸⰴⱃⱑⱎⰵⱀⰻⰵ ⰲⱑⱍⱐ-
+    - lb[n=10,break=no]
+    - choice:
+      - reg@transliteration: ное прісно н/амъ бѫді · г҃і
+      - orig: ⱀⱁⰵ ⱂⱃⰹⱄⱀⱁ ⱀ/ⰰⰿⱏ ⰱⱘⰴⰹ · ⰳ҃ⰹ
+    - lb[n=11]
+    - choice:
+      - reg@transliteration: нашего раді · тъ бо н̀ы сӑ-
+      - orig: ⱀⰰⱎⰵⰳⱁ ⱃⰰⰴⰹ · ⱅⱏ ⰱⱁ ⱀ\ⱏⰹ ⱄⰰ̆-
+    - lb[n=12,break=no]
+    - choice:
+      - reg@transliteration: мъ ᾽отъ тьмьны̆хъ ᾽отъве-
+      - orig: ⰿⱏ ᾽ⱁⱅⱏ ⱅⱐⰿⱐⱀⱏⰹ̆ⱈⱏ ᾽ⱁⱅⱏⰲⰵ-
+    - lb[n=13,break=no]
+    - choice:
+      - reg@transliteration: де · ᾽̀і ᾽очісті · ᾽і ӡаклепе ·
+      - orig: ⰴⰵ · ᾽\ⰺ ᾽ⱁⱍⰹⱄⱅⰹ · ᾽ⰺ ⰸⰰⰽⰾⰵⱂⰵ ·
+    - lb[n=14]
+    - choice:
+      - reg@transliteration: ᾽і достоіно ᾽иӡбаві · х҃мь
+      - orig: ᾽ⰺ ⰴⱁⱄⱅⱁⰹⱀⱁ ᾽ⰻⰸⰱⰰⰲⰹ · ⱈ҃ⰿⱐ
+    - lb[n=15]
+    - choice:
+      - reg@transliteration: г҃мь нашимь ·· ПО ВЪСѪДѢ ·
+      - orig: ⰳ҃ⰿⱐ ⱀⰰⱎⰻⰿⱐ ·· ⰒⰑ ⰂⰟⰔⰨⰄⰡ ·
+    - lb[n=16]
+    - choice:
+      - reg@transliteration: Въсѫдьнаѣ молітва нашѣ
+      - orig: Ⰲⱏⱄⱘⰴⱐⱀⰰⱑ ⰿⱁⰾⰹⱅⰲⰰ ⱀⰰⱎⱑ
+    - lb[n=17]
+    - choice:
+      - reg@transliteration: ᾽утврьді њы г҃і вѣчьнымі
+      - orig: ᾽ⱆⱅⰲⱃⱐⰴⰹ ⱀ҄ⱏⰹ ⰳ҃ⰹ ⰲⱑⱍⱐⱀⱏⰹⰿⰹ
+    - lb[n=18]
+    - choice:
+      - reg@transliteration: твоімі · ᾽і под/аӡь н/амъ съ-
+      - orig: ⱅⰲⱁⰹⰿⰹ · ᾽ⰺ ⱂⱁⰴ/ⰰⰸⱐ ⱀ/ⰰⰿⱏ ⱄⱏ-
+    - lb[n=19,break=no]
+    - choice:
+      - reg@transliteration: пасение твое · г҃мь нашімь ··
+      - orig: ⱂⰰⱄⰵⱀⰻⰵ ⱅⰲⱁⰵ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹⰿⱐ ··
+    - lb[n=20]
+    - choice:
+      - reg@transliteration: МЬШѢ · Е҃ · ᾽О ТОМЬӠЕ ··
+      - orig: ⰏⰠⰞⰡ · Ⰵ҃ · ᾽Ⱁ ⰕⰑⰏⰠⰈⰅ ··
+    - lb[n=21]
+    - choice:
+      - reg@transliteration: '[Т]ы г҃і ᾽отьмі ны ᾽отъ лѫкавь-'
+      - orig: '[Ⱅ]ⱏⰹ ⰳ҃ⰹ ᾽ⱁⱅⱐⰿⰹ ⱀⱏⰹ ᾽ⱁⱅⱏ ⰾⱘⰽⰰⰲⱐ-'
+    - lb[n=22,break=no]
+    - choice:
+      - reg@transliteration: ства нашего · ᾽і твоеѭ міло-
+      - orig: ⱄⱅⰲⰰ ⱀⰰⱎⰵⰳⱁ · ᾽ⰺ ⱅⰲⱁⰵⱙ ⰿⰹⰾⱁ-
+    - lb[n=23,break=no]
+    - choice:
+      - reg@transliteration: стиѭ ᾽обрати ны на правьдѫ
+      - orig: ⱄⱅⰻⱙ ᾽ⱁⰱⱃⰰⱅⰻ ⱀⱏⰹ ⱀⰰ ⱂⱃⰰⰲⱐⰴⱘ
+    - lb[n=24]
+    - choice:
+      - reg@transliteration: твоѭ · г҃мь нашімь ··
+      - orig: ⱅⰲⱁⱙ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹⰿⱐ ··
+  - pb[n=6r]
+  - ab:
+    - lb[n=1]
+    - choice:
+      - reg@transliteration: НАДЪ ᾽ОПЛАТЪМЬ ··
+      - orig: ⰐⰀⰄⰟ ᾽ⰑⰒⰎⰀⰕⰟⰏⰠ ··
+    - lb[n=2]
+    - choice:
+      - reg@transliteration: Прінесенъі̑ т/ебѣ г҃і сьі даръ
+      - orig: Ⱂⱃⰹⱀⰵⱄⰵⱀⱏⰹ̑ ⱅ/ⰵⰱⱑ ⰳ҃ⰹ ⱄⱐⰹ ⰴⰰⱃⱏ
+    - lb[n=3]
+    - choice:
+      - reg@transliteration: ᾽іже ты ῾/есі далъ ᾽і сътво-
+      - orig: ᾽ⰺⰶⰵ ⱅⱏⰹ ῾/ⰵⱄⰹ ⰴⰰⰾⱏ ᾽ⰺ ⱄⱏⱅⰲⱁ-
+    - lb[n=4,break=no]
+    - choice:
+      - reg@transliteration: рілъ · ціръкъве раді̑ твое-
+      - orig: ⱃⰺⰾⱏ · ⱌⰺⱃⱏⰽⱏⰲⰵ ⱃⰰⰴⰹ̑ ⱅⰲⱁⰵ-
+    - lb[n=5,break=no]
+    - choice:
+      - reg@transliteration: ѧ̑ · ᾽і жівота ᾽і прѣставле-
+      - orig: ⱔ̑ · ᾽ⰺ ⰶⰹⰲⱁⱅⰰ ᾽ⰺ ⱂⱃⱑⱄⱅⰰⰲⰾⰵ-
+    - lb[n=6,break=no]
+    - choice:
+      - reg@transliteration: ниѣ нашего раді · ᾽і съвѣсту-
+      - orig: ⱀⰻⱑ ⱀⰰⱎⰵⰳⱁ ⱃⰰⰴⰹ · ᾽ⰺ ⱄⱏⰲⱑⱄⱅⱆ-
+    - lb[n=7,break=no]
+    - choice:
+      - reg@transliteration: емъ н̀ы · ᾽ѣко бальство ῾е-
+      - orig: ⰵⰿⱏ ⱀ\ⱏⰹ · ᾽ⱑⰽⱁ ⰱⰰⰾⱐⱄⱅⰲⱁ ῾ⰵ-
+    - lb[n=8,break=no]
+    - choice:
+      - reg@transliteration: стъ т̀о живота вѣчьнаго ·
+      - orig: ⱄⱅⱏ ⱅ\ⱁ ⰶⰻⰲⱁⱅⰰ ⰲⱑⱍⱐⱀⰰⰳⱁ ·
+    - lb[n=9]
+    - choice:
+      - reg@transliteration: г҃мь · ПРѢФАЦИѢ · ДО
+      - orig: ⰳ҃ⰿⱐ · ⰒⰓⰡⰗⰀⰜⰋⰡ · ⰄⰑ
+    - lb[n=10]
+    - choice:
+      - reg@transliteration: вѣчьнъі̑ б҃же ··
+      - orig: ⰲⱑⱍⱐⱀⱏⰹ̑ ⰱ҃ⰶⰵ ··
+    - lb[n=11]
+    - choice:
+      - reg@transliteration: Молімъ сѧ и҃су х҃у сыну
+      - orig: Ⰿⱁⰾⰹⰿⱏ ⱄⱔ ⰻ҃ⱄⱆ ⱈ҃ⱆ ⱄⱏⰹⱀⱆ
+    - lb[n=12]
+    - choice:
+      - reg@transliteration: твоему г҃і нашему · да
+      - orig: ⱅⰲⱁⰵⰿⱆ ⰳ҃ⰹ ⱀⰰⱎⰵⰿⱆ · ⰴⰰ
+    - lb[n=13]
+    - choice:
+      - reg@transliteration: мілостьѭ своеѭ ӡашчі-
+      - orig: ⰿⰹⰾⱁⱄⱅⱐⱙ ⱄⰲⱁⰵⱙ ⰸⰰⱎⱍⰹ-
+    - lb[n=14,break=no]
+    - choice:
+      - reg@transliteration: тітъ ны ᾽і съпасетъ ; бе-
+      - orig: ⱅⰹⱅⱏ ⱀⱏⰹ ᾽ⰺ ⱄⱏⱂⰰⱄⰵⱅⱏ ; ⰱⰵ-
+    - lb[n=15,break=no]
+    - choice:
+      - reg@transliteration: ж негоже бо мілості не въ-
+      - orig: ⰶ ⱀⰵⰳⱁⰶⰵ ⰱⱁ ⰿⰹⰾⱁⱄⱅⰹ ⱀⰵ ⰲⱏ-
+    - lb[n=16,break=no]
+    - choice:
+      - reg@transliteration: ӡможемъ ничьсоже сътво-
+      - orig: ⰸⰿⱁⰶⰵⰿⱏ ⱀⰻⱍⱐⱄⱁⰶⰵ ⱄⱏⱅⰲⱁ-
+    - lb[n=17,break=no]
+    - choice:
+      - reg@transliteration: ріті · тѣ̆мьже самого
+      - orig: ⱃⰹⱅⰺ · ⱅⱑ̆ⰿⱐⰶⰵ ⱄⰰⰿⱁⰳⱁ
+    - lb[n=18]
+    - choice:
+      - reg@transliteration: ῾его раді дары ᾽і мілость
+      - orig: ῾ⰵⰳⱁ ⱃⰰⰴⰹ ⰴⰰⱃⱏⰹ ᾽ⰺ ⰿⰹⰾⱁⱄⱅⱐ
+    - lb[n=19]
+    - choice:
+      - reg@transliteration: пріемлемъ ᾽і въ любъві
+      - orig: ⱂⱃⰹⰵⰿⰾⰵⰿⱏ ᾽ⰺ ⰲⱏ ⰾⱓⰱⱏⰲⰹ
+    - lb[n=20]
+    - choice:
+      - reg@transliteration: живемъ · х҃мь г҃мь нашімь
+      - orig: ⰶⰻⰲⰵⰿⱏ · ⱈ҃ⰿⱐ ⰳ҃ⰿⱐ ⱀⰰⱎⰹⰿⱐ
+    - lb[n=21]
+    - choice:
+      - reg@transliteration: ПО ВЪСѪДѢ ··
+      - orig: ⰒⰑ ⰂⰟⰔⰨⰄⰡ ··
+    - lb[n=22]
+    - choice:
+      - reg@transliteration: Въсѫда твоего г҃і насы-
+      - orig: Ⰲⱏⱄⱘⰴⰰ ⱅⰲⱁⰵⰳⱁ ⰳ҃ⰹ ⱀⰰⱄⱏⰹ-
+    - lb[n=23,break=no]
+    - choice:
+      - reg@transliteration: цені просімъ тѧ · ᾽отъ вь-
+      - orig: ⱌⰵⱀⰹ ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ · ᾽ⱁⱅⱏ ⰲⱐ-
+  - pb[n=6v]
+  - ab:
+    - lb[n=1]
+    - choice:
+      - reg@transliteration: сѣхъ противѧці̆хъ сѧ н/а-
+      - orig: ⱄⱑⱈⱏ ⱂⱃⱁⱅⰻⰲⱔⱌⰺ̆ⱈⱏ ⱄⱔ ⱀ/ⰰ-
+    - lb[n=2,break=no]
+    - choice:
+      - reg@transliteration: мъ съпасі ны · г҃мь наші ··
+      - orig: ⰿⱏ ⱄⱏⱂⰰⱄⰹ ⱀⱏⰹ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹ ··
+    - lb[n=3]
+    - choice:
+      - reg@transliteration: МЬШѢ О МѪЧЕНІЦѢХЪ ··
+      - orig: ⰏⰠⰞⰡ Ⱁ ⰏⰨⰝⰅⰐⰉⰜⰡⰘⰟ ··
+    - lb[n=4]
+    - choice:
+      - reg@transliteration: Мѫченіќъ твоіхъ г҃і чь-
+      - orig: Ⰿⱘⱍⰵⱀⰺⰽⱏ ⱅⰲⱁⰹⱈⱏ ⰳ҃ⰹ ⱍⱐ-
+    - lb[n=5,break=no]
+    - choice:
+      - reg@transliteration: сті чьстѧц̀е молімъ тѧ
+      - orig: ⱄⱅⰹ ⱍⱐⱄⱅⱔⱌ\ⰵ ⰿⱁⰾⰹⰿⱏ ⱅⱔ
+    - lb[n=6]
+    - choice:
+      - reg@transliteration: просѧце · да ᾽ѣкоже ѧ ῾/есі
+      - orig: ⱂⱃⱁⱄⱔⱌⰵ · ⰴⰰ ᾽ⱑⰽⱁⰶⰵ ⱔ ῾/ⰵⱄⰹ
+    - lb[n=7]
+    - choice:
+      - reg@transliteration: славоѭ твоеѭ небесьскоо-
+      - orig: ⱄⰾⰰⰲⱁⱙ ⱅⰲⱁⰵⱙ ⱀⰵⰱⰵⱄⱐⱄⰽⱁⱁ-
+    - lb[n=8,break=no]
+    - choice:
+      - reg@transliteration: ѭ ᾽утврьділъ · такоӡе же
+      - orig: ⱙ ᾽ⱆⱅⰲⱃⱐⰴⰹⰾⱏ · ⱅⰰⰽⱁⰸⰵ ⰶⰵ
+    - lb[n=9]
+    - choice:
+      - reg@transliteration: ᾽і н̀ы мілостіѭ твоеѭ
+      - orig: ᾽ⰺ ⱀ\ⱏⰹ ⰿⰹⰾⱁⱄⱅⰹⱙ ⱅⰲⱁⰵⱙ
+    - lb[n=10]
+    - choice:
+      - reg@transliteration: прі̆мі̑ г҃мь ·· НАДЪ ОПЛАТМЬ ·
+      - orig: ⱂⱃⰺ̆ⰿⰹ̑ ⰳ҃ⰿⱐ ·· ⰐⰀⰄⰟ ⰑⰒⰎⰀⰕⰏⰠ ·
+    - lb[n=11]
+    - choice:
+      - reg@transliteration: Пріносъ г҃і прінесенъі̑ т/ебѣ
+      - orig: Ⱂⱃⰹⱀⱁⱄⱏ ⰳ҃ⰹ ⱂⱃⰹⱀⰵⱄⰵⱀⱏⰹ̑ ⱅ/ⰵⰱⱑ
+    - lb[n=12]
+    - choice:
+      - reg@transliteration: мѫченіќъ свѧты̑хъ ра-
+      - orig: ⰿⱘⱍⰵⱀⰹⰽⱏ ⱄⰲⱔⱅⱏⰹ̑ⱈⱏ ⱃⰰ-
+    - lb[n=13,break=no]
+    - choice:
+      - reg@transliteration: ді примі̑ · ᾽і молітвамі
+      - orig: ⰴⰹ ⱂⱃⰻⰿⰹ̑ · ᾽ⰺ ⰿⱁⰾⰹⱅⰲⰰⰿⰹ
+    - lb[n=14]
+    - choice:
+      - reg@transliteration: ᾽іхъ ᾽і ӡаповѣдьмі твоі-
+      - orig: ᾽ⰺⱈⱏ ᾽ⰺ ⰸⰰⱂⱁⰲⱑⰴⱐⰿⰹ ⱅⰲⱁⰺ-
+    - lb[n=15,break=no]
+    - choice:
+      - reg@transliteration: мі пріспѣі н/амъ помоць
+      - orig: ⰿⰹ ⱂⱃⰹⱄⱂⱑⰹ ⱀ/ⰰⰿⱏ ⱂⱁⰿⱁⱌⱐ
+    - lb[n=16]
+    - choice:
+      - reg@transliteration: твоѣ · г҃мь · ПО ВЪСѪДѢ ··
+      - orig: ⱅⰲⱁⱑ · ⰳ҃ⰿⱐ · ⰒⰑ ⰂⰟⰔⰨⰄⰡ ··
+    - lb[n=17]
+    - choice:
+      - reg@transliteration: ᾽Оч/исті ны г҃і просімъ тѧ
+      - orig: ᾽Ⱁⱍ/ⰻⱄⱅⰹ ⱀⱏⰹ ⰳ҃ⰹ ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ
+    - lb[n=18]
+    - choice:
+      - reg@transliteration: небесьсќыхъ твоіхъ ра-
+      - orig: ⱀⰵⰱⰵⱄⱐⱄⰽⱏⰹⱈⱏ ⱅⰲⱁⰹⱈⱏ ⱃⰰ-
+    - lb[n=19,break=no]
+    - choice:
+      - reg@transliteration: ді̑ ӡаповѣдьі̑ · ᾽̀і ᾽утврь-
+      - orig: ⰴⰹ̑ ⰸⰰⱂⱁⰲⱑⰴⱐⰹ̑ · ᾽\ⰺ ᾽ⱆⱅⰲⱃⱐ-
+    - lb[n=20,break=no]
+    - choice:
+      - reg@transliteration: д/і н̀ы да славимъ тѧ прѣ-
+      - orig: ⰴ/ⰹ ⱀ\ⱏⰹ ⰴⰰ ⱄⰾⰰⰲⰻⰿⱏ ⱅⱔ ⱂⱃⱑ-
+    - lb[n=21,break=no]
+    - choice:
+      - reg@transliteration: дъ свѧты̑мі твоімі
+      - orig: ⰴⱏ ⱄⰲⱔⱅⱏⰹ̑ⰿⰹ ⱅⰲⱁⰹⰿⰺ
+    - lb[n=22]
+    - choice:
+      - reg@transliteration: молітвамі нашімі ·
+      - orig: ⰿⱁⰾⰹⱅⰲⰰⰿⰹ ⱀⰰⱎⰹⰿⰹ ·
+    - lb[n=23]
+    - choice:
+      - reg@transliteration: г҃мь нашімь ··
+      - orig: ⰳ҃ⰿⱐ ⱀⰰⱎⰹⰿⱐ ··
+  - pb[n=7r]
+  - ab:
+    - lb[n=1]
+    - choice:
+      - reg@transliteration: МЬШѢ ᾽О ВЬС/ѢХЪ НЕБЕСЬСКЪ*[И]-
+      - orig: ⰏⰠⰞⰡ ᾽Ⱁ ⰂⰠⰔ/ⰡⰘⰟ ⰐⰅⰁⰅⰔⰠⰔⰍⰟ*[Ⰻ]-
+    - lb[n=2,break=no]
+    - choice:
+      - reg@transliteration: ХЪ СІЛАХЪ · Помлімъ сѧ ··
+      - orig: ⰘⰟ ⰔⰊⰎⰀⰘⰟ · Ⱂⱁⰿⰾⰹⰿⱏ ⱄⱔ ··
+    - lb[n=3]
+    - choice:
+      - reg@transliteration: Б҃ъ ᾽іже н̀ы молітвы раді̑
+      - orig: Ⰱ҃ⱏ ᾽ⰹⰶⰵ ⱀ\ⱏⰹ ⰿⱁⰾⰺⱅⰲⱏⰹ ⱃⰰⰴⰹ̑
+    - lb[n=4]
+    - choice:
+      - reg@transliteration: блажењыѧ̑ б҃цѧ̑ ᾽і прісно-
+      - orig: ⰱⰾⰰⰶⰵⱀ҄ⱏⰹⱔ̑ ⰱ҃ⱌⱔ̑ ᾽ⰺ ⱂⱃⰹⱄⱀⱁ-
+    - lb[n=5,break=no]
+    - choice:
+      - reg@transliteration: дѣвы̑ маріѧ̑ · ᾽і блажењы-
+      - orig: ⰴⱑⰲⱏⰹ̑ ⰿⰰⱃⰹⱔ̑ · ᾽ⰺ ⰱⰾⰰⰶⰵⱀ҄ⱏⰹ-
+    - lb[n=6,break=no]
+    - choice:
+      - reg@transliteration: хъ раді̑ ῾анђељъ тво/іхъ · ᾽і
+      - orig: ⱈⱏ ⱃⰰⰴⰹ̑ ῾ⰰⱀⰼⰵⰾ҄ⱏ ⱅⰲⱁ/ⰹⱈⱏ · ᾽ⰺ
+    - lb[n=7]
+    - choice:
+      - reg@transliteration: вьс/ѣхъ небесьскыхъ сіла-
+      - orig: ⰲⱐⱄ/ⱑⱈⱏ ⱀⰵⰱⰵⱄⱐⱄⰽⱏⰹⱈⱏ ⱄⰹⰾⰰ-
+    - lb[n=8,break=no]
+    - choice:
+      - reg@transliteration: хъ · ᾽і апостољъ · ᾽і мѫче-
+      - orig: ⱈⱏ · ᾽ⰺ ⰰⱂⱁⱄⱅⱁⰾ҄ⱏ · ᾽ⰺ ⰿⱘⱍⰵ-
+    - lb[n=9,break=no]
+    - choice:
+      - reg@transliteration: ніќъ · ᾽і прѣподобьњыхъ ·
+      - orig: ⱀⰺⰽⱏ · ᾽ⰺ ⱂⱃⱑⱂⱁⰴⱁⰱⱐⱀ҄ⱏⰹⱈⱏ ·
+    - lb[n=10]
+    - choice:
+      - reg@transliteration: ᾽і чісты̑хъ дѣвъ̑ · ᾽і въс/ѣхъ
+      - orig: ᾽ⰺ ⱍⰹⱄⱅⱏⰹ̑ⱈⱏ ⰴⱑⰲⱏ̑ · ᾽ⰺ ⰲⱏⱄ/ⱑⱈⱏ
+    - lb[n=11]
+    - choice:
+      - reg@transliteration: свѧты̑хъ твоіхъ молі-
+      - orig: ⱄⰲⱔⱅⱏⰹ̑ⱈⱏ ⱅⰲⱁⰺⱈⱏ ⰿⱁⰾⰺ-
+    - lb[n=12,break=no]
+    - choice:
+      - reg@transliteration: твамі · прісно н̀ы въӡве-
+      - orig: ⱅⰲⰰⰿⰹ · ⱂⱃⰹⱄⱀⱁ ⱀ\ⱏⰹ ⰲⱏⰸⰲⰵ-
+    - lb[n=13,break=no]
+    - choice:
+      - reg@transliteration: селілъ ῾/есі · просімъ тѧ
+      - orig: ⱄⰵⰾⰹⰾⱏ ῾/ⰵⱄⰹ · ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ
+    - lb[n=14]
+    - choice:
+      - reg@transliteration: г҃і · да ᾽ѣкоже н̀ы чьсті̆мъ
+      - orig: ⰳ҃ⰹ · ⰴⰰ ᾽ⱑⰽⱁⰶⰵ ⱀ\ⱏⰹ ⱍⱐⱄⱅⰹ̆ⰿⱏ
+    - lb[n=15]
+    - choice:
+      - reg@transliteration: чьсті с̀і ᾽іхъ на вьсѧ дьні
+      - orig: ⱍⱐⱄⱅⰹ ⱄ\ⰹ ᾽ⰺⱈⱏ ⱀⰰ ⰲⱐⱄⱔ ⰴⱐⱀⰹ
+    - lb[n=16]
+    - choice:
+      - reg@transliteration: милостьѭ тво/еѭ д/аӡь
+      - orig: ⰿⰻⰾⱁⱄⱅⱐⱙ ⱅⰲⱁ/ⰵⱙ ⰴ/ⰰⰸⱐ
+    - lb[n=17]
+    - choice:
+      - reg@transliteration: н/амъ прйсно наслѣдов/аті ·
+      - orig: ⱀ/ⰰⰿⱏ ⱂⱃⰻ̆ⱄⱀⱁ ⱀⰰⱄⰾⱑⰴⱁⰲ/ⰰⱅⰹ ·
+    - lb[n=18]
+    - choice:
+      - reg@transliteration: небесьсќыѧ тв/оѧ с/илы ··
+      - orig: ⱀⰵⰱⰵⱄⱐⱄⰽⱏⰹⱔ ⱅⰲ/ⱁⱔ ⱄ/ⰻⰾⱏⰹ ··
+    - lb[n=19]
+    - choice:
+      - reg@transliteration: г҃мь нашмь · НАД ᾽ОПЛАТМЬ ·
+      - orig: ⰳ҃ⰿⱐ ⱀⰰⱎⰿⱐ · ⰐⰀⰄ ᾽ⰑⰒⰎⰀⰕⰏⰠ ·
+    - lb[n=20]
+    - choice:
+      - reg@transliteration: Даръ сь принесењы тебѣ г҃і
+      - orig: Ⰴⰰⱃⱏ ⱄⱐ ⱂⱃⰻⱀⰵⱄⰵⱀ҄ⱏⰹ ⱅⰵⰱⱑ ⰳ҃ⰹ
+    - lb[n=21]
+    - choice:
+      - reg@transliteration: вьс/ѣхъ свѧты̑хъ небесь-
+      - orig: ⰲⱐⱄ/ⱑⱈⱏ ⱄⰲⱔⱅⱏⰹ̑ⱈⱏ ⱀⰵⰱⰵⱄⱐ-
+    - lb[n=22,break=no]
+    - choice:
+      - reg@transliteration: сќыхъ сіљъ раді̑ · ᾽і вьсѣ-
+      - orig: ⱄⰽⱏⰹⱈⱏ ⱄⰺⰾ҄ⱏ ⱃⰰⰴⰹ̑ · ᾽ⰺ ⰲⱐⱄⱑ-
+    - lb[n=23,break=no]
+    - choice:
+      - reg@transliteration: хъ свѧты̑хъ · твоіхъ рад[и]
+      - orig: ⱈⱏ ⱄⰲⱔⱅⱏⰹ̑ⱈⱏ · ⱅⰲⱁⰹⱈⱏ ⱃⰰⰴ[ⰻ]
+  - pb[n=7v]
+  - ab:
+    - lb[n=1]
+    - choice:
+      - reg@transliteration: ᾽і правьдьњыхъ раді̑ · бѫ-
+      - orig: ᾽ⰺ ⱂⱃⰰⰲⱐⰴⱐⱀ҄ⱏⰹⱈⱏ ⱃⰰⰴⰹ̑ · ⰱⱘ-
+    - lb[n=2,break=no]
+    - choice:
+      - reg@transliteration: ді т/ебѣ въ хвӑлѫ · ῾а намъ
+      - orig: ⰴⰹ ⱅ/ⰵⰱⱑ ⰲⱏ ⱈⰲⰰ̆ⰾⱘ · ῾ⰰ ⱀⰰⰿⱏ
+    - lb[n=3]
+    - choice:
+      - reg@transliteration: молітвамі ᾽іхъ достоі-
+      - orig: ⰿⱁⰾⰹⱅⰲⰰⰿⰹ ᾽ⰺⱈⱏ ⰴⱁⱄⱅⱁⰹ-
+    - lb[n=4,break=no]
+    - choice:
+      - reg@transliteration: ное ᾽отъплаті · г҃мь нашімь
+      - orig: ⱀⱁⰵ ᾽ⱁⱅⱏⱂⰾⰰⱅⰹ · ⰳ҃ⰿⱐ ⱀⰰⱎⰹⰿⱐ
+    - lb[n=5]
+    - choice:
+      - reg@transliteration: ПО ВЪСѪДѢ ··
+      - orig: ⰒⰑ ⰂⰟⰔⰨⰄⰡ ··
+    - lb[n=6]
+    - choice:
+      - reg@transliteration: Просімъ тѧ г҃і · даӡь намъ
+      - orig: Ⱂⱃⱁⱄⰹⰿⱏ ⱅⱔ ⰳ҃ⰹ · ⰴⰰⰸⱐ ⱀⰰⰿⱏ
+    - lb[n=7]
+    - choice:
+      - reg@transliteration: молітвамі вьсѣхъ небе-
+      - orig: ⰿⱁⰾⰹⱅⰲⰰⰿⰹ ⰲⱐⱄⱑⱈⱏ ⱀⰵⰱⰵ-
+    - lb[n=8,break=no]
+    - choice:
+      - reg@transliteration: сьсќыхъ с/илахъ · ᾽і вьс/ѣхъ
+      - orig: ⱄⱐⱄⰽⱏⰹⱈⱏ ⱄ/ⰻⰾⰰⱈⱏ · ᾽ⰺ ⰲⱐⱄ/ⱑⱈⱏ
+    - lb[n=9]
+    - choice:
+      - reg@transliteration: свѧты̑хъ твоіхъ · ᾽і дѣљъ
+      - orig: ⱄⰲⱔⱅⱏⰹ̑ⱈⱏ ⱅⰲⱁⰹⱈⱏ · ᾽ⰺ ⰴⱑⰾ҄ⱏ
+    - lb[n=10]
+    - choice:
+      - reg@transliteration: ᾽іхъ раді̑ правьдьныхъ · въ-
+      - orig: ᾽ⰺⱈⱏ ⱃⰰⰴⰹ̑ ⱂⱃⰰⰲⱐⰴⱐⱀⱏⰹⱈⱏ · ⰲⱏ-
+    - lb[n=11,break=no]
+    - choice:
+      - reg@transliteration: сѫдъмь сі̆мь въӡѧты-
+      - orig: ⱄⱘⰴⱏⰿⱐ ⱄⰺ̆ⰿⱐ ⰲⱏⰸⱔⱅⱏⰹ-
+    - lb[n=12,break=no]
+    - choice:
+      - reg@transliteration: мь · ᾽очісті срьдьцѣ нашѣ
+      - orig: ⰿⱐ · ᾽ⱁⱍⰹⱄⱅⰹ ⱄⱃⱐⰴⱐⱌⱑ ⱀⰰⱎⱑ
+    - lb[n=13]
+    - choice:
+      - reg@transliteration: ᾽отъ грѣхъ̑ нашіхъ · г҃мь на ··
+      - orig: ᾽ⱁⱅⱏ ⰳⱃⱑⱈⱏ̑ ⱀⰰⱎⰹⱈⱏ · ⰳ҃ⰿⱐ ⱀⰰ ··
+    - lb[n=14]
+    - choice:
+      - reg@transliteration: МОЛИТВА · Б҃ ·
+      - orig: ⰏⰑⰎⰋⰕⰂⰀ · Ⰱ҃ ·
+    - lb[n=15]
+    - choice:
+      - reg@transliteration: Сътвор/і н̀ы г҃і б҃же причѧ-
+      - orig: Ⱄⱏⱅⰲⱁⱃ/ⰹ ⱀ\ⱏⰹ ⰳ҃ⰹ ⰱ҃ⰶⰵ ⱂⱃⰻⱍⱔ-
+    - lb[n=16,break=no]
+    - choice:
+      - reg@transliteration: стьњы свѧтѣі̑ б҃ці ᾽і при-
+      - orig: ⱄⱅⱐⱀ҄ⱏⰹ ⱄⰲⱔⱅⱑⰹ̑ ⰱ҃ⱌⰹ ᾽ⰺ ⱂⱃⰻ-
+    - lb[n=17,break=no]
+    - choice:
+      - reg@transliteration: снодѣвѣ марѝі · ᾽і д/остоі-
+      - orig: ⱄⱀⱁⰴⱑⰲⱑ ⰿⰰⱃⰻ\ⰹ · ᾽ⰺ ⰴ/ⱁⱄⱅⱁⰹ-
+    - lb[n=18,break=no]
+    - choice:
+      - reg@transliteration: ны свѧты̑хъ ῾анђељъ ᾽і
+      - orig: ⱀⱏⰹ ⱄⰲⱔⱅⱏⰹ̑ⱈⱏ ῾ⰰⱀⰼⰵⰾ҄ⱏ ᾽ⰺ
+    - lb[n=19]
+    - choice:
+      - reg@transliteration: '[б]лаженыхъ ῾апостољъ · мѫ-'
+      - orig: '[ⰱ]ⰾⰰⰶⰵⱀⱏⰹⱈⱏ ῾ⰰⱂⱁⱄⱅⱁⰾ҄ⱏ · ⰿⱘ-'
+    - lb[n=20,break=no]
+    - choice:
+      - reg@transliteration: '[че]ніќъ · ᾽і прѣподобьныхъ'
+      - orig: '[ⱍⰵ]ⱀⰺⰽⱏ · ᾽ⰺ ⱂⱃⱑⱂⱁⰴⱁⰱⱐⱀⱏⰹⱈⱏ'
+    - lb[n=21]
+    - choice:
+      - reg@transliteration: '[и] чістыхъ дѣвъ̑ · ᾽і вьс[ѣ]-'
+      - orig: '[ⰻ] ⱍⰹⱄⱅⱏⰹⱈⱏ ⰴⱑⰲⱏ̑ · ᾽ⰺ ⰲⱐⱄ[ⱑ]-'
+    - lb[n=22,break=no]
+    - choice:
+      - reg@transliteration: '[хъ] свѧтыхъ тво/іхъ · мо-'
+      - orig: '[ⱈⱏ] ⱄⰲⱔⱅⱏⰹⱈⱏ ⱅⰲⱁ/ⰹⱈⱏ · ⰿⱁ-'
+    - lb[n=23,break=no]
+    - choice:
+      - reg@transliteration: '[ли]твамі ᾽іхъ ӡашчіт/і'
+      - orig: '[ⰾⰻ]ⱅⰲⰰⰿⰹ ᾽ⰺⱈⱏ ⰸⰰⱎⱍⰹⱅ/ⰹ'
+    - lb[n=24]
+    - choice:
+      - reg@transliteration: њы
+      - orig: ⱀ҄ⱏⰹ
