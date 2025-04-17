@@ -9,6 +9,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
-- initial creation (2025-03-20)
-- valid version (2025-03-20)
-- remove numerical headers (2025-03-20)
+- No details available.
