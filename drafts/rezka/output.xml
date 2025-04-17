@@ -1,0 +1,445 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>The Rezian Catechism I</title>
+				<respStmt>
+					<resp>digitization</resp>
+					<name>Han Steenwijk</name>
+					<note>Università di Padova, Dipartimento di Lingue e Letterature Anglo-Germaniche e Slave, Sezione di Slavistica, 13.1.2005</note>
+				</respStmt>
+				<respStmt>
+					<resp>TITUS version</resp>
+					<name>Jost Gippert</name>
+					<note>Frankfurt a/M, 12.8.2010</note>
+				</respStmt>
+				<respStmt>
+					<resp>TEI version</resp>
+					<name>Florian Matter</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Goethe University</publisher>
+				<pubPlace>Frankfurt</pubPlace>
+				<date when="2025-03-07">2025-03-07</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+					<p>Preferred citation: <note type="citation">Digital version of The Rezian Catechism I (unreleased). 2025-03-07. By: Jost Gippert, Florian Matter, Han Steenwijk. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+					</p>
+				</availability>
+				<idno type="version">unreleased</idno>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="rezka">
+					<author>
+						<name>de Courtenay, Jan</name>
+					</author>. <date>1895</date>. <title level="m">Materialy Dlja Južnoslovjanskoj Dialektologii I Ėtnografii: Rez'janskie Teksty</title>. Vol. <biblScope unit="volume">I</biblScope>. <pubPlace>Sanktpeterburg</pubPlace>: <publisher>Tipografija imperatorskoj akademii nauk</publisher>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="slv-Latn-x-oldslv">Old Slovenian</language>
+				<language ident="deu-Latn">German</language>
+				<language ident="slv-Latn-x-rezgni">Slovenian (Rezian-Gniva)</language>
+				<language ident="slv-Latn-x-rez">Slovenian (Rezian)</language>
+				<language ident="slv-Latn-x-rezsg">Slovenian (Rezian-San Giorgio)</language>
+				<language ident="lat-Latn">Latin</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="slv-Latn-x-oldslv">
+		<front xml:id="front-1">
+			<p xml:id="front-1-p-1">
+				<s n="1" xml:id="front-1-p-1-s-1">Nà ime od Oggiè, od Sinu, anù od Svetaha Duha.</s>
+			</p>
+		</front>
+		<body>
+			<p xml:id="p-2">
+				<s n="2" xml:id="p-2-s-2">Tacu bodi.<note xml:id="p-2-s-2-note-1">
+						<foreign xml:lang="deu-Latn">S. 181:</foreign>
+						<foreign xml:lang="slv-Latn-x-rezgni">jitáko to bódi.</foreign>
+					</note>
+				</s>
+			</p>
+			<div n="1" xml:id="section-1" type="section" data-level="1">
+				<p xml:id="section-1-p-3">
+					<s n="3" xml:id="section-1-p-3-s-3">Tè dua Misteriha principal.<milestone unit="subdivision" n="1" xml:id="section-1-p-3-s-3-milestone-1" />
+					</s>
+					<s n="4" xml:id="section-1-p-3-s-4">Tè parvi misterih iè dan sami Buh, dishtint tuv treh Persunah, chà ni sè clizzajo, Oggià, Sin, anù Sveti Duh, s nò samo bisido Santissima Trinitat.<milestone unit="subdivision" n="2" xml:id="section-1-p-3-s-4-milestone-2" />
+					</s>
+					<s n="5" xml:id="section-1-p-3-s-5">Tè sehond misterih, dà ta sehond persuna, chà to jè Sin, an jè se sdelal zlovech tuv svotè od Marie Vergine, an jè patel anù umar sa nas<note xml:id="section-1-p-3-s-5-note-2">
+							<foreign xml:lang="deu-Latn">S. 182:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezgni">zá nas, rîšnike.</foreign>
+						</note> tanà Crishu, an sè clizze Giesù Crisht, nash Redentor, ver Buh, anù ver zlovech.</s>
+				</p>
+			</div>
+			<div n="2" xml:id="section-2" type="section" data-level="1">
+				<p xml:id="section-2-p-4">
+					<s n="6" xml:id="section-2-p-4-s-6">Dottrina od Jeshusa Cristusha.<milestone unit="subdivision" n="3" xml:id="section-2-p-4-s-6-milestone-3" />
+					</s>
+					<s n="7" xml:id="section-2-p-4-s-7">B: Dù te jè Creal, anù gial sè na tè Svit?</s>
+					<s n="8" xml:id="section-2-p-4-s-8">R. Buh.</s>
+					<s n="9" xml:id="section-2-p-4-s-9">B: Dù jè Buh?</s>
+					<s n="10" xml:id="section-2-p-4-s-10">R: Creator anù hospudin od Neba, anù od Semgnè.</s>
+					<s n="11" xml:id="section-2-p-4-s-11">B: Pocaj dà an ie tè Creal?</s>
+					<s n="12" xml:id="section-2-p-4-s-12">R: Par dà ià ha snaj, anù ha amai, anù mu serviaj, se nà tin Svetu, anù ha uvshivaj sa limar tuv Paravishe.</s>
+					<s n="13" xml:id="section-2-p-4-s-13">B: Chè jè Buh?</s>
+					<s n="14" xml:id="section-2-p-4-s-14">R: An jè tuv Paravishe, tanà Simgnè, anu tuv uvsachin meste.</s>
+					<s n="15" xml:id="section-2-p-4-s-15">B: Gij je dan sam, aliboj vag Bohouv?</s>
+					<s n="16" xml:id="section-2-p-4-s-16">R: jè dan sam, mà an jè dishtint tuv treh persunah, cà ni se clizho Oggià, anù Sin, anù Sveti Duh, ca to je Santiſshima Trinitat.</s>
+					<s n="17" xml:id="section-2-p-4-s-17">B: Sè tri persune, gij_ tò sò trij Bohovi?</s>
+					<s n="18" xml:id="section-2-p-4-s-18">R: Nè ca je dan sam, savojo cà usacha od seh treh Persun, mà to ishtes Esenzo, eshtes Soshtazo, ishtes Divinitat.</s>
+					<s n="19" xml:id="section-2-p-4-s-19">B: Tami semi Persunami, gij_ jè chira boje vinzha?</s>
+					<s n="20" xml:id="section-2-p-4-s-20">R: Ni sò uvsè raune tuv useh gnih perfeziunah.</s>
+					<s n="21" xml:id="section-2-p-4-s-21">B: Od seh treh Persun, chira se je sdelala zhlovech?</s>
+					<s n="22" xml:id="section-2-p-4-s-22">R: Tà sehond cà to jè Sin.</s>
+					<s n="23" xml:id="section-2-p-4-s-23">B: chacu Sin Boshij, se sdelal zhlovech?</s>
+					<s n="24" xml:id="section-2-p-4-s-24">R: An je usel dan svot, anù nò Dusho, tacoj mamo mi tuv shvote<note xml:id="section-2-p-4-s-24-note-3">
+							<foreign xml:lang="deu-Latn">S. 183:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezgni">tòpot sércon puríšim.</foreign>
+						</note> od Marie Vergine, sas virtudijo od Svetaha Duha.</s>
+					<s n="25" xml:id="section-2-p-4-s-25">B: Chacu Sin Boshij, sè clizze sdilan zhlovech?</s>
+					<s n="26" xml:id="section-2-p-4-s-26">R: An sè clizze Gisù Crisht, nash Redentor, ver Buh, anù ver zhlovech.</s>
+					<s n="27" xml:id="section-2-p-4-s-27">B: Pocaj an jè se sdelal zhlovech?</s>
+					<s n="28" xml:id="section-2-p-4-s-28">R: Par nas liberat s gnahà smartjo od Peclà, anù nan meritat nò vito sa limar.</s>
+					<s n="29" xml:id="section-2-p-4-s-29">B: chè je Giesu Crishst?</s>
+					<s n="30" xml:id="section-2-p-4-s-30">R: Taccoj Buh an jè pousorot, taccoj Buh, anù zhlovech, an jè tuv Paravishe, anù tuv Santiſsim Sacraminte.</s>
+					<s n="31" xml:id="section-2-p-4-s-31">B: Coi jė touv Santiſsim Sacraminte?</s>
+					<s n="32" xml:id="section-2-p-4-s-32">R: jė ver Shvot, anù Crij_, anu Dusha, anù Divinitat od Jeshusa Chrishtusha tapod temi shpeciami od Cruha, anù od Vina.</s>
+					<s n="33" xml:id="section-2-p-4-s-33">B: Coj to sè intinda te specie od Cruha, anu od Vina?</s>
+					<s n="34" xml:id="section-2-p-4-s-34">R: Se intinda to cha se vidi, anù cushuje, cha to je color, savor, anù quantitat.</s>
+					<s n="35" xml:id="section-2-p-4-s-35">B: Gij_ tuv Oshtij consecranij, iè pà ta shostaza od Cruha?</s>
+					<s n="36" xml:id="section-2-p-4-s-36">R: Nè chà na jè uvsà smudana anu transhustanziana tuv Svot, anù Crij od Giesù Crishtusha s temi bisidami od Svete Consecraziuni.</s>
+					<s n="37" xml:id="section-2-p-4-s-37">B: Coj se slomi Ostio, gij_ se slomi pa Svot od Giesù Crishtusha?</s>
+					<s n="38" xml:id="section-2-p-4-s-38">R: Nè cà se slomi macoj tè Specie od Cruha.</s>
+					<s n="39" xml:id="section-2-p-4-s-39">B: Coj sè ni slomi Svot od Giesù Crishtusha, touv chirj parti od te slomgnane Oshtie Svot ostaje.</s>
+					<s n="40" xml:id="section-2-p-4-s-40">R: An ostane zill tuv usachin droptu.</s>
+					<s n="41" xml:id="section-2-p-4-s-41">B: Caccu mara bit preparan, par degnamentri sè Cummuniat?</s>
+					<s n="42" xml:id="section-2-p-4-s-42">R: Mara bit sapostnà, od pul nogij sè almanco, dardu tu cha gie tit se Cummuniat, anù se Spovedat <foreign xml:lang="slv-Latn-x-rez">bà</foreign> bil touv hrise mortal, anù sdelat dan Att od Fede, Speranzhe, od Caritadi, anù od Umiltadi prugia Santishim Sacramintu.</s>
+					<s n="43" xml:id="section-2-p-4-s-43">B: Chilicu rizij tò gije par sdelat dan dobar Spuvet?</s>
+					<s n="44" xml:id="section-2-p-4-s-44">R: Pet.</s>
+					<s n="45" xml:id="section-2-p-4-s-45">B: Chiri to sò?</s>
+					<s n="46" xml:id="section-2-p-4-s-46">R: 1 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Sè mara smislit sve hrihe.</s>
+					<s n="47" xml:id="section-2-p-4-s-47">2 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Marà met dolor cha je offindinal Boha.</s>
+					<s n="48" xml:id="section-2-p-4-s-48">3 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Marà sdelat proponiment nì offindinat vag Boha.</s>
+					<s n="49" xml:id="section-2-p-4-s-49">4 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Marà Spovedat clar svè hrihe Confesorju.</s>
+					<s n="50" xml:id="section-2-p-4-s-50">5 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Marà sodiſhfat pinitinzho<note xml:id="section-2-p-4-s-50-note-4">
+							<foreign xml:lang="deu-Latn">S. 184:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezgni">kà spüvydnýk je dàl.</foreign>
+						</note> .</s>
+					<s n="51" xml:id="section-2-p-4-s-51">B: Ti chà bà se spovedal senzha dolorja, aliboj proponiminta coj an bà sdelal?</s>
+					<s n="52" xml:id="section-2-p-4-s-52">R: Dan sacrilegij dan hrih <foreign xml:lang="slv-Latn-x-rez">Mortal</foreign> .</s>
+					<s n="53" xml:id="section-2-p-4-s-53">B: Chiri so ti chà hrejo nutar Uv peclò?</s>
+					<s n="54" xml:id="section-2-p-4-s-54">R: Ti cha uvmarjo tuv dnin hrise mortal.</s>
+					<s n="55" xml:id="section-2-p-4-s-55">B: Coj se dilla tuv Peclè?</s>
+					<s n="56" xml:id="section-2-p-4-s-56">R: Se pati<note xml:id="section-2-p-4-s-56-note-5">
+							<foreign xml:lang="deu-Latn">S. 185:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezsg">s{e} patí.</foreign>
+						</note> viliche torminte, anù sè shijè S hudigij.</s>
+					<s n="57" xml:id="section-2-p-4-s-57">B: Chiri sò ti chà hrejo uvn Paravis?</s>
+					<s n="58" xml:id="section-2-p-4-s-58">R: Ti chà uvmarjo tuv hrazij Bohovij, anù chà ni ni nimajo nicar purhat tuv Purgatorise.</s>
+					<s n="59" xml:id="section-2-p-4-s-59">B: Coj se dilla tuv Paravishe?</s>
+					<s n="60" xml:id="section-2-p-4-s-60">R: Sè uvshiua Boha tuv companij od Agnolouv, anù od teh Svetih, sà uvsò Eternitat.</s>
+					<s n="61" xml:id="section-2-p-4-s-61">B: Coj marà sè veruvat dan Cristian, cha giè tit uvn Paravish?</s>
+					<s n="62" xml:id="section-2-p-4-s-62">R: Uvsè to chà Buh je rivelal Sveti Matirij Cerchvè, Cattolich, Aposhtolich, Romanchi.</s>
+					<s n="63" xml:id="section-2-p-4-s-63">B: Coj marà vedet dan dobar Chrishtian?</s>
+					<s n="64" xml:id="section-2-p-4-s-64">R: Uvsè tò cha se contigni tou <foreign xml:lang="lat-Latn">Credo</foreign> , anù tou <foreign xml:lang="lat-Latn">Pater noster</foreign> , anù tou Comandatmiteh Bohovih, anù od Svete Cerchvè <foreign xml:lang="slv-Latn-x-rez">anù</foreign> tuv Sacraminteh Svetih.</s>
+					<s n="65" xml:id="section-2-p-4-s-65">B: Coj je oblejan dan Crishtian, darshat anù oservat par se shalvat?</s>
+					<s n="66" xml:id="section-2-p-4-s-66">R: An marà darshat, anù oſservat uvse Comandaminte Bohove, anù od Svete Matere Cerchvè.</s>
+					<s n="67" xml:id="section-2-p-4-s-67">B: Cacu marà se shivit dan Chrishtian?</s>
+					<s n="68" xml:id="section-2-p-4-s-68">R: Tuv strahu Bohuvin.</s>
+					<s n="69" xml:id="section-2-p-4-s-69">B: Chachu se marà shivit tou strahu Bohovin</s>
+					<s n="70" xml:id="section-2-p-4-s-70">R: Se mara uvaruat od hriha, anù se esercitat touv Virtudah.</s>
+					<s n="71" xml:id="section-2-p-4-s-71">B: Chilicu sò Virtut.</s>
+					<s n="72" xml:id="section-2-p-4-s-72">R: Sò sedan trì Teologal, anu shtiri Cardinal.</s>
+					<s n="73" xml:id="section-2-p-4-s-73">B: Ricite mi tè tri Teologal?</s>
+					<s n="74" xml:id="section-2-p-4-s-74">R: To jè Feda, Speranza, anù Caritat.</s>
+					<s n="75" xml:id="section-2-p-4-s-75">B: Ricite mi tè druhe moral, <foreign xml:lang="slv-Latn-x-rez">alìboi</foreign> Cardinal.</s>
+					<s n="76" xml:id="section-2-p-4-s-76">R: Tè shtiri Cardinal sè clizajo justizia, Temperanza, Forteza, anù Prudenza.</s>
+					<s n="77" xml:id="section-2-p-4-s-77">B: Choj marà sdelat dan Christian, prit nicoj tit spat.</s>
+					<s n="78" xml:id="section-2-p-4-s-78">R: An marà sdelat dan eſsham<note xml:id="section-2-p-4-s-78-note-6">
+							<foreign xml:lang="deu-Latn">S. 186:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezsg">spomè{nj} (ežáme).</foreign>
+						</note> od gnahà conshijnzie, cha to jè si pomislit, cacu an je prihnal tè din, od pujutreh dardu shvezera, anù gij an bà bil sdelal cach hrih, an marà sdelat intant nò Contriziun, anu darshat namez<note xml:id="section-2-p-4-s-78-note-7">
+							<foreign xml:lang="deu-Latn">S. 187:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezsg">na mènc.</foreign>
+						</note> dardu tù chà an se spuvj, anù se spovedat prit cà an more.</s>
+					<s n="79" xml:id="section-2-p-4-s-79">B: Chilicu sò Comandamintouv Bohovih?</s>
+					<s n="80" xml:id="section-2-p-4-s-80">R: Sò desat.</s>
+					<s n="81" xml:id="section-2-p-4-s-81">B: chiri tò sò.</s>
+					<s n="82" xml:id="section-2-p-4-s-82">1 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Verij se <foreign xml:lang="slv-Latn-x-rez">nà</foreign> dnohà samaha Boha.</s>
+					<s n="83" xml:id="section-2-p-4-s-83">2 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Nì uvpamaj Bohovaha İmmana pres potribe.</s>
+					<s n="84" xml:id="section-2-p-4-s-84">3 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Svetuaj tè din Bohouv.</s>
+					<s n="85" xml:id="section-2-p-4-s-85">4 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Onoraj Oggiò, nù Mater.</s>
+					<s n="86" xml:id="section-2-p-4-s-86">5 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Nì uvbiuvaj.</s>
+					<s n="87" xml:id="section-2-p-4-s-87">6 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Ni hrishi svahunzhijo s trivin mison.</s>
+					<s n="88" xml:id="section-2-p-4-s-88">7 <foreign xml:lang="slv-Latn-x-rez">.</foreign>
+						<foreign xml:lang="slv-Latn-x-rez">Nì</foreign> cradi.</s>
+					<s n="89" xml:id="section-2-p-4-s-89">8 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Ni lashi, aliboj falz teshtimoniazho<note xml:id="section-2-p-4-s-89-note-8">
+							<foreign xml:lang="deu-Latn">S. 188:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezgni">ny dæ'laj fàlš teštimo{nj}jánčo.</foreign>
+						</note> .</s>
+					<s n="90" xml:id="section-2-p-4-s-90">9 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Nì dishidirat teh drusih shin.</s>
+					<s n="91" xml:id="section-2-p-4-s-91">10 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Nì dishidirat teh drusih roube.</s>
+					<s n="92" xml:id="section-2-p-4-s-92">B: Chilicù so Comandamintouv od Svete Cerchvè.</s>
+					<s n="93" xml:id="section-2-p-4-s-93">R: Sò pet.</s>
+					<s n="94" xml:id="section-2-p-4-s-94">B: Chiri to sò?</s>
+					<s n="95" xml:id="section-2-p-4-s-95">R: 1 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Zut <foreign xml:lang="slv-Latn-x-rez">misho</foreign> uvsacho Nedejo, anù quasane Nidile.</s>
+					<s n="96" xml:id="section-2-p-4-s-96">2 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Postit <foreign xml:lang="slv-Latn-x-rez">
+							<note xml:id="section-2-p-4-s-96-note-9">
+								<lb n="1" />p{o}stìt</note>
+						</foreign> tuv Poste, Villije, anù Qutri<note xml:id="section-2-p-4-s-96-note-10">
+							<foreign xml:lang="deu-Latn">S. 190:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezsg">kwátri (ku__átri).</foreign>
+						</note>
+						<foreign xml:lang="slv-Latn-x-rez">nì</foreign> jest miſsa ni U petach, nù Uv sabboto.</s>
+					<s n="97" xml:id="section-2-p-4-s-97">3 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Sè Spovedat almancho nur Uv lette, anù sè Communiat ò Villichj noggij.</s>
+					<s n="98" xml:id="section-2-p-4-s-98">4 <foreign xml:lang="slv-Latn-x-rez">.</foreign>
+						<foreign xml:lang="slv-Latn-x-rez">Nì</foreign> porazhat od tè parve Nedeje <foreign xml:lang="slv-Latn-x-rez">
+							<note xml:id="section-2-p-4-s-98-note-11">
+								<lb n="2" />nædæ'j{e</note>
+						</foreign> od Advinta dardu Pernahat, anù tè parve Sride postà <foreign xml:lang="slv-Latn-x-rez">
+							<note xml:id="section-2-p-4-s-98-note-12">
+								<lb n="3" />postà</note>
+						</foreign> dardu tò Nedejo pò Villich noggij.</s>
+					<s n="99" xml:id="section-2-p-4-s-99">5 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Saplatit Disitino.</s>
+					<s n="100" xml:id="section-2-p-4-s-100">B: chilicu sò Sacramintouv od Svete Cerchvè inshtituinj<note xml:id="section-2-p-4-s-100-note-13">
+							<foreign xml:lang="deu-Latn">S. 193:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezgni">{dj}âni nûtur.</foreign>
+						</note> od <foreign xml:lang="slv-Latn-x-rez">jeshusha</foreign> Cristusha sà sdrauje od nashe Dushe.</s>
+					<s n="101" xml:id="section-2-p-4-s-101">R: Sò Sedan.</s>
+					<s n="102" xml:id="section-2-p-4-s-102">B: Chiri to sò.</s>
+					<s n="103" xml:id="section-2-p-4-s-103">1 <foreign xml:lang="slv-Latn-x-rez">.</foreign> je Carst cha nas dilla Christiane.</s>
+					<s n="104" xml:id="section-2-p-4-s-104">2 <foreign xml:lang="slv-Latn-x-rez">.</foreign> je Birmagne cha nan daje hrazhjo deventat boje perfet Chrishtianen.</s>
+					<s n="105" xml:id="section-2-p-4-s-105">3 <foreign xml:lang="slv-Latn-x-rez">.</foreign> je Santiſsim Sacrament cha ridj nasho Dusho, anù io conservaua tuv hrazhi.</s>
+					<s n="106" xml:id="section-2-p-4-s-106">4 <foreign xml:lang="slv-Latn-x-rez">.</foreign> jè Spuvet, cha nan nishbrishuje hrihe.</s>
+					<s n="107" xml:id="section-2-p-4-s-107">5 <foreign xml:lang="slv-Latn-x-rez">.</foreign> je Svete Oije, cha nan pomaha uvmrit tou hrazj, anu pà vag zhas daje sdrauje svottù.</s>
+					<s n="108" xml:id="section-2-p-4-s-108">6 <foreign xml:lang="slv-Latn-x-rez">.</foreign> jè Erove Shihnuvagne, chà in daje potishtat di dellat tè Sveti Funziuni.</s>
+					<s n="109" xml:id="section-2-p-4-s-109">7 <foreign xml:lang="slv-Latn-x-rez">.</foreign> je Matrimonih cha daje tin porazhanin hrazio uvridit pò Chrishtianschin sve ottroche touv pashij anù tou Caritadi</s>
+					<s n="110" xml:id="section-2-p-4-s-110">B: <foreign xml:lang="slv-Latn-x-rez">chire</foreign> so te sadgne rezhj od Zlovecha?</s>
+					<s n="111" xml:id="section-2-p-4-s-111">R: 1 <foreign xml:lang="slv-Latn-x-rez">.</foreign> jè Smart.</s>
+					<s n="112" xml:id="section-2-p-4-s-112">2 <foreign xml:lang="slv-Latn-x-rez">.</foreign>
+						<foreign xml:lang="slv-Latn-x-rez">jè</foreign> Sodgni din.</s>
+					<s n="113" xml:id="section-2-p-4-s-113">3 <foreign xml:lang="slv-Latn-x-rez">.</foreign>
+						<foreign xml:lang="slv-Latn-x-rez">jè</foreign> Pechlò.</s>
+					<s n="114" xml:id="section-2-p-4-s-114">4 <foreign xml:lang="slv-Latn-x-rez">.</foreign> je Paravish.</s>
+				</p>
+			</div>
+			<div n="3" xml:id="section-3" type="section" data-level="1">
+				<p xml:id="section-3-p-5">
+					<s n="115" xml:id="section-3-p-5-s-115">Na İmme od Oggiè, nù od Sinu, anù od Svetaha Duha.</s>
+					<s n="116" xml:id="section-3-p-5-s-116">Tachu bodi.!! <foreign xml:lang="slv-Latn-x-rez">.</foreign>
+					</s>
+					<s n="116a" xml:id="section-3-p-5-s-117">
+						<foreign xml:lang="lat-Latn">Pater noster et</foreign> .<milestone unit="subdivision" n="4" xml:id="section-3-p-5-s-117-milestone-4" />
+					</s>
+					<s n="117" xml:id="section-3-p-5-s-118">Oggià nash cha ste tou Nebbe, Svete bodi uvashe İmme, pridi h an uvasha Crajuscha, bodi sdilana uvasha volontat, tachoj tou Nebbe pà sè nà Semgnì.</s>
+					<s n="118" xml:id="section-3-p-5-s-119">Dajte nan nash uvsachidigni Cruh, anù otpustite nan nashe dolhe taccoj mi odpushgiamo nashin dushnichen; <foreign xml:lang="slv-Latn-x-rez">anù</foreign> ni pijte nas<note xml:id="section-3-p-5-s-119-note-14">
+							<foreign xml:lang="deu-Latn">S. 194:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezgni">zap{e}jíte n{e}_s.</foreign>
+						</note> tou tentaziun mà vibranite nas od hudaha od chrivaha.</s>
+					<s n="119" xml:id="section-3-p-5-s-120">Taccù bodi, aliboj Amen.</s>
+				</p>
+			</div>
+			<div n="4" xml:id="section-4" type="section" data-level="1">
+				<p xml:id="section-4-p-6">
+					<s n="177" xml:id="section-4-p-6-s-121">
+						<foreign xml:lang="lat-Latn">Ave Maria</foreign> .<milestone unit="subdivision" n="5" xml:id="section-4-p-6-s-121-milestone-5" />
+					</s>
+					<s n="120" xml:id="section-4-p-6-s-122">Saludana bodite Maria punzhacha hrazije: Hosput je s uvami shihnana vi ste tami shanami anù shihnan je tè sat od uvashaha svotà jeshus <foreign xml:lang="slv-Latn-x-rez">
+							<note xml:id="section-4-p-6-s-122-note-15">
+								<lb n="4" />Jéžuša</note>
+						</foreign> .</s>
+					<s n="121" xml:id="section-4-p-6-s-123">Sveta Maria Mattj od Boha prosite sa nas hrishniche, ignan anù tou tò oro od nashe smarti.</s>
+					<s n="122" xml:id="section-4-p-6-s-124">Taccù bodi.</s>
+				</p>
+			</div>
+			<div n="5" xml:id="section-5" type="section" data-level="1">
+				<p xml:id="section-5-p-7">
+					<s n="178" xml:id="section-5-p-7-s-125">
+						<foreign xml:lang="lat-Latn">Credo</foreign> .<milestone unit="subdivision" n="6" xml:id="section-5-p-7-s-125-milestone-6" />
+					</s>
+					<s n="123" xml:id="section-5-p-7-s-126">
+						<foreign xml:lang="slv-Latn-x-rez">J{.}à</foreign> se verjen nà Boha Oggiò chà more uvsè <foreign xml:lang="slv-Latn-x-rezgni">
+							<note xml:id="section-5-p-7-s-126-note-16">
+								<foreign xml:lang="deu-Latn">S. 196:</foreign>
+								<foreign xml:lang="slv-Latn-x-rezgni">ka mö'ræ u__sæ_</foreign>
+								<lb n="5" />N kèOS kì G</note>
+						</foreign> Creatorja od Nebba, anù od Semgnè.</s>
+					<s n="124" xml:id="section-5-p-7-s-127">Anù nà jeshusſa Crishtusha gnahà samaha Sinu nashaha hospuda.</s>
+					<s n="125" xml:id="section-5-p-7-s-128">Ti cha jè bil concepin od Svetaha Duha nù povit od Marie Vergine.</s>
+					<s n="126" xml:id="section-5-p-7-s-129">Patel tàpot <foreign xml:lang="lat-Latn">Ponzio Pilato</foreign> .</s>
+					<s n="127" xml:id="section-5-p-7-s-130">Bil gian na Chrish uvmar anù pogian.</s>
+					<s n="128" xml:id="section-5-p-7-s-131">An jè nislisal do u Peclò<note xml:id="section-5-p-7-s-131-note-17">
+							<foreign xml:lang="deu-Latn">S. 197:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezgni">do prét pæklö_.</foreign>
+						</note> , te tretgni din an je uvstal od tih martvih.</s>
+					<s n="129" xml:id="section-5-p-7-s-132">An <foreign xml:lang="slv-Latn-x-rez">jè</foreign> shal un v Nebbe.</s>
+					<s n="130" xml:id="section-5-p-7-s-133">An sidj tana ti tesni od Boha Oggie cha more uvsè.</s>
+					<s n="131" xml:id="section-5-p-7-s-134">Od tù an giè prit judicat te shive anù tè martve.</s>
+					<s n="132" xml:id="section-5-p-7-s-135">
+						<foreign xml:lang="slv-Latn-x-rez">J{.}à</foreign> sè verjen nà Svetaha Duha.</s>
+					<s n="133" xml:id="section-5-p-7-s-136">Nà sveto Circou Chatolich, Communiun od tih svetih.</s>
+					<s n="134" xml:id="section-5-p-7-s-137">Odpushgiagnie od hrihou.</s>
+					<s n="135" xml:id="section-5-p-7-s-138">Uvstat spet s mison.</s>
+					<s n="136" xml:id="section-5-p-7-s-139">Shiujust sà limar.</s>
+					<s n="137" xml:id="section-5-p-7-s-140">Tachu bodi.</s>
+				</p>
+			</div>
+			<div n="6" xml:id="section-6" type="section" data-level="1">
+				<p xml:id="section-6-p-8">
+					<s n="179" xml:id="section-6-p-8-s-141">
+						<foreign xml:lang="lat-Latn">Salve Regina</foreign> .<milestone unit="subdivision" n="7" xml:id="section-6-p-8-s-141-milestone-7" />
+					</s>
+					<s n="138" xml:id="section-6-p-8-s-142">Saludana bodite Crajzza, Matti od Mishericordie vita dolz nasha sperazha bodite saludana; Tah uvan mi uvpijamo bandini sinuvi od Eve.</s>
+					<s n="139" xml:id="section-6-p-8-s-143">Tah uvan mi uvsdahujamo toshni anù jozog, se u tì dolini od <foreign xml:lang="slv-Latn-x-rez">solsj</foreign> .</s>
+					<s n="140" xml:id="section-6-p-8-s-144">Oh nute coshe nasha Advocata tah nan obratite uvashe smilne ozzi, anù po uvsen bantu, pochashte nan pochashte nan te shihnani sat od uvashaha svotà jeshus.</s>
+					<s n="141" xml:id="section-6-p-8-s-145">O smilna, o dobra, o dolz Vergina Maria.</s>
+					<s n="142" xml:id="section-6-p-8-s-146">Sdelaite me degn di moret uvas huvalit.</s>
+					<s n="143" xml:id="section-6-p-8-s-147">Virgina sagrana, daite mi virtut cuntra uvashin inimigen.</s>
+					<s n="144" xml:id="section-6-p-8-s-148">Taccù bodi.</s>
+				</p>
+			</div>
+			<div n="7" xml:id="section-7" type="section" data-level="1">
+				<p xml:id="section-7-p-9">
+					<s n="180" xml:id="section-7-p-9-s-149">
+						<foreign xml:lang="lat-Latn">Angele Dei</foreign> .<milestone unit="subdivision" n="8" xml:id="section-7-p-9-s-149-milestone-8" />
+					</s>
+					<s n="145" xml:id="section-7-p-9-s-150">Agnul Boshij, h uvan cha jà si raccomandan, od shurigne dubrute, uvarite me, rezhinajte me, illuminajte me, hovarnajte me, din, anù nug.</s>
+					<s n="146" xml:id="section-7-p-9-s-151">Taccù bodi.</s>
+				</p>
+			</div>
+			<div n="8" xml:id="section-8" type="section" data-level="1">
+				<p xml:id="section-8-p-10">
+					<s n="147" xml:id="section-8-p-10-s-152">Att od Fede.<milestone unit="subdivision" n="9" xml:id="section-8-p-10-s-152-milestone-9" />
+					</s>
+					<s n="148" xml:id="section-8-p-10-s-153">Santiſsima Trinitat ja se verjen fermamentri dà vì stè dan sami Buh, tuv treh persunah realmentri dishtint, Oggià, nù Sin, anù Sveti Duh; moi hospud Giesù Crist ja se verjen dà vi stè dan sami Buh, ti cà se sdelal pa Zlovech, anù uvmar tana Crishu, sa nashe hrihe, resuscital anù shal un Paravish; moj Buh ja se verjen dà ti cha uvmarje touv dnin hriſse mortal hre sa simprj nutar v Peclò, anù ti cha uvmarje tou uvaſsi hrazzj hre sa simpri uvn Paravish; moj Buh ja se verjen uvsè sò anu vusè tò cha se verje Sveta Circouv Cattolich, sauvocha vi stè veritat infalibel stè nan rechal, anù nan rivellal.</s>
+				</p>
+			</div>
+			<div n="9" xml:id="section-9" type="section" data-level="1">
+				<p xml:id="section-9-p-11">
+					<s n="149" xml:id="section-9-p-11-s-154">Att od Speranzhe.<milestone unit="subdivision" n="10" xml:id="section-9-p-11-s-154-milestone-10" />
+					</s>
+					<s n="150" xml:id="section-9-p-11-s-155">Moj Buh vi chà stè omnipotent, anù infinitamentri mishericordious, ia sè troshtan dà sauvojo meritou od jeshusha Cristusha nashaha Salvatorja, dà vi mi datte nò vito etern, coj ia bon dellal opere od naha ver Cristiana taccoj ja preponinan di je sdelat s uvasho sveto hrazijo.</s>
+				</p>
+			</div>
+			<div n="10" xml:id="section-10" type="section" data-level="1">
+				<p xml:id="section-10-p-12">
+					<s n="151" xml:id="section-10-p-12-s-156">Att od Charitadi.<milestone unit="subdivision" n="11" xml:id="section-10-p-12-s-156-milestone-11" />
+					</s>
+					<s n="152" xml:id="section-10-p-12-s-157">Moj Buh ia uvan shincujen mo sarze, anù uvas aman tana uvsacho razijò, sauvojo tò cha vi stè tà dubruta infinit, degn di bit infinitamentri aman; anù tude ja <foreign xml:lang="slv-Latn-x-rez">aman</foreign> miha blishgnaha tacoj mlè ishtes, sauvojo uvas moj Buh.</s>
+				</p>
+			</div>
+			<div n="11" xml:id="section-11" type="section" data-level="1">
+				<p xml:id="section-11-p-13">
+					<s n="153" xml:id="section-11-p-13-s-158">Dolor od Contriziuni.<milestone unit="subdivision" n="12" xml:id="section-11-p-13-s-158-milestone-12" />
+					</s>
+					<s n="154" xml:id="section-11-p-13-s-159">Moj Buh iá si pintin, anù tò mi bojè anu vag displasha, cà si uvas offindinal uvas nò tilicho dubruto s memi hriſsi; anicoi <foreign xml:lang="slv-Latn-x-rez">dà</foreign> ia <foreign xml:lang="slv-Latn-x-rez">sì</foreign> subil Paravish, anù samaratal Peclò, però ià preponinan fermamentri di sè emendat <foreign xml:lang="slv-Latn-x-rez">
+							<note xml:id="section-11-p-13-s-159-note-18">
+								<lb n="6" />zmendàt</note>
+						</foreign> anù se pubujshat; giò moi Buh ja bà tel rajshi uvmrit anicoi spet uvas offindinat.</s>
+				</p>
+			</div>
+			<div n="12-1" xml:id="section-12" type="section" data-level="1">
+				<p xml:id="section-12-p-14">
+					<milestone unit="subdivision" n="13" xml:id="section-12-p-14-milestone-13" />
+					<s n="155" xml:id="section-12-p-14-s-160">B: Cacù se rezzè Rosharjo?</s>
+					<s n="156" xml:id="section-12-p-14-s-161">R: Se rezzhe 150 <foreign xml:lang="slv-Latn-x-rez">
+							<lb n="7" />. <foreign xml:lang="slv-Latn-x-rez">
+								<note xml:id="section-12-p-14-s-161-note-19">
+									<lb n="8" />dànčantanárnupaterdòu_</note>
+							</foreign>
+						</foreign>
+						<foreign xml:lang="lat-Latn">Ave Maria</foreign> , anu 15 <foreign xml:lang="slv-Latn-x-rez">
+							<lb n="9" />. <foreign xml:lang="slv-Latn-x-rez">
+								<note xml:id="section-12-p-14-s-161-note-20">
+									<lb n="10" />pêtnijst</note>
+							</foreign>
+						</foreign>
+						<foreign xml:lang="lat-Latn">Pater noster</foreign> cha to je 15 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Stanzij, anù 15 <foreign xml:lang="slv-Latn-x-rez">.</foreign>
+						<foreign xml:lang="lat-Latn">Gloria Patri</foreign> , ca to sò 5 <foreign xml:lang="slv-Latn-x-rez">
+							<lb n="11" />. <foreign xml:lang="slv-Latn-x-rez">
+								<note xml:id="section-12-p-14-s-161-note-21">
+									<lb n="12" />pêt</note>
+							</foreign>
+						</foreign> Gaudios, anù 5 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Dolorous, anù 5 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Glorios anù touv uvsachi parti sè misli dan Mishteri cà to je vita, Pashiun, Smar, anù Resureziun, od jeshusha Crishtusha.</s>
+				</p>
+			</div>
+			<div n="12-2" xml:id="section-13" type="section" data-level="1">
+				<p xml:id="section-13-p-15">
+					<s n="157" xml:id="section-13-p-15-s-162">Part ta paruva Gaudious.<milestone unit="subdivision" n="14" xml:id="section-13-p-15-s-162-milestone-14" />
+					</s>
+					<s n="158" xml:id="section-13-p-15-s-163">1 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Cacù Maria Vergina concepila jesù Cristusha.</s>
+					<s n="159" xml:id="section-13-p-15-s-164">2 <foreign xml:lang="slv-Latn-x-rez">.</foreign> cacu Maria Vergina idu <foreign xml:lang="slv-Latn-x-rezgni">
+							<note xml:id="section-13-p-15-s-164-note-22">
+								<foreign xml:lang="slv-Latn-x-rezgni">3.</foreign>
+								<foreign xml:lang="slv-Latn-x-rezgni">pl.</foreign>
+								<lb n="13" />Aor Šúidù <foreign xml:lang="deu-Latn">
+									<lb n="14" />Don <foreign xml:lang="deu-Latn">Stefano Valente</foreign>
+									<lb n="15" />hat noch selbst die Alten gehört, welche diese Form,</foreign>
+								<lb n="16" />jidù <foreign xml:lang="deu-Latn">od. ä., gebrauchten.</foreign>
+							</note>
+						</foreign> iscat Sveto Elisabeto.</s>
+					<s n="160" xml:id="section-13-p-15-s-165">3 <foreign xml:lang="slv-Latn-x-rez">.</foreign> cacu Maria Vergina povi <foreign xml:lang="slv-Latn-x-rez">
+							<note xml:id="section-13-p-15-s-165-note-23">
+								<lb n="17" />
+								<foreign xml:lang="slv-Latn-x-rezsg">povì.</foreign>
+							</note>
+						</foreign> jesù Cristusha tou ni stalli.</s>
+					<s n="161" xml:id="section-13-p-15-s-166">4 <foreign xml:lang="slv-Latn-x-rez">.</foreign> cacù Maria Vergina preshentala tuv roche Simeunu<note xml:id="section-13-p-15-s-166-note-24">
+							<foreign xml:lang="deu-Latn">S. 203:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezgni">ö_t ta stáraha Šimeúna.</foreign>
+						</note> .</s>
+					<s n="162" xml:id="section-13-p-15-s-167">5 <foreign xml:lang="slv-Latn-x-rez">.</foreign> cacù Maria Vergina nalese<note xml:id="section-13-p-15-s-167-note-25">
+							<foreign xml:lang="slv-Latn-x-rezsg">nalæ'zæ</foreign>
+							<foreign xml:lang="deu-Latn">(Archaismus)' = 'S. 205:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezsg">je nájšla</foreign>
+							<foreign xml:lang="deu-Latn">'= 'S. 206:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezsg">je nalæ'zla</foreign>
+						</note> tuv Templine jesù Crishtusha.</s>
+				</p>
+			</div>
+			<div n="12-3" xml:id="section-14" type="section" data-level="1">
+				<p xml:id="section-14-p-16">
+					<s n="163" xml:id="section-14-p-16-s-168">Part ta sehont Dolorous<milestone unit="subdivision" n="15" xml:id="section-14-p-16-s-168-milestone-15" />
+					</s>
+					<s n="164" xml:id="section-14-p-16-s-169">1 <foreign xml:lang="slv-Latn-x-rez">.</foreign> cacù Jesus Crishtush sputil Crij tou Uarte Getsemani<note xml:id="section-14-p-16-s-169-note-26">
+							<foreign xml:lang="deu-Latn">S. 207:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezgni">tòu wàrtace od Jacémane.</foreign>
+						</note> .</s>
+					<s n="165" xml:id="section-14-p-16-s-170">2 <foreign xml:lang="slv-Latn-x-rez">.</foreign> cacù jesus Cristush je bil flagelan tapar nì Caluni.</s>
+					<s n="166" xml:id="section-14-p-16-s-171">3 <foreign xml:lang="slv-Latn-x-rez">.</foreign> cacù jusus je nesal Crish uvn nà Calvarj.</s>
+					<s n="167" xml:id="section-14-p-16-s-172">4 <foreign xml:lang="slv-Latn-x-rez">.</foreign> cacù jesus je bil Coronan, s nò tarnouo Caruno.</s>
+					<s n="168" xml:id="section-14-p-16-s-173">5 <foreign xml:lang="slv-Latn-x-rez">.</foreign> cacù jesus je uvmar tana Crishu sa nas.</s>
+				</p>
+			</div>
+			<div n="12-4" xml:id="section-15" type="section" data-level="1">
+				<p xml:id="section-15-p-17">
+					<s n="169" xml:id="section-15-p-17-s-174">Part tretgna Glorios.<milestone unit="subdivision" n="16" xml:id="section-15-p-17-s-174-milestone-16" />
+					</s>
+					<s n="170" xml:id="section-15-p-17-s-175">1 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Cacù jesus je Resuscital od Smarti.</s>
+					<s n="171" xml:id="section-15-p-17-s-176">2 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Cacù je shal dopo 40 <foreign xml:lang="slv-Latn-x-rez">
+							<lb n="18" />. <foreign xml:lang="slv-Latn-x-rez">
+								<note xml:id="section-15-p-17-s-176-note-27">
+									<lb n="19" />štrêdi</note>
+							</foreign>
+						</foreign> dnuv un Paravish.</s>
+					<s n="172" xml:id="section-15-p-17-s-177">3 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Cacù parshal Sveti Duh zhis Apostule jè illuminal <foreign xml:lang="slv-Latn-x-rez">
+							<note xml:id="section-15-p-17-s-177-note-28">
+								<lb n="20" />ilumin{e}_t</note>
+						</foreign> .</s>
+					<s n="173" xml:id="section-15-p-17-s-178">4 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Cacù Maria Vergina bè<note xml:id="section-15-p-17-s-178-note-29">
+							<foreign xml:lang="deu-Latn">S. 210:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezgni">je bíla.</foreign>
+						</note> nashanà od Agnulou tuv Paravish.</s>
+					<s n="174" xml:id="section-15-p-17-s-179">5 <foreign xml:lang="slv-Latn-x-rez">.</foreign> Cacù Maria Vergina bè<note xml:id="section-15-p-17-s-179-note-30">
+							<foreign xml:lang="deu-Latn">S. 211:</foreign>
+							<foreign xml:lang="slv-Latn-x-rezgni">je bíla.</foreign>
+						</note> coronana tou Paravishe.</s>
+					<s n="175" xml:id="section-15-p-17-s-180">Gloria bodi visachimù Bohù. <foreign xml:lang="deu-Latn">Copetti. io 182121.</foreign>
+					</s>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

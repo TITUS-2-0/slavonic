@@ -9,11 +9,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
-- initial creation (2025-03-07)
-- valid version (2025-03-07)
-- smoother breaks (2025-03-14)
-- reset rezka (2025-03-17)
-- revert to pre rezka (2025-03-17)
-- fix hierarchy (2025-03-17)
-- language update (2025-04-04)
-- language codes (2025-04-08)
+- No details available.
