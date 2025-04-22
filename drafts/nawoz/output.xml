@@ -47,7 +47,7 @@
 	</teiHeader>
 	<text xml:lang="hsb-Latn">
 		<body>
-			<lg n="1" type="stanza" xml:id="lg-1">
+			<lg n="1" type="chant" xml:id="lg-1">
 				<head>Prěni spěw</head>
 				<l n="1" xml:id="lg-1-l-1">Na šěsćdźesato do žnjencowej žno mi kosy z najrjeńšim</l>
 				<l n="2" xml:id="lg-1-l-2">zarěča brus. Pak za hólca, za hospodarja šće tola</l>
@@ -430,7 +430,7 @@
 				<l n="379" xml:id="lg-1-l-379">po honach žohnowanje. Bóh kitać před wšitkim złom b'dźe</l>
 				<l n="380" xml:id="lg-1-l-380">nastajnosći wšón serbowski kraj swojom serbskemu ludej."</l>
 			</lg>
-			<lg n="2" type="stanza" xml:id="lg-2">
+			<lg n="2" type="chant" xml:id="lg-2">
 				<head>Druhi spěw</head>
 				<l n="1" xml:id="lg-2-l-381">Kaž so po honach dowjeselić ani njemóže zróstny</l>
 				<l n="2" xml:id="lg-2-l-382">kłós, wuwlečeny nad błyšćatej, wšokřewjatej rosu</l>
@@ -772,7 +772,7 @@
 				<l n="338" xml:id="lg-2-l-718">po wobličach jim. Z najpřistojnišim so ze wšěmi Michał</l>
 				<l n="339" xml:id="lg-2-l-719">postrowiwši nětk, jědźeše do dwora wumjećeneho.</l>
 			</lg>
-			<lg n="3" type="stanza" xml:id="lg-3">
+			<lg n="3" type="chant" xml:id="lg-3">
 				<head>Třeći spěw</head>
 				<l n="1" xml:id="lg-3-l-720">Hdyž bě Michał do hródźe wurunanej žno 'mu konjej</l>
 				<l n="2" xml:id="lg-3-l-721">sćahnył a do korta kamjentneho nětk nasypał wowsa,</l>
@@ -1115,7 +1115,7 @@
 				<l n="339" xml:id="lg-3-l-1058">Dorěča. Strach bě po wobličach wulał so jim wšitkim.</l>
 				<l n="340" xml:id="lg-3-l-1059">Syn pak pospěchujo žno bě ze zrudźbu do wrotow zašoł.</l>
 			</lg>
-			<lg n="4" type="stanza" xml:id="lg-4">
+			<lg n="4" type="chant" xml:id="lg-4">
 				<head>Štwórty spěw</head>
 				<l n="1" xml:id="lg-4-l-1060">Na nikoho njehladajo, přez dwór kročeše Michał</l>
 				<l n="2" xml:id="lg-4-l-1061">do konjenca, zo konjej by wothladal swojej najlubšej.</l>
@@ -1493,7 +1493,7 @@
 				<l n="374" xml:id="lg-4-l-1433">Konjej zgratowawši sebi, zapřeže do woza žitnoh,</l>
 				<l n="375" xml:id="lg-4-l-1434">na rěbliznu so zlehnywši, do polow ćěrješe ze wsy.</l>
 			</lg>
-			<lg n="5" type="stanza" xml:id="lg-5">
+			<lg n="5" type="chant" xml:id="lg-5">
 				<head>Pjaty spěw</head>
 				<l n="1" xml:id="lg-5-l-1435">Po njebjesach žno bě pokročiło zas ze stopu spěšnej</l>
 				<l n="2" xml:id="lg-5-l-1436">słónco, so za zelene pochilejo hory z najmilšim.</l>
@@ -1950,7 +1950,7 @@
 				<l n="453" xml:id="lg-5-l-1887">wza sej kluč wyše duri a wotewriwši sej z nim chěžu,</l>
 				<l n="454" xml:id="lg-5-l-1888">zamkny ju za sobu. We snach žno kolebaše so 'mu dom wšón.</l>
 			</lg>
-			<lg n="6" type="stanza" xml:id="lg-6">
+			<lg n="6" type="chant" xml:id="lg-6">
 				<head>Šesty spěw</head>
 				<l n="1" xml:id="lg-6-l-1889">Po schodźe přez nachěžu so sćicha włečeše Michał</l>
 				<l n="2" xml:id="lg-6-l-1890">do komorki, zo by njewubudźił tola ze spanja staršej</l>
@@ -2193,7 +2193,7 @@
 				<l n="239" xml:id="lg-6-l-2127">njeskoleba. Tak ženjenymaj derje žiwymaj bě šće</l>
 				<l n="240" xml:id="lg-6-l-2128">njeležało so štož dźens. Měr po domje, po honach wšitkich.</l>
 			</lg>
-			<lg n="7" type="stanza" xml:id="lg-7">
+			<lg n="7" type="chant" xml:id="lg-7">
 				<head>Sydmy spěw</head>
 				<l n="1" xml:id="lg-7-l-2129">Štó ha na zahrodźe sebi Róžanćikec tola z ranja</l>
 				<l n="2" xml:id="lg-7-l-2130">hlada žno róže, mjez róžemi wjelerjeniša róža?</l>
@@ -2460,7 +2460,7 @@
 				<l n="263" xml:id="lg-7-l-2391">tak bě rozjasniło so tež po zrudźbach wobličo z rjeńšim</l>
 				<l n="264" xml:id="lg-7-l-2392">Michałowe. Měr ze statokom bě 'mu, wjeselo po nim.</l>
 			</lg>
-			<lg n="8" type="stanza" xml:id="lg-8">
+			<lg n="8" type="chant" xml:id="lg-8">
 				<head>Wosmy spěw</head>
 				<l n="1" xml:id="lg-8-l-2393">Po snědani jedyn po druhim ze jstwy rozešoł bě so.</l>
 				<l n="2" xml:id="lg-8-l-2394">Mać zašła bě na najstwu, rozhotować so zas drastu</l>
@@ -2793,7 +2793,7 @@
 				<l n="329" xml:id="lg-8-l-2721">Wot wotročka hač do husarki sebi kóždy najlěpje</l>
 				<l n="330" xml:id="lg-8-l-2722">słodźeći da, wšak wuspěwali běchu hlódni so w kemšach.</l>
 			</lg>
-			<lg n="9" type="stanza" xml:id="lg-9">
+			<lg n="9" type="chant" xml:id="lg-9">
 				<head>Džewjaty spěw</head>
 				<l n="1" xml:id="lg-9-l-2723">Poł dóšło žno bě po njebjesach rjenjebłyskatoh puća</l>
 				<l n="2" xml:id="lg-9-l-2724">słónco, witajo wot nyšpora wšěch pobožnych z wóčkom</l>

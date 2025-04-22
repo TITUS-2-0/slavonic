@@ -1,5 +1,5 @@
 - body:
-  - lg[n=1,type=stanza]:
+  - lg[n=1,type=chant]:
     - head: Prěni spěw
     - l[n=1]: Na šěsćdźesato do žnjencowej žno mi kosy z najrjeńšim
     - l[n=2]: zarěča brus. Pak za hólca, za hospodarja šće tola
@@ -381,7 +381,7 @@
     - l[n=378]: ze Serbami. Do wěčnosće jim njebjesa rosować budźa
     - l[n=379]: po honach žohnowanje. Bóh kitać před wšitkim złom b'dźe
     - l[n=380]: nastajnosći wšón serbowski kraj swojom serbskemu ludej."
-  - lg[n=2,type=stanza]:
+  - lg[n=2,type=chant]:
     - head: Druhi spěw
     - l[n=1]: Kaž so po honach dowjeselić ani njemóže zróstny
     - l[n=2]: kłós, wuwlečeny nad błyšćatej, wšokřewjatej rosu
@@ -722,7 +722,7 @@
     - l[n=337]: pod lipu so rozwjeselichu. Směwk zakćě najmilši
     - l[n=338]: po wobličach jim. Z najpřistojnišim so ze wšěmi Michał
     - l[n=339]: postrowiwši nětk, jědźeše do dwora wumjećeneho.
-  - lg[n=3,type=stanza]:
+  - lg[n=3,type=chant]:
     - head: Třeći spěw
     - l[n=1]: Hdyž bě Michał do hródźe wurunanej žno 'mu konjej
     - l[n=2]: sćahnył a do korta kamjentneho nětk nasypał wowsa,
@@ -1064,7 +1064,7 @@
     - l[n=338]: wozaj mi dwaj nakłasć sebi njemóhła z fórotom pyšnym!"
     - l[n=339]: Dorěča. Strach bě po wobličach wulał so jim wšitkim.
     - l[n=340]: Syn pak pospěchujo žno bě ze zrudźbu do wrotow zašoł.
-  - lg[n=4,type=stanza]:
+  - lg[n=4,type=chant]:
     - head: Štwórty spěw
     - l[n=1]: Na nikoho njehladajo, přez dwór kročeše Michał
     - l[n=2]: do konjenca, zo konjej by wothladal swojej najlubšej.
@@ -1441,7 +1441,7 @@
     - l[n=373]: wobličo, bě nětk pozběhnyła so nimale z njeho.
     - l[n=374]: Konjej zgratowawši sebi, zapřeže do woza žitnoh,
     - l[n=375]: na rěbliznu so zlehnywši, do polow ćěrješe ze wsy.
-  - lg[n=5,type=stanza]:
+  - lg[n=5,type=chant]:
     - head: Pjaty spěw
     - l[n=1]: Po njebjesach žno bě pokročiło zas ze stopu spěšnej
     - l[n=2]: słónco, so za zelene pochilejo hory z najmilšim.
@@ -1897,7 +1897,7 @@
     - l[n=452]: staješe po dworje. Ke chěžinym nětk došedši durjam,
     - l[n=453]: wza sej kluč wyše duri a wotewriwši sej z nim chěžu,
     - l[n=454]: zamkny ju za sobu. We snach žno kolebaše so 'mu dom wšón.
-  - lg[n=6,type=stanza]:
+  - lg[n=6,type=chant]:
     - head: Šesty spěw
     - l[n=1]: Po schodźe přez nachěžu so sćicha włečeše Michał
     - l[n=2]: do komorki, zo by njewubudźił tola ze spanja staršej
@@ -2139,7 +2139,7 @@
     - l[n=238]: radźičku z wjeselišim, doniž spar jej do sonow miłšich
     - l[n=239]: njeskoleba. Tak ženjenymaj derje žiwymaj bě šće
     - l[n=240]: njeležało so štož dźens. Měr po domje, po honach wšitkich.
-  - lg[n=7,type=stanza]:
+  - lg[n=7,type=chant]:
     - head: Sydmy spěw
     - l[n=1]: Štó ha na zahrodźe sebi Róžanćikec tola z ranja
     - l[n=2]: hlada žno róže, mjez róžemi wjelerjeniša róža?
@@ -2405,7 +2405,7 @@
     - l[n=262]: po dešćikach zaso wujasnjeja so z módrinu hłubšej,
     - l[n=263]: tak bě rozjasniło so tež po zrudźbach wobličo z rjeńšim
     - l[n=264]: Michałowe. Měr ze statokom bě 'mu, wjeselo po nim.
-  - lg[n=8,type=stanza]:
+  - lg[n=8,type=chant]:
     - head: Wosmy spěw
     - l[n=1]: Po snědani jedyn po druhim ze jstwy rozešoł bě so.
     - l[n=2]: Mać zašła bě na najstwu, rozhotować so zas drastu
@@ -2737,7 +2737,7 @@
     - l[n=328]: bě wopjekła jim na pónoji šće tež swinjacu pječeń.
     - l[n=329]: Wot wotročka hač do husarki sebi kóždy najlěpje
     - l[n=330]: słodźeći da, wšak wuspěwali běchu hlódni so w kemšach.
-  - lg[n=9,type=stanza]:
+  - lg[n=9,type=chant]:
     - head: Džewjaty spěw
     - l[n=1]: Poł dóšło žno bě po njebjesach rjenjebłyskatoh puća
     - l[n=2]: słónco, witajo wot nyšpora wšěch pobožnych z wóčkom
