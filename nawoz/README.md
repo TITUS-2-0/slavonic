@@ -29,7 +29,7 @@ The TITUS 1 structural units are mapped onto TEI as follows:
 text (@xml:lang=hsb-Latn)
   body
     lg (@n, @type=chant, @xml:id) (multiple)
-      head
+      head (multiple)
       l (@n, @xml:id) (multiple)
 ```
 
