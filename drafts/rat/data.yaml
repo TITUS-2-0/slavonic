@@ -4976,7 +4976,7 @@ text:
     - ab[n=26,type=verse]:
       - foreign[lg=rus-Cyrl]: И умеръ Iосифъ ста десяти лѣтъ. И набальзамировали его,
           и положили въ ковчегѣ въ Египтѣ.
-      - foreign[lg=deu-Latn]: Ex.
+      - foreign[lg=und-Latn-x-general]: Ex.
   - chapter[n=1]:
     - ab[n=1,type=verse]:
       - foreign[lg=rus-Cyrl]: 'Вотъ имена сыновъ Израилевыхъ, которые вошли въ Египетъ
@@ -8982,7 +8982,7 @@ text:
       - foreign[lg=rus-Cyrl]: Ибо облако Iеговы стояло надъ скинiею днемъ, ночью же
           огнь былъ въ немъ, предъ очами всего дома Израилева, во все путешествiе
           ихъ.
-      - foreign[lg=deu-Latn]: Lev.
+      - foreign[lg=und-Latn-x-general]: Lev.
   - chapter[n=1]:
     - ab[n=1,type=verse]:
       - foreign[lg=rus-Cyrl]: 'И призвалъ Господь Моисея и говорилъ ему изъ скинiи
@@ -11899,7 +11899,7 @@ text:
     - ab[n=34,type=verse]:
       - foreign[lg=rus-Cyrl]: Вотъ заповѣди, которыя заповѣдалъ Господь чрезъ Моисея
           сынамъ Израилевымъ на горѣ Синаѣ.
-      - foreign[lg=deu-Latn]: Num.
+      - foreign[lg=und-Latn-x-general]: Num.
   - chapter[n=1]:
     - ab[n=1,type=verse]:
       - foreign[lg=rus-Cyrl]: 'И говорилъ Господь Моисею въ пустынѣ Синайской, въ
@@ -16071,7 +16071,7 @@ text:
       - foreign[lg=rus-Cyrl]: Сiи суть повелѣнiя и постановленiя, которыя далъ Господь
           сынамъ Израилевымъ чрезъ Моисея на равнинахъ Моавитскихъ у Iордана противъ
           Iерихона.
-      - foreign[lg=deu-Latn]: Deut.
+      - foreign[lg=und-Latn-x-general]: Deut.
   - chapter[n=1]:
     - ab[n=1,type=verse]:
       - foreign[lg=rus-Cyrl]: Сiи суть слова, которыя говорилъ Моисей всѣмъ Израильтянамъ

@@ -24,7 +24,7 @@
 			<langUsage>
 				<language ident="orv-Cyrl">Old Russian</language>
 				<language ident="rus-Cyrl">Russian</language>
-				<language ident="deu-Latn">German</language>
+				<language ident="und-Latn-x-general">General</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
@@ -4727,7 +4727,7 @@
 				</ab>
 				<ab n="26" type="verse" xml:id="chapter-50-ab-1533">
 					<foreign xml:lang="rus-Cyrl">И умеръ Iосифъ ста десяти лѣтъ. И набальзамировали его, и положили въ ковчегѣ въ Египтѣ.</foreign>
-					<foreign xml:lang="deu-Latn">Ex.</foreign>
+					<foreign xml:lang="und-Latn-x-general">Ex.</foreign>
 				</ab>
 			</div>
 			<div n="1" xml:id="chapter-51" type="chapter" data-level="1">
@@ -8450,7 +8450,7 @@
 				</ab>
 				<ab n="38" type="verse" xml:id="chapter-90-ab-2747">
 					<foreign xml:lang="rus-Cyrl">Ибо облако Iеговы стояло надъ скинiею днемъ, ночью же огнь былъ въ немъ, предъ очами всего дома Израилева, во все путешествiе ихъ.</foreign>
-					<foreign xml:lang="deu-Latn">Lev.</foreign>
+					<foreign xml:lang="und-Latn-x-general">Lev.</foreign>
 				</ab>
 			</div>
 			<div n="1" xml:id="chapter-91" type="chapter" data-level="1">
@@ -11079,7 +11079,7 @@
 				</ab>
 				<ab n="34" type="verse" xml:id="chapter-117-ab-3605">
 					<foreign xml:lang="rus-Cyrl">Вотъ заповѣди, которыя заповѣдалъ Господь чрезъ Моисея сынамъ Израилевымъ на горѣ Синаѣ.</foreign>
-					<foreign xml:lang="deu-Latn">Num.</foreign>
+					<foreign xml:lang="und-Latn-x-general">Num.</foreign>
 				</ab>
 			</div>
 			<div n="1" xml:id="chapter-118" type="chapter" data-level="1">
@@ -15016,7 +15016,7 @@
 				</ab>
 				<ab n="13" type="verse" xml:id="chapter-153-ab-4893">
 					<foreign xml:lang="rus-Cyrl">Сiи суть повелѣнiя и постановленiя, которыя далъ Господь сынамъ Израилевымъ чрезъ Моисея на равнинахъ Моавитскихъ у Iордана противъ Iерихона.</foreign>
-					<foreign xml:lang="deu-Latn">Deut.</foreign>
+					<foreign xml:lang="und-Latn-x-general">Deut.</foreign>
 				</ab>
 			</div>
 			<div n="1" xml:id="chapter-154" type="chapter" data-level="1">
