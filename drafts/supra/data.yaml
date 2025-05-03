@@ -8963,7 +8963,7 @@ text:
     - lb[type=edition,n=2]: моуже слава ῾и дръжава · в᾽ь вѣкы вѣ-
     - lb[type=edition,n=3]: комъ ῾аминъ ·:·
     - chapter[n=24]:
-      - foreign[lg=deu-Latn]: Cap. 24
+      - foreign[lg=und-Latn-x-general]: Cap. 24
       - pb[type=manuscript,n=2_(=_136)b]
       - lb[type=edition,n=5]: мѣсѧца марта л҃ житиэ прѣпрост᾽ь · ῾отьца їу̑῾ана ῾игоу-
       - lb[type=edition,n=6]: мена с҃тыѧ горы сине῾искы · ῾эмоуже прирокъ схоластик᾽
@@ -9169,7 +9169,7 @@ text:
       - lb[type=edition,n=7]: же нашемоу слава · ныня ῾и присно ῾и вь
       - lb[type=edition,n=8]: вѣкы вѣкомъ ῾аминъ ·:· ̅
     - chapter[n=25]:
-      - foreign[lg=deu-Latn]: Cap. 25
+      - foreign[lg=und-Latn-x-general]: Cap. 25
       - pb[type=manuscript,n=5_(=_139)b]
       - lb[type=edition,n=9]: мѣсѧца марта л҃а · житиэ с҃тааго їу̑ана ῾епискоупа
       - lb[type=edition,n=10]: мл᾽ьчаливааго · моностыра ῾отца нашего савы · ·
@@ -9988,7 +9988,7 @@ text:
       - lb[type=edition,n=28]: ῾и свѧтоуоу̑моу доухоу · ныня ῾и присно
       - lb[type=edition,n=29]: ῾и вь вѣкы вѣком᾽ь · ῾амин ·:·
     - chapter[n=26]:
-      - foreign[lg=deu-Latn]: Cap. 26
+      - foreign[lg=und-Latn-x-general]: Cap. 26
       - pb[type=manuscript,n=18_(=_152)a]
       - pb[type=edition,n=303]
       - pb[type=manuscript,n=17_(=_151)b]
@@ -10287,7 +10287,7 @@ text:
       - lb[type=edition,n=26]: тымъ ҃҃дхомъ · ныня ῾и ῾и присно ῾и вь вѣкы вѣкомъ
       - lb[type=edition,n=27]: ῾аминъ ·:·
     - chapter[n=27]:
-      - foreign[lg=deu-Latn]: Cap. 27
+      - foreign[lg=und-Latn-x-general]: Cap. 27
       - pb[type=manuscript,n=22_(=_156)b]
       - pb[type=edition,n=312]
       - pb[type=manuscript,n=22_(=_156)a]
@@ -10498,7 +10498,7 @@ text:
       - lb[type=edition,n=6]: стоса · ῾эмоуже слава ῾и дръжава · ныня
       - lb[type=edition,n=7]: ῾и присно ῾и в᾽ь вѣкы вѣком᾽ь ῾амин ·:·
     - chapter[n=28]:
-      - foreign[lg=deu-Latn]: Cap. 28
+      - foreign[lg=und-Latn-x-general]: Cap. 28
       - pb[type=manuscript,n=25_(=_159)b]
       - lb[type=edition,n=10]: свѧтааго ῾отца нашего їу̑῾ана ӡатооу̑стааго · слово
       - lb[type=edition,n=11]: на врьбьницѫ ·:·
@@ -10965,7 +10965,7 @@ text:
       - lb[type=edition,n=10]: моу въӡдаѭ̑ште · ныня ῾и присно ῾и в᾽ь вѣ-
       - lb[type=edition,n=11]: кы вѣкомь ῾амин ·:·
     - chapter[n=29]:
-      - foreign[lg=deu-Latn]: Cap. 29
+      - foreign[lg=und-Latn-x-general]: Cap. 29
       - pb[type=manuscript,n=32_(=_166)b]
       - lb[type=edition,n=13]: фотя патри῾арха конъстантиня града сло-
       - lb[type=edition,n=14]: во на връбницѫ ῾и ῾о лаӡарѣ ·:·
@@ -11317,7 +11317,7 @@ text:
       - lb[type=edition,n=27]: тро῾ици · ныњѣ ῾и присно ῾и вь вѣкы
       - lb[type=edition,n=28]: вѣком᾽ь ῾амин ·:·
     - chapter[n=30]:
-      - foreign[lg=deu-Latn]: Cap. 30
+      - foreign[lg=und-Latn-x-general]: Cap. 30
       - pb[type=manuscript,n=38_(=_172)a]
       - pb[type=edition,n=343]
       - pb[type=manuscript,n=37_(=_171)a]
@@ -11705,7 +11705,7 @@ text:
       - lb[type=edition,n=13]: же слава ῾и дръжава ныњѣ ῾и присно ῾и в᾽ь
       - lb[type=edition,n=14]: вѣкы вѣкомъ · ῾амин ·:·
     - chapter[n=31]:
-      - foreign[lg=deu-Latn]: Cap. 31
+      - foreign[lg=und-Latn-x-general]: Cap. 31
       - pb[type=manuscript,n=43_(=_177)b]
       - lb[type=edition,n=16]: свѧтааго їу̑῾анна ӡлатооу̑ста῾аго · слово ῾о ῾алка-
       - lb[type=edition,n=17]: нии · ї у̑ їу̑сифѣ · ῾и ῾о попѣ ῾и ῾о давыдѣ ·:·
@@ -12176,7 +12176,7 @@ text:
       - lb[type=edition,n=19]: бога в᾽ьсе спѣ῾этъ сѧ на добро · томоу слава
       - lb[type=edition,n=20]: ныня ῾и присно ῾и в᾽ь вѣкы вѣком᾽ь ῾амин ·:·
     - chapter[n=32]:
-      - foreign[lg=deu-Latn]: Cap. 32
+      - foreign[lg=und-Latn-x-general]: Cap. 32
       - pb[type=manuscript,n=50_(=_184)b]
       - lb[type=edition,n=22]: того жде їу̑῾анна ӡлатооу̑стааго слово · ῾отъ тлъкования
       - lb[type=edition,n=23]: ῾еу῾агге̑лиѧ · ῾яже ῾отъ мат᾽ѳеѧ ῾о десѧти дѣвицъ ·
@@ -12697,7 +12697,7 @@ text:
       - lb[type=edition,n=8]: коуп᾽но съ свѧты῾имъ д҃хом᾽ь · в᾽ь вѣкы вѣкомь ῾ами҃н
           ·:·
     - chapter[n=33]:
-      - foreign[lg=deu-Latn]: Cap. 33
+      - foreign[lg=und-Latn-x-general]: Cap. 33
       - pb[type=manuscript,n=58_(=_192)b]
       - lb[type=edition,n=10]: їу̑῾ан᾽на ῾҃архи῾еппа ӡлатооу̑стааго слово въ великы᾽и
           въ-
@@ -12888,7 +12888,7 @@ text:
       - lb[type=edition,n=29]: ῾о христосѣ їсоусѣ бога нашего · ныня ῾и при-
       - lb[type=edition,n=30]: сно ῾и в᾽ь вѣкы вѣкомъ ῾аминъ ·:·
     - chapter[n=34]:
-      - foreign[lg=deu-Latn]: Cap. 34
+      - foreign[lg=und-Latn-x-general]: Cap. 34
       - pb[type=manuscript,n=61_(=_195)b]
       - pb[type=edition,n=390]
       - pb[type=manuscript,n=61_(=_195)a]
@@ -13076,7 +13076,7 @@ text:
       - lb[type=edition,n=18]: мъ доухом᾽ь · ныня ῾и присно ῾и в᾽ь вѣкы
       - lb[type=edition,n=19]: вѣкомъ ῾амин ·:·
     - chapter[n=35]:
-      - foreign[lg=deu-Latn]: Cap. 35
+      - foreign[lg=und-Latn-x-general]: Cap. 35
       - pb[type=manuscript,n=64_(=_198)a]
       - lb[type=edition,n=22]: їу̑῾анна ῾҃архи῾еппа ӡлатооу̑стааго слово в᾽ь великѫ
       - lb[type=edition,n=23]: срѣдѫ · ῾о ӡависти ῾эже въ ῾еу῾агге̑ли᾽и речено · ῾иӡлѣӡъ-
@@ -13391,7 +13391,7 @@ text:
         - pb[type=edition,n=405]
       - lb[type=edition,n=1]: в᾽ь вѣкы вѣкомъ ῾аминъ ·:·
     - chapter[n=36]:
-      - foreign[lg=deu-Latn]: Cap. 36
+      - foreign[lg=und-Latn-x-general]: Cap. 36
       - pb[type=manuscript,n=69_(=_203)a]
       - lb[type=edition,n=3]: ї῾ана ῾архи῾епискоупа костантиня града ӡлатооу̑стаа-
       - lb[type=edition,n=4]: го слово въ свѧтыи четврът᾽ькъ · ῾о прѣдани-їдѣлатељемъ
@@ -14035,7 +14035,7 @@ text:
       - lb[type=edition,n=12]: ῾отцоу слава коупно съ с҃ты῾имъ доухом᾽ь ·
       - lb[type=edition,n=13]: ныня ῾и присно ῾и вь вѣкы вѣкомъ · ῾амин᾽ ·:·
     - chapter[n=37]:
-      - foreign[lg=deu-Latn]: Cap. 37
+      - foreign[lg=und-Latn-x-general]: Cap. 37
       - pb[type=manuscript,n=78_(=_212)b]
       - lb[type=edition,n=15]: їу̑῾анна ӡлатооу̑стааго слово в᾽ь великы четврътък᾽
           ·
@@ -14146,7 +14146,7 @@ text:
       - lb[type=edition,n=21]: т᾽цемъ ῾и съ с҃ты῾имъ доухом᾽ь · ныня ῾и при-
       - lb[type=edition,n=22]: сно ῾и в᾽ьвѣкы вѣком᾽ъ ·:· ῾аминъ ·:·
     - chapter[n=38]:
-      - foreign[lg=deu-Latn]: Cap. 38
+      - foreign[lg=und-Latn-x-general]: Cap. 38
       - pb[type=manuscript,n=80_(=_214)a]
       - lb[type=edition,n=25]: с҃та῾аго о҃ца нашего їу̑῾анна ӡлатооу̑ста῾аго · слово
           въ свѧ-
@@ -14536,7 +14536,7 @@ text:
       - lb[type=edition,n=12]: ῾эмоуже слава ῾и дръжава ныня ῾и присно ῾и в᾽ь
       - lb[type=edition,n=13]: вѣкы вѣкомь ῾аминъ ·:·
     - chapter[n=39]:
-      - foreign[lg=deu-Latn]: Cap. 39
+      - foreign[lg=und-Latn-x-general]: Cap. 39
       - pb[type=manuscript,n=86_(=_220)a]
       - lb[type=edition,n=15]: ї῾анна ῾архи῾епискоупа костантиня града ӡлатооу̑ста᾽-
       - lb[type=edition,n=16]: го · ῾отъ съкаӡания ῾еуагге̑л᾽ьскааго · ῾эже отъ матѳеѧ
@@ -14820,7 +14820,7 @@ text:
       - lb[type=edition,n=25]: г҃а нашего їсоуса х҃са · ῾эмоуже слава в᾽ь вѣкы
       - lb[type=edition,n=26]: вѣкомъ · ῾амин ·:·
     - chapter[n=40]:
-      - foreign[lg=deu-Latn]: Cap. 40
+      - foreign[lg=und-Latn-x-general]: Cap. 40
       - pb[type=manuscript,n=90_(=_224)a]
       - lb[type=edition,n=28]: слово с҃тааго ᾽епифания ᾽архи᾽епискоупа купрь-
       - lb[type=edition,n=29]: ска · ᾽о погребени῾и тѣл᾽е г҃и нашего їсоу х҃а · ї
@@ -15627,7 +15627,7 @@ text:
       - lb[type=edition,n=11]: рѧштиимъ д҃хом῾ь ныня и присно ᾽и в῾ь вѣкы
       - lb[type=edition,n=12]: вѣкомъ · ῾Амин · · ·
     - chapter[n=41]:
-      - foreign[lg=deu-Latn]: Cap. 41
+      - foreign[lg=und-Latn-x-general]: Cap. 41
       - pb[type=manuscript,n=102(_236)a]
       - lb[type=edition,n=15]: їу̑᾽ана ᾽҃архи᾽еппа костантиня града ӡлатооу̑стааго
           на
@@ -15897,7 +15897,7 @@ text:
       - lb[type=edition,n=1]: тѣ῾ѣмь · ᾽якоже ᾽испр῾ьва · ныня ᾽и присно ᾽и в῾ь вѣ-
       - lb[type=edition,n=2]: кы вѣкомъ ᾽амин · · ·
     - chapter[n=42]:
-      - foreign[lg=deu-Latn]: Cap. 42
+      - foreign[lg=und-Latn-x-general]: Cap. 42
       - pb[type=manuscript,n=106(_240)a]
       - lb[type=edition,n=4]: ї᾽ан᾽на ᾽҃архи᾽еппа костантиня града ӡлатооу̑стааго
           слово
@@ -16153,7 +16153,7 @@ text:
       - lb[type=edition,n=17]: ᾽яко томоу слава и дръжава в῾ь вѣкы вѣкомь ᾽амин᾽ ·
           · ·
     - chapter[n=43]:
-      - foreign[lg=deu-Latn]: Cap. 43
+      - foreign[lg=und-Latn-x-general]: Cap. 43
       - pb[type=manuscript,n=109(_243)b]
       - lb[type=edition,n=19]: свѧтааго о҃ца нашего ї ᾽҃ар᾽хи᾽еппа быв᾽ша костантињѣ
       - lb[type=edition,n=20]: града · їу̑᾽анна ӡлатооу̑ста᾽аго · слово на трид᾽невно-
@@ -16556,7 +16556,7 @@ text:
       - lb[type=edition,n=10]: слава ч῾ьст῾ь дръжава · ныня ᾽и присно ᾽и вь вѣ-
       - lb[type=edition,n=11]: кы вѣком῾ь · ῾Амин · · ·
     - chapter[n=44]:
-      - foreign[lg=deu-Latn]: Cap. 44
+      - foreign[lg=und-Latn-x-general]: Cap. 44
       - pb[type=manuscript,n=115(_249)b]
       - lb[type=edition,n=12]: с҃тааго ᾽҃оца нашего їу̑᾽анна ӡлатооу̑стааго слово
       - lb[type=edition,n=13]: въ новѫѭ̑ недѣљѫ · ᾽и ᾽о невѣрьствиї ᾽҃апо҃ла ѳомы
@@ -16894,7 +16894,7 @@ text:
       - lb[type=edition,n=8]: шемъ · ᾽эмоуже слава съ ᾽отцемъ ᾽и сь свѧты᾽имь
       - lb[type=edition,n=9]: доухом῾ь · в῾ь вѣкы вѣкомъ · ᾽амин · · ·
     - chapter[n=45]:
-      - foreign[lg=deu-Latn]: Cap. 45
+      - foreign[lg=und-Latn-x-general]: Cap. 45
       - pb[type=manuscript,n=120(_254)b]
       - lb[type=edition,n=11]: свѧта᾽аго о҃ца нашего їу̑᾽ана ᾽҃ар᾽хи᾽еппа костан῾ьтиня
           града
@@ -17077,7 +17077,7 @@ text:
       - lb[type=edition,n=12]: глагољѫште · г҃ь мои ᾽и б҃ъ мо῾и · томоу слава ᾽и дръ-
       - lb[type=edition,n=13]: жава в῾ь вѣкы вѣком῾ь ῾Амин · · ·
     - chapter[n=46]:
-      - foreign[lg=deu-Latn]: Cap. 46
+      - foreign[lg=und-Latn-x-general]: Cap. 46
       - pb[type=manuscript,n=123(_257)a]
       - lb[type=edition,n=15]: житиэ ї᾽аќѡва чрънориӡьца · много ᾽имы оу̑миљен῾ь῾э
           · · ·
@@ -17762,7 +17762,7 @@ text:
       - lb[type=edition,n=18]: ᾽и присно · ᾽и вь бесконеч῾ьны῾ѧ вѣкы вѣкомъ ᾽амин῾ь
           · · ·
     - chapter[n=47]:
-      - foreign[lg=deu-Latn]: Cap. 47
+      - foreign[lg=und-Latn-x-general]: Cap. 47
       - pb[type=manuscript,n=132(_266)b]
       - lb[type=edition,n=19g1]: ̅марта
       - lb[type=edition,n=19g2]: въ ӡ҃ д᾽нь
@@ -18151,7 +18151,7 @@ text:
       - lb[type=edition,n=11]: слава ᾽и дръжава въ бесконьч῾ьныѧ вѣкы вѣко҃м῾ь · ·
           ·
     - chapter[n=48]:
-      - foreign[lg=deu-Latn]: Cap. 48
+      - foreign[lg=und-Latn-x-general]: Cap. 48
       - pb[type=manuscript,n=138(_272)a]
       - lb[type=edition,n=13]: жити῾э ᾽и дѣаниэ прѣподоб῾ьна᾽аго ᾽анина · · ·
       - lb[type=edition,n=14]: Пришъдъ люб῾ьӡнѣ · къ просвѣштению тво᾽эго ро҃-
