@@ -40,54 +40,28 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="lat-Latn" ana="secondary">Latin</language>
 				<language ident="ces-Latn-x-old-czech" ana="primary">Old Czech</language>
+				<language ident="lat-Latn" ana="secondary">Latin</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="ces-Latn-x-old-czech">
 		<body>
 			<div n="Gramm." xml:id="book-1" type="book" data-level="1">
-				<div n="Proem." xml:id="book-1-part-1" type="part" data-level="2">
-					<head xml:lang="lat-Latn">Proemium</head>
+				<div n="Proem." xml:id="book-1-part-1" type="part" data-level="2" xml:lang="lat-Latn">
+					<head>Proemium</head>
 					<p xml:id="book-1-part-1-p-1">
 						<lb n="1" />
-						<foreign xml:lang="lat-Latn">
-							<hi rend="smallcaps">Ut</hi>ilitas iuvenum me compulit edere metrum</foreign>
-						<lb n="2" />
-						<foreign xml:lang="lat-Latn">Vocibus imposita que dantur signa secunda,</foreign>
-						<lb n="3" />
-						<foreign xml:lang="lat-Latn">Hec pro posse meo resignabo sermone Boemo</foreign>
-						<lb n="4" />
-						<foreign xml:lang="lat-Latn">Nam sine vocabulis mens inscia dicitur omnis.</foreign>
-						<lb n="5" />
-						<foreign xml:lang="lat-Latn">Sed gratis edificat, sine Cristo quique laborat</foreign>
-						<lb n="6" />
-						<foreign xml:lang="lat-Latn">Hic, peto, quod mecum sistens iuvet edere totum.</foreign>
-						<lb n="7" />
-						<foreign xml:lang="lat-Latn">Ut non pervertam sensum, volo vertere que<supplied reason="omitted">n</supplied>dam,</foreign>
-						<lb n="8" />
-						<foreign xml:lang="lat-Latn">Cui vero non placeat <supplied reason="omitted">soli</supplied>, talia vel melius eda<supplied reason="omitted">n</supplied>t. -</foreign>
-					</p>
+						<hi rend="smallcaps">Ut</hi>ilitas iuvenum me compulit edere metrum<lb n="2" />Vocibus imposita que dantur signa secunda,<lb n="3" />Hec pro posse meo resignabo sermone Boemo<lb n="4" />Nam sine vocabulis mens inscia dicitur omnis.<lb n="5" />Sed gratis edificat, sine Cristo quique laborat<lb n="6" />Hic, peto, quod mecum sistens iuvet edere totum.<lb n="7" />Ut non pervertam sensum, volo vertere que<supplied reason="omitted">n</supplied>dam,<lb n="8" />Cui vero non placeat <supplied reason="omitted">soli</supplied>, talia vel melius eda<supplied reason="omitted">n</supplied>t. -</p>
 				</div>
 				<div n="A" xml:id="book-1-part-2" type="part" data-level="2">
 					<p xml:id="book-1-part-2-p-2">
-						<lb n="9" />
-						<foreign xml:lang="lat-Latn">Inprimis artes tribuam <supplied reason="lost">tibi</supplied> tres <supplied reason="lost">triviales</supplied>,</foreign>
-						<lb n="10" />
-						<foreign xml:lang="lat-Latn">Postea tunc tales quatuor sunt quadriviales.</foreign>
-						<lb n="11" />
-						<foreign xml:lang="lat-Latn">Collaterales quinque tribuam tibi, quales</foreign>
-						<lb n="12" />
-						<foreign xml:lang="lat-Latn">Sunt michi difficiles - prius accipe grammaticales</foreign>
-					</p>
+						<lb n="9" xml:lang="lat-Latn" />Inprimis artes tribuam <supplied reason="lost">tibi</supplied> tres <supplied reason="lost">triviales</supplied>,<lb n="10" xml:lang="lat-Latn" />Postea tunc tales quatuor sunt quadriviales.<lb n="11" xml:lang="lat-Latn" />Collaterales quinque tribuam tibi, quales<lb n="12" xml:lang="lat-Latn" />Sunt michi difficiles - prius accipe grammaticales</p>
 					<div n="I" xml:id="book-1-part-2-chapter-1" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De grammatica</head>
 						<p xml:id="book-1-part-2-chapter-1-p-3">
-							<lb n="13" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Gr</hi>ammaticam modicam volo tradere speculativam.</foreign>
-							<lb n="14" />
+							<lb n="13" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Gr</hi>ammaticam modicam volo tradere speculativam.<lb n="14" />
 							<foreign xml:lang="lat-Latn">Fertur grammatica</foreign> slowocztena, <foreign xml:lang="lat-Latn">litera</foreign> cztena,<lb n="15" />
 							<foreign xml:lang="lat-Latn">Vocalis</foreign> hlasa, <foreign xml:lang="lat-Latn">liquida</foreign> rozmek, <foreign xml:lang="lat-Latn">muta</foreign> nyemka,<lb n="16" />
 							<foreign xml:lang="lat-Latn">Consona</foreign> zwuczna, <foreign xml:lang="lat-Latn">sit</foreign> polhlasa <foreign xml:lang="lat-Latn">semivocalis,</foreign>
@@ -336,19 +310,13 @@
 							<lb n="152" />Wdawenye, sposob<supplied reason="lost">en</supplied>ye <foreign xml:lang="lat-Latn">conformitas tibi dabit.</foreign>
 							<lb n="153" />
 							<foreign xml:lang="lat-Latn">Atque diversitas</foreign> rozlicznost, <foreign xml:lang="lat-Latn">mutua</foreign> spolu. <foreign xml:lang="lat-Latn">-</foreign>
-							<lb n="154" />
-							<foreign xml:lang="lat-Latn">Sed modo non curas tibi scribere mille figuras,</foreign>
-							<lb n="155" />
-							<foreign xml:lang="lat-Latn">Sed<supplied reason="lost">de</supplied> grammatica tibi trado vocabula pauca. -</foreign>
-						</p>
+							<lb n="154" xml:lang="lat-Latn" />Sed modo non curas tibi scribere mille figuras,<lb n="155" xml:lang="lat-Latn" />Sed<supplied reason="lost">de</supplied> grammatica tibi trado vocabula pauca. -</p>
 					</div>
 					<div n="II" xml:id="book-1-part-2-chapter-2" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De rethorica</head>
 						<p xml:id="book-1-part-2-chapter-2-p-4">
-							<lb n="156" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Re</hi>thorice flores nunc exponam meliores</foreign>
-							<lb n="157" />
+							<lb n="156" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Re</hi>thorice flores nunc exponam meliores<lb n="157" />
 							<foreign xml:lang="lat-Latn">Eth<supplied reason="lost">or</supplied>ica post</foreign> mluwokrasa, <foreign xml:lang="lat-Latn">sit</foreign> okrasa <foreign xml:lang="lat-Latn">color,</foreign>
 							<lb n="158" />
 							<foreign xml:lang="lat-Latn">Dictamen</foreign> slozenye, domyslenyk <foreign xml:lang="lat-Latn">dico poeta,</foreign>
@@ -382,19 +350,13 @@
 							<lb n="180" />Obrzezanye <foreign xml:lang="lat-Latn">sit precisio,</foreign> przylozenye <foreign xml:lang="lat-Latn">vere</foreign>
 							<lb n="181" />
 							<foreign xml:lang="lat-Latn">Est transsumpcio stemmaque est</foreign> okraslenye <foreign xml:lang="lat-Latn">tum. -</foreign>
-							<lb n="182" />
-							<foreign xml:lang="lat-Latn">Ast modo non cures colores noscere plures.</foreign>
-							<lb n="183" />
-							<foreign xml:lang="lat-Latn">Hec de rethorica nunc nomina tradidi tanta. -</foreign>
-						</p>
+							<lb n="182" xml:lang="lat-Latn" />Ast modo non cures colores noscere plures.<lb n="183" xml:lang="lat-Latn" />Hec de rethorica nunc nomina tradidi tanta. -</p>
 					</div>
 					<div n="III" xml:id="book-1-part-2-chapter-3" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De loyca</head>
 						<p xml:id="book-1-part-2-chapter-3-p-5">
-							<lb n="184" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Lo</hi>qui perfectum loyca tribuit tibi sensum.</foreign>
-							<lb n="185" />
+							<lb n="184" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Lo</hi>qui perfectum loyca tribuit tibi sensum.<lb n="185" />
 							<foreign xml:lang="lat-Latn">Est loyca</foreign> rzeczena, <foreign xml:lang="lat-Latn">dyaletica</foreign> dworzeczena<lb n="186" />
 							<foreign xml:lang="lat-Latn">Atque preposicio</foreign> przye<supplied reason="lost">d</supplied>lozenye, <foreign xml:lang="lat-Latn">predicatum</foreign>
 							<lb n="187" />
@@ -421,11 +383,7 @@
 							<lb n="204" />
 							<foreign xml:lang="lat-Latn">Generali<supplied reason="omitted">si</supplied>ssima sunt</foreign> nayplodnyessye, <foreign xml:lang="lat-Latn">proprium</foreign> wlastnye,<lb n="205" />
 							<foreign xml:lang="lat-Latn">Differencia sit</foreign> rozdyel, <foreign xml:lang="lat-Latn">sed</foreign> przyhodawe <foreign xml:lang="lat-Latn">sit</foreign>
-							<lb n="206" />
-							<foreign xml:lang="lat-Latn">Accidens, wyprawenye diffinicio fiet. -</foreign>
-							<lb n="207" />
-							<foreign xml:lang="lat-Latn">Sed prius est dictum qualitas, substancia, quantum;</foreign>
-							<lb n="208" />
+							<lb n="206" xml:lang="lat-Latn" />Accidens, wyprawenye diffinicio fiet. -<lb n="207" xml:lang="lat-Latn" />Sed prius est dictum qualitas, substancia, quantum;<lb n="208" />
 							<foreign xml:lang="lat-Latn">Situs</foreign> polozenye <foreign xml:lang="lat-Latn">(x/'xx/'xx/'x)</foreign>
 							<lb n="209" />
 							<foreign xml:lang="lat-Latn">Equiparancia</foreign> srownanye, <foreign xml:lang="lat-Latn">disposicio</foreign> sposoba<lb n="210" />
@@ -441,16 +399,12 @@
 							<lb n="216" />Potazanye, <foreign xml:lang="lat-Latn">locus est</foreign> potwrzenye <foreign xml:lang="lat-Latn">maxima tum ...-</foreign>
 							<lb n="217" />
 							<foreign xml:lang="lat-Latn">Hec est ars ista loyca,</foreign> chytromuz <foreign xml:lang="lat-Latn">que zophista</foreign>
-							<lb n="218" />
-							<foreign xml:lang="lat-Latn">Explic<supplied reason="lost">iu</supplied>nt tales iam tres artes terminales.</foreign>
-						</p>
+							<lb n="218" xml:lang="lat-Latn" />Explic<supplied reason="lost">iu</supplied>nt tales iam tres artes terminales.</p>
 					</div>
 					<div n="IV" xml:id="book-1-part-2-chapter-4" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De musica</head>
 						<p xml:id="book-1-part-2-chapter-4-p-6">
-							<lb n="219" />
-							<foreign xml:lang="lat-Latn">Materiam musice congnosca<supplied reason="lost">s</supplied>, artis amice</foreign>
-							<lb n="220" />
+							<lb n="219" xml:lang="lat-Latn" />Materiam musice congnosca<supplied reason="lost">s</supplied>, artis amice<lb n="220" />
 							<foreign xml:lang="lat-Latn">Est autem musica</foreign>
 							<supplied reason="lost">w</supplied>odohlasna, spyewanye <foreign xml:lang="lat-Latn">
 								<supplied reason="lost">cantus?</supplied>,</foreign>
@@ -466,17 +420,13 @@
 							<foreign xml:lang="lat-Latn">Dyapason</foreign> dwoysyek, <foreign xml:lang="lat-Latn">sed dyateseron</foreign> cztwerodwoget;<lb n="227" />
 							<foreign xml:lang="lat-Latn">Quinta dic</foreign> pyetohlas, <foreign xml:lang="lat-Latn">octava sit</foreign> osmhlas;<lb n="228" />
 							<foreign xml:lang="lat-Latn">Clavis erit</foreign> klyczehlas, <foreign xml:lang="lat-Latn">nota sit</foreign> znamohlas. <foreign xml:lang="lat-Latn">-</foreign>
-							<lb n="229" />
-							<foreign xml:lang="lat-Latn">De musica plura non est mihi dicere cura. -</foreign>
-						</p>
+							<lb n="229" xml:lang="lat-Latn" />De musica plura non est mihi dicere cura. -</p>
 					</div>
 					<div n="V" xml:id="book-1-part-2-chapter-5" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De arismetrica</head>
 						<p xml:id="book-1-part-2-chapter-5-p-7">
-							<lb n="230" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Ar</hi>tem de numeris congnosces versibus istis</foreign>
-							<lb n="231" />
+							<lb n="230" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Ar</hi>tem de numeris congnosces versibus istis<lb n="231" />
 							<foreign xml:lang="lat-Latn">Arismetrica sit</foreign> poczetm<supplied reason="lost">i</supplied>era, <foreign xml:lang="lat-Latn">compotus</foreign> vczet,<lb n="232" />
 							<foreign xml:lang="lat-Latn">Compotus</foreign> swczet <foreign xml:lang="lat-Latn">que</foreign> hubenka <foreign xml:lang="lat-Latn">cifra.</foreign>
 							<lb n="233" />
@@ -493,16 +443,12 @@
 							<foreign xml:lang="lat-Latn">Dupla duarum terciarum</foreign> dwogetrzena <foreign xml:lang="lat-Latn">sit;</foreign>
 							<lb n="241" />
 							<foreign xml:lang="lat-Latn">Triplaque</foreign> troyna nawaz <foreign xml:lang="lat-Latn">tibi <supplied reason="lost">'xx'xx</supplied> fiet. -</foreign>
-							<lb n="242" />
-							<foreign xml:lang="lat-Latn">Sed de ponderibus modo volo scribere versus. -</foreign>
-						</p>
+							<lb n="242" xml:lang="lat-Latn" />Sed de ponderibus modo volo scribere versus. -</p>
 					</div>
 					<div n="VI" xml:id="book-1-part-2-chapter-6" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De geometria</head>
 						<p xml:id="book-1-part-2-chapter-6-p-8">
-							<lb n="243" />
-							<foreign xml:lang="lat-Latn">Prestans mensuram geometria dat tibi puram</foreign>
-							<lb n="244" />
+							<lb n="243" xml:lang="lat-Latn" />Prestans mensuram geometria dat tibi puram<lb n="244" />
 							<foreign xml:lang="lat-Latn">Est geometria</foreign> m<supplied reason="lost">i</supplied>eroze<supplied reason="lost">mn</supplied>a, zmyerzenye <foreign xml:lang="lat-Latn">pandis</foreign>
 							<lb n="245" />
 							<foreign xml:lang="lat-Latn">Hinc mensuram tibi,</foreign> pych <foreign xml:lang="lat-Latn">punctus, linea sit</foreign> czrch.<lb n="244" />
@@ -515,17 +461,12 @@
 							<foreign xml:lang="lat-Latn">Sit</foreign> dluhostyen <foreign xml:lang="lat-Latn">calatoydes</foreign> tupastyen <foreign xml:lang="lat-Latn">que</foreign>
 							<lb n="250" />
 							<foreign xml:lang="lat-Latn">Pendiculare conusque</foreign> wrchwet bczokuk <foreign xml:lang="lat-Latn">sit ...</foreign>
-							<lb n="251" />
-							<foreign xml:lang="lat-Latn">Non plus invenio</foreign>
-							<foreign xml:lang="lat-Latn">tria, que nota sunt, tibi dico.</foreign>
-						</p>
+							<lb n="251" xml:lang="lat-Latn" />Non plus invenio tria, que nota sunt, tibi dico.</p>
 					</div>
 					<div n="VII" xml:id="book-1-part-2-chapter-7" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De astronomia</head>
 						<p xml:id="book-1-part-2-chapter-7-p-9">
-							<lb n="252" />
-							<foreign xml:lang="lat-Latn">Astrorum cursus post hoc volo tradere rursus</foreign>
-							<lb n="253" />
+							<lb n="252" xml:lang="lat-Latn" />Astrorum cursus post hoc volo tradere rursus<lb n="253" />
 							<foreign xml:lang="lat-Latn">Hinc astronomia</foreign> hwy<supplied reason="lost">e</supplied>zdy<supplied reason="omitted">g</supplied>ena <foreign xml:lang="lat-Latn">
 								<supplied reason="lost">sit</supplied> tibi dicta,</foreign>
 							<lb n="254" />
@@ -577,9 +518,7 @@
 							<lb n="282" />Sluneczstaw, <foreign xml:lang="lat-Latn">equinoccia sit</foreign> nocirownost.<lb n="283" />
 							<foreign xml:lang="lat-Latn">Hinc equinoccialis</foreign> rownoczena, <foreign xml:lang="lat-Latn">torrita zona</foreign>
 							<lb n="284" />Horkozena, <foreign xml:lang="lat-Latn">gradus est sed</foreign> wzchod, <foreign xml:lang="lat-Latn">usualis</foreign>
-							<lb n="285" />
-							<foreign xml:lang="lat-Latn">Est obykly, ze.modyelny notans artificialis.</foreign>
-							<lb n="286" />
+							<lb n="285" xml:lang="lat-Latn" />Est obykly, ze.modyelny notans artificialis.<lb n="286" />
 							<foreign xml:lang="lat-Latn">Co<supplied reason="omitted">n</supplied>smicus est</foreign> swyeczky, <foreign xml:lang="lat-Latn">cronicus</foreign> czasny, skladatedlny<lb n="287" />
 							<foreign xml:lang="lat-Latn">Eleyacus,</foreign> wysost <foreign xml:lang="lat-Latn">arx, anguis cauda draconis</foreign>
 							<lb n="288" />
@@ -597,18 +536,12 @@
 							<lb n="297" />Dyewkona <foreign xml:lang="lat-Latn">virgo notat, libra</foreign> wahana, styropen <foreign xml:lang="lat-Latn">sit</foreign>
 							<lb n="298" />
 							<foreign xml:lang="lat-Latn">Scorpius, est</foreign> strzyelobok <foreign xml:lang="lat-Latn">sagittarius, capricornus</foreign>
-							<lb n="299" />Kozorozecz, wodnarz <foreign xml:lang="lat-Latn">sit aquarius, hinc tibi</foreign> rybnarz<lb n="300" />
-							<foreign xml:lang="lat-Latn">Piscis erit dictus et in astris est bene pictus. - -</foreign>
-							<lb n="301" />
-							<foreign xml:lang="lat-Latn">Quattuor hinc tales <supplied reason="omitted">tales</supplied> repetas.modo quadruviales. -</foreign>
-						</p>
+							<lb n="299" />Kozorozecz, wodnarz <foreign xml:lang="lat-Latn">sit aquarius, hinc tibi</foreign> rybnarz<lb n="300" xml:lang="lat-Latn" />Piscis erit dictus et in astris est bene pictus. - -<lb n="301" xml:lang="lat-Latn" />Quattuor hinc tales <supplied reason="omitted">tales</supplied> repetas.modo quadruviales. -</p>
 					</div>
 					<div n="VIII" xml:id="book-1-part-2-chapter-8" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De phisica</head>
 						<p xml:id="book-1-part-2-chapter-8-p-10">
-							<lb n="302" />
-							<foreign xml:lang="lat-Latn">Plura bona cupias, ut doctus grammate fias.</foreign>
-							<lb n="303" />
+							<lb n="302" xml:lang="lat-Latn" />Plura bona cupias, ut doctus grammate fias.<lb n="303" />
 							<foreign xml:lang="lat-Latn">Phisica</foreign> przyrozena, mudromila <foreign xml:lang="lat-Latn">philozophia;</foreign>
 							<lb n="304" />
 							<foreign xml:lang="lat-Latn">Est anima</foreign> dusse, <foreign xml:lang="lat-Latn">dimensio</foreign> zmyer<supplied reason="omitted">o</supplied>zena, <foreign xml:lang="lat-Latn">motus</foreign>
@@ -639,11 +572,7 @@
 							<foreign xml:lang="lat-Latn">Circulus, et</foreign> lahoduch <foreign xml:lang="lat-Latn">sit favonius,</foreign> denowiet <foreign xml:lang="lat-Latn">que <supplied reason="lost">eous</supplied>,</foreign>
 							<lb n="321" />
 							<foreign xml:lang="lat-Latn">Zephyrus</foreign> tychowiet, smysledawie <foreign xml:lang="lat-Latn">sensibile sit.</foreign>
-							<lb n="322" />
-							<foreign xml:lang="lat-Latn">Sufficit ad presens, quod dat tibi grammata legens.</foreign>
-							<lb n="323" />
-							<foreign xml:lang="lat-Latn">Taliter hinc tradam modica via, sed bona quedam.</foreign>
-						</p>
+							<lb n="322" xml:lang="lat-Latn" />Sufficit ad presens, quod dat tibi grammata legens.<lb n="323" xml:lang="lat-Latn" />Taliter hinc tradam modica via, sed bona quedam.</p>
 					</div>
 					<div n="IX" xml:id="book-1-part-2-chapter-9" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De theologia</head>
@@ -676,16 +605,12 @@
 							<foreign xml:lang="lat-Latn">Sunt throni</foreign> scholeboh, <foreign xml:lang="lat-Latn">dominacio</foreign> panstwo, <foreign xml:lang="lat-Latn">potestas</foreign>
 							<lb n="341" />
 							<foreign xml:lang="lat-Latn">Sit</foreign> bohomocz, cznosty <foreign xml:lang="lat-Latn">virtutes celique nubes. -</foreign>
-							<lb n="342" />
-							<foreign xml:lang="lat-Latn">Hec capias mente, que pectore disce repente.</foreign>
-						</p>
+							<lb n="342" xml:lang="lat-Latn" />Hec capias mente, que pectore disce repente.</p>
 					</div>
 					<div n="X" xml:id="book-1-part-2-chapter-10" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De medicina</head>
 						<p xml:id="book-1-part-2-chapter-10-p-12">
-							<lb n="343" />
-							<foreign xml:lang="lat-Latn">Multa bona tribuam, presenti docmate scribam</foreign>
-							<lb n="344" />
+							<lb n="343" xml:lang="lat-Latn" />Multa bona tribuam, presenti docmate scribam<lb n="344" />
 							<foreign xml:lang="lat-Latn">Est medicina</foreign> lek, <foreign xml:lang="lat-Latn">prospectiva</foreign> vydopatrna;<lb n="345" />
 							<foreign xml:lang="lat-Latn">Dic</foreign> obezroczyna <foreign xml:lang="lat-Latn">post theorica,</foreign> corzeniasta<lb n="344" />
 							<foreign xml:lang="lat-Latn">Fiet apoteca,</foreign> pohad<supplied reason="lost">k</supplied>a <foreign xml:lang="lat-Latn">probleuma vocatur.</foreign>
@@ -727,16 +652,12 @@
 							<foreign xml:lang="lat-Latn">Hinc Polim<supplied reason="lost">n</supplied>ia</foreign> domyslowna <foreign xml:lang="lat-Latn">dico talis;</foreign>
 							<lb n="371" />
 							<foreign xml:lang="lat-Latn">Sit tibi</foreign> swrchowanye znebes <foreign xml:lang="lat-Latn">Urania tum.</foreign>
-							<lb n="372" />
-							<foreign xml:lang="lat-Latn">Hec tibi sunt dura, non possum ponere plura. -</foreign>
-						</p>
+							<lb n="372" xml:lang="lat-Latn" />Hec tibi sunt dura, non possum ponere plura. -</p>
 					</div>
 					<div n="XI" xml:id="book-1-part-2-chapter-11" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De ethica</head>
 						<p xml:id="book-1-part-2-chapter-11-p-13">
-							<lb n="373" />
-							<foreign xml:lang="lat-Latn">Est opus ut mores, iam ponuntur pociores</foreign>
-							<lb n="374" />
+							<lb n="373" xml:lang="lat-Latn" />Est opus ut mores, iam ponuntur pociores<lb n="374" />
 							<foreign xml:lang="lat-Latn">Ethica sit</foreign> nraworzekna, <foreign xml:lang="lat-Latn">policita</foreign> mestoprawna,<lb n="375" />
 							<foreign xml:lang="lat-Latn">Ecclesiastica sit [</foreign> duchoprawna], <foreign xml:lang="lat-Latn">poetica</foreign> skladanye <foreign xml:lang="lat-Latn">fiet,</foreign>
 							<lb n="376" />
@@ -753,9 +674,7 @@
 							<foreign xml:lang="lat-Latn">Perseverancia</foreign> vstawnost, <foreign xml:lang="lat-Latn">modestia</foreign> skrownost,<lb n="384" />
 							<foreign xml:lang="lat-Latn">Obediencia</foreign> poslussenstwye, <foreign xml:lang="lat-Latn">sit</foreign> dyewocztnost.<lb n="385" />
 							<foreign xml:lang="lat-Latn">Virginitas,</foreign> pokora <foreign xml:lang="lat-Latn">paciencia, castitasque</foreign> czystost,<lb n="386" />
-							<foreign xml:lang="lat-Latn">Humilitas</foreign> tychost, <foreign xml:lang="lat-Latn">disciplina</foreign> kazen, <foreign xml:lang="lat-Latn">largitas</foreign> styedrost,<lb n="387" />
-							<foreign xml:lang="lat-Latn">Mylost <supplied reason="lost">-</supplied> pietas, caritas diligencia clemens.</foreign>
-							<lb n="388" />
+							<foreign xml:lang="lat-Latn">Humilitas</foreign> tychost, <foreign xml:lang="lat-Latn">disciplina</foreign> kazen, <foreign xml:lang="lat-Latn">largitas</foreign> styedrost,<lb n="387" xml:lang="lat-Latn" />Mylost <supplied reason="lost">-</supplied> pietas, caritas diligencia clemens.<lb n="388" />
 							<foreign xml:lang="lat-Latn">Miseri <supplied reason="lost">cordi</supplied>a</foreign> mylosrdenstwie <foreign xml:lang="lat-Latn">bonitasque</foreign>
 							<lb n="389" />Dobrota, <foreign xml:lang="lat-Latn">felicitas</foreign> sczastenstwie, <foreign xml:lang="lat-Latn">beatitudo</foreign>
 							<lb n="390" />
@@ -828,17 +747,13 @@
 							<lb n="437" />Bezdrawona, <foreign xml:lang="lat-Latn">
 								<supplied reason="lost">baratrum</supplied>
 							</foreign> obzerowana <foreign xml:lang="lat-Latn">tibi dictum.</foreign>
-							<lb n="438" />
-							<foreign xml:lang="lat-Latn">Iam satis est dictum de moribus ac bene fictum. -</foreign>
-						</p>
+							<lb n="438" xml:lang="lat-Latn" />Iam satis est dictum de moribus ac bene fictum. -</p>
 					</div>
 					<div n="XII" xml:id="book-1-part-2-chapter-12" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De mechanica</head>
 						<p xml:id="book-1-part-2-chapter-12-p-14">
-							<lb n="439" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Mi</hi>ra que de tali cape docmate nunc manuali</foreign>
-							<lb n="440" />
+							<lb n="439" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Mi</hi>ra que de tali cape docmate nunc manuali<lb n="440" />
 							<foreign xml:lang="lat-Latn">Mechanica</foreign> chlapysturna, <foreign xml:lang="lat-Latn">sit alchimia</foreign> czystarstwo,<lb n="441" />
 							<foreign xml:lang="lat-Latn">Secretaria</foreign> tagytedlna, <foreign xml:lang="lat-Latn">legispericia <supplied reason="lost">quo</supplied>que</foreign>
 							<lb n="442" />
@@ -884,18 +799,12 @@
 							<foreign xml:lang="lat-Latn">Sed iudicatoria <supplied reason="omitted">que</supplied>
 							</foreign> rychtarzstwo <foreign xml:lang="lat-Latn">
 								<supplied reason="lost">que dicas</supplied>.</foreign>
-							<lb n="466" />
-							<foreign xml:lang="lat-Latn">Qualibet ex arte <supplied reason="lost">poteris ea fingere parte</supplied>,</foreign>
-							<lb n="467" />
-							<foreign xml:lang="lat-Latn">Valdeque prolixum foret ad connumerandum.</foreign>
-						</p>
+							<lb n="466" xml:lang="lat-Latn" />Qualibet ex arte <supplied reason="lost">poteris ea fingere parte</supplied>,<lb n="467" xml:lang="lat-Latn" />Valdeque prolixum foret ad connumerandum.</p>
 					</div>
 					<div n="XIII" xml:id="book-1-part-2-chapter-13" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De artibus</head>
 						<p xml:id="book-1-part-2-chapter-13-p-15">
-							<lb n="468" />
-							<foreign xml:lang="lat-Latn">Dic trogeczestne triviale<supplied reason="lost">s</supplied>, quadruviales</foreign>
-							<lb n="469" />
+							<lb n="468" xml:lang="lat-Latn" />Dic trogeczestne triviale<supplied reason="lost">s</supplied>, quadruviales<lb n="469" />
 							<foreign xml:lang="lat-Latn">Sunt</foreign> cztweroczestne, nabezestne <foreign xml:lang="lat-Latn">collaterales;</foreign>
 							<lb n="470" />
 							<foreign xml:lang="lat-Latn">Sic cardinales dic</foreign> poczynawe, <foreign xml:lang="lat-Latn">mediales</foreign>
@@ -903,269 +812,52 @@
 							<lb n="472" />
 							<foreign xml:lang="lat-Latn">Atque zophisticales</foreign> chitromluwne, <foreign xml:lang="lat-Latn">manuales</foreign>
 							<lb n="473" />
-							<foreign xml:lang="lat-Latn">Sunt</foreign> rukowyetne, <foreign xml:lang="lat-Latn">practicales</foreign> zwi<supplied reason="omitted">c</supplied>kalywe.<lb n="474" />
-							<foreign xml:lang="lat-Latn">Suscipe corde tales iam quinque collaterales</foreign>
-							<lb n="475" />
-							<foreign xml:lang="lat-Latn">Ista modo di<supplied reason="lost">s</supplied>cas, post solus talia fingas,</foreign>
-							<lb n="476" />
-							<foreign xml:lang="lat-Latn">Pluraque dixissem, si tedia non generassem</foreign>
-							<lb n="477" />
-							<foreign xml:lang="lat-Latn">Metra scribenti, non inutiliaque legenti.</foreign>
-							<lb n="478" />
-							<foreign xml:lang="lat-Latn">Non causa laudis scripsi, male, nec sine caudis.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Sunt</foreign> rukowyetne, <foreign xml:lang="lat-Latn">practicales</foreign> zwi<supplied reason="omitted">c</supplied>kalywe.<lb n="474" xml:lang="lat-Latn" />Suscipe corde tales iam quinque collaterales<lb n="475" xml:lang="lat-Latn" />Ista modo di<supplied reason="lost">s</supplied>cas, post solus talia fingas,<lb n="476" xml:lang="lat-Latn" />Pluraque dixissem, si tedia non generassem<lb n="477" xml:lang="lat-Latn" />Metra scribenti, non inutiliaque legenti.<lb n="478" xml:lang="lat-Latn" />Non causa laudis scripsi, male, nec sine caudis.</p>
 					</div>
 				</div>
 				<div n="B" xml:id="book-1-part-3" type="part" data-level="2">
 					<p xml:id="book-1-part-3-p-16">
-						<lb n="479" />
-						<foreign xml:lang="lat-Latn">Accipe nunc tantum metra placita seniorum;</foreign>
-						<lb n="480" />
-						<foreign xml:lang="lat-Latn">Plura sed obmisi, que non decencia scivi.</foreign>
-					</p>
-					<div n="I" xml:id="book-1-part-3-chapter-14" type="chapter" data-level="3">
-						<head xml:lang="lat-Latn">Nomina Christi</head>
+						<lb n="479" xml:lang="lat-Latn" />Accipe nunc tantum metra placita seniorum;<lb n="480" xml:lang="lat-Latn" />Plura sed obmisi, que non decencia scivi.</p>
+					<div n="I" xml:id="book-1-part-3-chapter-14" type="chapter" data-level="3" xml:lang="lat-Latn">
+						<head>Nomina Christi</head>
 						<p xml:id="book-1-part-3-chapter-14-p-17">
 							<lb n="481" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Al</hi>ma tibi summi modo pangam nomina Christi</foreign>
-							<lb n="482" />
-							<foreign xml:lang="lat-Latn">Messias, Deus, Emmanuel, Sabbaoth, Adonay,</foreign>
-							<lb n="483" />
-							<foreign xml:lang="lat-Latn">Est unigenitus, via, vita, salus, homo, Christus,</foreign>
-							<lb n="484" />
-							<foreign xml:lang="lat-Latn">Principium, primogenitus, sapiencia, virtus,</foreign>
-							<lb n="485" />
-							<foreign xml:lang="lat-Latn">Alpha caputque, finis sic tunc voc<supplied reason="omitted">it</supplied>atur <supplied reason="lost">et eciam</supplied>
-							</foreign>
-							<lb n="486" />
-							<foreign xml:lang="lat-Latn">Fons et origo tibi, paraclitus et mediator,</foreign>
-							<lb n="487" />
-							<foreign xml:lang="lat-Latn">Agmus, ovis, vitulus, serpens, aries, leo, iustus.</foreign>
-							<lb n="488" />
-							<foreign xml:lang="lat-Latn">Est verbum, splendor, sol, gloria, lux et ymago,</foreign>
-							<lb n="489" />
-							<foreign xml:lang="lat-Latn">Panis, flos, vitis, mons, ianua petraque, factor,</foreign>
-							<lb n="490" />
-							<foreign xml:lang="lat-Latn">Angelus et sponsus, pastorquc, propheta, sacerdos,</foreign>
-							<lb n="491" />
-							<foreign xml:lang="lat-Latn">A<supplied reason="omitted">na</supplied>thanatos, kiriosque theos, tetragramaton, ysos.</foreign>
-							<lb n="492" />
-							<foreign xml:lang="lat-Latn">Conservet dyanos secula per omnia doxa. - -</foreign>
-							<lb n="493" />
-							<foreign xml:lang="lat-Latn">Et sic sunt dicta nunc omnia nomina sancta</foreign>
-							<lb n="494" />
-							<foreign xml:lang="lat-Latn">Summi factoris in signum laudis, <supplied reason="omitted">et</supplied> honoris,</foreign>
-							<lb n="495" />
-							<foreign xml:lang="lat-Latn">Plura sed aptantur in biblia, qucque ponuntur</foreign>
-							<lb n="496" />
-							<foreign xml:lang="lat-Latn">Atque creator, Adam vetus, El, salvansque Redemptor;</foreign>
-							<lb n="497" />
-							<foreign xml:lang="lat-Latn">Est Pater et Filius, Spiritus Trinitasque, maiestas,</foreign>
-							<lb n="498" />
-							<foreign xml:lang="lat-Latn">Conditor, est unitas, potencia, summus et imus,</foreign>
-							<lb n="499" />
-							<foreign xml:lang="lat-Latn">Ysaac et Abraham, Iacob, Ioseph, Patriarcha;</foreign>
-							<lb n="500" />
-							<foreign xml:lang="lat-Latn">David erat, Sampson vel nomina vetera patris</foreign>
-							<lb n="501" />
-							<foreign xml:lang="lat-Latn">Consiliarius est, admirabilis qucque Soter,</foreign>
-							<lb n="502" />
-							<foreign xml:lang="lat-Latn">David erit, radix, Jesus, Christus, dominator.</foreign>
-							<lb n="503" />
-							<foreign xml:lang="lat-Latn">Est inmortalis, lumen, cherubyn, olei van,</foreign>
-							<lb n="504" />
-							<foreign xml:lang="lat-Latn">Olie, dabebelon <supplied reason="lost">?</supplied>, veritas, crathon, eley, chorim;</foreign>
-							<lb n="505" />
-							<foreign xml:lang="lat-Latn">E<supplied reason="lost">s</supplied>t caritas, manna, lapis, rex, pax machironque,</foreign>
-							<lb n="506" />
-							<foreign xml:lang="lat-Latn">Omnipotens, angla, post eternus, Oryonque,</foreign>
-							<lb n="507" />
-							<foreign xml:lang="lat-Latn">Gracia sit plenus, inmortalis Deus extunc,</foreign>
-							<lb n="508" />
-							<foreign xml:lang="lat-Latn">Ac bonitas, manus, hinc crucx, hostia sancta, voluntas</foreign>
-							<lb n="509" />
-							<foreign xml:lang="lat-Latn">Etsi sunt plura, tamen usus non tenet illa.</foreign>
-						</p>
+							<hi rend="smallcaps">Al</hi>ma tibi summi modo pangam nomina Christi<lb n="482" />Messias, Deus, Emmanuel, Sabbaoth, Adonay,<lb n="483" />Est unigenitus, via, vita, salus, homo, Christus,<lb n="484" />Principium, primogenitus, sapiencia, virtus,<lb n="485" />Alpha caputque, finis sic tunc voc<supplied reason="omitted">it</supplied>atur <supplied reason="lost">et eciam</supplied>
+							<lb n="486" />Fons et origo tibi, paraclitus et mediator,<lb n="487" />Agmus, ovis, vitulus, serpens, aries, leo, iustus.<lb n="488" />Est verbum, splendor, sol, gloria, lux et ymago,<lb n="489" />Panis, flos, vitis, mons, ianua petraque, factor,<lb n="490" />Angelus et sponsus, pastorquc, propheta, sacerdos,<lb n="491" />A<supplied reason="omitted">na</supplied>thanatos, kiriosque theos, tetragramaton, ysos.<lb n="492" />Conservet dyanos secula per omnia doxa. - -<lb n="493" />Et sic sunt dicta nunc omnia nomina sancta<lb n="494" />Summi factoris in signum laudis, <supplied reason="omitted">et</supplied> honoris,<lb n="495" />Plura sed aptantur in biblia, qucque ponuntur<lb n="496" />Atque creator, Adam vetus, El, salvansque Redemptor;<lb n="497" />Est Pater et Filius, Spiritus Trinitasque, maiestas,<lb n="498" />Conditor, est unitas, potencia, summus et imus,<lb n="499" />Ysaac et Abraham, Iacob, Ioseph, Patriarcha;<lb n="500" />David erat, Sampson vel nomina vetera patris<lb n="501" />Consiliarius est, admirabilis qucque Soter,<lb n="502" />David erit, radix, Jesus, Christus, dominator.<lb n="503" />Est inmortalis, lumen, cherubyn, olei van,<lb n="504" />Olie, dabebelon <supplied reason="lost">?</supplied>, veritas, crathon, eley, chorim;<lb n="505" />E<supplied reason="lost">s</supplied>t caritas, manna, lapis, rex, pax machironque,<lb n="506" />Omnipotens, angla, post eternus, Oryonque,<lb n="507" />Gracia sit plenus, inmortalis Deus extunc,<lb n="508" />Ac bonitas, manus, hinc crucx, hostia sancta, voluntas<lb n="509" />Etsi sunt plura, tamen usus non tenet illa.</p>
 					</div>
-					<div n="II" xml:id="book-1-part-3-chapter-15" type="chapter" data-level="3">
-						<head xml:lang="lat-Latn">Nomina deorum</head>
+					<div n="II" xml:id="book-1-part-3-chapter-15" type="chapter" data-level="3" xml:lang="lat-Latn">
+						<head>Nomina deorum</head>
 						<p xml:id="book-1-part-3-chapter-15-p-18">
-							<lb n="510" />
-							<foreign xml:lang="lat-Latn">Nomina paucorum modo sunt dicenda deorum</foreign>
-							<lb n="511" />
-							<foreign xml:lang="lat-Latn">Numina Mercurius, Saturnus, Jupiter et Mars;</foreign>
-							<lb n="512" />
-							<foreign xml:lang="lat-Latn">Faunus, Satirus, Plut<supplied reason="lost">o</supplied>, Neptunus, Appollo,</foreign>
-							<lb n="513" />
-							<foreign xml:lang="lat-Latn">Post Radomantus erit, Minos, Schalpus, Eyacus dic;</foreign>
-							<lb n="514" />
-							<foreign xml:lang="lat-Latn">Cerberus, Alcides, Ymmeus, Mulciber, Ercles,</foreign>
-							<lb n="515" />
-							<foreign xml:lang="lat-Latn">Wlcanus, Bromius, Yanus, Spurusque Lyeus,</foreign>
-							<lb n="516" />
-							<foreign xml:lang="lat-Latn">Lycaon, Phebus, Tytan, Phiton, Philogeus,</foreign>
-							<lb n="517" />
-							<foreign xml:lang="lat-Latn">Est Bachus, Cyclopes, Cons, Etons, Choreusque,</foreign>
-							<lb n="518" />
-							<foreign xml:lang="lat-Latn">Belliferon, Celnus, Vellus, Pseustis Ynachusque;</foreign>
-							<lb n="519" />
-							<foreign xml:lang="lat-Latn">Neon, Cichomus, Perseus, Laceoque Cachinus,</foreign>
-							<lb n="520" />
-							<foreign xml:lang="lat-Latn">Proton, Acrisius, Salomonque Peon, Demofon sit,</foreign>
-							<lb n="521" />
-							<foreign xml:lang="lat-Latn">Vmbius et Catheus, Orpheus Cilemusque,</foreign>
-							<lb n="522" />
-							<foreign xml:lang="lat-Latn">Astaroth et Scilbous, Berith, Parcus Belialque;</foreign>
-							<lb n="523" />
-							<foreign xml:lang="lat-Latn">Belfegor et Cucas, Dolius, Baal Gradiusque,</foreign>
-							<lb n="524" />
-							<foreign xml:lang="lat-Latn">Achiles, Maures, Medius, Fidius et Herrices. -</foreign>
-							<lb n="525" />
-							<foreign xml:lang="lat-Latn">Post dea sit Ceres, Novaria, Phebe, Dyana,</foreign>
-							<lb n="526" />
-							<foreign xml:lang="lat-Latn">Thesiphone, Phillis, Latoma, Dancij, Dyanira;</foreign>
-							<lb n="527" />
-							<foreign xml:lang="lat-Latn">Eusidicen, Hyo, Citareda, Medusa, Chimera;</foreign>
-							<lb n="528" />
-							<foreign xml:lang="lat-Latn">Scemo, Megeraque Rea, Tutides, Ethatea,</foreign>
-							<lb n="529" />
-							<foreign xml:lang="lat-Latn">Euerale, Palla, Fronesis, Alecto, Tybile;</foreign>
-							<lb n="530" />
-							<foreign xml:lang="lat-Latn">Aurora, Medea, Philogia, Chintina, Cylla,</foreign>
-							<lb n="531" />
-							<foreign xml:lang="lat-Latn">Hesperide, Cloto, Siates, Neptusa, Coleno,</foreign>
-							<lb n="532" />
-							<foreign xml:lang="lat-Latn">Cupsimen, Engla, Latesis, Usis, Alatia,</foreign>
-							<lb n="533" />
-							<foreign xml:lang="lat-Latn">Orthipito, Thetis, Allello, Frondissa, Napea,</foreign>
-							<lb n="534" />
-							<foreign xml:lang="lat-Latn">Leuthotesque Palos, Sors, Fasisteaque Mimenta</foreign>
-							<lb n="535" />
-							<foreign xml:lang="lat-Latn">Junoque Vesperta, dic Antrophus, Opos, Oretusa</foreign>
-							<lb n="536" />
-							<foreign xml:lang="lat-Latn">Naydes, Egle, Driades, Proserpina, Venus.</foreign>
-							<lb n="537" />
-							<foreign xml:lang="lat-Latn">Post sit Amadriades, Emopadatur, Nereides,</foreign>
-							<lb n="538" />
-							<foreign xml:lang="lat-Latn">Oriades, Musa, post Carnentisque Camena,</foreign>
-							<lb n="539" />
-							<foreign xml:lang="lat-Latn">Caliope, Thalia nunc coniungasque Se<supplied reason="lost">le</supplied>ne.</foreign>
-							<lb n="540" />
-							<foreign xml:lang="lat-Latn">Nomina sed sancta non est michi scribere cura. -</foreign>
-						</p>
+							<lb n="510" />Nomina paucorum modo sunt dicenda deorum<lb n="511" />Numina Mercurius, Saturnus, Jupiter et Mars;<lb n="512" />Faunus, Satirus, Plut<supplied reason="lost">o</supplied>, Neptunus, Appollo,<lb n="513" />Post Radomantus erit, Minos, Schalpus, Eyacus dic;<lb n="514" />Cerberus, Alcides, Ymmeus, Mulciber, Ercles,<lb n="515" />Wlcanus, Bromius, Yanus, Spurusque Lyeus,<lb n="516" />Lycaon, Phebus, Tytan, Phiton, Philogeus,<lb n="517" />Est Bachus, Cyclopes, Cons, Etons, Choreusque,<lb n="518" />Belliferon, Celnus, Vellus, Pseustis Ynachusque;<lb n="519" />Neon, Cichomus, Perseus, Laceoque Cachinus,<lb n="520" />Proton, Acrisius, Salomonque Peon, Demofon sit,<lb n="521" />Vmbius et Catheus, Orpheus Cilemusque,<lb n="522" />Astaroth et Scilbous, Berith, Parcus Belialque;<lb n="523" />Belfegor et Cucas, Dolius, Baal Gradiusque,<lb n="524" />Achiles, Maures, Medius, Fidius et Herrices. -<lb n="525" />Post dea sit Ceres, Novaria, Phebe, Dyana,<lb n="526" />Thesiphone, Phillis, Latoma, Dancij, Dyanira;<lb n="527" />Eusidicen, Hyo, Citareda, Medusa, Chimera;<lb n="528" />Scemo, Megeraque Rea, Tutides, Ethatea,<lb n="529" />Euerale, Palla, Fronesis, Alecto, Tybile;<lb n="530" />Aurora, Medea, Philogia, Chintina, Cylla,<lb n="531" />Hesperide, Cloto, Siates, Neptusa, Coleno,<lb n="532" />Cupsimen, Engla, Latesis, Usis, Alatia,<lb n="533" />Orthipito, Thetis, Allello, Frondissa, Napea,<lb n="534" />Leuthotesque Palos, Sors, Fasisteaque Mimenta<lb n="535" />Junoque Vesperta, dic Antrophus, Opos, Oretusa<lb n="536" />Naydes, Egle, Driades, Proserpina, Venus.<lb n="537" />Post sit Amadriades, Emopadatur, Nereides,<lb n="538" />Oriades, Musa, post Carnentisque Camena,<lb n="539" />Caliope, Thalia nunc coniungasque Se<supplied reason="lost">le</supplied>ne.<lb n="540" />Nomina sed sancta non est michi scribere cura. -</p>
 					</div>
 					<div n="III" xml:id="book-1-part-3-chapter-16" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">Nomina fluviorum</head>
 						<p xml:id="book-1-part-3-chapter-16-p-19">
-							<lb n="541" />
-							<foreign xml:lang="lat-Latn">Nunc sunt, que fluvios hec signant nomine paucos</foreign>
-							<lb n="542" />
+							<lb n="541" xml:lang="lat-Latn" />Nunc sunt, que fluvios hec signant nomine paucos<lb n="542" />
 							<foreign xml:lang="lat-Latn">Eufrates, Cyson, Yordanis,</foreign> Sazawa, <foreign xml:lang="lat-Latn">Geon,</foreign>
-							<lb n="543" />
-							<foreign xml:lang="lat-Latn">Multavia, Tyberis, Tygris, Nilus Ynachusque,</foreign>
-							<lb n="544" />Orlicia, <foreign xml:lang="lat-Latn">Kera, Renus, Syroe,</foreign> Czydlyana,<lb n="545" />
-							<foreign xml:lang="lat-Latn">Ge<supplied reason="lost">ne</supplied>zareth, Yber, Cedron tenet, Achia palus,</foreign>
-							<lb n="546" />
-							<foreign xml:lang="lat-Latn">Maganus atque Scia, Lycaon, Ambusia,</foreign> Odra,<lb n="547" />
-							<foreign xml:lang="lat-Latn">Ausena, Danubius, dic Albea (-xx), Nidis.</foreign>
-						</p>
+							<lb n="543" xml:lang="lat-Latn" />Multavia, Tyberis, Tygris, Nilus Ynachusque,<lb n="544" />Orlicia, <foreign xml:lang="lat-Latn">Kera, Renus, Syroe,</foreign> Czydlyana,<lb n="545" xml:lang="lat-Latn" />Ge<supplied reason="lost">ne</supplied>zareth, Yber, Cedron tenet, Achia palus,<lb n="546" />
+							<foreign xml:lang="lat-Latn">Maganus atque Scia, Lycaon, Ambusia,</foreign> Odra,<lb n="547" xml:lang="lat-Latn" />Ausena, Danubius, dic Albea (-xx), Nidis.</p>
 					</div>
 					<div n="IV" xml:id="book-1-part-3-chapter-17" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">Nomina montium</head>
 						<p xml:id="book-1-part-3-chapter-17-p-20">
-							<lb n="548" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Mo</hi>ntes dic istos</foreign>
-							<foreign xml:lang="lat-Latn">Syon, Ely<supplied reason="lost">c</supplied>on et Olymp<supplied reason="omitted">h</supplied>us,</foreign>
-							<lb n="549" />
+							<lb n="548" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Mo</hi>ntes dic istos Syon, Ely<supplied reason="lost">c</supplied>on et Olymp<supplied reason="omitted">h</supplied>us,<lb n="549" />
 							<foreign xml:lang="lat-Latn">Syna cum Synay, Trinacris,</foreign> Ripus, <foreign xml:lang="lat-Latn">Olivetus,</foreign>
-							<lb n="550" />
-							<foreign xml:lang="lat-Latn">Gargarus, Ysmara, sit Gelboe, Cunaciusque</foreign>
-							<lb n="551" />Petrinus, <foreign xml:lang="lat-Latn">Coatrus, Oretras aqua, Lybanus, Ethna,</foreign>
-							<lb n="552" />
-							<foreign xml:lang="lat-Latn">Caucasus et Ciclas, Siris, Athas, <supplied reason="lost">Patrata, Carpus</supplied>.</foreign>
-						</p>
+							<lb n="550" xml:lang="lat-Latn" />Gargarus, Ysmara, sit Gelboe, Cunaciusque<lb n="551" />Petrinus, <foreign xml:lang="lat-Latn">Coatrus, Oretras aqua, Lybanus, Ethna,</foreign>
+							<lb n="552" xml:lang="lat-Latn" />Caucasus et Ciclas, Siris, Athas, <supplied reason="lost">Patrata, Carpus</supplied>.</p>
 					</div>
-					<div n="V" xml:id="book-1-part-3-chapter-18" type="chapter" data-level="3">
-						<head xml:lang="lat-Latn">Nomina lapidum</head>
+					<div n="V" xml:id="book-1-part-3-chapter-18" type="chapter" data-level="3" xml:lang="lat-Latn">
+						<head>Nomina lapidum</head>
 						<p xml:id="book-1-part-3-chapter-18-p-21">
 							<lb n="553" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">No</hi>mina sunt lapidum yaspis, sardisque smaragdus,</foreign>
-							<lb n="554" />
-							<foreign xml:lang="lat-Latn">Cristallus, bacha, carbunculus atque zaphirus,</foreign>
-							<lb n="555" />
-							<foreign xml:lang="lat-Latn">Corallus, magnes, pyrops, adamas, enetistus,</foreign>
-							<lb n="556" />
-							<foreign xml:lang="lat-Latn">Berillus, concha, rubienus, unio, napta,</foreign>
-							<lb n="557" />
-							<foreign xml:lang="lat-Latn">Et cenophagium, post topasiusque iacinctus</foreign>
-							<lb n="558" />
-							<foreign xml:lang="lat-Latn">Et burulum, silex, demophison, iunge siletus.</foreign>
-						</p>
+							<hi rend="smallcaps">No</hi>mina sunt lapidum yaspis, sardisque smaragdus,<lb n="554" />Cristallus, bacha, carbunculus atque zaphirus,<lb n="555" />Corallus, magnes, pyrops, adamas, enetistus,<lb n="556" />Berillus, concha, rubienus, unio, napta,<lb n="557" />Et cenophagium, post topasiusque iacinctus<lb n="558" />Et burulum, silex, demophison, iunge siletus.</p>
 					</div>
-					<div n="VI" xml:id="book-1-part-3-chapter-19" type="chapter" data-level="3">
-						<head xml:lang="lat-Latn">Nomina terrarum</head>
+					<div n="VI" xml:id="book-1-part-3-chapter-19" type="chapter" data-level="3" xml:lang="lat-Latn">
+						<head>Nomina terrarum</head>
 						<p xml:id="book-1-part-3-chapter-19-p-22">
 							<lb n="559" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">No</hi>mina terrarumque Boemia, Theutunia sit,</foreign>
-							<lb n="560" />
-							<foreign xml:lang="lat-Latn">Affrica, Polonia, Moravia, Libia presens</foreign>
-							<lb n="561" />
-							<foreign xml:lang="lat-Latn">Ungaria, Salba, Carinthia Penthapolisque,</foreign>
-							<lb n="562" />
-							<foreign xml:lang="lat-Latn">Germania, Ponthus, Durmgia, Saxoniades;</foreign>
-							<lb n="563" />
-							<foreign xml:lang="lat-Latn">Franconia, Frixea, Misensia, Cecilia sit,</foreign>
-							<lb n="564" />
-							<foreign xml:lang="lat-Latn">Surasia, Delia, Paramia, Doclia iunge;</foreign>
-							<lb n="565" />
-							<foreign xml:lang="lat-Latn">Francia, Bavaria, Cyprus, Curopa, Dedona,</foreign>
-							<lb n="566" />
-							<foreign xml:lang="lat-Latn">Anglia tam Scoria, Tuskania Siciliaque</foreign>
-							<lb n="567" />
-							<foreign xml:lang="lat-Latn">Austria, Galaria, Capadocia, Palemia dic,</foreign>
-							<lb n="568" />
-							<foreign xml:lang="lat-Latn">Quonia, Babilonia, Maguncia, Gnosia fertur,</foreign>
-							<lb n="569" />
-							<foreign xml:lang="lat-Latn">Gallia, Britannia, Lambardia, Grecia, Deca,</foreign>
-							<lb n="570" />
-							<foreign xml:lang="lat-Latn">Hussia, Basilea, Deria, Sklawonia iuncta,</foreign>
-							<lb n="571" />
-							<foreign xml:lang="lat-Latn">Alzacia, Styria, Becide, Mesopotonia,</foreign>
-							<lb n="572" />
-							<foreign xml:lang="lat-Latn">Sellia, Sardina, post Grecia cum Galilea,</foreign>
-							<lb n="573" />
-							<foreign xml:lang="lat-Latn">Ytalia, Tyria, Dalmacia, Pellagia sit,</foreign>
-							<lb n="574" />
-							<foreign xml:lang="lat-Latn">Arabia, Medea, Thesolonia Taxaniaque,</foreign>
-							<lb n="575" />
-							<foreign xml:lang="lat-Latn">Russia, Prussia dicque Bernia, Collacia sit,</foreign>
-							<lb n="576" />
-							<foreign xml:lang="lat-Latn">Almania, iungas Allexandria, Cypria, dicas</foreign>
-							<lb n="577" />
-							<foreign xml:lang="lat-Latn">Iudea cum Machia, Carnalicia vel Egiptus,</foreign>
-							<lb n="578" />
-							<foreign xml:lang="lat-Latn">Flandria, Calabria cum Apria, post Azya sic,</foreign>
-							<lb n="579" />
-							<foreign xml:lang="lat-Latn">Indya iungatur, Argentina tribuatur. -</foreign>
-							<lb n="580" />
-							<foreign xml:lang="lat-Latn">Ast Ethiopia, Tyberdica cum Ratispona;</foreign>
-							<lb n="581" />
-							<foreign xml:lang="lat-Latn">Dic Archadia post, Coclia terrt magestas,</foreign>
-							<lb n="582" />
-							<foreign xml:lang="lat-Latn">Hyspania, post Assyria vel ('xx'x)</foreign>
-							<lb n="583" />
-							<foreign xml:lang="lat-Latn">Zatertania ( - ), post Internalia, Segor,</foreign>
-							<lb n="584" />
-							<foreign xml:lang="lat-Latn">Iherosolima, Sodoma, vel Apulia magna;</foreign>
-							<lb n="585" />
-							<foreign xml:lang="lat-Latn">Francia cum Niniven, sed Athenas, Pari<supplied reason="lost">sius</supplied>. -</foreign>
-							<lb n="586" />
-							<foreign xml:lang="lat-Latn">Plura non invenio, que iam recolo, tibi dico.</foreign>
-						</p>
+							<hi rend="smallcaps">No</hi>mina terrarumque Boemia, Theutunia sit,<lb n="560" />Affrica, Polonia, Moravia, Libia presens<lb n="561" />Ungaria, Salba, Carinthia Penthapolisque,<lb n="562" />Germania, Ponthus, Durmgia, Saxoniades;<lb n="563" />Franconia, Frixea, Misensia, Cecilia sit,<lb n="564" />Surasia, Delia, Paramia, Doclia iunge;<lb n="565" />Francia, Bavaria, Cyprus, Curopa, Dedona,<lb n="566" />Anglia tam Scoria, Tuskania Siciliaque<lb n="567" />Austria, Galaria, Capadocia, Palemia dic,<lb n="568" />Quonia, Babilonia, Maguncia, Gnosia fertur,<lb n="569" />Gallia, Britannia, Lambardia, Grecia, Deca,<lb n="570" />Hussia, Basilea, Deria, Sklawonia iuncta,<lb n="571" />Alzacia, Styria, Becide, Mesopotonia,<lb n="572" />Sellia, Sardina, post Grecia cum Galilea,<lb n="573" />Ytalia, Tyria, Dalmacia, Pellagia sit,<lb n="574" />Arabia, Medea, Thesolonia Taxaniaque,<lb n="575" />Russia, Prussia dicque Bernia, Collacia sit,<lb n="576" />Almania, iungas Allexandria, Cypria, dicas<lb n="577" />Iudea cum Machia, Carnalicia vel Egiptus,<lb n="578" />Flandria, Calabria cum Apria, post Azya sic,<lb n="579" />Indya iungatur, Argentina tribuatur. -<lb n="580" />Ast Ethiopia, Tyberdica cum Ratispona;<lb n="581" />Dic Archadia post, Coclia terrt magestas,<lb n="582" />Hyspania, post Assyria vel ('xx'x)<lb n="583" />Zatertania ( - ), post Internalia, Segor,<lb n="584" />Iherosolima, Sodoma, vel Apulia magna;<lb n="585" />Francia cum Niniven, sed Athenas, Pari<supplied reason="lost">sius</supplied>. -<lb n="586" />Plura non invenio, que iam recolo, tibi dico.</p>
 					</div>
 				</div>
 				<div n="C" xml:id="book-1-part-4" type="part" data-level="2">
@@ -1199,9 +891,7 @@
 					<div n="II" xml:id="book-1-part-4-chapter-21" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De num. ordinalibus</head>
 						<p xml:id="book-1-part-4-chapter-21-p-25">
-							<lb n="601" />
-							<foreign xml:lang="lat-Latn">Post ordinalia nomina tibi sumere debes</foreign>
-							<lb n="602" />
+							<lb n="601" xml:lang="lat-Latn" />Post ordinalia nomina tibi sumere debes<lb n="602" />
 							<foreign xml:lang="lat-Latn">Primus est</foreign> prwy, druhy <foreign xml:lang="lat-Latn">secundus,</foreign> trzety <foreign xml:lang="lat-Latn">tercius,</foreign>
 							<lb n="603" />Cztwrty <foreign xml:lang="lat-Latn">sit quartus,</foreign> paty <foreign xml:lang="lat-Latn">quintus,</foreign> sessty <foreign xml:lang="lat-Latn">que sextus</foreign>
 							<lb n="604" />
@@ -1219,13 +909,9 @@
 							<foreign xml:lang="lat-Latn">Sit</foreign> dewatynadczty, dwadczyety <foreign xml:lang="lat-Latn">vicesimus sit,</foreign>
 							<lb n="612" />
 							<foreign xml:lang="lat-Latn">Vicesimus primus</foreign> gedenmezczyetmy <foreign xml:lang="lat-Latn">vocitatur</foreign>
-							<lb n="613" />
-							<foreign xml:lang="lat-Latn">Et dic in reliquis sic fore; noscis in illis.</foreign>
-							<lb n="614" />TRzydczyety tricesimus, quadragesimus cztyrzydczyety<lb n="615" />
+							<lb n="613" xml:lang="lat-Latn" />Et dic in reliquis sic fore; noscis in illis.<lb n="614" />TRzydczyety tricesimus, quadragesimus cztyrzydczyety<lb n="615" />
 							<foreign xml:lang="lat-Latn">Ac quinquagesimus</foreign> padesati, sedesati <foreign xml:lang="lat-Latn">sit</foreign>
-							<lb n="616" />
-							<foreign xml:lang="lat-Latn">Post sexagesimus, sed septuagesimus extat</foreign>
-							<lb n="617" />Sedmdesaty, <foreign xml:lang="lat-Latn">post octuagesimus</foreign> osmdesaty <foreign xml:lang="lat-Latn">sit</foreign>
+							<lb n="616" xml:lang="lat-Latn" />Post sexagesimus, sed septuagesimus extat<lb n="617" />Sedmdesaty, <foreign xml:lang="lat-Latn">post octuagesimus</foreign> osmdesaty <foreign xml:lang="lat-Latn">sit</foreign>
 							<lb n="618" />
 							<foreign xml:lang="lat-Latn">Atque nonagesimus</foreign> dewadesaty <foreign xml:lang="lat-Latn">que sit</foreign> sty<lb n="619" />
 							<foreign xml:lang="lat-Latn">Centesimus,</foreign> dwusty <foreign xml:lang="lat-Latn">ducentesimus, fore</foreign> trzysty<lb n="620" />
@@ -1243,47 +929,9 @@
 							<lb n="625" />
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Po</hi>stea dat numerum substancia - binarius sit</foreign> dwoy,<lb n="626" />
-							<foreign xml:lang="lat-Latn">Trinarius</foreign> troy, <foreign xml:lang="lat-Latn">quadrinarius sit tibi</foreign> cztwer;<lb n="627" />
-							<foreign xml:lang="lat-Latn">Quinarius sequitur, tunc senarius comittatur,</foreign>
-							<lb n="628" />
-							<foreign xml:lang="lat-Latn">Hic septenarius, octenarius, novenarius,</foreign>
-							<lb n="629" />
-							<foreign xml:lang="lat-Latn">Denarius, undenarius, duodenariusque;</foreign>
-							<lb n="630" />
-							<foreign xml:lang="lat-Latn">Sit tredenarius, quadridenarius qucque, quinden-</foreign>
-							<lb n="631" />
-							<foreign xml:lang="lat-Latn">Atque sedenarius, sit septendenariusque.</foreign>
-							<lb n="632" />
-							<foreign xml:lang="lat-Latn">Octodenarius, novedenarius, vicenarius;</foreign>
-							<lb n="633" />
-							<foreign xml:lang="lat-Latn">Dico trecenarius, quadragenarius, vocitatur</foreign>
-							<lb n="634" />
-							<foreign xml:lang="lat-Latn">Quinquagenarius, tum sexagenarius sit,</foreign>
-							<lb n="635" />
-							<foreign xml:lang="lat-Latn">Septuagenarius post, octuagenarius sit;</foreign>
-							<lb n="636" />
-							<foreign xml:lang="lat-Latn">Dic novegenarius, dicas centenariusque</foreign>
-							<lb n="637" />
-							<foreign xml:lang="lat-Latn">Ducentenarius vel trecentenariusque,</foreign>
-							<lb n="638" />
-							<foreign xml:lang="lat-Latn">Quadringenarius quingen<supplied reason="omitted">t</supplied>arius quoque, sexin-</foreign>
-							<lb n="639" />
-							<foreign xml:lang="lat-Latn">Septingenarius, dic octingenarius hinc</foreign>
-							<lb n="640" />
+							<foreign xml:lang="lat-Latn">Trinarius</foreign> troy, <foreign xml:lang="lat-Latn">quadrinarius sit tibi</foreign> cztwer;<lb n="627" xml:lang="lat-Latn" />Quinarius sequitur, tunc senarius comittatur,<lb n="628" xml:lang="lat-Latn" />Hic septenarius, octenarius, novenarius,<lb n="629" xml:lang="lat-Latn" />Denarius, undenarius, duodenariusque;<lb n="630" xml:lang="lat-Latn" />Sit tredenarius, quadridenarius qucque, quinden-<lb n="631" xml:lang="lat-Latn" />Atque sedenarius, sit septendenariusque.<lb n="632" xml:lang="lat-Latn" />Octodenarius, novedenarius, vicenarius;<lb n="633" xml:lang="lat-Latn" />Dico trecenarius, quadragenarius, vocitatur<lb n="634" xml:lang="lat-Latn" />Quinquagenarius, tum sexagenarius sit,<lb n="635" xml:lang="lat-Latn" />Septuagenarius post, octuagenarius sit;<lb n="636" xml:lang="lat-Latn" />Dic novegenarius, dicas centenariusque<lb n="637" xml:lang="lat-Latn" />Ducentenarius vel trecentenariusque,<lb n="638" xml:lang="lat-Latn" />Quadringenarius quingen<supplied reason="omitted">t</supplied>arius quoque, sexin-<lb n="639" xml:lang="lat-Latn" />Septingenarius, dic octingenarius hinc<lb n="640" />
 							<foreign xml:lang="lat-Latn">Ac nongentarius, millenarius</foreign> tysyczny.<lb n="641" />Quedam <foreign xml:lang="lat-Latn">distinguit binus trinusque quaternus,</foreign>
-							<lb n="642" />
-							<foreign xml:lang="lat-Latn">Quinternus vel scxternus, scpternus et octer-,</foreign>
-							<lb n="643" />
-							<foreign xml:lang="lat-Latn">Noviternus erit, post deternus comitatur. -</foreign>
-							<lb n="644" />
-							<foreign xml:lang="lat-Latn">Pondera distinguunt simplum duplumque triplum</foreign>
-							<lb n="645" />
-							<foreign xml:lang="lat-Latn">Est quadruplum, quintuplum, septuplum, sit octu-</foreign>
-							<lb n="646" />
-							<foreign xml:lang="lat-Latn">Vel noviplum, decuplumque <supplied reason="lost">x'xx'</supplied> sociabis.</foreign>
-							<lb n="647" />
-							<foreign xml:lang="lat-Latn">Cetera dant plura, dic centuplum tibi mille.</foreign>
-						</p>
+							<lb n="642" xml:lang="lat-Latn" />Quinternus vel scxternus, scpternus et octer-,<lb n="643" xml:lang="lat-Latn" />Noviternus erit, post deternus comitatur. -<lb n="644" xml:lang="lat-Latn" />Pondera distinguunt simplum duplumque triplum<lb n="645" xml:lang="lat-Latn" />Est quadruplum, quintuplum, septuplum, sit octu-<lb n="646" xml:lang="lat-Latn" />Vel noviplum, decuplumque <supplied reason="lost">x'xx'</supplied> sociabis.<lb n="647" xml:lang="lat-Latn" />Cetera dant plura, dic centuplum tibi mille.</p>
 					</div>
 					<div n="IV" xml:id="book-1-part-4-chapter-23" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De numer. multiplic</head>
@@ -1297,9 +945,7 @@
 							<foreign xml:lang="lat-Latn">Octuplex</foreign> osmer, <foreign xml:lang="lat-Latn">noviplex</foreign> dewater <foreign xml:lang="lat-Latn">decuplexque</foreign>
 							<lb n="652" />
 							<foreign xml:lang="lat-Latn">Est</foreign> desater, <foreign xml:lang="lat-Latn">post undecuplex, duo, tres, quater et quind-;</foreign>
-							<lb n="653" />
-							<foreign xml:lang="lat-Latn">Centuplex et millecuplex multiplice signa.</foreign>
-						</p>
+							<lb n="653" xml:lang="lat-Latn" />Centuplex et millecuplex multiplice signa.</p>
 					</div>
 					<div n="V" xml:id="book-1-part-4-chapter-24" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De numer. adverb</head>
@@ -1309,13 +955,7 @@
 								<hi rend="smallcaps">Po</hi>st adverbia sunt - semel</foreign> gednu, <foreign xml:lang="lat-Latn">hinc</foreign> dwakrat <foreign xml:lang="lat-Latn">bis,</foreign>
 							<lb n="655" />
 							<foreign xml:lang="lat-Latn">Ter</foreign> trzykrat, cztyrzykrat <foreign xml:lang="lat-Latn">quater, fore</foreign> pyetkrat<lb n="656" />
-							<foreign xml:lang="lat-Latn">Quinquies et</foreign> sestkrat <foreign xml:lang="lat-Latn">sexies, sepcies est</foreign> sedmkrat,<lb n="657" />
-							<foreign xml:lang="lat-Latn">Occies, novies, decies, undecies et duodecies,</foreign>
-							<lb n="658" />
-							<foreign xml:lang="lat-Latn">Tredecies, quadridecies vel quindecics sit;</foreign>
-							<lb n="659" />
-							<foreign xml:lang="lat-Latn">Centesies stokrat, tysyczekrat milesies dic.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Quinquies et</foreign> sestkrat <foreign xml:lang="lat-Latn">sexies, sepcies est</foreign> sedmkrat,<lb n="657" xml:lang="lat-Latn" />Occies, novies, decies, undecies et duodecies,<lb n="658" xml:lang="lat-Latn" />Tredecies, quadridecies vel quindecics sit;<lb n="659" xml:lang="lat-Latn" />Centesies stokrat, tysyczekrat milesies dic.</p>
 					</div>
 					<div n="VI" xml:id="book-1-part-4-chapter-25" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De numeracione</head>
@@ -1324,55 +964,26 @@
 							<foreign xml:lang="lat-Latn">
 								<hi rend="smallcaps">Se</hi>d caput numeri est</foreign> gednost <foreign xml:lang="lat-Latn">unitas, quoque</foreign> dwoynost<lb n="661" />
 							<foreign xml:lang="lat-Latn">Dualitas, trinitas</foreign> trogycze, <foreign xml:lang="lat-Latn">quaternitas</foreign> cztwernost,<lb n="662" />
-							<foreign xml:lang="lat-Latn">Quinqualitas</foreign> paterost, <foreign xml:lang="lat-Latn">sextualitas force</foreign> sestnost<lb n="663" />
-							<foreign xml:lang="lat-Latn">Et septualitas, octualitas, nona, dena ...</foreign>
-							<lb n="664" />
+							<foreign xml:lang="lat-Latn">Quinqualitas</foreign> paterost, <foreign xml:lang="lat-Latn">sextualitas force</foreign> sestnost<lb n="663" xml:lang="lat-Latn" />Et septualitas, octualitas, nona, dena ...<lb n="664" />
 							<foreign xml:lang="lat-Latn">Dicas</foreign> dwassarty, trzysarty <foreign xml:lang="lat-Latn">dragma vocatur;</foreign>
-							<lb n="665" />
-							<foreign xml:lang="lat-Latn">Uncia dat octo, dragma, obulus duodenos;</foreign>
-							<lb n="666" />
-							<foreign xml:lang="lat-Latn">Bis dragma septem siclus, obulon minus uno,</foreign>
-							<lb n="667" />
-							<foreign xml:lang="lat-Latn">Viginti dicas obulus, dccem que mineas,</foreign>
-							<lb n="668" />
-							<foreign xml:lang="lat-Latn">Uncia denarius, grossus solidus faoit idem;</foreign>
-							<lb n="669" />
-							<foreign xml:lang="lat-Latn">Halensis parvus nummus vel as</foreign>
-							<foreign xml:lang="lat-Latn">hoc notat unum,</foreign>
-							<lb n="670" />
-							<foreign xml:lang="lat-Latn">Siclus, denarius proprio modo dicitur idem.</foreign>
-							<lb n="671" />Dwadczety <foreign xml:lang="lat-Latn">tunc</foreign> sartow., penyez deset, <foreign xml:lang="lat-Latn">hoc dato siclus</foreign>
+							<lb n="665" xml:lang="lat-Latn" />Uncia dat octo, dragma, obulus duodenos;<lb n="666" xml:lang="lat-Latn" />Bis dragma septem siclus, obulon minus uno,<lb n="667" xml:lang="lat-Latn" />Viginti dicas obulus, dccem que mineas,<lb n="668" xml:lang="lat-Latn" />Uncia denarius, grossus solidus faoit idem;<lb n="669" xml:lang="lat-Latn" />Halensis parvus nummus vel as hoc notat unum,<lb n="670" xml:lang="lat-Latn" />Siclus, denarius proprio modo dicitur idem.<lb n="671" />Dwadczety <foreign xml:lang="lat-Latn">tunc</foreign> sartow., penyez deset, <foreign xml:lang="lat-Latn">hoc dato siclus</foreign>
 							<lb n="672" />Osmkrat trzy sarty bez gednoho <foreign xml:lang="lat-Latn">dicito siclus;</foreign>
 							<lb n="673" />Cztrmezczyetma sartow penyez <foreign xml:lang="lat-Latn">que</foreign> dwanadste,<lb n="674" />Sedmkrat trzy sarty bez gednoho <foreign xml:lang="lat-Latn">dicito siclus,</foreign>
 							<lb n="675" />
 							<foreign xml:lang="lat-Latn">Uncia est</foreign> cztrmy sarty wyecze nezly <foreign xml:lang="lat-Latn">siclus,</foreign>
 							<lb n="676" />
 							<foreign xml:lang="lat-Latn">Uncia</foreign> dwadczetykrat <foreign xml:lang="lat-Latn">recte dispendius extat;</foreign>
-							<lb n="677" />
-							<foreign xml:lang="lat-Latn">
-								<supplied reason="lost">'xx'xx'</supplied> libram facit atque talentum.</foreign>
-							<lb n="678" />
-							<foreign xml:lang="lat-Latn">Sit dispendius hinc bis sumptus, dat tibi libram,</foreign>
-							<lb n="679" />
-							<foreign xml:lang="lat-Latn">Uncia quindecies fertonedat tibi</foreign> wyerdunk,<lb n="680" />
-							<foreign xml:lang="lat-Latn">Fertones quatuor sexagenam tibi dabunt,</foreign>
-							<lb n="681" />
-							<foreign xml:lang="lat-Latn">Uncia bis bina superaddita dat quoque marcam.</foreign>
-							<lb n="682" />Dwanadczt halerzow <foreign xml:lang="lat-Latn">as uncia, stips quoque pondus. - -</foreign>
-							<lb n="683" />
-							<foreign xml:lang="lat-Latn">Deinde post partes hoc pondus, uncia quod sit</foreign>
-							<lb n="684" />
+							<lb n="677" xml:lang="lat-Latn" />
+							<supplied reason="lost">'xx'xx'</supplied> libram facit atque talentum.<lb n="678" xml:lang="lat-Latn" />Sit dispendius hinc bis sumptus, dat tibi libram,<lb n="679" />
+							<foreign xml:lang="lat-Latn">Uncia quindecies fertonedat tibi</foreign> wyerdunk,<lb n="680" xml:lang="lat-Latn" />Fertones quatuor sexagenam tibi dabunt,<lb n="681" xml:lang="lat-Latn" />Uncia bis bina superaddita dat quoque marcam.<lb n="682" />Dwanadczt halerzow <foreign xml:lang="lat-Latn">as uncia, stips quoque pondus. - -</foreign>
+							<lb n="683" xml:lang="lat-Latn" />Deinde post partes hoc pondus, uncia quod sit<lb n="684" />
 							<foreign xml:lang="lat-Latn">Recipe tunc nummum, qui nummus, as, erit</foreign> halerz.<lb n="685" />
 							<foreign xml:lang="lat-Latn">Est, quod tunc remanet,</foreign> gedenatczte <foreign xml:lang="lat-Latn">dico denas;</foreign>
-							<lb n="686" />
-							<foreign xml:lang="lat-Latn">Recipe sed alium, duo tunc hii sexa vocantur.</foreign>
-							<lb n="687" />
+							<lb n="686" xml:lang="lat-Latn" />Recipe sed alium, duo tunc hii sexa vocantur.<lb n="687" />
 							<foreign xml:lang="lat-Latn">Pars tibi vel sextuus</foreign> sessta czest <foreign xml:lang="lat-Latn">recte vocatur</foreign>
 							<lb n="688" />
 							<foreign xml:lang="lat-Latn">Ast ibi quod remanet,</foreign> deset <foreign xml:lang="lat-Latn">hoc decuns vocitatur;</foreign>
-							<lb n="689" />
-							<foreign xml:lang="lat-Latn">Ternum recipe tunc ex uncia secundaque pars sit.</foreign>
-							<lb n="690" />
+							<lb n="689" xml:lang="lat-Latn" />Ternum recipe tunc ex uncia secundaque pars sit.<lb n="690" />
 							<foreign xml:lang="lat-Latn">Quadrans erit propria vel</foreign> cztwrtana toho grosse,<lb n="691" />
 							<foreign xml:lang="lat-Latn">Residuum numerus dodrans</foreign> dewyet <foreign xml:lang="lat-Latn">hoc vocitabis;</foreign>
 							<lb n="692" />
@@ -1381,93 +992,20 @@
 							<foreign xml:lang="lat-Latn">fiet.</foreign>
 							<lb n="694" />
 							<foreign xml:lang="lat-Latn">Quintum recipies quinticuns</foreign> patero paty <foreign xml:lang="lat-Latn">vel sic</foreign>
-							<lb n="695" />
-							<foreign xml:lang="lat-Latn">Septem sed remanent secundum septuns as vocitatus.</foreign>
-							<lb n="696" />
+							<lb n="695" xml:lang="lat-Latn" />Septem sed remanent secundum septuns as vocitatus.<lb n="696" />
 							<foreign xml:lang="lat-Latn">Sextum cum tolles, tunc alias</foreign> puol p<supplied reason="lost">a</supplied>te <foreign xml:lang="lat-Latn">semis</foreign>
-							<lb n="696" />
-							<foreign xml:lang="lat-Latn">Sed tria sunt decies triginta, quatuor quadraginta.</foreign>
-							<lb n="697" />
-							<foreign xml:lang="lat-Latn">Quatuor hine solidum faciunt, ter bisque denos</foreign>
-							<lb n="698" />
-							<foreign xml:lang="lat-Latn">Quinquies accepti, decies sumpti quadraginta,</foreign>
-							<lb n="700" />
-							<foreign xml:lang="lat-Latn">Quindecies capti sexagenam tibi dabunt,</foreign>
-							<lb n="701" />
-							<foreign xml:lang="lat-Latn">Sedecies marcam complebunt; vicies tunc</foreign>
-							<lb n="702" />
-							<foreign xml:lang="lat-Latn">Octuaginta dabunt, centum lege quinque viginti</foreign>
-							<lb n="703" />
-							<foreign xml:lang="lat-Latn">Ac sexagesies sumpti faciunt tibi libram.</foreign>
-							<lb n="704" />
-							<foreign xml:lang="lat-Latn">Et decies quinque quinquaginta numerabis,</foreign>
-							<lb n="705" />
-							<foreign xml:lang="lat-Latn">Sex decies dabunt sexaginta deciesque</foreign>
-							<lb n="706" />
-							<foreign xml:lang="lat-Latn">Septem sumantur, tunc septuaginta feruntur.</foreign>
-							<lb n="707" />
-							<foreign xml:lang="lat-Latn">Vel decies octo dabit octuaginta, que novem</foreign>
-							<lb n="708" />
-							<foreign xml:lang="lat-Latn">Sic decies captum nonaginta, post decies</foreign>
-							<lb n="709" />
-							<foreign xml:lang="lat-Latn">Decem dat centum, decies centum noto mille,</foreign>
-							<lb n="710" />
-							<foreign xml:lang="lat-Latn">Sed decies mille legionem dat tibi recte. -</foreign>
-						</p>
+							<lb n="696" xml:lang="lat-Latn" />Sed tria sunt decies triginta, quatuor quadraginta.<lb n="697" xml:lang="lat-Latn" />Quatuor hine solidum faciunt, ter bisque denos<lb n="698" xml:lang="lat-Latn" />Quinquies accepti, decies sumpti quadraginta,<lb n="700" xml:lang="lat-Latn" />Quindecies capti sexagenam tibi dabunt,<lb n="701" xml:lang="lat-Latn" />Sedecies marcam complebunt; vicies tunc<lb n="702" xml:lang="lat-Latn" />Octuaginta dabunt, centum lege quinque viginti<lb n="703" xml:lang="lat-Latn" />Ac sexagesies sumpti faciunt tibi libram.<lb n="704" xml:lang="lat-Latn" />Et decies quinque quinquaginta numerabis,<lb n="705" xml:lang="lat-Latn" />Sex decies dabunt sexaginta deciesque<lb n="706" xml:lang="lat-Latn" />Septem sumantur, tunc septuaginta feruntur.<lb n="707" xml:lang="lat-Latn" />Vel decies octo dabit octuaginta, que novem<lb n="708" xml:lang="lat-Latn" />Sic decies captum nonaginta, post decies<lb n="709" xml:lang="lat-Latn" />Decem dat centum, decies centum noto mille,<lb n="710" xml:lang="lat-Latn" />Sed decies mille legionem dat tibi recte. -</p>
 					</div>
-					<div n="VII" xml:id="book-1-part-4-chapter-26" type="chapter" data-level="3">
-						<head xml:lang="lat-Latn">De cifris</head>
+					<div n="VII" xml:id="book-1-part-4-chapter-26" type="chapter" data-level="3" xml:lang="lat-Latn">
+						<head>De cifris</head>
 						<p xml:id="book-1-part-4-chapter-26-p-30">
-							<lb n="711" />
-							<foreign xml:lang="lat-Latn">Ast numerum scribat versualem sicque dicas</foreign>
-							<lb n="712" />
-							<foreign xml:lang="lat-Latn">I monos, V quinos, X denos, dupla vicenos,</foreign>
-							<lb n="713" />
-							<foreign xml:lang="lat-Latn">XL duplat idem, triplicat LX, L quoque sola</foreign>
-							<lb n="714" />
-							<foreign xml:lang="lat-Latn">Quinqu<supplied reason="lost">a</supplied>ginta facit, nonaginta tibi dabit XC;</foreign>
-							<lb n="715" />
-							<foreign xml:lang="lat-Latn">C dat centenos, M mille, C si preit, aufert.</foreign>
-							<lb n="716" />
-							<foreign xml:lang="lat-Latn">Centum; quingenta D per se significabit,</foreign>
-							<lb n="717" />
-							<foreign xml:lang="lat-Latn">C<supplied reason="lost">D</supplied> dat centenos quadringentos, DC sexgentos in ...</foreign>
-							<lb n="718" />
-							<foreign xml:lang="lat-Latn">Plus est difficilis numerus artificialis.</foreign>
-							<lb n="719" />
-							<foreign xml:lang="lat-Latn">De cifris factus digitis 1 2 3 4 5 6 7 8 9 10 -</foreign>
-							<lb n="720" />
-							<foreign xml:lang="lat-Latn">Unum prima, secunda decem, dat tercia centum,</foreign>
-							<lb n="721" />
-							<foreign xml:lang="lat-Latn">Quarta dabit mille, sed milia quinta decem dat,</foreign>
-							<lb n="722" />
-							<foreign xml:lang="lat-Latn">C mille sexta dat, septima milia mille,</foreign>
-							<lb n="723" />
-							<foreign xml:lang="lat-Latn">Mille dat octava, sed millesies <supplied reason="lost">m</supplied>ille deciesque;</foreign>
-							<lb n="724" />
-							<foreign xml:lang="lat-Latn">Millesies nona dat millesies qucque centum,</foreign>
-							<lb n="725" />
-							<foreign xml:lang="lat-Latn">Millesies decima dat millesies quoque mille. - -</foreign>
-							<lb n="726" />
-							<foreign xml:lang="lat-Latn">Articulus tibi sit per denos deca, viginti.</foreign>
-							<lb n="727" />
-							<foreign xml:lang="lat-Latn">Conpositus ex hiis - unden, ducden, noveden. - -</foreign>
-						</p>
+							<lb n="711" />Ast numerum scribat versualem sicque dicas<lb n="712" />I monos, V quinos, X denos, dupla vicenos,<lb n="713" />XL duplat idem, triplicat LX, L quoque sola<lb n="714" />Quinqu<supplied reason="lost">a</supplied>ginta facit, nonaginta tibi dabit XC;<lb n="715" />C dat centenos, M mille, C si preit, aufert.<lb n="716" />Centum; quingenta D per se significabit,<lb n="717" />C<supplied reason="lost">D</supplied> dat centenos quadringentos, DC sexgentos in ...<lb n="718" />Plus est difficilis numerus artificialis.<lb n="719" />De cifris factus digitis 1 2 3 4 5 6 7 8 9 10 -<lb n="720" />Unum prima, secunda decem, dat tercia centum,<lb n="721" />Quarta dabit mille, sed milia quinta decem dat,<lb n="722" />C mille sexta dat, septima milia mille,<lb n="723" />Mille dat octava, sed millesies <supplied reason="lost">m</supplied>ille deciesque;<lb n="724" />Millesies nona dat millesies qucque centum,<lb n="725" />Millesies decima dat millesies quoque mille. - -<lb n="726" />Articulus tibi sit per denos deca, viginti.<lb n="727" />Conpositus ex hiis - unden, ducden, noveden. - -</p>
 					</div>
 				</div>
-				<div n="Conc." xml:id="book-1-part-5" type="part" data-level="2">
-					<head xml:lang="lat-Latn">Conclusio</head>
+				<div n="Conc." xml:id="book-1-part-5" type="part" data-level="2" xml:lang="lat-Latn">
+					<head>Conclusio</head>
 					<p xml:id="book-1-part-5-p-31">
-						<lb n="728" />
-						<foreign xml:lang="lat-Latn">Cum modo non cures numeros tibi scire plures,</foreign>
-						<lb n="729" />
-						<foreign xml:lang="lat-Latn">Iam satis est dictum nunc de numeris, bene fictum.</foreign>
-						<lb n="730" />
-						<foreign xml:lang="lat-Latn">Fortiter hinc studeas, ut multa vocabula feras;</foreign>
-						<lb n="731" />
-						<foreign xml:lang="lat-Latn">Grates nunc Christo reddamus tempore isto.</foreign>
-						<foreign xml:lang="lat-Latn">Amen</foreign>
-					</p>
+						<lb n="728" />Cum modo non cures numeros tibi scire plures,<lb n="729" />Iam satis est dictum nunc de numeris, bene fictum.<lb n="730" />Fortiter hinc studeas, ut multa vocabula feras;<lb n="731" />Grates nunc Christo reddamus tempore isto. Amen</p>
 				</div>
 			</div>
 			<div n="Gloss." xml:id="book-2" type="book" data-level="1">
@@ -1475,25 +1013,7 @@
 					<head xml:lang="lat-Latn">Proemium</head>
 					<p xml:id="book-2-part-6-p-32">
 						<lb n="1" />ACcedant <foreign xml:lang="lat-Latn">pueri, cupientes mente beari,</foreign>
-						<lb n="2" />
-						<foreign xml:lang="lat-Latn">Ad congnoscenda propriata vocabula pauca,</foreign>
-						<lb n="3" />
-						<foreign xml:lang="lat-Latn">Scripta per auctores nostros penitus meliores,</foreign>
-						<lb n="4" />
-						<foreign xml:lang="lat-Latn">A quibus hec fata sunt valde diupreparata.</foreign>
-						<lb n="5" />
-						<foreign xml:lang="lat-Latn">Nam quondam veteres cogebant ire scolares</foreign>
-						<lb n="6" />
-						<foreign xml:lang="lat-Latn">Hostia per clausa, punientes hos sine causa,</foreign>
-						<lb n="7" />
-						<foreign xml:lang="lat-Latn">Inproprie fantes, voces varie propinantes,</foreign>
-						<lb n="8" />
-						<foreign xml:lang="lat-Latn">Ex quibus errantes sunt instabiles, dubitantes.</foreign>
-						<lb n="9" />
-						<foreign xml:lang="lat-Latn">Hinc pro posse meo coniungo Latina Bohemo,</foreign>
-						<lb n="10" />
-						<foreign xml:lang="lat-Latn">Gracia non laudis, laborando quatuor annis. -</foreign>
-						<lb n="11" />Vyeda <foreign xml:lang="lat-Latn">sciens <supplied reason="lost">h</supplied>emos</foreign> rozkochane czechy <foreign xml:lang="lat-Latn">Bohemos,</foreign>
+						<lb n="2" xml:lang="lat-Latn" />Ad congnoscenda propriata vocabula pauca,<lb n="3" xml:lang="lat-Latn" />Scripta per auctores nostros penitus meliores,<lb n="4" xml:lang="lat-Latn" />A quibus hec fata sunt valde diupreparata.<lb n="5" xml:lang="lat-Latn" />Nam quondam veteres cogebant ire scolares<lb n="6" xml:lang="lat-Latn" />Hostia per clausa, punientes hos sine causa,<lb n="7" xml:lang="lat-Latn" />Inproprie fantes, voces varie propinantes,<lb n="8" xml:lang="lat-Latn" />Ex quibus errantes sunt instabiles, dubitantes.<lb n="9" xml:lang="lat-Latn" />Hinc pro posse meo coniungo Latina Bohemo,<lb n="10" xml:lang="lat-Latn" />Gracia non laudis, laborando quatuor annis. -<lb n="11" />Vyeda <foreign xml:lang="lat-Latn">sciens <supplied reason="lost">h</supplied>emos</foreign> rozkochane czechy <foreign xml:lang="lat-Latn">Bohemos,</foreign>
 						<lb n="12" />
 						<foreign xml:lang="lat-Latn">En</foreign> tedye <foreign xml:lang="lat-Latn">curta</foreign> kratke, <foreign xml:lang="lat-Latn">facile</foreign> snadne, <foreign xml:lang="lat-Latn">leve</foreign> lechke <foreign xml:lang="lat-Latn">-</foreign>
 						<lb n="13" />
@@ -1509,27 +1029,7 @@
 						<foreign xml:lang="lat-Latn">Isti</foreign> ty <foreign xml:lang="lat-Latn">variant</foreign> promyenygi rzecz kazie <foreign xml:lang="lat-Latn">cassant;</foreign>
 						<lb n="19" />Prawie <foreign xml:lang="lat-Latn">ferunt prisci</foreign> starzi <foreign xml:lang="lat-Latn">sic</foreign> tako mistrzi <foreign xml:lang="lat-Latn">magistri -</foreign>
 						<lb n="20" />Vmyeti <foreign xml:lang="lat-Latn">scire volunt</foreign> chtie, <foreign xml:lang="lat-Latn">legisse</foreign> czisti nechtie <foreign xml:lang="lat-Latn">nolunt. - -</foreign>
-						<lb n="21" />
-						<foreign xml:lang="lat-Latn">Octo dabo partes, quibus ipsa vocabula carpes -</foreign>
-						<lb n="22" />
-						<foreign xml:lang="lat-Latn">Sit Deus in primis, mediis fautor, simul imis,</foreign>
-						<lb n="23" />
-						<foreign xml:lang="lat-Latn">Mentes illustrans, celum terramque gubernans.</foreign>
-						<lb n="24" />
-						<foreign xml:lang="lat-Latn">Aerea fundo, volucrum monstrosa secundo;</foreign>
-						<lb n="25" />
-						<foreign xml:lang="lat-Latn">Undatiles terna, pisces et aquatica monstra;</foreign>
-						<lb n="26" />
-						<foreign xml:lang="lat-Latn">Fert animal quarta, lignum cum semine quinta.</foreign>
-						<lb n="27" />
-						<foreign xml:lang="lat-Latn">Est homo sub sexta, gestus, stirps, accida membra</foreign>
-						<lb n="28" />
-						<foreign xml:lang="lat-Latn">Pandere vultque domum, civitatem septima, templum,</foreign>
-						<lb n="29" />
-						<foreign xml:lang="lat-Latn">Artifices tandem dabit ultima pars, simul artem.</foreign>
-						<lb n="30" />
-						<foreign xml:lang="lat-Latn">Quod non sint tetra, placuit corrumpere metra.</foreign>
-					</p>
+						<lb n="21" xml:lang="lat-Latn" />Octo dabo partes, quibus ipsa vocabula carpes -<lb n="22" xml:lang="lat-Latn" />Sit Deus in primis, mediis fautor, simul imis,<lb n="23" xml:lang="lat-Latn" />Mentes illustrans, celum terramque gubernans.<lb n="24" xml:lang="lat-Latn" />Aerea fundo, volucrum monstrosa secundo;<lb n="25" xml:lang="lat-Latn" />Undatiles terna, pisces et aquatica monstra;<lb n="26" xml:lang="lat-Latn" />Fert animal quarta, lignum cum semine quinta.<lb n="27" xml:lang="lat-Latn" />Est homo sub sexta, gestus, stirps, accida membra<lb n="28" xml:lang="lat-Latn" />Pandere vultque domum, civitatem septima, templum,<lb n="29" xml:lang="lat-Latn" />Artifices tandem dabit ultima pars, simul artem.<lb n="30" xml:lang="lat-Latn" />Quod non sint tetra, placuit corrumpere metra.</p>
 				</div>
 				<div n="I" xml:id="book-2-part-7" type="part" data-level="2">
 					<head xml:lang="lat-Latn">De deo, celo et mundo</head>
@@ -1603,17 +1103,13 @@
 							<foreign xml:lang="lat-Latn">Augustus</foreign> srpen, zarig <foreign xml:lang="lat-Latn">september,</foreign> ocz <foreign xml:lang="lat-Latn">omen,</foreign>
 							<lb n="82" />Rzigen <foreign xml:lang="lat-Latn">October, sed</foreign> listopad <foreign xml:lang="lat-Latn">esto November,</foreign>
 							<lb n="83" />
-							<foreign xml:lang="lat-Latn">December</foreign> prosynecz, <foreign xml:lang="lat-Latn">embolismus vero</foreign> hrudnecz.<lb n="84" />
-							<foreign xml:lang="lat-Latn">Talia Claretus fert prima vocabula letus.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">December</foreign> prosynecz, <foreign xml:lang="lat-Latn">embolismus vero</foreign> hrudnecz.<lb n="84" xml:lang="lat-Latn" />Talia Claretus fert prima vocabula letus.</p>
 					</div>
 					<div n="2" xml:id="book-2-part-7-chapter-28" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De mundo</head>
 						<p xml:id="book-2-part-7-chapter-28-p-34">
-							<lb n="85" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Or</hi>dine de mundo terrena vocabula fundo.</foreign>
-							<lb n="86" />
+							<lb n="85" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Or</hi>dine de mundo terrena vocabula fundo.<lb n="86" />
 							<foreign xml:lang="lat-Latn">Terra</foreign> zemie, czesta <foreign xml:lang="lat-Latn">via, gallaxia</foreign> bielesta.<lb n="87" />
 							<foreign xml:lang="lat-Latn">Dic</foreign> rczi <foreign xml:lang="lat-Latn">minera</foreign> ruda, <foreign xml:lang="lat-Latn">tellus</foreign> prst, <foreign xml:lang="lat-Latn">glebaque</foreign> hruda,<lb n="88" />
 							<foreign xml:lang="lat-Latn">Argilla</foreign> hlina, maz <foreign xml:lang="lat-Latn">glarea,</foreign> ssachta <foreign xml:lang="lat-Latn">fodina,</foreign>
@@ -1662,17 +1158,13 @@
 							<lb n="119" />
 							<foreign xml:lang="lat-Latn">Limo</foreign> krzez, <foreign xml:lang="lat-Latn">sterna</foreign> zahrobecz <foreign xml:lang="lat-Latn">sit,</foreign> yatka <foreign xml:lang="lat-Latn">caverna.</foreign>
 							<lb n="120" />
-							<foreign xml:lang="lat-Latn">Tartarus est</foreign> ztratecz, <foreign xml:lang="lat-Latn">pena</foreign> muka, <foreign xml:lang="lat-Latn">limbus</foreign> oczistecz.<lb n="121" />
-							<foreign xml:lang="lat-Latn">Prestitit Urbanus, doctor meus, hec Florianus.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Tartarus est</foreign> ztratecz, <foreign xml:lang="lat-Latn">pena</foreign> muka, <foreign xml:lang="lat-Latn">limbus</foreign> oczistecz.<lb n="121" xml:lang="lat-Latn" />Prestitit Urbanus, doctor meus, hec Florianus.</p>
 					</div>
 					<div n="3" xml:id="book-2-part-7-chapter-29" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De lapidibus</head>
 						<p xml:id="book-2-part-7-chapter-29-p-35">
-							<lb n="122" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Ha</hi>ctenus exponam, lapidum bona nomina ponam.</foreign>
-							<lb n="123" />
+							<lb n="122" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Ha</hi>ctenus exponam, lapidum bona nomina ponam.<lb n="123" />
 							<foreign xml:lang="lat-Latn">Opoka petra, lapis</foreign> kamen, hor <foreign xml:lang="lat-Latn">pstrolle, [</foreign> drahule <foreign xml:lang="lat-Latn">yaspis].</foreign>
 							<lb n="124" />
 							<foreign xml:lang="lat-Latn">Est achates</foreign> bezdrak, <foreign xml:lang="lat-Latn">granatus</foreign> zrnakocz, <foreign xml:lang="lat-Latn">elidros</foreign> wrak,<lb n="125" />
@@ -1719,16 +1211,12 @@
 							<foreign xml:lang="lat-Latn">Allumen</foreign> kamenecz, krzipa <foreign xml:lang="lat-Latn">saxa, lazuria</foreign> modrzecz,<lb n="158" />
 							<foreign xml:lang="lat-Latn">Sardius</foreign> oplunat, <foreign xml:lang="lat-Latn">medus</foreign> assla, <foreign xml:lang="lat-Latn">crapandina</foreign> volnat,<lb n="159" />
 							<foreign xml:lang="lat-Latn">Cantis</foreign> ostruss, <foreign xml:lang="lat-Latn">rubitus</foreign> krwet, <foreign xml:lang="lat-Latn">autax</foreign> przad, spla <foreign xml:lang="lat-Latn">balaustus.</foreign>
-							<lb n="160" />
-							<foreign xml:lang="lat-Latn">Proprietas rerum probat istud ad omnia verum.</foreign>
-						</p>
+							<lb n="160" xml:lang="lat-Latn" />Proprietas rerum probat istud ad omnia verum.</p>
 					</div>
 					<div n="4" xml:id="book-2-part-7-chapter-30" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De aereis</head>
 						<p xml:id="book-2-part-7-chapter-30-p-36">
-							<lb n="161" />
-							<foreign xml:lang="lat-Latn">Edicto celo super aera nata revelo.</foreign>
-							<lb n="162" />Dam <foreign xml:lang="lat-Latn">dabo</foreign> vietr <foreign xml:lang="lat-Latn">ventus, ros</foreign> rossa, zywel <foreign xml:lang="lat-Latn">elementum,</foreign>
+							<lb n="161" xml:lang="lat-Latn" />Edicto celo super aera nata revelo.<lb n="162" />Dam <foreign xml:lang="lat-Latn">dabo</foreign> vietr <foreign xml:lang="lat-Latn">ventus, ros</foreign> rossa, zywel <foreign xml:lang="lat-Latn">elementum,</foreign>
 							<lb n="163" />
 							<foreign xml:lang="lat-Latn">Aurora</foreign> zorzie, <foreign xml:lang="lat-Latn">pars</foreign> czest, <foreign xml:lang="lat-Latn">inpressio</foreign> zarzie;<lb n="164" />
 							<foreign xml:lang="lat-Latn">Nymbus</foreign> tychidescz, gyh <foreign xml:lang="lat-Latn">dissolumen, pluvia</foreign> desscz.<lb n="165" />Powietrzie <foreign xml:lang="lat-Latn">dic aer, turbo</foreign> vycher, prziewal <foreign xml:lang="lat-Latn">imber,</foreign>
@@ -1776,9 +1264,7 @@
 							<foreign xml:lang="lat-Latn">Noctico</foreign> snoczi, drovie <foreign xml:lang="lat-Latn">caro, prando</foreign> vobied, <foreign xml:lang="lat-Latn">mano</foreign> davie;<lb n="200" />Sczetnycze <foreign xml:lang="lat-Latn">Pleiades,</foreign> psowna <foreign xml:lang="lat-Latn">Canis,</foreign> ogka <foreign xml:lang="lat-Latn">Boetes,</foreign>
 							<lb n="201" />
 							<foreign xml:lang="lat-Latn">Aldebora</foreign> hrusa, przieczek <foreign xml:lang="lat-Latn">Arthophilax,</foreign> vodyk <foreign xml:lang="lat-Latn">Ursa.</foreign>
-							<lb n="202" />
-							<foreign xml:lang="lat-Latn">Ecce Bohemarius dedit ista vocabula solus.</foreign>
-						</p>
+							<lb n="202" xml:lang="lat-Latn" />Ecce Bohemarius dedit ista vocabula solus.</p>
 					</div>
 				</div>
 				<div n="II" xml:id="book-2-part-8" type="part" data-level="2">
@@ -1786,9 +1272,7 @@
 					<div n="1" xml:id="book-2-part-8-chapter-31" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De <supplied reason="lost">altilibus</supplied> domesticis</head>
 						<p xml:id="book-2-part-8-chapter-31-p-37">
-							<lb n="203" />
-							<foreign xml:lang="lat-Latn">Mentibus altilia prius ipsa domestica signa.</foreign>
-							<lb n="204" />
+							<lb n="203" xml:lang="lat-Latn" />Mentibus altilia prius ipsa domestica signa.<lb n="204" />
 							<foreign xml:lang="lat-Latn">Altile</foreign> krzidlatko, kacze <foreign xml:lang="lat-Latn">tintarus, alta</foreign> letatko,<lb n="205" />Letka <foreign xml:lang="lat-Latn">volatile,</foreign> noss <foreign xml:lang="lat-Latn">rostrum,</foreign> ten <foreign xml:lang="lat-Latn">frendula hic</foreign> koss,<lb n="206" />Kossinye <foreign xml:lang="lat-Latn">pennatum, ceix</foreign> cziss, zlutek <foreign xml:lang="lat-Latn">que vitellum,</foreign>
 							<lb n="207" />
 							<foreign xml:lang="lat-Latn">Pes</foreign> noha, <foreign xml:lang="lat-Latn">penna</foreign> pero, <foreign xml:lang="lat-Latn">sit penniletum</foreign> holopero.<lb n="208" />
@@ -1840,16 +1324,12 @@
 							<lb n="242" />
 							<foreign xml:lang="lat-Latn">Albugo</foreign> byelek <foreign xml:lang="lat-Latn">gallinaciusque</foreign> kapunek.<lb n="243" />
 							<foreign xml:lang="lat-Latn">Dic examen</foreign> roy, <foreign xml:lang="lat-Latn">cultus</foreign> stroy, <foreign xml:lang="lat-Latn">municulum .broy.</foreign>
-							<lb n="244" />
-							<foreign xml:lang="lat-Latn">Has dat aves omnes de Galandria Johannes. -</foreign>
-						</p>
+							<lb n="244" xml:lang="lat-Latn" />Has dat aves omnes de Galandria Johannes. -</p>
 					</div>
 					<div n="2" xml:id="book-2-part-8-chapter-32" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De volatilibus compestribus</head>
 						<p xml:id="book-2-part-8-chapter-32-p-38">
-							<lb n="245" />
-							<foreign xml:lang="lat-Latn">Addo volatilia campestria raro notata.</foreign>
-							<lb n="246" />Orel <foreign xml:lang="lat-Latn">aquila,</foreign> sslawik <foreign xml:lang="lat-Latn">filomena, sit arpia</foreign> strasslik,<lb n="247" />
+							<lb n="245" xml:lang="lat-Latn" />Addo volatilia campestria raro notata.<lb n="246" />Orel <foreign xml:lang="lat-Latn">aquila,</foreign> sslawik <foreign xml:lang="lat-Latn">filomena, sit arpia</foreign> strasslik,<lb n="247" />
 							<foreign xml:lang="lat-Latn">Alcio</foreign> wysohnyezdek. <foreign xml:lang="lat-Latn">sit coredulus</foreign> srdogiedek,<lb n="248" />
 							<foreign xml:lang="lat-Latn">Annoda</foreign> drlycze, <foreign xml:lang="lat-Latn">gripho</foreign> noh, <foreign xml:lang="lat-Latn">raptula</foreign> spicze,<lb n="249" />Ohnyaczek <foreign xml:lang="lat-Latn">fenix, strapedes</foreign> zross, tetrzevecz <foreign xml:lang="lat-Latn">orrix.</foreign>
 							<lb n="250" />
@@ -1909,16 +1389,12 @@
 							<foreign xml:lang="lat-Latn">Fatator</foreign> neczanek, <foreign xml:lang="lat-Latn">petrix</foreign> stkla, <foreign xml:lang="lat-Latn">conelca</foreign> sslogierek,<lb n="299" />Zviediele <foreign xml:lang="lat-Latn">vanellus, ubi</foreign> kde, slunczerk <foreign xml:lang="lat-Latn">kiliondrus</foreign>
 							<lb n="300" />
 							<foreign xml:lang="lat-Latn">Est carex</foreign> ostrziess, vir <foreign xml:lang="lat-Latn">bubo, creon</foreign> krzywonosecz,<lb n="301" />
-							<foreign xml:lang="lat-Latn">Barliates</foreign> kobyena, valuss <foreign xml:lang="lat-Latn">ardeale, droma</foreign> sdlena.<lb n="302" />
-							<foreign xml:lang="lat-Latn">Ambrosius, Plinius volucres dedit hasque Solinus.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Barliates</foreign> kobyena, valuss <foreign xml:lang="lat-Latn">ardeale, droma</foreign> sdlena.<lb n="302" xml:lang="lat-Latn" />Ambrosius, Plinius volucres dedit hasque Solinus.</p>
 					</div>
 					<div n="3" xml:id="book-2-part-8-chapter-33" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De monstrosis hominibus</head>
 						<p xml:id="book-2-part-8-chapter-33-p-39">
-							<lb n="303" />
-							<foreign xml:lang="lat-Latn">Respice monstrosos homines natos viciosos.</foreign>
-							<lb n="304" />
+							<lb n="303" xml:lang="lat-Latn" />Respice monstrosos homines natos viciosos.<lb n="304" />
 							<foreign xml:lang="lat-Latn">Miro</foreign> dywak, <foreign xml:lang="lat-Latn">nostrum</foreign> nasse, psecz <foreign xml:lang="lat-Latn">cano,</foreign> potvora <foreign xml:lang="lat-Latn">monstrum,</foreign>
 							<lb n="305" />Odywa <foreign xml:lang="lat-Latn">spectaculum,</foreign> dyw <foreign xml:lang="lat-Latn">miraculum,</foreign> znanye <foreign xml:lang="lat-Latn">signum,</foreign>
 							<lb n="306" />
@@ -1956,9 +1432,7 @@
 							<foreign xml:lang="lat-Latn">Mellides</foreign> medunyk, <foreign xml:lang="lat-Latn">epiphagus sit</foreign> zabogednik;<lb n="334" />
 							<foreign xml:lang="lat-Latn">Occidita</foreign> zapodyel, <foreign xml:lang="lat-Latn">bipar tipus sit</foreign> obitarzel,<lb n="335" />
 							<foreign xml:lang="lat-Latn">Collosus</foreign> ssygenal <foreign xml:lang="lat-Latn">sit arismapusque</foreign> suchopal,<lb n="336" />Swraskal <foreign xml:lang="lat-Latn">complista,</foreign> chudomudrak <foreign xml:lang="lat-Latn">gimnosophista.</foreign>
-							<lb n="337" />
-							<foreign xml:lang="lat-Latn">Ysodorus, Iacobus tribus hec dedit atque duobus.</foreign>
-						</p>
+							<lb n="337" xml:lang="lat-Latn" />Ysodorus, Iacobus tribus hec dedit atque duobus.</p>
 					</div>
 				</div>
 				<div n="III" xml:id="book-2-part-9" type="part" data-level="2">
@@ -1966,9 +1440,7 @@
 					<div n="1" xml:id="book-2-part-9-chapter-34" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De aqua</head>
 						<p xml:id="book-2-part-9-chapter-34-p-40">
-							<lb n="338" />
-							<foreign xml:lang="lat-Latn">Istis aereis deditis ad aquatile curris.</foreign>
-							<lb n="339" />
+							<lb n="338" xml:lang="lat-Latn" />Istis aereis deditis ad aquatile curris.<lb n="339" />
 							<foreign xml:lang="lat-Latn">Fluxus</foreign> tek, gezero <foreign xml:lang="lat-Latn">lacus esto palusque</foreign> moczidlo,<lb n="340" />
 							<foreign xml:lang="lat-Latn">Unda</foreign> voda, <foreign xml:lang="lat-Latn">fluvius</foreign> potok, <foreign xml:lang="lat-Latn">est pons</foreign> most, struha <foreign xml:lang="lat-Latn">rivus.</foreign>
 							<lb n="341" />Bistrzína <foreign xml:lang="lat-Latn">sit ruítus,</foreign> ohrzie <foreign xml:lang="lat-Latn">Phoxa,</foreign> rozteczka <foreign xml:lang="lat-Latn">refluxus,</foreign>
@@ -2007,17 +1479,13 @@
 							<foreign xml:lang="lat-Latn">Eufrates</foreign> dobrzon, <foreign xml:lang="lat-Latn">Cison</foreign> sspiena, mrzlena <foreign xml:lang="lat-Latn">Geon,</foreign>
 							<lb n="370" />
 							<foreign xml:lang="lat-Latn">Cochitus</foreign> plapolet, <foreign xml:lang="lat-Latn">Flegeton</foreign> horuczen, <foreign xml:lang="lat-Latn">Lethe</foreign> zapnyet,<lb n="371" />
-							<foreign xml:lang="lat-Latn">Ausona</foreign> horkovoden, <foreign xml:lang="lat-Latn">Nilus</foreign> zrucza, <foreign xml:lang="lat-Latn">Kera</foreign> studoven,<lb n="372" />Czidlina <foreign xml:lang="lat-Latn">Cinga,</foreign> Dunay <foreign xml:lang="lat-Latn">Danubius, Actigrius</foreign> ray.<lb n="373" />
-							<foreign xml:lang="lat-Latn">Mauricius cuncta, doctormeus, addidit ista.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Ausona</foreign> horkovoden, <foreign xml:lang="lat-Latn">Nilus</foreign> zrucza, <foreign xml:lang="lat-Latn">Kera</foreign> studoven,<lb n="372" />Czidlina <foreign xml:lang="lat-Latn">Cinga,</foreign> Dunay <foreign xml:lang="lat-Latn">Danubius, Actigrius</foreign> ray.<lb n="373" xml:lang="lat-Latn" />Mauricius cuncta, doctormeus, addidit ista.</p>
 					</div>
 					<div n="2" xml:id="book-2-part-9-chapter-35" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De piscibus</head>
 						<p xml:id="book-2-part-9-chapter-35-p-41">
-							<lb n="374" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Or</hi>do dat hincpisces in aquis, quos prendere glisces.</foreign>
-							<lb n="375" />
+							<lb n="374" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Or</hi>do dat hincpisces in aquis, quos prendere glisces.<lb n="375" />
 							<foreign xml:lang="lat-Latn">Pisciculus</foreign> ribka, <foreign xml:lang="lat-Latn">piscis</foreign> riba, ploticze <foreign xml:lang="lat-Latn">foca,</foreign>
 							<lb n="376" />
 							<foreign xml:lang="lat-Latn">Genimina</foreign> xencze, brzissek <foreign xml:lang="lat-Latn">entrum, pennula</foreign> krzidlcze,<lb n="377" />
@@ -2092,19 +1560,13 @@
 							<lb n="426" />
 							<foreign xml:lang="lat-Latn">Damnus</foreign> titrzen, <foreign xml:lang="lat-Latn">gamarus</foreign> harasecz, podbrzinka <foreign xml:lang="lat-Latn">que glarus,</foreign>
 							<lb n="427" />
-							<foreign xml:lang="lat-Latn">Cocleapus _rakopun, calens</foreign> klassczen, <foreign xml:lang="lat-Latn">rochea</foreign> scorpun.<lb n="428" />
-							<foreign xml:lang="lat-Latn">Hec dat Ysnacensis, Heberhardus Bituniensis.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Cocleapus _rakopun, calens</foreign> klassczen, <foreign xml:lang="lat-Latn">rochea</foreign> scorpun.<lb n="428" xml:lang="lat-Latn" />Hec dat Ysnacensis, Heberhardus Bituniensis.</p>
 					</div>
 					<div n="3" xml:id="book-2-part-9-chapter-36" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De claudis monstris</head>
 						<p xml:id="book-2-part-9-chapter-36-p-42">
-							<lb n="429" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Cl</hi>auda dabit monstra modo tantula cartula nostra.</foreign>
-							<lb n="430" />
-							<foreign xml:lang="lat-Latn">Fastaleon pichlen, mtza fentis, ochochule Syren,</foreign>
-							<lb n="431" />Spustonohar <foreign xml:lang="lat-Latn">draphedus,</foreign> mravossczíren <foreign xml:lang="lat-Latn">formicalondeus,</foreign>
+							<lb n="429" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Cl</hi>auda dabit monstra modo tantula cartula nostra.<lb n="430" xml:lang="lat-Latn" />Fastaleon pichlen, mtza fentis, ochochule Syren,<lb n="431" />Spustonohar <foreign xml:lang="lat-Latn">draphedus,</foreign> mravossczíren <foreign xml:lang="lat-Latn">formicalondeus,</foreign>
 							<lb n="432" />
 							<foreign xml:lang="lat-Latn">Belua</foreign> dvoran, morzman <foreign xml:lang="lat-Latn">equida, sed musio</foreign> kaczman,<lb n="433" />Ostrzirohat <foreign xml:lang="lat-Latn">monocra,</foreign> dokonetnacz <foreign xml:lang="lat-Latn">sit cathapheba</foreign>
 							<lb n="434" />
@@ -2142,9 +1604,7 @@
 							<lb n="459" />Hnyedlik <foreign xml:lang="lat-Latn">leucrotheca,</foreign> modrzen <foreign xml:lang="lat-Latn">istrix,</foreign> hlerda <foreign xml:lang="lat-Latn">falena,</foreign>
 							<lb n="460" />Tulan <foreign xml:lang="lat-Latn">manciora, zybo</foreign> russcz, nosonaw <foreign xml:lang="lat-Latn">trogedita,</foreign>
 							<lb n="461" />Postrup <foreign xml:lang="lat-Latn">mamonetus, eale</foreign> gdusse, leprzie <foreign xml:lang="lat-Latn">genessus.</foreign>
-							<lb n="462" />
-							<foreign xml:lang="lat-Latn">Hec dedit Albertus Augustinus que refertus.</foreign>
-						</p>
+							<lb n="462" xml:lang="lat-Latn" />Hec dedit Albertus Augustinus que refertus.</p>
 					</div>
 				</div>
 				<div n="IV" xml:id="book-2-part-10" type="part" data-level="2">
@@ -2152,9 +1612,7 @@
 					<div n="1" xml:id="book-2-part-10-chapter-37" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De animalium natura</head>
 						<p xml:id="book-2-part-10-chapter-37-p-43">
-							<lb n="463" />
-							<foreign xml:lang="lat-Latn">Ardua contexta brutis pars postea quarta.</foreign>
-							<lb n="464" />
+							<lb n="463" xml:lang="lat-Latn" />Ardua contexta brutis pars postea quarta.<lb n="464" />
 							<foreign xml:lang="lat-Latn">Est animal</foreign> zwierze, <foreign xml:lang="lat-Latn">labrum</foreign> pysk, <foreign xml:lang="lat-Latn">ubera</foreign> wymie;<lb n="465" />
 							<foreign xml:lang="lat-Latn">Bestia sit</foreign> hovado, <foreign xml:lang="lat-Latn">fera</foreign> zwierze <foreign xml:lang="lat-Latn">arvinaque</foreign> sadlo,<lb n="466" />
 							<foreign xml:lang="lat-Latn">Grex</foreign> stado, skuot <foreign xml:lang="lat-Latn">pecudes,</foreign> zvierzina <foreign xml:lang="lat-Latn">ferína,</foreign> spot <foreign xml:lang="lat-Latn">udes,</foreign>
@@ -2184,16 +1642,12 @@
 							<foreign xml:lang="lat-Latn">Ceraque</foreign> wosk, troskel <foreign xml:lang="lat-Latn">rancor, dic albugium</foreign> byel.<lb n="493" />
 							<foreign xml:lang="lat-Latn">Antria</foreign> ssal sirzisscze <foreign xml:lang="lat-Latn">que coagula, silla</foreign> gelitcze,<lb n="494" />
 							<foreign xml:lang="lat-Latn">Sed stilicidia</foreign> kapalicze, <foreign xml:lang="lat-Latn">nilus</foreign> obalka,<lb n="495" />
-							<foreign xml:lang="lat-Latn">Cerica</foreign> vossczini ged <foreign xml:lang="lat-Latn">que venenum, virus</foreign> obruged.<lb n="496" />
-							<foreign xml:lang="lat-Latn">Quod Brito, Cornutus dat, sis, Nicolae, secutus</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Cerica</foreign> vossczini ged <foreign xml:lang="lat-Latn">que venenum, virus</foreign> obruged.<lb n="496" xml:lang="lat-Latn" />Quod Brito, Cornutus dat, sis, Nicolae, secutus</p>
 					</div>
 					<div n="2" xml:id="book-2-part-10-chapter-38" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De bestiis</head>
 						<p xml:id="book-2-part-10-chapter-38-p-44">
-							<lb n="497" />
-							<foreign xml:lang="lat-Latn">Raro sequens gesta de bestiis cernis honesta.</foreign>
-							<lb n="498" />Lew <foreign xml:lang="lat-Latn">leo</foreign> wlkque <foreign xml:lang="lat-Latn">lupusque le<supplied reason="lost">e</supplied>na</foreign> lwicze, nedvied <foreign xml:lang="lat-Latn">ursus</foreign>
+							<lb n="497" xml:lang="lat-Latn" />Raro sequens gesta de bestiis cernis honesta.<lb n="498" />Lew <foreign xml:lang="lat-Latn">leo</foreign> wlkque <foreign xml:lang="lat-Latn">lupusque le<supplied reason="lost">e</supplied>na</foreign> lwicze, nedvied <foreign xml:lang="lat-Latn">ursus</foreign>
 							<lb n="499" />
 							<foreign xml:lang="lat-Latn">Ursaque</foreign> nedviedicze, <foreign xml:lang="lat-Latn">lupa</foreign> wlczicze, <foreign xml:lang="lat-Latn">dic ovis</foreign> owcze,<lb n="500" />Koza <foreign xml:lang="lat-Latn">capra, vulpes</foreign> lyska <foreign xml:lang="lat-Latn">que canicula</foreign> tysta.<lb n="501" />
 							<foreign xml:lang="lat-Latn">Capriollus</foreign> srna, <foreign xml:lang="lat-Latn">mardir</foreign> kuna, colda <foreign xml:lang="lat-Latn">locuna,</foreign>
@@ -2251,16 +1705,12 @@
 							<lb n="547" />
 							<foreign xml:lang="lat-Latn">Critecus</foreign> klepnacz, <foreign xml:lang="lat-Latn">neomon</foreign> znaczíe, <foreign xml:lang="lat-Latn">cefora</foreign> hrupan,<lb n="548" />Rziekoplavir <foreign xml:lang="lat-Latn">raginer, varmus</foreign> sspont, ztazna <foreign xml:lang="lat-Latn">parander,</foreign>
 							<lb n="549" />
-							<foreign xml:lang="lat-Latn">Igenecha</foreign> dohule, <foreign xml:lang="lat-Latn">vesons</foreign> drwle, <foreign xml:lang="lat-Latn">zibron</foreign> ozuble.<lb n="550" />
-							<foreign xml:lang="lat-Latn">In Librorerum potes hoc congnoscere verum.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Igenecha</foreign> dohule, <foreign xml:lang="lat-Latn">vesons</foreign> drwle, <foreign xml:lang="lat-Latn">zibron</foreign> ozuble.<lb n="550" xml:lang="lat-Latn" />In Librorerum potes hoc congnoscere verum.</p>
 					</div>
 					<div n="3" xml:id="book-2-part-10-chapter-39" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De nominibus serpentum</head>
 						<p xml:id="book-2-part-10-chapter-39-p-45">
-							<lb n="551" />
-							<foreign xml:lang="lat-Latn">Tandem serpentes capias non valde nocentes.</foreign>
-							<lb n="552" />
+							<lb n="551" xml:lang="lat-Latn" />Tandem serpentes capias non valde nocentes.<lb n="552" />
 							<foreign xml:lang="lat-Latn">Scorpio</foreign> sstyr, <foreign xml:lang="lat-Latn">situlus</foreign> zpisten, ostrovid <foreign xml:lang="lat-Latn">basiliscus,</foreign>
 							<lb n="553" />
 							<foreign xml:lang="lat-Latn">Serpens</foreign> had, <foreign xml:lang="lat-Latn">iaculus metye, tir</foreign> prusscz san <foreign xml:lang="lat-Latn">que cilindrus,</foreign>
@@ -2288,16 +1738,12 @@
 							<foreign xml:lang="lat-Latn">Ydrus</foreign> omak, poslepun <foreign xml:lang="lat-Latn">pester sirenaque</foreign> chochlun.<lb n="571" />
 							<foreign xml:lang="lat-Latn">Ypnapus est</foreign> ohltan, <foreign xml:lang="lat-Latn">farias</foreign> zdielt, <foreign xml:lang="lat-Latn">firula</foreign> kloptan<lb n="572" />
 							<foreign xml:lang="lat-Latn">Et naderos</foreign> nostak, <foreign xml:lang="lat-Latn">mariser</foreign> zavarziss, <foreign xml:lang="lat-Latn">tirus</foreign> odstak,<lb n="573" />
-							<foreign xml:lang="lat-Latn">Tarans</foreign> nedostnik, <foreign xml:lang="lat-Latn">tisius</foreign> klepotnyk, <foreign xml:lang="lat-Latn">fona</foreign> hletnik.<lb n="574" />
-							<foreign xml:lang="lat-Latn">Hec michi Fontínus bona contulit et Philaretus.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Tarans</foreign> nedostnik, <foreign xml:lang="lat-Latn">tisius</foreign> klepotnyk, <foreign xml:lang="lat-Latn">fona</foreign> hletnik.<lb n="574" xml:lang="lat-Latn" />Hec michi Fontínus bona contulit et Philaretus.</p>
 					</div>
 					<div n="4" xml:id="book-2-part-10-chapter-40" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De nominibus vermium</head>
 						<p xml:id="book-2-part-10-chapter-40-p-46">
-							<lb n="575" />
-							<foreign xml:lang="lat-Latn">Hos capias vermes stimulantes mentes inhermes.</foreign>
-							<lb n="576" />
+							<lb n="575" xml:lang="lat-Latn" />Hos capias vermes stimulantes mentes inhermes.<lb n="576" />
 							<foreign xml:lang="lat-Latn">Vermis</foreign> czerw, zizala <foreign xml:lang="lat-Latn">sit stellio, reptile</foreign> hmiza,<lb n="577" />
 							<foreign xml:lang="lat-Latn">Orestrum</foreign> rohak, <foreign xml:lang="lat-Latn">adlacta</foreign> pomlerk, <foreign xml:lang="lat-Latn">drapo</foreign> pstrohak,<lb n="578" />
 							<foreign xml:lang="lat-Latn">Formica</foreign> mravenecz, <foreign xml:lang="lat-Latn">blacton</foreign> krss, <foreign xml:lang="lat-Latn">pentra</foreign> wssenecz<lb n="579" />
@@ -2327,9 +1773,7 @@
 							<foreign xml:lang="lat-Latn">Postoluber</foreign> krzehlass, <foreign xml:lang="lat-Latn">capulus</foreign> klaput <foreign xml:lang="lat-Latn">et tamur obdlass.</foreign>
 							<lb n="601" />
 							<foreign xml:lang="lat-Latn">Scabro</foreign> krzitacz, drastlik <foreign xml:lang="lat-Latn">ternica, palangia</foreign> sochlik,<lb n="602" />
-							<foreign xml:lang="lat-Latn">Multipedus</foreign> nozehlak, <foreign xml:lang="lat-Latn">cimex</foreign> stla, <foreign xml:lang="lat-Latn">stupestria</foreign> kudlak.<lb n="603" />
-							<foreign xml:lang="lat-Latn">Has rerum species lege, sed multe latitant res.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Multipedus</foreign> nozehlak, <foreign xml:lang="lat-Latn">cimex</foreign> stla, <foreign xml:lang="lat-Latn">stupestria</foreign> kudlak.<lb n="603" xml:lang="lat-Latn" />Has rerum species lege, sed multe latitant res.</p>
 					</div>
 				</div>
 				<div n="V" xml:id="book-2-part-11" type="part" data-level="2">
@@ -2337,9 +1781,7 @@
 					<div n="1" xml:id="book-2-part-11-chapter-41" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De arboribus</head>
 						<p xml:id="book-2-part-11-chapter-41-p-47">
-							<lb n="604" />
-							<foreign xml:lang="lat-Latn">Optima post quinta pars arboribus socianda.</foreign>
-							<lb n="605" />
+							<lb n="604" xml:lang="lat-Latn" />Optima post quinta pars arboribus socianda.<lb n="605" />
 							<foreign xml:lang="lat-Latn">Arbor</foreign> strom, <foreign xml:lang="lat-Latn">derignum</foreign> zden, <foreign xml:lang="lat-Latn">truncus pen,</foreign> drzevo <foreign xml:lang="lat-Latn">lignum,</foreign>
 							<lb n="606" />Less <foreign xml:lang="lat-Latn">nemus,</foreign> hay <foreign xml:lang="lat-Latn">silva,</foreign> czes <foreign xml:lang="lat-Latn">adeps,</foreign> pasieka <foreign xml:lang="lat-Latn">salebra,</foreign>
 							<lb n="607" />Kerz <foreign xml:lang="lat-Latn">rubus est, liber</foreign> korab, huol <foreign xml:lang="lat-Latn">stipes,</foreign> liko <foreign xml:lang="lat-Latn">suber,</foreign>
@@ -2382,17 +1824,13 @@
 							<lb n="637" />
 							<foreign xml:lang="lat-Latn">Tartarium</foreign> vinokal, palicze <foreign xml:lang="lat-Latn">cambuca,</foreign> zrd <foreign xml:lang="lat-Latn">artal,</foreign>
 							<lb n="638" />Strana <foreign xml:lang="lat-Latn">seors, stadix</foreign> hrano, drzie <foreign xml:lang="lat-Latn">tenor,</foreign> wrstwa <foreign xml:lang="lat-Latn">pradix.</foreign>
-							<lb n="639" />
-							<foreign xml:lang="lat-Latn">Hec dare non tardus fuit apcius ipse Zygardus.</foreign>
-						</p>
+							<lb n="639" xml:lang="lat-Latn" />Hec dare non tardus fuit apcius ipse Zygardus.</p>
 					</div>
 					<div n="2" xml:id="book-2-part-11-chapter-42" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De plantis</head>
 						<p xml:id="book-2-part-11-chapter-42-p-48">
-							<lb n="640" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">La</hi>udibus ad plants specials vertito plantas.</foreign>
-							<lb n="641" />
+							<lb n="640" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">La</hi>udibus ad plants specials vertito plantas.<lb n="641" />
 							<foreign xml:lang="lat-Latn">Quercus</foreign> dub, <foreign xml:lang="lat-Latn">ebanus</foreign> vaz, <foreign xml:lang="lat-Latn">nux</foreign> orzech, olsyn<supplied reason="lost">e</supplied>cz <foreign xml:lang="lat-Latn">alnus</foreign>
 							<lb n="642" />
 							<foreign xml:lang="lat-Latn">Fagus</foreign> buk, <foreign xml:lang="lat-Latn">platanus</foreign> yauor ssipekque <foreign xml:lang="lat-Latn">paburus,</foreign>
@@ -2442,17 +1880,13 @@
 							<foreign xml:lang="lat-Latn">Arbellus</foreign> sladotik, <foreign xml:lang="lat-Latn">siliquar</foreign> tagik, <foreign xml:lang="lat-Latn">armeda</foreign> leknik,<lb n="675" />Yadrnye <foreign xml:lang="lat-Latn">malogranatum, macis</foreign> osken, víska <foreign xml:lang="lat-Latn">bidellum,</foreign>
 							<lb n="676" />
 							<foreign xml:lang="lat-Latn">Agnita</foreign> brancz, obudon <foreign xml:lang="lat-Latn">mixalia, tilos</foreign> vlibon. <foreign xml:lang="lat-Latn">-</foreign>
-							<lb n="677" />
-							<foreign xml:lang="lat-Latn">Pius Brito non ponit, nisi Liber rerum hic addit.</foreign>
-						</p>
+							<lb n="677" xml:lang="lat-Latn" />Pius Brito non ponit, nisi Liber rerum hic addit.</p>
 					</div>
 					<div n="3" xml:id="book-2-part-11-chapter-43" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De fructibus arborum</head>
 						<p xml:id="book-2-part-11-chapter-43-p-49">
-							<lb n="678" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Or</hi>a tua lata, dabis arbuta mandere grata.</foreign>
-							<lb n="679" />
+							<lb n="678" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Or</hi>a tua lata, dabis arbuta mandere grata.<lb n="679" />
 							<foreign xml:lang="lat-Latn">Arbuta</foreign> drzievonycze, <foreign xml:lang="lat-Latn">fructus</foreign> ovocze, <foreign xml:lang="lat-Latn">fula</foreign> brzlicze,<lb n="680" />
 							<foreign xml:lang="lat-Latn">Proventus</foreign> przibitek, <foreign xml:lang="lat-Latn">pira</foreign> hruski, <foreign xml:lang="lat-Latn">sit usus</foreign> vzitek,<lb n="681" />
 							<foreign xml:lang="lat-Latn">Glandes sunt</foreign> zeludi, yahodi <foreign xml:lang="lat-Latn">mora, fagenula</foreign> bukvy,<lb n="682" />
@@ -2486,17 +1920,13 @@
 							<foreign xml:lang="lat-Latn">Fucina</foreign> dymniatki, bielicze <foreign xml:lang="lat-Latn">stina, carpa</foreign> kozliczki,<lb n="711" />Hnylicze <foreign xml:lang="lat-Latn">putrinum,</foreign> czrua <foreign xml:lang="lat-Latn">vermia,</foreign> ladecz <foreign xml:lang="lat-Latn">alinum,</foreign>
 							<lb n="712" />
 							<foreign xml:lang="lat-Latn">Frux</foreign> loza, <foreign xml:lang="lat-Latn">sterna</foreign> rzapek, ohrzizek <foreign xml:lang="lat-Latn">perma, frania</foreign> sosniek,<lb n="713" />
-							<foreign xml:lang="lat-Latn">Ortorosa</foreign> wlaska <foreign xml:lang="lat-Latn">rosa</foreign> rozie, <foreign xml:lang="lat-Latn">campora</foreign> polska.<lb n="714" />
-							<foreign xml:lang="lat-Latn">Sicud habet usus, hos usus magis eris usus.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Ortorosa</foreign> wlaska <foreign xml:lang="lat-Latn">rosa</foreign> rozie, <foreign xml:lang="lat-Latn">campora</foreign> polska.<lb n="714" xml:lang="lat-Latn" />Sicud habet usus, hos usus magis eris usus.</p>
 					</div>
 					<div n="4" xml:id="book-2-part-11-chapter-44" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De semine</head>
 						<p xml:id="book-2-part-11-chapter-44-p-50">
-							<lb n="715" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Ma</hi>xima cum cura studeas de semine plura.</foreign>
-							<lb n="716" />
+							<lb n="715" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Ma</hi>xima cum cura studeas de semine plura.<lb n="716" />
 							<foreign xml:lang="lat-Latn">Semen</foreign> syemie, <foreign xml:lang="lat-Latn">sege<supplied reason="omitted">te</supplied>s</foreign> oseníe, rukoviet <foreign xml:lang="lat-Latn">quoque merges,</foreign>
 							<lb n="717" />Zahrada <foreign xml:lang="lat-Latn">sit ortus, passus</foreign> kroczege, pole <foreign xml:lang="lat-Latn">campus,</foreign>
 							<lb n="718" />
@@ -2545,17 +1975,13 @@
 							<foreign xml:lang="lat-Latn">Est</foreign> strbol <foreign xml:lang="lat-Latn">bubastus,</foreign> stupek <foreign xml:lang="lat-Latn">alcana,</foreign> stblosa <foreign xml:lang="lat-Latn">racem]us,</foreign>
 							<lb n="753" />
 							<foreign xml:lang="lat-Latn">Posquia</foreign> bublenci, <foreign xml:lang="lat-Latn">flopus</foreign> vperz, <foreign xml:lang="lat-Latn">olenda</foreign> sipienki,<lb n="754" />
-							<foreign xml:lang="lat-Latn">Rapetum</foreign> rziepiscze, <foreign xml:lang="lat-Latn">canapetum dic</foreign> konopistye.<lb n="755" />
-							<foreign xml:lang="lat-Latn">Ypolitus ista dedit heredibus propriata.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Rapetum</foreign> rziepiscze, <foreign xml:lang="lat-Latn">canapetum dic</foreign> konopistye.<lb n="755" xml:lang="lat-Latn" />Ypolitus ista dedit heredibus propriata.</p>
 					</div>
 					<div n="5" xml:id="book-2-part-11-chapter-45" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De frumento</head>
 						<p xml:id="book-2-part-11-chapter-45-p-51">
-							<lb n="756" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Ec</hi>ce celer venias, frumenta quod omnia noscas.</foreign>
-							<lb n="757" />
+							<lb n="756" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Ec</hi>ce celer venias, frumenta quod omnia noscas.<lb n="757" />
 							<foreign xml:lang="lat-Latn">Est triticum</foreign> pssenycze, <foreign xml:lang="lat-Latn">siligo</foreign> zyto, <foreign xml:lang="lat-Latn">pabula</foreign> picze,<lb n="758" />
 							<foreign xml:lang="lat-Latn">Pisum</foreign> hrach, psseno <foreign xml:lang="lat-Latn">pilatrum fenum quoque</foreign> seno,<lb n="759" />
 							<foreign xml:lang="lat-Latn">Barcia</foreign> ber, <foreign xml:lang="lat-Latn">scrutum</foreign> prosso, surzicze <foreign xml:lang="lat-Latn">silitricum.</foreign>
@@ -2608,17 +2034,13 @@
 							<foreign xml:lang="lat-Latn">Est nasturciaca</foreign> zerzicha, benedicht <foreign xml:lang="lat-Latn">benedicta,</foreign>
 							<lb n="805" />
 							<foreign xml:lang="lat-Latn">Arbo</foreign> bytel, zemíezlucz <foreign xml:lang="lat-Latn">centaurea, lapidea</foreign> sdlucz,<lb n="806" />
-							<foreign xml:lang="lat-Latn">Buglosa</foreign> volczek, <foreign xml:lang="lat-Latn">apium sit</foreign> opich, <foreign xml:lang="lat-Latn">fela</foreign> nurzik.<lb n="807" />
-							<foreign xml:lang="lat-Latn">Plura putas gravia, quia nusquam sunt usitata.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Buglosa</foreign> volczek, <foreign xml:lang="lat-Latn">apium sit</foreign> opich, <foreign xml:lang="lat-Latn">fela</foreign> nurzik.<lb n="807" xml:lang="lat-Latn" />Plura putas gravia, quia nusquam sunt usitata.</p>
 					</div>
 					<div n="6" xml:id="book-2-part-11-chapter-46" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De herbis ignotis</head>
 						<p xml:id="book-2-part-11-chapter-46-p-52">
-							<lb n="808" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Ob</hi>tineas alias ignotas post tamen herbas.</foreign>
-							<lb n="809" />Zelina <foreign xml:lang="lat-Latn">sit herba, dic</foreign> czernobil <foreign xml:lang="lat-Latn">artomesia,</foreign>
+							<lb n="808" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Ob</hi>tineas alias ignotas post tamen herbas.<lb n="809" />Zelina <foreign xml:lang="lat-Latn">sit herba, dic</foreign> czernobil <foreign xml:lang="lat-Latn">artomesia,</foreign>
 							<lb n="810" />
 							<foreign xml:lang="lat-Latn">Iacinctus</foreign> koczana, <foreign xml:lang="lat-Latn">serpis sit</foreign> materzie duska,<lb n="811" />
 							<foreign xml:lang="lat-Latn">Senton</foreign> barvienek, <foreign xml:lang="lat-Latn">sed fracapium</foreign> bolehlavek,<lb n="812" />Kunratek <foreign xml:lang="lat-Latn">elga,</foreign> pelin <foreign xml:lang="lat-Latn">absíntea, sompnifa</foreign> sennyn.<lb n="813" />
@@ -2670,17 +2092,13 @@
 							<foreign xml:lang="lat-Latn">Saps</foreign> zemorzech, svierzepecz <foreign xml:lang="lat-Latn">iumencia, pirma</foreign> kostrzypecz,<lb n="856" />
 							<foreign xml:lang="lat-Latn">Matubium</foreign> marvnye, <foreign xml:lang="lat-Latn">sed atomana</foreign> ptakovole,<lb n="857" />
 							<foreign xml:lang="lat-Latn">Gestula</foreign> nedvienozka, <foreign xml:lang="lat-Latn">nera</foreign> prarzepa, <foreign xml:lang="lat-Latn">penda</foreign> maczeska;<lb n="858" />
-							<foreign xml:lang="lat-Latn">Terdia</foreign> trzemklowcze, <foreign xml:lang="lat-Latn">sit abrotanum</foreign> bozie drzewcze,<lb n="859" />
-							<foreign xml:lang="lat-Latn">Non nota multa, prius data nomina sunt speciebus.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Terdia</foreign> trzemklowcze, <foreign xml:lang="lat-Latn">sit abrotanum</foreign> bozie drzewcze,<lb n="859" xml:lang="lat-Latn" />Non nota multa, prius data nomina sunt speciebus.</p>
 					</div>
 					<div n="7" xml:id="book-2-part-11-chapter-47" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De radicibus</head>
 						<p xml:id="book-2-part-11-chapter-47-p-53">
-							<lb n="860" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Di</hi>scere cor apta radices in apoteca.</foreign>
-							<lb n="861" />
+							<lb n="860" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Di</hi>scere cor apta radices in apoteca.<lb n="861" />
 							<foreign xml:lang="lat-Latn">Est species</foreign> gestva, <foreign xml:lang="lat-Latn">sed</foreign> rostawa <foreign xml:lang="lat-Latn">sit apoteca,</foreign>
 							<lb n="862" />
 							<foreign xml:lang="lat-Latn">Electuarium</foreign> lektvarz, leki <foreign xml:lang="lat-Latn">medicamentum,</foreign>
@@ -2720,17 +2138,13 @@
 							<lb n="892" />Strzip <foreign xml:lang="lat-Latn">siropus,</foreign> zylana <foreign xml:lang="lat-Latn">deptar, vonycharz</foreign> chímíana,<lb n="893" />
 							<foreign xml:lang="lat-Latn">Prilla</foreign> brzecz, <foreign xml:lang="lat-Latn">ungentum</foreign> mast, <foreign xml:lang="lat-Latn">pilula</foreign> zrk, sklicz <foreign xml:lang="lat-Latn">agentum,</foreign>
 							<lb n="894" />Protidan <foreign xml:lang="lat-Latn">antidotum, geropigra</foreign> hruss, ossna <foreign xml:lang="lat-Latn">dragantum.</foreign>
-							<lb n="895" />
-							<foreign xml:lang="lat-Latn">Hec Constan<supplied reason="lost">tin</supplied>us bene scit, Ypocras, Galienus.</foreign>
-						</p>
+							<lb n="895" xml:lang="lat-Latn" />Hec Constan<supplied reason="lost">tin</supplied>us bene scit, Ypocras, Galienus.</p>
 					</div>
 					<div n="8" xml:id="book-2-part-11-chapter-48" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De fragis et boletis</head>
 						<p xml:id="book-2-part-11-chapter-48-p-54">
-							<lb n="896" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">In</hi>tererit scriptis dare de fragisque boletis.</foreign>
-							<lb n="897" />
+							<lb n="896" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">In</hi>tererit scriptis dare de fragisque boletis.<lb n="897" />
 							<foreign xml:lang="lat-Latn">Fraga</foreign> yahoda, <foreign xml:lang="lat-Latn">pentula</foreign> strzielicze, trawnycze <foreign xml:lang="lat-Latn">groda,</foreign>
 							<lb n="898" />Malyna <foreign xml:lang="lat-Latn">pinella, rox</foreign> klum, czrnycze <foreign xml:lang="lat-Latn">morocella,</foreign>
 							<lb n="899" />Penycze <foreign xml:lang="lat-Latn">bybena,</foreign> nedvyedyni <foreign xml:lang="lat-Latn">dic aripena.</foreign>
@@ -2758,9 +2172,7 @@
 							<foreign xml:lang="lat-Latn">Et</foreign> rohozie <foreign xml:lang="lat-Latn">cirpus,</foreign> rokosye <foreign xml:lang="lat-Latn">carex,</foreign> dyehil <foreign xml:lang="lat-Latn">irpus.</foreign>
 							<lb n="920" />
 							<foreign xml:lang="lat-Latn">Est alga</foreign> lekno, <foreign xml:lang="lat-Latn">carpex</foreign> trzstyna, trest <foreign xml:lang="lat-Latn">sit arundo.</foreign>
-							<lb n="921" />
-							<foreign xml:lang="lat-Latn">Nomina sic rerum complevi nunc specierum.</foreign>
-						</p>
+							<lb n="921" xml:lang="lat-Latn" />Nomina sic rerum complevi nunc specierum.</p>
 					</div>
 				</div>
 				<div n="VI" xml:id="book-2-part-12" type="part" data-level="2">
@@ -2768,10 +2180,8 @@
 					<div n="1" xml:id="book-2-part-12-chapter-49" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De homine</head>
 						<p xml:id="book-2-part-12-chapter-49-p-55">
-							<lb n="922" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Co</hi>ncipias hominem, sextam preparans sibi partem.</foreign>
-							<lb n="923" />
+							<lb n="922" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Co</hi>ncipias hominem, sextam preparans sibi partem.<lb n="923" />
 							<foreign xml:lang="lat-Latn">Vir</foreign> muz, <foreign xml:lang="lat-Latn">terrigena</foreign> zemenyn <foreign xml:lang="lat-Latn">sit, femina</foreign> zena;<lb n="924" />
 							<foreign xml:lang="lat-Latn">Masculus est</foreign> samecz, <foreign xml:lang="lat-Latn">alienigena</foreign> czyzozemecz,<lb n="925" />Czloviek <foreign xml:lang="lat-Latn">homo, Svevus</foreign> ssvab, fris <foreign xml:lang="lat-Latn">Friso</foreign> czech <foreign xml:lang="lat-Latn">que Bohemus</foreign>
 							<lb n="926" />Krzestyan <foreign xml:lang="lat-Latn">Cristianus,</foreign> sass <foreign xml:lang="lat-Latn">Saxo pohanque paganus,</foreign>
@@ -2827,17 +2237,13 @@
 							<lb n="965" />
 							<foreign xml:lang="lat-Latn">Ast Africanus</foreign> fricoven, tovara <foreign xml:lang="lat-Latn">socianus,</foreign>
 							<lb n="966" />Fflandrski <foreign xml:lang="lat-Latn">Flandensis,</foreign> auianski <foreign xml:lang="lat-Latn">sit Aviensis.</foreign>
-							<lb n="967" />
-							<foreign xml:lang="lat-Latn">Ista Bohemarius minor obmisit satis argus.</foreign>
-						</p>
+							<lb n="967" xml:lang="lat-Latn" />Ista Bohemarius minor obmisit satis argus.</p>
 					</div>
 					<div n="2" xml:id="book-2-part-12-chapter-50" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De hominibus secularibus</head>
 						<p xml:id="book-2-part-12-chapter-50-p-56">
-							<lb n="968" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Te</hi>mptabis homines primo legere seculares.</foreign>
-							<lb n="969" />Cziesarz <foreign xml:lang="lat-Latn">ímperator,</foreign> praciesarz <foreign xml:lang="lat-Latn">induperator,</foreign>
+							<lb n="968" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Te</hi>mptabis homines primo legere seculares.<lb n="969" />Cziesarz <foreign xml:lang="lat-Latn">ímperator,</foreign> praciesarz <foreign xml:lang="lat-Latn">induperator,</foreign>
 							<lb n="970" />
 							<foreign xml:lang="lat-Latn">Imperatrix</foreign> knyesna, <foreign xml:lang="lat-Latn">rex</foreign> kral, <foreign xml:lang="lat-Latn">regina</foreign> kralovna,<lb n="971" />
 							<foreign xml:lang="lat-Latn">Marchio sit</foreign> markrabie, <foreign xml:lang="lat-Latn">baro</foreign> sslechta, <foreign xml:lang="lat-Latn">comes</foreign> hrabie,<lb n="972" />
@@ -2890,17 +2296,13 @@
 							<lb n="1012" />
 							<foreign xml:lang="lat-Latn">Tor<supplied reason="lost">na</supplied>mentator</foreign> turnownyk, ssczitnyk <foreign xml:lang="lat-Latn">clipeator,</foreign>
 							<lb n="1013" />
-							<foreign xml:lang="lat-Latn">Siccarius</foreign> sabnyk, <foreign xml:lang="lat-Latn">vexillifer est</foreign> koruhewnik.<lb n="1014" />
-							<foreign xml:lang="lat-Latn">Scriptor Grecensis dedit hec michi mille repensis.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Siccarius</foreign> sabnyk, <foreign xml:lang="lat-Latn">vexillifer est</foreign> koruhewnik.<lb n="1014" xml:lang="lat-Latn" />Scriptor Grecensis dedit hec michi mille repensis.</p>
 					</div>
 					<div n="3" xml:id="book-2-part-12-chapter-51" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De hominibus spiritualibus</head>
 						<p xml:id="book-2-part-12-chapter-51-p-57">
-							<lb n="1015" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Op</hi>tatos sumes homines modo spirituales.</foreign>
-							<lb n="1016" />Papa <foreign xml:lang="lat-Latn">papez,</foreign> biskup <foreign xml:lang="lat-Latn">sit episcopus, eximie</foreign> wikup,<lb n="1017" />Kardinal <foreign xml:lang="lat-Latn">cardinalis,</foreign> vrzadnyk <foreign xml:lang="lat-Latn">officialis,</foreign>
+							<lb n="1015" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Op</hi>tatos sumes homines modo spirituales.<lb n="1016" />Papa <foreign xml:lang="lat-Latn">papez,</foreign> biskup <foreign xml:lang="lat-Latn">sit episcopus, eximie</foreign> wikup,<lb n="1017" />Kardinal <foreign xml:lang="lat-Latn">cardinalis,</foreign> vrzadnyk <foreign xml:lang="lat-Latn">officialis,</foreign>
 							<lb n="1018" />
 							<foreign xml:lang="lat-Latn">Archiepiscopus est</foreign> arczibiskup, <foreign xml:lang="lat-Latn">presbiter est</foreign> knyess.<lb n="1019" />Gez <foreign xml:lang="lat-Latn">ede, suffraganus;podbiskupie, sit</foreign> sdrawy <foreign xml:lang="lat-Latn">sanus,</foreign>
 							<lb n="1020" />Yahen <foreign xml:lang="lat-Latn">diaconus,</foreign> alcziprziest <foreign xml:lang="lat-Latn">archidiaconus,</foreign>
@@ -2948,17 +2350,13 @@
 							<lb n="1058" />Knyezak <foreign xml:lang="lat-Latn">prelatus, sinodus</foreign> viecza, ssiroki <foreign xml:lang="lat-Latn">latus,</foreign>
 							<lb n="1059" />Postnyk <foreign xml:lang="lat-Latn">ieiunator,</foreign> modlytewnyk <foreign xml:lang="lat-Latn">sit deprecator.</foreign>
 							<lb n="1060" />
-							<foreign xml:lang="lat-Latn">Prebe<supplied reason="lost">n</supplied>dium sit</foreign> obrok, <foreign xml:lang="lat-Latn">eda</foreign> mlassk, <foreign xml:lang="lat-Latn">opulencia</foreign> dobrok.<lb n="1061" />
-							<foreign xml:lang="lat-Latn">Hec mihi cum sensis dedit abbas Opatovicensis.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Prebe<supplied reason="lost">n</supplied>dium sit</foreign> obrok, <foreign xml:lang="lat-Latn">eda</foreign> mlassk, <foreign xml:lang="lat-Latn">opulencia</foreign> dobrok.<lb n="1061" xml:lang="lat-Latn" />Hec mihi cum sensis dedit abbas Opatovicensis.</p>
 					</div>
 					<div n="4" xml:id="book-2-part-12-chapter-52" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De scolaribus</head>
 						<p xml:id="book-2-part-12-chapter-52-p-58">
-							<lb n="1062" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Co</hi>nspice doctores, rectores atque scolares.</foreign>
-							<lb n="1063" />Tresktak <foreign xml:lang="lat-Latn">corrector,</foreign> zprawcze <foreign xml:lang="lat-Latn">rector,</foreign> místr <foreign xml:lang="lat-Latn">magister,</foreign>
+							<lb n="1062" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Co</hi>nspice doctores, rectores atque scolares.<lb n="1063" />Tresktak <foreign xml:lang="lat-Latn">corrector,</foreign> zprawcze <foreign xml:lang="lat-Latn">rector,</foreign> místr <foreign xml:lang="lat-Latn">magister,</foreign>
 							<lb n="1064" />
 							<foreign xml:lang="lat-Latn">Rethor</foreign> przíuczitel, <foreign xml:lang="lat-Latn">bora</foreign> vp, <foreign xml:lang="lat-Latn">orator</foreign> otazatel.<lb n="1065" />
 							<foreign xml:lang="lat-Latn">Sunt</foreign> gsu <foreign xml:lang="lat-Latn">magisteria</foreign> mystrovanie, pracze <foreign xml:lang="lat-Latn">fatiga,</foreign>
@@ -3012,17 +2410,13 @@
 							<foreign xml:lang="lat-Latn">Legisperitus</foreign> dospietecz bitecz <foreign xml:lang="lat-Latn">que peritus,</foreign>
 							<lb n="1107" />Prawnik <foreign xml:lang="lat-Latn">iurista, vapo</foreign> klest, mudronyek <foreign xml:lang="lat-Latn">zophista,</foreign>
 							<lb n="1108" />Rzadnywi <foreign xml:lang="lat-Latn">scalaris,</foreign> stopa <foreign xml:lang="lat-Latn">transa,</foreign> bozak <foreign xml:lang="lat-Latn">scolaris,</foreign>
-							<lb n="1109" />Kazn <foreign xml:lang="lat-Latn">disciplinaque Iohannis amor</foreign> svata mina.<lb n="1110" />
-							<foreign xml:lang="lat-Latn">Plura dares ex hiis, tu Galle Boleslaviensis !</foreign>
-						</p>
+							<lb n="1109" />Kazn <foreign xml:lang="lat-Latn">disciplinaque Iohannis amor</foreign> svata mina.<lb n="1110" xml:lang="lat-Latn" />Plura dares ex hiis, tu Galle Boleslaviensis !</p>
 					</div>
 					<div n="5" xml:id="book-2-part-12-chapter-53" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De communibus speciebus</head>
 						<p xml:id="book-2-part-12-chapter-53-p-59">
-							<lb n="1111" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Lu</hi>cet adhuc melius decommunibus speciebus.</foreign>
-							<lb n="1112" />Hrziessnik <foreign xml:lang="lat-Latn">peccator,</foreign> prohrziessnik <foreign xml:lang="lat-Latn">prevaricator,</foreign>
+							<lb n="1111" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Lu</hi>cet adhuc melius decommunibus speciebus.<lb n="1112" />Hrziessnik <foreign xml:lang="lat-Latn">peccator,</foreign> prohrziessnik <foreign xml:lang="lat-Latn">prevaricator,</foreign>
 							<lb n="1113" />Leycherz <foreign xml:lang="lat-Latn">locator,</foreign> smylniczek <foreign xml:lang="lat-Latn">luxuriator,</foreign>
 							<lb n="1114" />Vilnyk <foreign xml:lang="lat-Latn">fornicator,</foreign> kurewnik <foreign xml:lang="lat-Latn">meretricator,</foreign>
 							<lb n="1115" />Zpievaczek <foreign xml:lang="lat-Latn">cantor,</foreign> lotr <foreign xml:lang="lat-Latn">latro,</foreign> fregierz <foreign xml:lang="lat-Latn">hovisator,</foreign>
@@ -3108,17 +2502,13 @@
 							<lb n="1185" />Tlustyenka spissa, pohaczyerka <foreign xml:lang="lat-Latn">fitonissa.</foreign>
 							<lb n="1186" />
 							<foreign xml:lang="lat-Latn">Est incantatrix</foreign> zbabiczka, mecza <foreign xml:lang="lat-Latn">prestigiatrix.</foreign>
-							<lb n="1187" />
-							<foreign xml:lang="lat-Latn">Si metrum sineret, Martinus plura dedisset.</foreign>
-						</p>
+							<lb n="1187" xml:lang="lat-Latn" />Si metrum sineret, Martinus plura dedisset.</p>
 					</div>
 					<div n="6" xml:id="book-2-part-12-chapter-54" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De nominibus personarum</head>
 						<p xml:id="book-2-part-12-chapter-54-p-60">
-							<lb n="1188" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Ac</hi>cipe personas per plurima nomina dic<supplied reason="lost">t</supplied>as.</foreign>
-							<lb n="1189" />
+							<lb n="1188" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Ac</hi>cipe personas per plurima nomina dic<supplied reason="lost">t</supplied>as.<lb n="1189" />
 							<foreign xml:lang="lat-Latn">Assiduus</foreign> snaznyk <foreign xml:lang="lat-Latn">sit, saguineus</foreign> pravokrewnik,<lb n="1190" />
 							<foreign xml:lang="lat-Latn">Est audax</foreign> vdacznecz, <foreign xml:lang="lat-Latn">colericus est</foreign> pienohorczecz,<lb n="1191" />
 							<foreign xml:lang="lat-Latn">Blanditor</foreign> lisawnyk, <foreign xml:lang="lat-Latn">sit fleumaticus</foreign> vodokrewnik.<lb n="1192" />
@@ -3210,17 +2600,13 @@
 							<lb n="1268" />
 							<foreign xml:lang="lat-Latn">Et suavis</foreign> chutnyk, <foreign xml:lang="lat-Latn">ciclor</foreign> okruz, <foreign xml:lang="lat-Latn">agax</foreign> negessitnik.<lb n="1268a" />
 							<foreign xml:lang="lat-Latn">&lt;[.. gracilis</foreign> tenky, <foreign xml:lang="lat-Latn">calamistratus</foreign> kaderzawy <foreign xml:lang="lat-Latn">....]&gt;</foreign>
-							<lb n="1269" />
-							<foreign xml:lang="lat-Latn">Plura daret illa Dirmarius, Petrus Byela.</foreign>
-						</p>
+							<lb n="1269" xml:lang="lat-Latn" />Plura daret illa Dirmarius, Petrus Byela.</p>
 					</div>
 					<div n="7" xml:id="book-2-part-12-chapter-55" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De membris</head>
 						<p xml:id="book-2-part-12-chapter-55-p-61">
-							<lb n="1270" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Re</hi>bus et hiis positis de membris discito tantis.</foreign>
-							<lb n="1271" />Hlava <foreign xml:lang="lat-Latn">caput, cerebrum</foreign> mozk, <foreign xml:lang="lat-Latn">vertex</foreign> wrch, vdo <foreign xml:lang="lat-Latn">membrum,</foreign>
+							<lb n="1270" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Re</hi>bus et hiis positis de membris discito tantis.<lb n="1271" />Hlava <foreign xml:lang="lat-Latn">caput, cerebrum</foreign> mozk, <foreign xml:lang="lat-Latn">vertex</foreign> wrch, vdo <foreign xml:lang="lat-Latn">membrum,</foreign>
 							<lb n="1272" />
 							<foreign xml:lang="lat-Latn">Frons</foreign> czelo <foreign xml:lang="lat-Latn">sit, craneum</foreign> tyemíe, czrcha <foreign xml:lang="lat-Latn">figa,</foreign> leb <foreign xml:lang="lat-Latn">cerebellum,</foreign>
 							<lb n="1273" />
@@ -3287,17 +2673,13 @@
 							<lb n="1332" />Hizdicze <foreign xml:lang="lat-Latn">coxira,</foreign> litkona <foreign xml:lang="lat-Latn">tibula, splenica</foreign> slezna,<lb n="1333" />
 							<foreign xml:lang="lat-Latn">Occipa</foreign> tylnyenka, <foreign xml:lang="lat-Latn">cervix</foreign> zsseha, <foreign xml:lang="lat-Latn">mucia</foreign> hbrenka<lb n="1334" />
 							<foreign xml:lang="lat-Latn">Atque ieculentum</foreign> gestnik, dasnyenka <foreign xml:lang="lat-Latn">palatum.</foreign>
-							<lb n="1335" />
-							<foreign xml:lang="lat-Latn">Glosarius membra, venas dedit Anatomia.</foreign>
-						</p>
+							<lb n="1335" xml:lang="lat-Latn" />Glosarius membra, venas dedit Anatomia.</p>
 					</div>
 					<div n="8" xml:id="book-2-part-12-chapter-56" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De motibus corporis</head>
 						<p xml:id="book-2-part-12-chapter-56-p-62">
-							<lb n="1336" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Ex</hi>pediens membra de motibus accipe dicta.</foreign>
-							<lb n="1337" />Viera <foreign xml:lang="lat-Latn">fides,</foreign> letor<supplied reason="lost">a</supplied>
+							<lb n="1336" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Ex</hi>pediens membra de motibus accipe dicta.<lb n="1337" />Viera <foreign xml:lang="lat-Latn">fides,</foreign> letor<supplied reason="lost">a</supplied>
 							<foreign xml:lang="lat-Latn">complexio,</foreign> lek <foreign xml:lang="lat-Latn">medicina,</foreign>
 							<lb n="1338" />
 							<foreign xml:lang="lat-Latn">Sanguis sit</foreign> pravokrev, <foreign xml:lang="lat-Latn">colera</foreign> pienohorka, <foreign xml:lang="lat-Latn">cruor</foreign> krew.<lb n="1339" />
@@ -3363,17 +2745,13 @@
 							<foreign xml:lang="lat-Latn">Irritacio</foreign> drazn, <foreign xml:lang="lat-Latn">dic insolencia</foreign> nekazn,<lb n="1396" />
 							<foreign xml:lang="lat-Latn">Nobulium</foreign> laczyno, <foreign xml:lang="lat-Latn">tiga</foreign> potka, <foreign xml:lang="lat-Latn">precilia</foreign> draho,<lb n="1397" />
 							<foreign xml:lang="lat-Latn">Altilia</foreign> ptaczstvo, <foreign xml:lang="lat-Latn">contubernale</foreign> letenstvo.<lb n="1398" />
-							<foreign xml:lang="lat-Latn">Privacio</foreign> zbavenye, <foreign xml:lang="lat-Latn">dic increpacio</foreign> lanye.<lb n="1399" />
-							<foreign xml:lang="lat-Latn">Verba dabunt habitus, ut Aristotiles dat, et actus.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Privacio</foreign> zbavenye, <foreign xml:lang="lat-Latn">dic increpacio</foreign> lanye.<lb n="1399" xml:lang="lat-Latn" />Verba dabunt habitus, ut Aristotiles dat, et actus.</p>
 					</div>
 					<div n="9" xml:id="book-2-part-12-chapter-57" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De mo<supplied reason="lost">ri</supplied>bus</head>
 						<p xml:id="book-2-part-12-chapter-57-p-63">
-							<lb n="1400" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Ta</hi>ctus, motus habe<supplied reason="omitted">n</supplied>s, de moribus accipe labes.</foreign>
-							<lb n="1401" />
+							<lb n="1400" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Ta</hi>ctus, motus habe<supplied reason="omitted">n</supplied>s, de moribus accipe labes.<lb n="1401" />
 							<foreign xml:lang="lat-Latn">Iusticia</foreign> spravedlnost, prava <foreign xml:lang="lat-Latn">vera, modestia</foreign> skrownost,<lb n="1402" />
 							<foreign xml:lang="lat-Latn">Est veritas</foreign> prawda, rada <foreign xml:lang="lat-Latn">consilium,</foreign> ssvada <foreign xml:lang="lat-Latn">rixa.</foreign>
 							<lb n="1403" />
@@ -3387,9 +2765,7 @@
 							<foreign xml:lang="lat-Latn">Misericordia das</foreign> mylosrdenstvye <foreign xml:lang="lat-Latn">que</foreign> pokoy <foreign xml:lang="lat-Latn">pax,</foreign>
 							<lb n="1411" />Svatnost <foreign xml:lang="lat-Latn">sanctitudo,</foreign> blahoslavnost <foreign xml:lang="lat-Latn">beatitudo,</foreign>
 							<lb n="1412" />Chudoba <foreign xml:lang="lat-Latn">paupertas,</foreign> poczestenstvie <foreign xml:lang="lat-Latn">fiet honestas.</foreign>
-							<lb n="1413" />Stud <foreign xml:lang="lat-Latn">verecundia, dic iracundia</foreign> hnyevota, <foreign xml:lang="lat-Latn">tis</foreign> tva.<lb n="1414" />Mylovaníe <foreign xml:lang="lat-Latn">pietas,</foreign> laska <foreign xml:lang="lat-Latn">caritas, decor</foreign> okrass,<lb n="1415" />
-							<foreign xml:lang="lat-Latn">Devocio naboznost dic, temperancia whodnost,</foreign>
-							<lb n="1416" />
+							<lb n="1413" />Stud <foreign xml:lang="lat-Latn">verecundia, dic iracundia</foreign> hnyevota, <foreign xml:lang="lat-Latn">tis</foreign> tva.<lb n="1414" />Mylovaníe <foreign xml:lang="lat-Latn">pietas,</foreign> laska <foreign xml:lang="lat-Latn">caritas, decor</foreign> okrass,<lb n="1415" xml:lang="lat-Latn" />Devocio naboznost dic, temperancia whodnost,<lb n="1416" />
 							<foreign xml:lang="lat-Latn">Mansuetudo</foreign> krotkost, <foreign xml:lang="lat-Latn">sed magnificencia</foreign> velbnost,<lb n="1417" />
 							<foreign xml:lang="lat-Latn">Securitas</foreign> bezpecznost, <foreign xml:lang="lat-Latn">dic continencia</foreign> zdrznost.<lb n="1418" />Nasled <foreign xml:lang="lat-Latn">imitacio,</foreign> skrovenstvye <foreign xml:lang="lat-Latn">moderacio do,</foreign>
 							<lb n="1419" />Pochleb <foreign xml:lang="lat-Latn">adulacio, compassio</foreign> litovanye <foreign xml:lang="lat-Latn">do,</foreign>
@@ -3460,17 +2836,13 @@
 							<foreign xml:lang="lat-Latn">Dampnacio</foreign> tupenye, <foreign xml:lang="lat-Latn">vituperacio</foreign> pohizdyeníe,<lb n="1479" />
 							<foreign xml:lang="lat-Latn">Peticio</foreign> prossenye, <foreign xml:lang="lat-Latn">supplicacio</foreign> podkladaníe,<lb n="1480" />
 							<foreign xml:lang="lat-Latn">Rogacio</foreign> modleníe, <foreign xml:lang="lat-Latn">deprecacio</foreign> poprossenye<lb n="1481" />
-							<foreign xml:lang="lat-Latn">Turbacio</foreign> smuczeníe, <foreign xml:lang="lat-Latn">letificacio</foreign> veselenye.<lb n="1482" />
-							<foreign xml:lang="lat-Latn">Considerans verba potes edere nomina plura.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Turbacio</foreign> smuczeníe, <foreign xml:lang="lat-Latn">letificacio</foreign> veselenye.<lb n="1482" xml:lang="lat-Latn" />Considerans verba potes edere nomina plura.</p>
 					</div>
 					<div n="10" xml:id="book-2-part-12-chapter-58" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De corporis natura</head>
 						<p xml:id="book-2-part-12-chapter-58-p-64">
-							<lb n="1483" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Or</hi>to cadencia summe recencia corpore tenta.</foreign>
-							<lb n="1484" />
+							<lb n="1483" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Or</hi>to cadencia summe recencia corpore tenta.<lb n="1484" />
 							<foreign xml:lang="lat-Latn">Caliditas</foreign> horkost <foreign xml:lang="lat-Latn">sit frigiditasque</foreign> studenost,<lb n="1485" />Bielost <foreign xml:lang="lat-Latn">albedo,</foreign> sskrzip <foreign xml:lang="lat-Latn">stridor,</foreign> czrne <foreign xml:lang="lat-Latn">nígredo.</foreign>
 							<lb n="1486" />
 							<foreign xml:lang="lat-Latn">Est magnitudo</foreign> velikost, opnost <foreign xml:lang="lat-Latn">valitudo,</foreign>
@@ -3554,17 +2926,13 @@
 							<foreign xml:lang="lat-Latn">Suspicio</foreign> sezrzeníe, <foreign xml:lang="lat-Latn">vivificacio</foreign> pozíueníe,<lb n="1554" />
 							<foreign xml:lang="lat-Latn">Digestus</foreign> pozitie, <foreign xml:lang="lat-Latn">refugia sit</foreign> vtoczistíe.<lb n="1555" />
 							<foreign xml:lang="lat-Latn">Exucio</foreign> swleczeníe, <foreign xml:lang="lat-Latn">spoliacio fert</foreign> oblupeníe,<lb n="1556" />
-							<foreign xml:lang="lat-Latn">Conclusio</foreign> sewrzeníe, <foreign xml:lang="lat-Latn">dat conspectus</foreign> obezrzeníe.<lb n="1557" />
-							<foreign xml:lang="lat-Latn">Plura Iuvenalis posset dare Bydzoviensis.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Conclusio</foreign> sewrzeníe, <foreign xml:lang="lat-Latn">dat conspectus</foreign> obezrzeníe.<lb n="1557" xml:lang="lat-Latn" />Plura Iuvenalis posset dare Bydzoviensis.</p>
 					</div>
 					<div n="11" xml:id="book-2-part-12-chapter-59" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De factis</head>
 						<p xml:id="book-2-part-12-chapter-59-p-65">
-							<lb n="1558" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">De</hi> factis disce de pluribus ac resipisce.</foreign>
-							<lb n="1559" />
+							<lb n="1558" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">De</hi> factis disce de pluribus ac resipisce.<lb n="1559" />
 							<foreign xml:lang="lat-Latn">Factum</foreign> skutek, <foreign xml:lang="lat-Latn">opus</foreign> dyelo <foreign xml:lang="lat-Latn">...</foreign> vczynek <foreign xml:lang="lat-Latn">actus,</foreign>
 							<lb n="1560" />
 							<foreign xml:lang="lat-Latn">Coccio sit</foreign> varzenie, <foreign xml:lang="lat-Latn">detoscio sit</foreign> oparzeníe;<lb n="1561" />
@@ -3619,17 +2987,13 @@
 							<lb n="1609" />
 							<foreign xml:lang="lat-Latn">Ficcio sit</foreign> slozeníe, <foreign xml:lang="lat-Latn">presumpcio sit</foreign> dovfaníe,<lb n="1610" />
 							<foreign xml:lang="lat-Latn">Remocio</foreign> wzdaleníe, <foreign xml:lang="lat-Latn">collocucio</foreign> pomluvaníe,<lb n="1611" />
-							<foreign xml:lang="lat-Latn">Haustus</foreign> hlet, pogietye <foreign xml:lang="lat-Latn">traduccio, capcio</foreign> getye.<lb n="1612" />
-							<foreign xml:lang="lat-Latn">Infinita darem, si metrum non reprobarem.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Haustus</foreign> hlet, pogietye <foreign xml:lang="lat-Latn">traduccio, capcio</foreign> getye.<lb n="1612" xml:lang="lat-Latn" />Infinita darem, si metrum non reprobarem.</p>
 					</div>
 					<div n="12" xml:id="book-2-part-12-chapter-60" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De arte</head>
 						<p xml:id="book-2-part-12-chapter-60-p-66">
-							<lb n="1613" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Es</hi>tuat has artes mens omnis tangere partes.</foreign>
-							<lb n="1614" />
+							<lb n="1613" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Es</hi>tuat has artes mens omnis tangere partes.<lb n="1614" />
 							<foreign xml:lang="lat-Latn">Litera sit</foreign> cztena, <foreign xml:lang="lat-Latn">sed gramatica</foreign> slovocztena,<lb n="1615" />
 							<foreign xml:lang="lat-Latn">Dico color</foreign> okrasa, <foreign xml:lang="lat-Latn">sit rethorica</foreign> mluvokrasa.<lb n="1616" />
 							<foreign xml:lang="lat-Latn">Est loyca</foreign> rzeczyna, <foreign xml:lang="lat-Latn">dialetica</foreign> dvorzeczyna,<lb n="1617" />
@@ -3689,17 +3053,13 @@
 							<lb n="1666" />
 							<foreign xml:lang="lat-Latn">Pellifica</foreign> blanarzstvo, <foreign xml:lang="lat-Latn">balneatoria</foreign> lazebníczstvo.<lb n="1667" />
 							<foreign xml:lang="lat-Latn">Ductoria</foreign> vozba, <foreign xml:lang="lat-Latn">sit deductura</foreign> povozba,<lb n="1668" />Mlínstvo <foreign xml:lang="lat-Latn">multoria,</foreign> pussczedlniczstvo <foreign xml:lang="lat-Latn">fleubotomia.</foreign>
-							<lb n="1669" />
-							<foreign xml:lang="lat-Latn">Hec dedit Hermannus, qui Prage septimus annus.</foreign>
-						</p>
+							<lb n="1669" xml:lang="lat-Latn" />Hec dedit Hermannus, qui Prage septimus annus.</p>
 					</div>
 					<div n="13" xml:id="book-2-part-12-chapter-61" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De languoribus</head>
 						<p xml:id="book-2-part-12-chapter-61-p-67">
-							<lb n="1670" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Su</hi>mere nunc signa de languoribus bona signa.</foreign>
-							<lb n="1671" />
+							<lb n="1670" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Su</hi>mere nunc signa de languoribus bona signa.<lb n="1671" />
 							<foreign xml:lang="lat-Latn">Est</foreign> neduh <foreign xml:lang="lat-Latn">morbus, languor</foreign> nemocz, gyezva <foreign xml:lang="lat-Latn">vulnus,</foreign>
 							<lb n="1672" />
 							<foreign xml:lang="lat-Latn">Nigra</foreign> bozecz, <foreign xml:lang="lat-Latn">scabies</foreign> krasti, <foreign xml:lang="lat-Latn">dic</foreign> zetlenie <foreign xml:lang="lat-Latn">tabies,</foreign>
@@ -3757,17 +3117,13 @@
 							<lb n="1722" />
 							<foreign xml:lang="lat-Latn">Lippia</foreign> zaslipaníe, <foreign xml:lang="lat-Latn">scilopus</foreign> zatok <foreign xml:lang="lat-Latn">et trena</foreign> slzeníe.<lb n="1723" />Przegedyna <foreign xml:lang="lat-Latn">pestis, dolor esto</foreign> bolest, drasa <foreign xml:lang="lat-Latn">festis,</foreign>
 							<lb n="1724" />Drasta <foreign xml:lang="lat-Latn">festuca,</foreign> kamle <foreign xml:lang="lat-Latn">calculus,</foreign> odla <foreign xml:lang="lat-Latn">victerna.</foreign>
-							<lb n="1725" />
-							<foreign xml:lang="lat-Latn">Fert Liber hoc rerum, Galyen, Ypocras fore verum.</foreign>
-						</p>
+							<lb n="1725" xml:lang="lat-Latn" />Fert Liber hoc rerum, Galyen, Ypocras fore verum.</p>
 					</div>
 					<div n="14" xml:id="book-2-part-12-chapter-62" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De progenie</head>
 						<p xml:id="book-2-part-12-chapter-62-p-68">
-							<lb n="1726" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Op</hi>tima iam dicta de progeníe dabo pauca.</foreign>
-							<lb n="1727" />Sestra <foreign xml:lang="lat-Latn">soror, frater</foreign> bratr, <foreign xml:lang="lat-Latn">pater</foreign> otecz, matye <foreign xml:lang="lat-Latn">mater,</foreign>
+							<lb n="1726" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Op</hi>tima iam dicta de progeníe dabo pauca.<lb n="1727" />Sestra <foreign xml:lang="lat-Latn">soror, frater</foreign> bratr, <foreign xml:lang="lat-Latn">pater</foreign> otecz, matye <foreign xml:lang="lat-Latn">mater,</foreign>
 							<lb n="1728" />
 							<foreign xml:lang="lat-Latn">Filia</foreign> dczy, rodyna <foreign xml:lang="lat-Latn">cognacia, nupcia</foreign> swatba,<lb n="1729" />Dyetie <foreign xml:lang="lat-Latn">puer, sponsa</foreign> chot, <foreign xml:lang="lat-Latn">ava</foreign> baba <foreign xml:lang="lat-Latn">glosque</foreign> neviesta.<lb n="1730" />
 							<foreign xml:lang="lat-Latn">Connubium</foreign> swatebníe, <foreign xml:lang="lat-Latn">generacio dico</foreign> rozeníe<lb n="1731" />Wnuk <foreign xml:lang="lat-Latn">que nepos, crescens</foreign> rossczy <foreign xml:lang="lat-Latn">que</foreign> ginoch <foreign xml:lang="lat-Latn">adolescens.</foreign>
@@ -3829,17 +3185,13 @@
 							<foreign xml:lang="lat-Latn">Vicinus</foreign> sused, <foreign xml:lang="lat-Latn">
 								<supplied reason="lost"> ..... </supplied> sociellus</foreign> tovarzisek,<lb n="1783" />
 							<foreign xml:lang="lat-Latn">Contractus</foreign> pogitna, <foreign xml:lang="lat-Latn">copula</foreign> zdaw, muzna <foreign xml:lang="lat-Latn">matrica.</foreign>
-							<lb n="1784" />
-							<foreign xml:lang="lat-Latn">Pluribus Albertus Prage solet esse refertus.</foreign>
-						</p>
+							<lb n="1784" xml:lang="lat-Latn" />Pluribus Albertus Prage solet esse refertus.</p>
 					</div>
 					<div n="15" xml:id="book-2-part-12-chapter-63" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De ferculis</head>
 						<p xml:id="book-2-part-12-chapter-63-p-69">
-							<lb n="1785" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Lu</hi>strans convivia statim elig<supplied reason="omitted">it</supplied>e fercula grata.</foreign>
-							<lb n="1886" />
+							<lb n="1785" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Lu</hi>strans convivia statim elig<supplied reason="omitted">it</supplied>e fercula grata.<lb n="1886" />
 							<foreign xml:lang="lat-Latn">Esca</foreign> pokrm, <foreign xml:lang="lat-Latn">cena</foreign> veczerze, peruta <foreign xml:lang="lat-Latn">alena,</foreign>
 							<lb n="1887" />
 							<foreign xml:lang="lat-Latn">Gentaculum</foreign> snyedanye, gicha <foreign xml:lang="lat-Latn">ius, obsenia</foreign> svaczníe,<lb n="1888" />Krmye <foreign xml:lang="lat-Latn">cibus, salsa</foreign> salssie, kaltun <foreign xml:lang="lat-Latn">sit anissa.</foreign>
@@ -3916,17 +3268,13 @@
 							<lb n="1850" />
 							<foreign xml:lang="lat-Latn">Defusia</foreign> slewki, koritnycze <foreign xml:lang="lat-Latn">lintipa, cum</foreign> kdi,<lb n="1851" />Wlassecz <foreign xml:lang="lat-Latn">galletum,</foreign> czyst <foreign xml:lang="lat-Latn">claretum,</foreign> chrle <foreign xml:lang="lat-Latn">moletum,</foreign>
 							<lb n="1852" />Sczava <foreign xml:lang="lat-Latn">firum, racina</foreign> rosol, podczepki <foreign xml:lang="lat-Latn">subella.</foreign>
-							<lb n="1853" />
-							<foreign xml:lang="lat-Latn">Quis dedit hec, si scis? Est Sulco Wyssegradiensis</foreign>
-						</p>
+							<lb n="1853" xml:lang="lat-Latn" />Quis dedit hec, si scis? Est Sulco Wyssegradiensis</p>
 					</div>
 					<div n="16" xml:id="book-2-part-12-chapter-64" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De vestibus</head>
 						<p xml:id="book-2-part-12-chapter-64-p-70">
-							<lb n="1854" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Ex</hi>cipiens vestes has nudis pectore prestes.</foreign>
-							<lb n="1855" />
+							<lb n="1854" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Ex</hi>cipiens vestes has nudis pectore prestes.<lb n="1855" />
 							<foreign xml:lang="lat-Latn">Vestis</foreign> rub, sukno <foreign xml:lang="lat-Latn">pannus trabea quoque</foreign> krzno,<lb n="1856" />
 							<foreign xml:lang="lat-Latn">Vestimenta</foreign> rucho, <foreign xml:lang="lat-Latn">vestitus</foreign> odyew, <foreign xml:lang="lat-Latn">tela</foreign> platno,<lb n="1857" />
 							<foreign xml:lang="lat-Latn">Panniculus</foreign> ruska, <foreign xml:lang="lat-Latn">tunica</foreign> ssukníe, <foreign xml:lang="lat-Latn">cento</foreign> zlussczka,<lb n="1858" />Wzwlek <foreign xml:lang="lat-Latn">indumentum, pudiscus</foreign> ssatr, hadri <foreign xml:lang="lat-Latn">pentum,</foreign>
@@ -4034,9 +3382,7 @@
 							<lb n="1936" />Kosmacz <foreign xml:lang="lat-Latn">spilidula,</foreign> trzesnye <foreign xml:lang="lat-Latn">scabra,</foreign> posywka <foreign xml:lang="lat-Latn">sutura.</foreign>
 							<lb n="1937" />
 							<foreign xml:lang="lat-Latn">Pileus esto</foreign> kobluk, bibron <foreign xml:lang="lat-Latn">infula, calpedra</foreign> kolsuch,<lb n="1938" />Naprstli <foreign xml:lang="lat-Latn">pedulare,</foreign> zvinka <foreign xml:lang="lat-Latn">limba,</foreign> sscaplerz <foreign xml:lang="lat-Latn">scapulare.</foreign>
-							<lb n="1939" />
-							<foreign xml:lang="lat-Latn">Nomina nunc propria sperno dare non numerata.</foreign>
-						</p>
+							<lb n="1939" xml:lang="lat-Latn" />Nomina nunc propria sperno dare non numerata.</p>
 					</div>
 				</div>
 				<div n="VII" xml:id="book-2-part-13" type="part" data-level="2">
@@ -4044,10 +3390,8 @@
 					<div n="1" xml:id="book-2-part-13-chapter-65" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De domo.</head>
 						<p xml:id="book-2-part-13-chapter-65-p-71">
-							<lb n="1940" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">No</hi>scitur hec septapars de domibus bene septa.</foreign>
-							<lb n="1941" />
+							<lb n="1940" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">No</hi>scitur hec septapars de domibus bene septa.<lb n="1941" />
 							<foreign xml:lang="lat-Latn">Domus</foreign> dvom, vyssle <foreign xml:lang="lat-Latn">pendix, casa</foreign> brh, <foreign xml:lang="lat-Latn">doma</foreign> svisle.<lb n="1942" />
 							<foreign xml:lang="lat-Latn">Area dic</foreign> myesczistye, <foreign xml:lang="lat-Latn">limen</foreign> prah, <foreign xml:lang="lat-Latn">focus</foreign> ohnyscze.<lb n="1943" />
 							<foreign xml:lang="lat-Latn">Est fundamentum</foreign> krumfest, podlaha <foreign xml:lang="lat-Latn">pavímentum,</foreign>
@@ -4124,17 +3468,13 @@
 							<foreign xml:lang="lat-Latn">Sera</foreign> zamek, <foreign xml:lang="lat-Latn">fragma</foreign> ruski, drzevenecz <foreign xml:lang="lat-Latn">aforella,</foreign>
 							<lb n="2005" />
 							<foreign xml:lang="lat-Latn">Pessula</foreign> spenecz, stolicze <foreign xml:lang="lat-Latn">sedes,</foreign> ssemliczka <foreign xml:lang="lat-Latn">sedile.</foreign>
-							<lb n="2006" />
-							<foreign xml:lang="lat-Latn">Scripsit Claretus, sibi que dederat Benedictus.</foreign>
-						</p>
+							<lb n="2006" xml:lang="lat-Latn" />Scripsit Claretus, sibi que dederat Benedictus.</p>
 					</div>
 					<div n="2" xml:id="book-2-part-13-chapter-66" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De uteusilibus</head>
 						<p xml:id="book-2-part-13-chapter-66-p-72">
-							<lb n="2007" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Co</hi>rdis habens vires domibus utensile disces.</foreign>
-							<lb n="2008" />
+							<lb n="2007" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Co</hi>rdis habens vires domibus utensile disces.<lb n="2008" />
 							<foreign xml:lang="lat-Latn">Mensa</foreign> stuol, <foreign xml:lang="lat-Latn">supplex</foreign> modliczi nadobie <foreign xml:lang="lat-Latn">que supellex,</foreign>
 							<lb n="2009" />
 							<foreign xml:lang="lat-Latn">Discus</foreign> okrzyn, <foreign xml:lang="lat-Latn">cophinus</foreign> koss, <foreign xml:lang="lat-Latn">culter</foreign> noz, czyesse <foreign xml:lang="lat-Latn">ciphus,</foreign>
@@ -4211,17 +3551,13 @@
 							<lb n="2078" />
 							<foreign xml:lang="lat-Latn">Circulus est</foreign> kotuczek, <foreign xml:lang="lat-Latn">vertinella dic</foreign> obrtlek,<lb n="2079" />Drstiel <foreign xml:lang="lat-Latn">ragar, ustile</foreign> ozeh, rasochi <foreign xml:lang="lat-Latn">ticiale,</foreign>
 							<lb n="2080" />Zahumnye <foreign xml:lang="lat-Latn">palatrum,</foreign> wzhoru <foreign xml:lang="lat-Latn">supra,</foreign> rzerzab <foreign xml:lang="lat-Latn">anabatrum.</foreign>
-							<lb n="2081" />
-							<foreign xml:lang="lat-Latn">Hec michi Vilhelmus dedit in Strakonicz <supplied reason="lost">comes</supplied> aptus.</foreign>
-						</p>
+							<lb n="2081" xml:lang="lat-Latn" />Hec michi Vilhelmus dedit in Strakonicz <supplied reason="lost">comes</supplied> aptus.</p>
 					</div>
 					<div n="3" xml:id="book-2-part-13-chapter-67" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De civitate</head>
 						<p xml:id="book-2-part-13-chapter-67-p-73">
-							<lb n="2082" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">In</hi> civitate bona michi summo vocabula tanta.</foreign>
-							<lb n="2083" />
+							<lb n="2082" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">In</hi> civitate bona michi summo vocabula tanta.<lb n="2083" />
 							<foreign xml:lang="lat-Latn">Urbs</foreign> ohrada, <foreign xml:lang="lat-Latn">civitas</foreign> myesto, <foreign xml:lang="lat-Latn">posteritas</foreign> ssczedie.<lb n="2084" />
 							<foreign xml:lang="lat-Latn">Est oppidum</foreign> myestcze, podmyestie <foreign xml:lang="lat-Latn">suburbia, se</foreign> sie,<lb n="2085" />
 							<foreign xml:lang="lat-Latn">Castellum</foreign> twrze, <foreign xml:lang="lat-Latn">turris</foreign> vieze, <foreign xml:lang="lat-Latn">conspica</foreign> strazie.<lb n="2086" />
@@ -4288,17 +3624,13 @@
 							<foreign xml:lang="lat-Latn">Vensula</foreign> paczatka, <foreign xml:lang="lat-Latn">pellax</foreign> raz, <foreign xml:lang="lat-Latn">truffa</foreign> bobonka,<lb n="2139" />Rozhranye <foreign xml:lang="lat-Latn">calvaria,</foreign> bogistye <foreign xml:lang="lat-Latn">belliludium da.</foreign>
 							<lb n="2140" />
 							<foreign xml:lang="lat-Latn">Nuxulium</foreign> chrkaczka, chomodrz <foreign xml:lang="lat-Latn">drula, turbus</foreign> holaczka,<lb n="2141" />Zavod <foreign xml:lang="lat-Latn">gímnasium, sit</foreign> vtiek <foreign xml:lang="lat-Latn">bravíum,</foreign> luda <foreign xml:lang="lat-Latn">sternum,</foreign>
-							<lb n="2142" />Zmrazek <foreign xml:lang="lat-Latn">uter,</foreign> wzchodlacz <foreign xml:lang="lat-Latn">coclea, percula</foreign> pawlacz.<lb n="2143" />
-							<foreign xml:lang="lat-Latn">Hec Papias reserat, que plura Boecius aptat.</foreign>
-						</p>
+							<lb n="2142" />Zmrazek <foreign xml:lang="lat-Latn">uter,</foreign> wzchodlacz <foreign xml:lang="lat-Latn">coclea, percula</foreign> pawlacz.<lb n="2143" xml:lang="lat-Latn" />Hec Papias reserat, que plura Boecius aptat.</p>
 					</div>
 					<div n="4" xml:id="book-2-part-13-chapter-68" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De armis</head>
 						<p xml:id="book-2-part-13-chapter-68-p-74">
-							<lb n="2144" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Ar</hi>ipiens arma dabis instrumenta secunda.</foreign>
-							<lb n="2145" />
+							<lb n="2144" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Ar</hi>ipiens arma dabis instrumenta secunda.<lb n="2145" />
 							<foreign xml:lang="lat-Latn">Armaria</foreign> brnye, <foreign xml:lang="lat-Latn">sed pregocium sit</foreign> oruzye,<lb n="2146" />Odyeníe <foreign xml:lang="lat-Latn">dic arma,</foreign> plati <foreign xml:lang="lat-Latn">thorax</foreign> tercze <foreign xml:lang="lat-Latn">que perma.</foreign>
 							<lb n="2147" />
 							<foreign xml:lang="lat-Latn">Alionum</foreign> ssossnyerz, ssipy <foreign xml:lang="lat-Latn">tela, litricia</foreign> sspalníerz,<lb n="2148" />
@@ -4349,17 +3681,13 @@
 							<foreign xml:lang="lat-Latn">Machina</foreign> prak, przieptacha <foreign xml:lang="lat-Latn">trepido,</foreign> rzetiez <foreign xml:lang="lat-Latn">.... catena,</foreign>
 							<lb n="2184" />Benatki <foreign xml:lang="lat-Latn">veneficium,</foreign> plast <foreign xml:lang="lat-Latn">favus,</foreign> vtieknícz <foreign xml:lang="lat-Latn">asillum,</foreign>
 							<lb n="2185" />
-							<foreign xml:lang="lat-Latn">Lamella</foreign> czepel, zatul <foreign xml:lang="lat-Latn">actula, iactula</foreign> vrhel.<lb n="2186" />
-							<foreign xml:lang="lat-Latn">Hec data Theutuníca dic apcius esse Bohema.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Lamella</foreign> czepel, zatul <foreign xml:lang="lat-Latn">actula, iactula</foreign> vrhel.<lb n="2186" xml:lang="lat-Latn" />Hec data Theutuníca dic apcius esse Bohema.</p>
 					</div>
 					<div n="5" xml:id="book-2-part-13-chapter-69" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De urbis hominibus</head>
 						<p xml:id="book-2-part-13-chapter-69-p-75">
-							<lb n="2187" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Cl</hi>aretus pangit urb<supplied reason="lost">e</supplied>s, homines modo tangit.</foreign>
-							<lb n="2188" />
+							<lb n="2187" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Cl</hi>aretus pangit urb<supplied reason="lost">e</supplied>s, homines modo tangit.<lb n="2188" />
 							<foreign xml:lang="lat-Latn">Agric<supplied reason="lost">o</supplied>la</foreign> zapluharz, <foreign xml:lang="lat-Latn">hospes</foreign> hospodarz, <foreign xml:lang="lat-Latn">nugillus</foreign> lharz,<lb n="2189" />
 							<foreign xml:lang="lat-Latn">Hospita</foreign> hospodyníe, <foreign xml:lang="lat-Latn">dic inqu lina</foreign> podruhynye,<lb n="2190" />Podruh <foreign xml:lang="lat-Latn">inquilinus, sons</foreign> vin<supplied reason="lost">i</supplied>k, koferz <foreign xml:lang="lat-Latn">decibínus,</foreign>
 							<lb n="2191" />Myesczenyn <foreign xml:lang="lat-Latn">est civis,</foreign> purkrechtnik <foreign xml:lang="lat-Latn">emphitealis.</foreign>
@@ -4428,17 +3756,13 @@
 							<foreign xml:lang="lat-Latn">Convena</foreign> przilezlecz <foreign xml:lang="lat-Latn">edentatusque</foreign> bezzubecz,<lb n="2244" />
 							<foreign xml:lang="lat-Latn">Emeritus</foreign> wislu<supplied reason="lost">z</supplied>czi, <foreign xml:lang="lat-Latn">sit falconista</foreign> sokolczy,<lb n="2245" />
 							<foreign xml:lang="lat-Latn">Canilio</foreign> holota, husak <foreign xml:lang="lat-Latn">auxo, coquilla</foreign> popelka,<lb n="2246" />Snitak <foreign xml:lang="lat-Latn">sompniator,</foreign> protyvnik <foreign xml:lang="lat-Latn">contrariator.</foreign>
-							<lb n="2247" />
-							<foreign xml:lang="lat-Latn">Cuncta Bohema fer<supplied reason="lost">o</supplied>, Ripenses voce sequendo.</foreign>
-						</p>
+							<lb n="2247" xml:lang="lat-Latn" />Cuncta Bohema fer<supplied reason="lost">o</supplied>, Ripenses voce sequendo.</p>
 					</div>
 					<div n="6" xml:id="book-2-part-13-chapter-70" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De iudice</head>
 						<p xml:id="book-2-part-13-chapter-70-p-76">
-							<lb n="2248" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Or</hi>tographus laudes donat de iudice grandes.</foreign>
-							<lb n="2249" />
+							<lb n="2248" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Or</hi>tographus laudes donat de iudice grandes.<lb n="2249" />
 							<foreign xml:lang="lat-Latn">Querela</foreign> zaloba <foreign xml:lang="lat-Latn">procuratoriumque</foreign> possoba,<lb n="2250" />
 							<foreign xml:lang="lat-Latn">Vendicio</foreign> prodanye, <foreign xml:lang="lat-Latn">dic appellamen</foreign> odvolanye.<lb n="2251" />
 							<foreign xml:lang="lat-Latn">Empcio sit</foreign> kupenye, <foreign xml:lang="lat-Latn">iudicacio</foreign> posuzeníe,<lb n="2252" />
@@ -4540,17 +3864,13 @@
 							<lb n="2323" />Noczleh <foreign xml:lang="lat-Latn">nocturnum,</foreign> czasto <foreign xml:lang="lat-Latn">sepe,</foreign> przirodne <foreign xml:lang="lat-Latn">nativum.</foreign>
 							<lb n="2324" />
 							<foreign xml:lang="lat-Latn">Lesio sit</foreign> vraz, <foreign xml:lang="lat-Latn">quasi</foreign> yak, <foreign xml:lang="lat-Latn">ínveccio</foreign> naraz,<lb n="2325" />Zastaw <foreign xml:lang="lat-Latn">obsidium,</foreign> zastawnecz <foreign xml:lang="lat-Latn">obses,</foreign> kroki <foreign xml:lang="lat-Latn">girum,</foreign>
-							<lb n="2326" />
-							<foreign xml:lang="lat-Latn">Talia scriptores repetant verba minores.</foreign>
-						</p>
+							<lb n="2326" xml:lang="lat-Latn" />Talia scriptores repetant verba minores.</p>
 					</div>
 					<div n="7" xml:id="book-2-part-13-chapter-71" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De ecclesia</head>
 						<p xml:id="book-2-part-13-chapter-71-p-77">
-							<lb n="2327" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Ma</hi>nicat ecclesia dare presbiteris sua iura.</foreign>
-							<lb n="2328" />
+							<lb n="2327" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Ma</hi>nicat ecclesia dare presbiteris sua iura.<lb n="2328" />
 							<foreign xml:lang="lat-Latn">Ecclesia</foreign> kostel, <foreign xml:lang="lat-Latn">templum</foreign> chram, <foreign xml:lang="lat-Latn">girpulus</foreign> ostviel,<lb n="2329" />
 							<foreign xml:lang="lat-Latn">Vexillum</foreign> koruhew, <foreign xml:lang="lat-Latn">crux</foreign> krziz, <foreign xml:lang="lat-Latn">catholica</foreign> czierkew,<lb n="2330" />
 							<foreign xml:lang="lat-Latn">Nola</foreign> zvonecz, <foreign xml:lang="lat-Latn">claustrum</foreign> klaster, mnychowna <foreign xml:lang="lat-Latn">monasterium.</foreign>
@@ -4619,18 +3939,14 @@
 							<foreign xml:lang="lat-Latn">Est aspersorium</foreign> kropacz, poprawna <foreign xml:lang="lat-Latn">registrum,</foreign>
 							<lb n="2381" />
 							<foreign xml:lang="lat-Latn">Sarrochium</foreign> broknie, titl <foreign xml:lang="lat-Latn">apex, reverenda</foreign> ssyrokn<supplied reason="lost">ie</supplied>,<lb n="2382" />
-							<foreign xml:lang="lat-Latn">Donatus</foreign> dawnik, <foreign xml:lang="lat-Latn">Doctrinale</foreign> navczewnik.<lb n="2383" />
-							<foreign xml:lang="lat-Latn">
-								<supplied reason="lost">Hec</supplied> Olomucensis data presulis aucta Iohan<supplied reason="lost">i</supplied>s.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Donatus</foreign> dawnik, <foreign xml:lang="lat-Latn">Doctrinale</foreign> navczewnik.<lb n="2383" xml:lang="lat-Latn" />
+							<supplied reason="lost">Hec</supplied> Olomucensis data presulis aucta Iohan<supplied reason="lost">i</supplied>s.</p>
 					</div>
 					<div n="8" xml:id="book-2-part-13-chapter-72" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De festis</head>
 						<p xml:id="book-2-part-13-chapter-72-p-78">
-							<lb n="2384" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Pr</hi>edicta nosce<supplied reason="lost">n</supplied>s defestis sumito discens.</foreign>
-							<lb n="2385" />Wsed <foreign xml:lang="lat-Latn">feria, indica</foreign> prazdna, nedyele <foreign xml:lang="lat-Latn">dominica</foreign>
+							<lb n="2384" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Pr</hi>edicta nosce<supplied reason="lost">n</supplied>s defestis sumito discens.<lb n="2385" />Wsed <foreign xml:lang="lat-Latn">feria, indica</foreign> prazdna, nedyele <foreign xml:lang="lat-Latn">dominica</foreign>
 							<lb n="2386" />
 							<foreign xml:lang="lat-Latn">Sexta</foreign> patek, sobota <foreign xml:lang="lat-Latn">sabatum, feria</foreign> strzied<supplied reason="omitted">n</supplied>a <foreign xml:lang="lat-Latn">quarta,</foreign>
 							<lb n="2387" />
@@ -4638,19 +3954,15 @@
 							<foreign xml:lang="lat-Latn">Vigilie</foreign> bdytwi, <foreign xml:lang="lat-Latn">sunt tempora quarta</foreign> suche dny,<lb n="2389" />
 							<foreign xml:lang="lat-Latn">Adventus</foreign> przistie, mssie <foreign xml:lang="lat-Latn">missa, salus</foreign> strzedopostie,<lb n="2390" />
 							<foreign xml:lang="lat-Latn">Conceptus</foreign> poczetie, <foreign xml:lang="lat-Latn">sit Nativitas</foreign> narozenye.<lb n="2391" />
-							<foreign xml:lang="lat-Latn">Innocens</foreign> mladenye, <foreign xml:lang="lat-Latn">circumcisus</foreign> obrziezovanye<lb n="2392" />
-							<foreign xml:lang="lat-Latn">
-								<supplied reason="lost"> ............................... </supplied>
-							</foreign>
+							<foreign xml:lang="lat-Latn">Innocens</foreign> mladenye, <foreign xml:lang="lat-Latn">circumcisus</foreign> obrziezovanye<lb n="2392" xml:lang="lat-Latn" />
+							<supplied reason="lost"> ............................... </supplied>
 							<lb n="2393" />
 							<foreign xml:lang="lat-Latn">Iubileus</foreign> myleto, <foreign xml:lang="lat-Latn">dic enceníum</foreign> nove leto.<lb n="2394" />
 							<foreign xml:lang="lat-Latn">Largira</foreign> sscziedri veczer, <foreign xml:lang="lat-Latn">stanye xenia, vespera</foreign> nespor,<lb n="2395" />Krztynek <foreign xml:lang="lat-Latn">epiphania,</foreign> hody <foreign xml:lang="lat-Latn">festa, colenda</foreign> koleda,<lb n="2396" />Ochtab <foreign xml:lang="lat-Latn">octava, Domine'</foreign> kvietna, <foreign xml:lang="lat-Latn">vilida</foreign> vana.<lb n="2397" />
 							<foreign xml:lang="lat-Latn">Kathedra</foreign> nasstolanye, <foreign xml:lang="lat-Latn">conversio</foreign> na obraczeníe<lb n="2398" />
 							<foreign xml:lang="lat-Latn">Et cineres</foreign> popelecz, <foreign xml:lang="lat-Latn">sit purificacio</foreign> hromnícz,<lb n="2399" />Postnye <foreign xml:lang="lat-Latn">quadragesima,</foreign> devietnik <foreign xml:lang="lat-Latn">septuagesima,</foreign>
-							<lb n="2400" />
-							<foreign xml:lang="lat-Latn">
-								<supplied reason="lost">Nonagesima ......................... </supplied>
-							</foreign>
+							<lb n="2400" xml:lang="lat-Latn" />
+							<supplied reason="lost">Nonagesima ......................... </supplied>
 							<lb n="2401" />
 							<foreign xml:lang="lat-Latn">Passio sit</foreign> muczeníe, <foreign xml:lang="lat-Latn">benediccio sit</foreign> pozehnaníe<lb n="2402" />
 							<foreign xml:lang="lat-Latn">Et</foreign> veliki cztwrtek <foreign xml:lang="lat-Latn">sit cena, parasceue</foreign> patek.<lb n="2403" />
@@ -4690,21 +4002,15 @@
 							<lb n="2424" />
 							<foreign xml:lang="lat-Latn">Suffragium</foreign> nasva <foreign xml:lang="lat-Latn">dic, alphabetum &lt;</foreign> z&gt;abeczeda,<lb n="2435" />
 							<foreign xml:lang="lat-Latn">Invitatorium</foreign> nazva, <foreign xml:lang="lat-Latn">processio</foreign> wislun,<lb n="2436" />Dar <foreign xml:lang="lat-Latn">munus, oblacio</foreign> obietovaníe, zaviet <foreign xml:lang="lat-Latn">irro.</foreign>
-							<lb n="2437" />
-							<foreign xml:lang="lat-Latn">Karolus hiis sanus, rex, caesar, ator, Elianus.</foreign>
-						</p>
+							<lb n="2437" xml:lang="lat-Latn" />Karolus hiis sanus, rex, caesar, ator, Elianus.</p>
 					</div>
 					<div n="9" xml:id="book-2-part-13-chapter-73" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De rebus ecclesiasticis</head>
 						<p xml:id="book-2-part-13-chapter-73-p-79">
-							<lb n="2438" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">In</hi>terea verges, quod hic ecclesiastica vertes.</foreign>
-							<lb n="2439" />Staveníe <foreign xml:lang="lat-Latn">structura,</foreign> prava <foreign xml:lang="lat-Latn">iura,</foreign> postava <foreign xml:lang="lat-Latn">statura,</foreign>
+							<lb n="2438" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">In</hi>terea verges, quod hic ecclesiastica vertes.<lb n="2439" />Staveníe <foreign xml:lang="lat-Latn">structura,</foreign> prava <foreign xml:lang="lat-Latn">iura,</foreign> postava <foreign xml:lang="lat-Latn">statura,</foreign>
 							<lb n="2440" />
-							<foreign xml:lang="lat-Latn">Incensum</foreign> kadyeníe, <foreign xml:lang="lat-Latn">penitencia dico</foreign> pokaníe,<lb n="2441" />
-							<foreign xml:lang="lat-Latn">............................</foreign>
-							<lb n="2442" />
+							<foreign xml:lang="lat-Latn">Incensum</foreign> kadyeníe, <foreign xml:lang="lat-Latn">penitencia dico</foreign> pokaníe,<lb n="2441" xml:lang="lat-Latn" />............................<lb n="2442" />
 							<foreign xml:lang="lat-Latn">C<supplied reason="lost">on</supplied>tricio</foreign> sskrussenie <foreign xml:lang="lat-Latn">maceracioque</foreign> sussenye.<lb n="2443" />
 							<foreign xml:lang="lat-Latn">Indulgencia s<supplied reason="lost">it</supplied>
 							</foreign> odpustek, <foreign xml:lang="lat-Latn">confessio</foreign> zpovied<lb n="2444" />
@@ -4771,9 +4077,7 @@
 							<lb n="2493" />
 							<foreign xml:lang="lat-Latn">Atque biathanatus</foreign> z<supplied reason="omitted">a</supplied>traczenecz, propaden <foreign xml:lang="lat-Latn">catacismus,</foreign>
 							<lb n="2494" />Kolaczi <foreign xml:lang="lat-Latn">solarium, fabula</foreign> bazn nyzko <foreign xml:lang="lat-Latn">que ymum.</foreign>
-							<lb n="2495" />
-							<foreign xml:lang="lat-Latn">Firmet hec Arnestus archipresul, auctor honestus.</foreign>
-						</p>
+							<lb n="2495" xml:lang="lat-Latn" />Firmet hec Arnestus archipresul, auctor honestus.</p>
 					</div>
 				</div>
 				<div n="VIII" xml:id="book-2-part-14" type="part" data-level="2">
@@ -4781,10 +4085,8 @@
 					<div n="1" xml:id="book-2-part-14-chapter-74" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De artificibus</head>
 						<p xml:id="book-2-part-14-chapter-74-p-80">
-							<lb n="2496" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">La</hi>rga prius dicta post artifices bene signa.</foreign>
-							<lb n="2497" />
+							<lb n="2496" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">La</hi>rga prius dicta post artifices bene signa.<lb n="2497" />
 							<foreign xml:lang="lat-Latn">Artifex</foreign> rzemeslnik, <foreign xml:lang="lat-Latn">opifex</foreign> vdyelacz, <foreign xml:lang="lat-Latn">rugitus</foreign> krzik,<lb n="2498" />Dielnyk <foreign xml:lang="lat-Latn">operarius,</foreign> nagemnyk <foreign xml:lang="lat-Latn">mercenarius,</foreign>
 							<lb n="2499" />Otrok <foreign xml:lang="lat-Latn">mancipium,</foreign> padlo <foreign xml:lang="lat-Latn">scantorium,</foreign> vadlo <foreign xml:lang="lat-Latn">flandrum.</foreign>
 							<lb n="2500" />
@@ -4840,16 +4142,12 @@
 							<foreign xml:lang="lat-Latn">Et latomus</foreign> otesnik, <foreign xml:lang="lat-Latn">celtis</foreign> dlato, <foreign xml:lang="lat-Latn">parder</foreign> oplennyk,<lb n="2545" />Ritownik <foreign xml:lang="lat-Latn">sculptor,</foreign> pila <foreign xml:lang="lat-Latn">líma,</foreign> malerz <foreign xml:lang="lat-Latn">pictor,</foreign>
 							<lb n="2546" />
 							<foreign xml:lang="lat-Latn">Pincellus</foreign> pisecz, rozkrok <foreign xml:lang="lat-Latn">arcua, sincipa</foreign> vichrzecz,<lb n="2547" />Brannycze <foreign xml:lang="lat-Latn">tirsa,</foreign> brzicze <foreign xml:lang="lat-Latn">tusum, verpis</foreign> rozpuk,<lb n="2548" />
-							<foreign xml:lang="lat-Latn">Est aculum</foreign> spiczka, vocher <foreign xml:lang="lat-Latn">eflax, olfa</foreign> vonaczka.<lb n="2549" />
-							<foreign xml:lang="lat-Latn">Dic<supplied reason="lost">cio</supplied> queque suum proprium fert significatum.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Est aculum</foreign> spiczka, vocher <foreign xml:lang="lat-Latn">eflax, olfa</foreign> vonaczka.<lb n="2549" xml:lang="lat-Latn" />Dic<supplied reason="lost">cio</supplied> queque suum proprium fert significatum.</p>
 					</div>
 					<div n="2" xml:id="book-2-part-14-chapter-75" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De fabris</head>
 						<p xml:id="book-2-part-14-chapter-75-p-81">
-							<lb n="2550" />
-							<foreign xml:lang="lat-Latn">Addito sartores, argos post dicta sutores.</foreign>
-							<lb n="2551" />
+							<lb n="2550" xml:lang="lat-Latn" />Addito sartores, argos post dicta sutores.<lb n="2551" />
 							<foreign xml:lang="lat-Latn">Pellifex</foreign> kozisnik, <foreign xml:lang="lat-Latn">pelista</foreign> blanarz, <foreign xml:lang="lat-Latn">lego</foreign> cztennik,<lb n="2552" />Dratva <foreign xml:lang="lat-Latn">spacus, sutor</foreign> ssvecz, <foreign xml:lang="lat-Latn">sulcor</foreign> kuas, krayczi <foreign xml:lang="lat-Latn">sartor.</foreign>
 							<lb n="2553" />
 							<foreign xml:lang="lat-Latn">Allutum</foreign> trzieslo, <foreign xml:lang="lat-Latn">collofolium sit</foreign> obaslo,<lb n="2444" />
@@ -4901,17 +4199,13 @@
 							<foreign xml:lang="lat-Latn">A<supplied reason="lost">ri</supplied>da</foreign> hut, <foreign xml:lang="lat-Latn">andea</foreign> naprzih, <foreign xml:lang="lat-Latn">arrogancia</foreign> pura,<lb n="2594" />
 							<foreign xml:lang="lat-Latn">Langa</foreign> vazka, <foreign xml:lang="lat-Latn">tinctor</foreign> kropiennyk, prziekupnik <foreign xml:lang="lat-Latn">arulator,</foreign>
 							<lb n="2595" />Sbiehnyla <foreign xml:lang="lat-Latn">cisterna, finear</foreign> sslak, otrzebki <foreign xml:lang="lat-Latn">poterna.</foreign>
-							<lb n="2596" />
-							<foreign xml:lang="lat-Latn">Cuncta dat equivoca defectus meth aphorata.</foreign>
-						</p>
+							<lb n="2596" xml:lang="lat-Latn" />Cuncta dat equivoca defectus meth aphorata.</p>
 					</div>
 					<div n="3" xml:id="book-2-part-14-chapter-76" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De fabrilibus</head>
 						<p xml:id="book-2-part-14-chapter-76-p-82">
-							<lb n="2597" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Ta</hi>ndem fabrili a digne refero documenta.</foreign>
-							<lb n="2598" />
+							<lb n="2597" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Ta</hi>ndem fabrili a digne refero documenta.<lb n="2598" />
 							<foreign xml:lang="lat-Latn">Stanneator</foreign> studenarz, <foreign xml:lang="lat-Latn">faber</foreign> kowarz, okrzessi <foreign xml:lang="lat-Latn">dipars.</foreign>
 							<lb n="2599" />Nozierz <foreign xml:lang="lat-Latn">cultellator, cos</foreign> bruss, meczierz <foreign xml:lang="lat-Latn">gladiator,</foreign>
 							<lb n="2600" />Lzicznerz <foreign xml:lang="lat-Latn">cocleator,</foreign> tobolecznik <foreign xml:lang="lat-Latn">peruleator,</foreign>
@@ -4963,17 +4257,13 @@
 							<foreign xml:lang="lat-Latn">Babona</foreign> podkownik, sseliha <foreign xml:lang="lat-Latn">clapo, glanco</foreign> nalednyk.<lb n="2638" />
 							<foreign xml:lang="lat-Latn">Carbonator</foreign> vhlerz, <foreign xml:lang="lat-Latn">globira</foreign> kulerz, <foreign xml:lang="lat-Latn">astrula</foreign> mylerz.<lb n="2639" />
 							<foreign xml:lang="lat-Latn">Est</foreign> rytie <foreign xml:lang="lat-Latn">sculptura, primas</foreign> hersst, budna <foreign xml:lang="lat-Latn">futura.</foreign>
-							<lb n="2640" />
-							<foreign xml:lang="lat-Latn">Intentus variis nequeo dare plura Bohemís.</foreign>
-						</p>
+							<lb n="2640" xml:lang="lat-Latn" />Intentus variis nequeo dare plura Bohemís.</p>
 					</div>
 					<div n="4" xml:id="book-2-part-14-chapter-77" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De nautis</head>
 						<p xml:id="book-2-part-14-chapter-77-p-83">
-							<lb n="2641" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Ve</hi>scere iam dicta denautis appropriata. .</foreign>
-							<lb n="2642" />Marnerz <foreign xml:lang="lat-Latn">nauclerus, navis</foreign> pram, czlunek <foreign xml:lang="lat-Latn">faselus,</foreign>
+							<lb n="2641" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Ve</hi>scere iam dicta denautis appropriata. .<lb n="2642" />Marnerz <foreign xml:lang="lat-Latn">nauclerus, navis</foreign> pram, czlunek <foreign xml:lang="lat-Latn">faselus,</foreign>
 							<lb n="2643" />
 							<foreign xml:lang="lat-Latn">Navi<supplied reason="omitted">s</supplied>ta</foreign> lodynnyk, <foreign xml:lang="lat-Latn">puppis</foreign> lodye, <foreign xml:lang="lat-Latn">nauta</foreign> prziewoznik,<lb n="2644" />Vkol <foreign xml:lang="lat-Latn">conveníum, remus</foreign> veslo platno <foreign xml:lang="lat-Latn">que velum.</foreign>
 							<lb n="2645" />
@@ -5004,17 +4294,13 @@
 							<lb n="2666" />Nunvicze <foreign xml:lang="lat-Latn">begina, becardo</foreign> begart, zmazek <foreign xml:lang="lat-Latn">inda,</foreign>
 							<lb n="2667" />
 							<foreign xml:lang="lat-Latn">Capticeum</foreign> hambalk, <foreign xml:lang="lat-Latn">onomax</foreign> meczko, <foreign xml:lang="lat-Latn">strapula</foreign> strozak,<lb n="2668" />
-							<foreign xml:lang="lat-Latn">Ornacius</foreign> dvorzak, supruh <foreign xml:lang="lat-Latn">addipa, concipa</foreign> prozak.<lb n="2669" />
-							<foreign xml:lang="lat-Latn">Non repetam verbum plures res significandum.</foreign>
-						</p>
+							<foreign xml:lang="lat-Latn">Ornacius</foreign> dvorzak, supruh <foreign xml:lang="lat-Latn">addipa, concipa</foreign> prozak.<lb n="2669" xml:lang="lat-Latn" />Non repetam verbum plures res significandum.</p>
 					</div>
 					<div n="5" xml:id="book-2-part-14-chapter-78" type="chapter" data-level="3">
 						<head xml:lang="lat-Latn">De scriptoribus</head>
 						<p xml:id="book-2-part-14-chapter-78-p-84">
-							<lb n="2670" />
-							<foreign xml:lang="lat-Latn">
-								<hi rend="smallcaps">Su</hi>scipe mente pia descriptoribus documenta.</foreign>
-							<lb n="2671" />
+							<lb n="2670" xml:lang="lat-Latn" />
+							<hi rend="smallcaps">Su</hi>scipe mente pia descriptoribus documenta.<lb n="2671" />
 							<foreign xml:lang="lat-Latn">Crida</foreign> krzida, pisarz <foreign xml:lang="lat-Latn">scriptor, calamare</foreign> calamarz,<lb n="2672" />
 							<foreign xml:lang="lat-Latn">Conscriptor</foreign> popisacz, <foreign xml:lang="lat-Latn">intitulator</foreign> naznamenacz.<lb n="2673" />Knyzna <foreign xml:lang="lat-Latn">lib<supplied reason="omitted">e</supplied>raria sit, scriptorium <gap reason="lost" quantity="3" unit="character" />
 							</foreign> pisarna,<lb n="2674" />

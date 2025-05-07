@@ -1,57 +1,44 @@
 text:
 - body:
   - book[n=Gramm.]:
-    - part[n=Proem.]:
-      - head[lg=lat-Latn]: Proemium
+    - part[n=Proem.,lg=lat-Latn]:
+      - head: Proemium
       - p:
         - lb[n=1]:
-          - foreign[lg=lat-Latn]:
-            - hi[rend=smallcaps]: Ut
-            - ilitas iuvenum me compulit edere metrum
-        - lb[n=2]:
-          - foreign[lg=lat-Latn]: Vocibus imposita que dantur signa secunda,
-        - lb[n=3]:
-          - foreign[lg=lat-Latn]: Hec pro posse meo resignabo sermone Boemo
-        - lb[n=4]:
-          - foreign[lg=lat-Latn]: Nam sine vocabulis mens inscia dicitur omnis.
-        - lb[n=5]:
-          - foreign[lg=lat-Latn]: Sed gratis edificat, sine Cristo quique laborat
-        - lb[n=6]:
-          - foreign[lg=lat-Latn]: Hic, peto, quod mecum sistens iuvet edere totum.
+          - hi[rend=smallcaps]: Ut
+          - ilitas iuvenum me compulit edere metrum
+        - lb[n=2]: Vocibus imposita que dantur signa secunda,
+        - lb[n=3]: Hec pro posse meo resignabo sermone Boemo
+        - lb[n=4]: Nam sine vocabulis mens inscia dicitur omnis.
+        - lb[n=5]: Sed gratis edificat, sine Cristo quique laborat
+        - lb[n=6]: Hic, peto, quod mecum sistens iuvet edere totum.
         - lb[n=7]:
-          - foreign[lg=lat-Latn]:
-            - Ut non pervertam sensum, volo vertere que
-            - supplied[reason=omitted]: n
-            - dam,
+          - Ut non pervertam sensum, volo vertere que
+          - supplied[reason=omitted]: n
+          - dam,
         - lb[n=8]:
-          - foreign[lg=lat-Latn]:
-            - 'Cui vero non placeat '
-            - supplied[reason=omitted]: soli
-            - ', talia vel melius eda'
-            - supplied[reason=omitted]: n
-            - t. -
+          - 'Cui vero non placeat '
+          - supplied[reason=omitted]: soli
+          - ', talia vel melius eda'
+          - supplied[reason=omitted]: n
+          - t. -
     - part[n=A]:
       - p:
-        - lb[n=9]:
-          - foreign[lg=lat-Latn]:
-            - 'Inprimis artes tribuam '
-            - supplied[reason=lost]: tibi
-            - ' tres '
-            - supplied[reason=lost]: triviales
-            - ','
-        - lb[n=10]:
-          - foreign[lg=lat-Latn]: Postea tunc tales quatuor sunt quadriviales.
-        - lb[n=11]:
-          - foreign[lg=lat-Latn]: Collaterales quinque tribuam tibi, quales
-        - lb[n=12]:
-          - foreign[lg=lat-Latn]: Sunt michi difficiles - prius accipe grammaticales
+        - lb[n=9,lg=lat-Latn]:
+          - 'Inprimis artes tribuam '
+          - supplied[reason=lost]: tibi
+          - ' tres '
+          - supplied[reason=lost]: triviales
+          - ','
+        - lb[n=10,lg=lat-Latn]: Postea tunc tales quatuor sunt quadriviales.
+        - lb[n=11,lg=lat-Latn]: Collaterales quinque tribuam tibi, quales
+        - lb[n=12,lg=lat-Latn]: Sunt michi difficiles - prius accipe grammaticales
       - chapter[n=I]:
         - head[lg=lat-Latn]: De grammatica
         - p:
-          - lb[n=13]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Gr
-              - ammaticam modicam volo tradere speculativam.
+          - lb[n=13,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Gr
+            - ammaticam modicam volo tradere speculativam.
           - lb[n=14]:
             - foreign[lg=lat-Latn]: Fertur grammatica
             - slowocztena,
@@ -824,20 +811,17 @@ text:
             - foreign[lg=lat-Latn]: mutua
             - spolu.
             - foreign[lg=lat-Latn]: '-'
-          - lb[n=154]:
-            - foreign[lg=lat-Latn]: Sed modo non curas tibi scribere mille figuras,
-          - lb[n=155]:
-            - foreign[lg=lat-Latn]:
-              - Sed
-              - supplied[reason=lost]: de
-              - ' grammatica tibi trado vocabula pauca. -'
+          - lb[n=154,lg=lat-Latn]: Sed modo non curas tibi scribere mille figuras,
+          - lb[n=155,lg=lat-Latn]:
+            - Sed
+            - supplied[reason=lost]: de
+            - ' grammatica tibi trado vocabula pauca. -'
       - chapter[n=II]:
         - head[lg=lat-Latn]: De rethorica
         - p:
-          - lb[n=156]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Re
-              - thorice flores nunc exponam meliores
+          - lb[n=156,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Re
+            - thorice flores nunc exponam meliores
           - lb[n=157]:
             - foreign[lg=lat-Latn]:
               - Eth
@@ -967,17 +951,14 @@ text:
             - foreign[lg=lat-Latn]: Est transsumpcio stemmaque est
             - okraslenye
             - foreign[lg=lat-Latn]: tum. -
-          - lb[n=182]:
-            - foreign[lg=lat-Latn]: Ast modo non cures colores noscere plures.
-          - lb[n=183]:
-            - foreign[lg=lat-Latn]: Hec de rethorica nunc nomina tradidi tanta. -
+          - lb[n=182,lg=lat-Latn]: Ast modo non cures colores noscere plures.
+          - lb[n=183,lg=lat-Latn]: Hec de rethorica nunc nomina tradidi tanta. -
       - chapter[n=III]:
         - head[lg=lat-Latn]: De loyca
         - p:
-          - lb[n=184]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Lo
-              - qui perfectum loyca tribuit tibi sensum.
+          - lb[n=184,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Lo
+            - qui perfectum loyca tribuit tibi sensum.
           - lb[n=185]:
             - foreign[lg=lat-Latn]: Est loyca
             - rzeczena,
@@ -1084,10 +1065,8 @@ text:
             - foreign[lg=lat-Latn]: sed
             - przyhodawe
             - foreign[lg=lat-Latn]: sit
-          - lb[n=206]:
-            - foreign[lg=lat-Latn]: Accidens, wyprawenye diffinicio fiet. -
-          - lb[n=207]:
-            - foreign[lg=lat-Latn]: Sed prius est dictum qualitas, substancia, quantum;
+          - lb[n=206,lg=lat-Latn]: Accidens, wyprawenye diffinicio fiet. -
+          - lb[n=207,lg=lat-Latn]: Sed prius est dictum qualitas, substancia, quantum;
           - lb[n=208]:
             - foreign[lg=lat-Latn]: Situs
             - polozenye
@@ -1137,19 +1116,17 @@ text:
             - foreign[lg=lat-Latn]: Hec est ars ista loyca,
             - chytromuz
             - foreign[lg=lat-Latn]: que zophista
-          - lb[n=218]:
-            - foreign[lg=lat-Latn]:
-              - Explic
-              - supplied[reason=lost]: iu
-              - nt tales iam tres artes terminales.
+          - lb[n=218,lg=lat-Latn]:
+            - Explic
+            - supplied[reason=lost]: iu
+            - nt tales iam tres artes terminales.
       - chapter[n=IV]:
         - head[lg=lat-Latn]: De musica
         - p:
-          - lb[n=219]:
-            - foreign[lg=lat-Latn]:
-              - Materiam musice congnosca
-              - supplied[reason=lost]: s
-              - ', artis amice'
+          - lb[n=219,lg=lat-Latn]:
+            - Materiam musice congnosca
+            - supplied[reason=lost]: s
+            - ', artis amice'
           - lb[n=220]:
             - foreign[lg=lat-Latn]: Est autem musica
             - supplied[reason=lost]: w
@@ -1199,15 +1176,13 @@ text:
             - foreign[lg=lat-Latn]: nota sit
             - znamohlas.
             - foreign[lg=lat-Latn]: '-'
-          - lb[n=229]:
-            - foreign[lg=lat-Latn]: De musica plura non est mihi dicere cura. -
+          - lb[n=229,lg=lat-Latn]: De musica plura non est mihi dicere cura. -
       - chapter[n=V]:
         - head[lg=lat-Latn]: De arismetrica
         - p:
-          - lb[n=230]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Ar
-              - tem de numeris congnosces versibus istis
+          - lb[n=230,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Ar
+            - tem de numeris congnosces versibus istis
           - lb[n=231]:
             - foreign[lg=lat-Latn]: Arismetrica sit
             - poczetm
@@ -1273,13 +1248,11 @@ text:
               - 'tibi '
               - supplied[reason=lost]: "'xx'xx"
               - ' fiet. -'
-          - lb[n=242]:
-            - foreign[lg=lat-Latn]: Sed de ponderibus modo volo scribere versus. -
+          - lb[n=242,lg=lat-Latn]: Sed de ponderibus modo volo scribere versus. -
       - chapter[n=VI]:
         - head[lg=lat-Latn]: De geometria
         - p:
-          - lb[n=243]:
-            - foreign[lg=lat-Latn]: Prestans mensuram geometria dat tibi puram
+          - lb[n=243,lg=lat-Latn]: Prestans mensuram geometria dat tibi puram
           - lb[n=244]:
             - foreign[lg=lat-Latn]: Est geometria
             - m
@@ -1321,14 +1294,13 @@ text:
             - wrchwet
             - bczokuk
             - foreign[lg=lat-Latn]: sit ...
-          - lb[n=251]:
-            - foreign[lg=lat-Latn]: Non plus invenio
-            - foreign[lg=lat-Latn]: tria, que nota sunt, tibi dico.
+          - lb[n=251,lg=lat-Latn]:
+            - Non plus invenio
+            - tria, que nota sunt, tibi dico.
       - chapter[n=VII]:
         - head[lg=lat-Latn]: De astronomia
         - p:
-          - lb[n=252]:
-            - foreign[lg=lat-Latn]: Astrorum cursus post hoc volo tradere rursus
+          - lb[n=252,lg=lat-Latn]: Astrorum cursus post hoc volo tradere rursus
           - lb[n=253]:
             - foreign[lg=lat-Latn]: Hinc astronomia
             - hwy
@@ -1498,8 +1470,7 @@ text:
             - foreign[lg=lat-Latn]: gradus est sed
             - wzchod,
             - foreign[lg=lat-Latn]: usualis
-          - lb[n=285]:
-            - foreign[lg=lat-Latn]: Est obykly, ze.modyelny notans artificialis.
+          - lb[n=285,lg=lat-Latn]: Est obykly, ze.modyelny notans artificialis.
           - lb[n=286]:
             - foreign[lg=lat-Latn]:
               - Co
@@ -1577,19 +1548,16 @@ text:
             - Kozorozecz, wodnarz
             - foreign[lg=lat-Latn]: sit aquarius, hinc tibi
             - rybnarz
-          - lb[n=300]:
-            - foreign[lg=lat-Latn]: Piscis erit dictus et in astris est bene pictus.
-                - -
-          - lb[n=301]:
-            - foreign[lg=lat-Latn]:
-              - 'Quattuor hinc tales '
-              - supplied[reason=omitted]: tales
-              - ' repetas.modo quadruviales. -'
+          - lb[n=300,lg=lat-Latn]: Piscis erit dictus et in astris est bene pictus.
+              - -
+          - lb[n=301,lg=lat-Latn]:
+            - 'Quattuor hinc tales '
+            - supplied[reason=omitted]: tales
+            - ' repetas.modo quadruviales. -'
       - chapter[n=VIII]:
         - head[lg=lat-Latn]: De phisica
         - p:
-          - lb[n=302]:
-            - foreign[lg=lat-Latn]: Plura bona cupias, ut doctus grammate fias.
+          - lb[n=302,lg=lat-Latn]: Plura bona cupias, ut doctus grammate fias.
           - lb[n=303]:
             - foreign[lg=lat-Latn]: Phisica
             - przyrozena,
@@ -1697,10 +1665,8 @@ text:
             - tychowiet,
             - smysledawie
             - foreign[lg=lat-Latn]: sensibile sit.
-          - lb[n=322]:
-            - foreign[lg=lat-Latn]: Sufficit ad presens, quod dat tibi grammata legens.
-          - lb[n=323]:
-            - foreign[lg=lat-Latn]: Taliter hinc tradam modica via, sed bona quedam.
+          - lb[n=322,lg=lat-Latn]: Sufficit ad presens, quod dat tibi grammata legens.
+          - lb[n=323,lg=lat-Latn]: Taliter hinc tradam modica via, sed bona quedam.
       - chapter[n=IX]:
         - head[lg=lat-Latn]: De theologia
         - p:
@@ -1801,13 +1767,11 @@ text:
             - bohomocz,
             - cznosty
             - foreign[lg=lat-Latn]: virtutes celique nubes. -
-          - lb[n=342]:
-            - foreign[lg=lat-Latn]: Hec capias mente, que pectore disce repente.
+          - lb[n=342,lg=lat-Latn]: Hec capias mente, que pectore disce repente.
       - chapter[n=X]:
         - head[lg=lat-Latn]: De medicina
         - p:
-          - lb[n=343]:
-            - foreign[lg=lat-Latn]: Multa bona tribuam, presenti docmate scribam
+          - lb[n=343,lg=lat-Latn]: Multa bona tribuam, presenti docmate scribam
           - lb[n=344]:
             - foreign[lg=lat-Latn]: Est medicina
             - lek,
@@ -1952,13 +1916,11 @@ text:
             - swrchowanye
             - znebes
             - foreign[lg=lat-Latn]: Urania tum.
-          - lb[n=372]:
-            - foreign[lg=lat-Latn]: Hec tibi sunt dura, non possum ponere plura. -
+          - lb[n=372,lg=lat-Latn]: Hec tibi sunt dura, non possum ponere plura. -
       - chapter[n=XI]:
         - head[lg=lat-Latn]: De ethica
         - p:
-          - lb[n=373]:
-            - foreign[lg=lat-Latn]: Est opus ut mores, iam ponuntur pociores
+          - lb[n=373,lg=lat-Latn]: Est opus ut mores, iam ponuntur pociores
           - lb[n=374]:
             - foreign[lg=lat-Latn]: Ethica sit
             - nraworzekna,
@@ -2028,11 +1990,10 @@ text:
             - kazen,
             - foreign[lg=lat-Latn]: largitas
             - styedrost,
-          - lb[n=387]:
-            - foreign[lg=lat-Latn]:
-              - 'Mylost '
-              - supplied[reason=lost]: '-'
-              - ' pietas, caritas diligencia clemens.'
+          - lb[n=387,lg=lat-Latn]:
+            - 'Mylost '
+            - supplied[reason=lost]: '-'
+            - ' pietas, caritas diligencia clemens.'
           - lb[n=388]:
             - foreign[lg=lat-Latn]:
               - 'Miseri '
@@ -2291,16 +2252,14 @@ text:
               - supplied[reason=lost]: baratrum
             - obzerowana
             - foreign[lg=lat-Latn]: tibi dictum.
-          - lb[n=438]:
-            - foreign[lg=lat-Latn]: Iam satis est dictum de moribus ac bene fictum.
-                -
+          - lb[n=438,lg=lat-Latn]: Iam satis est dictum de moribus ac bene fictum.
+              -
       - chapter[n=XII]:
         - head[lg=lat-Latn]: De mechanica
         - p:
-          - lb[n=439]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Mi
-              - ra que de tali cape docmate nunc manuali
+          - lb[n=439,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Mi
+            - ra que de tali cape docmate nunc manuali
           - lb[n=440]:
             - foreign[lg=lat-Latn]: Mechanica
             - chlapysturna,
@@ -2439,21 +2398,18 @@ text:
             - foreign[lg=lat-Latn]:
               - supplied[reason=lost]: que dicas
               - .
-          - lb[n=466]:
-            - foreign[lg=lat-Latn]:
-              - 'Qualibet ex arte '
-              - supplied[reason=lost]: poteris ea fingere parte
-              - ','
-          - lb[n=467]:
-            - foreign[lg=lat-Latn]: Valdeque prolixum foret ad connumerandum.
+          - lb[n=466,lg=lat-Latn]:
+            - 'Qualibet ex arte '
+            - supplied[reason=lost]: poteris ea fingere parte
+            - ','
+          - lb[n=467,lg=lat-Latn]: Valdeque prolixum foret ad connumerandum.
       - chapter[n=XIII]:
         - head[lg=lat-Latn]: De artibus
         - p:
-          - lb[n=468]:
-            - foreign[lg=lat-Latn]:
-              - Dic trogeczestne triviale
-              - supplied[reason=lost]: s
-              - ', quadruviales'
+          - lb[n=468,lg=lat-Latn]:
+            - Dic trogeczestne triviale
+            - supplied[reason=lost]: s
+            - ', quadruviales'
           - lb[n=469]:
             - foreign[lg=lat-Latn]: Sunt
             - cztweroczestne,
@@ -2479,311 +2435,199 @@ text:
             - zwi
             - supplied[reason=omitted]: c
             - kalywe.
-          - lb[n=474]:
-            - foreign[lg=lat-Latn]: Suscipe corde tales iam quinque collaterales
-          - lb[n=475]:
-            - foreign[lg=lat-Latn]:
-              - Ista modo di
-              - supplied[reason=lost]: s
-              - cas, post solus talia fingas,
-          - lb[n=476]:
-            - foreign[lg=lat-Latn]: Pluraque dixissem, si tedia non generassem
-          - lb[n=477]:
-            - foreign[lg=lat-Latn]: Metra scribenti, non inutiliaque legenti.
-          - lb[n=478]:
-            - foreign[lg=lat-Latn]: Non causa laudis scripsi, male, nec sine caudis.
+          - lb[n=474,lg=lat-Latn]: Suscipe corde tales iam quinque collaterales
+          - lb[n=475,lg=lat-Latn]:
+            - Ista modo di
+            - supplied[reason=lost]: s
+            - cas, post solus talia fingas,
+          - lb[n=476,lg=lat-Latn]: Pluraque dixissem, si tedia non generassem
+          - lb[n=477,lg=lat-Latn]: Metra scribenti, non inutiliaque legenti.
+          - lb[n=478,lg=lat-Latn]: Non causa laudis scripsi, male, nec sine caudis.
     - part[n=B]:
       - p:
-        - lb[n=479]:
-          - foreign[lg=lat-Latn]: Accipe nunc tantum metra placita seniorum;
-        - lb[n=480]:
-          - foreign[lg=lat-Latn]: Plura sed obmisi, que non decencia scivi.
-      - chapter[n=I]:
-        - head[lg=lat-Latn]: Nomina Christi
+        - lb[n=479,lg=lat-Latn]: Accipe nunc tantum metra placita seniorum;
+        - lb[n=480,lg=lat-Latn]: Plura sed obmisi, que non decencia scivi.
+      - chapter[n=I,lg=lat-Latn]:
+        - head: Nomina Christi
         - p:
           - lb[n=481]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Al
-              - ma tibi summi modo pangam nomina Christi
-          - lb[n=482]:
-            - foreign[lg=lat-Latn]: Messias, Deus, Emmanuel, Sabbaoth, Adonay,
-          - lb[n=483]:
-            - foreign[lg=lat-Latn]: Est unigenitus, via, vita, salus, homo, Christus,
-          - lb[n=484]:
-            - foreign[lg=lat-Latn]: Principium, primogenitus, sapiencia, virtus,
+            - hi[rend=smallcaps]: Al
+            - ma tibi summi modo pangam nomina Christi
+          - lb[n=482]: Messias, Deus, Emmanuel, Sabbaoth, Adonay,
+          - lb[n=483]: Est unigenitus, via, vita, salus, homo, Christus,
+          - lb[n=484]: Principium, primogenitus, sapiencia, virtus,
           - lb[n=485]:
-            - foreign[lg=lat-Latn]:
-              - Alpha caputque, finis sic tunc voc
-              - supplied[reason=omitted]: it
-              - 'atur '
-              - supplied[reason=lost]: et eciam
-          - lb[n=486]:
-            - foreign[lg=lat-Latn]: Fons et origo tibi, paraclitus et mediator,
-          - lb[n=487]:
-            - foreign[lg=lat-Latn]: Agmus, ovis, vitulus, serpens, aries, leo, iustus.
-          - lb[n=488]:
-            - foreign[lg=lat-Latn]: Est verbum, splendor, sol, gloria, lux et ymago,
-          - lb[n=489]:
-            - foreign[lg=lat-Latn]: Panis, flos, vitis, mons, ianua petraque, factor,
-          - lb[n=490]:
-            - foreign[lg=lat-Latn]: Angelus et sponsus, pastorquc, propheta, sacerdos,
+            - Alpha caputque, finis sic tunc voc
+            - supplied[reason=omitted]: it
+            - 'atur '
+            - supplied[reason=lost]: et eciam
+          - lb[n=486]: Fons et origo tibi, paraclitus et mediator,
+          - lb[n=487]: Agmus, ovis, vitulus, serpens, aries, leo, iustus.
+          - lb[n=488]: Est verbum, splendor, sol, gloria, lux et ymago,
+          - lb[n=489]: Panis, flos, vitis, mons, ianua petraque, factor,
+          - lb[n=490]: Angelus et sponsus, pastorquc, propheta, sacerdos,
           - lb[n=491]:
-            - foreign[lg=lat-Latn]:
-              - A
-              - supplied[reason=omitted]: na
-              - thanatos, kiriosque theos, tetragramaton, ysos.
-          - lb[n=492]:
-            - foreign[lg=lat-Latn]: Conservet dyanos secula per omnia doxa. - -
-          - lb[n=493]:
-            - foreign[lg=lat-Latn]: Et sic sunt dicta nunc omnia nomina sancta
+            - A
+            - supplied[reason=omitted]: na
+            - thanatos, kiriosque theos, tetragramaton, ysos.
+          - lb[n=492]: Conservet dyanos secula per omnia doxa. - -
+          - lb[n=493]: Et sic sunt dicta nunc omnia nomina sancta
           - lb[n=494]:
-            - foreign[lg=lat-Latn]:
-              - 'Summi factoris in signum laudis, '
-              - supplied[reason=omitted]: et
-              - ' honoris,'
-          - lb[n=495]:
-            - foreign[lg=lat-Latn]: Plura sed aptantur in biblia, qucque ponuntur
-          - lb[n=496]:
-            - foreign[lg=lat-Latn]: Atque creator, Adam vetus, El, salvansque Redemptor;
-          - lb[n=497]:
-            - foreign[lg=lat-Latn]: Est Pater et Filius, Spiritus Trinitasque, maiestas,
-          - lb[n=498]:
-            - foreign[lg=lat-Latn]: Conditor, est unitas, potencia, summus et imus,
-          - lb[n=499]:
-            - foreign[lg=lat-Latn]: Ysaac et Abraham, Iacob, Ioseph, Patriarcha;
-          - lb[n=500]:
-            - foreign[lg=lat-Latn]: David erat, Sampson vel nomina vetera patris
-          - lb[n=501]:
-            - foreign[lg=lat-Latn]: Consiliarius est, admirabilis qucque Soter,
-          - lb[n=502]:
-            - foreign[lg=lat-Latn]: David erit, radix, Jesus, Christus, dominator.
-          - lb[n=503]:
-            - foreign[lg=lat-Latn]: Est inmortalis, lumen, cherubyn, olei van,
+            - 'Summi factoris in signum laudis, '
+            - supplied[reason=omitted]: et
+            - ' honoris,'
+          - lb[n=495]: Plura sed aptantur in biblia, qucque ponuntur
+          - lb[n=496]: Atque creator, Adam vetus, El, salvansque Redemptor;
+          - lb[n=497]: Est Pater et Filius, Spiritus Trinitasque, maiestas,
+          - lb[n=498]: Conditor, est unitas, potencia, summus et imus,
+          - lb[n=499]: Ysaac et Abraham, Iacob, Ioseph, Patriarcha;
+          - lb[n=500]: David erat, Sampson vel nomina vetera patris
+          - lb[n=501]: Consiliarius est, admirabilis qucque Soter,
+          - lb[n=502]: David erit, radix, Jesus, Christus, dominator.
+          - lb[n=503]: Est inmortalis, lumen, cherubyn, olei van,
           - lb[n=504]:
-            - foreign[lg=lat-Latn]:
-              - 'Olie, dabebelon '
-              - supplied[reason=lost]: '?'
-              - ', veritas, crathon, eley, chorim;'
+            - 'Olie, dabebelon '
+            - supplied[reason=lost]: '?'
+            - ', veritas, crathon, eley, chorim;'
           - lb[n=505]:
-            - foreign[lg=lat-Latn]:
-              - E
-              - supplied[reason=lost]: s
-              - t caritas, manna, lapis, rex, pax machironque,
-          - lb[n=506]:
-            - foreign[lg=lat-Latn]: Omnipotens, angla, post eternus, Oryonque,
-          - lb[n=507]:
-            - foreign[lg=lat-Latn]: Gracia sit plenus, inmortalis Deus extunc,
-          - lb[n=508]:
-            - foreign[lg=lat-Latn]: Ac bonitas, manus, hinc crucx, hostia sancta,
-                voluntas
-          - lb[n=509]:
-            - foreign[lg=lat-Latn]: Etsi sunt plura, tamen usus non tenet illa.
-      - chapter[n=II]:
-        - head[lg=lat-Latn]: Nomina deorum
+            - E
+            - supplied[reason=lost]: s
+            - t caritas, manna, lapis, rex, pax machironque,
+          - lb[n=506]: Omnipotens, angla, post eternus, Oryonque,
+          - lb[n=507]: Gracia sit plenus, inmortalis Deus extunc,
+          - lb[n=508]: Ac bonitas, manus, hinc crucx, hostia sancta, voluntas
+          - lb[n=509]: Etsi sunt plura, tamen usus non tenet illa.
+      - chapter[n=II,lg=lat-Latn]:
+        - head: Nomina deorum
         - p:
-          - lb[n=510]:
-            - foreign[lg=lat-Latn]: Nomina paucorum modo sunt dicenda deorum
-          - lb[n=511]:
-            - foreign[lg=lat-Latn]: Numina Mercurius, Saturnus, Jupiter et Mars;
+          - lb[n=510]: Nomina paucorum modo sunt dicenda deorum
+          - lb[n=511]: Numina Mercurius, Saturnus, Jupiter et Mars;
           - lb[n=512]:
-            - foreign[lg=lat-Latn]:
-              - Faunus, Satirus, Plut
-              - supplied[reason=lost]: o
-              - ', Neptunus, Appollo,'
-          - lb[n=513]:
-            - foreign[lg=lat-Latn]: Post Radomantus erit, Minos, Schalpus, Eyacus
-                dic;
-          - lb[n=514]:
-            - foreign[lg=lat-Latn]: Cerberus, Alcides, Ymmeus, Mulciber, Ercles,
-          - lb[n=515]:
-            - foreign[lg=lat-Latn]: Wlcanus, Bromius, Yanus, Spurusque Lyeus,
-          - lb[n=516]:
-            - foreign[lg=lat-Latn]: Lycaon, Phebus, Tytan, Phiton, Philogeus,
-          - lb[n=517]:
-            - foreign[lg=lat-Latn]: Est Bachus, Cyclopes, Cons, Etons, Choreusque,
-          - lb[n=518]:
-            - foreign[lg=lat-Latn]: Belliferon, Celnus, Vellus, Pseustis Ynachusque;
-          - lb[n=519]:
-            - foreign[lg=lat-Latn]: Neon, Cichomus, Perseus, Laceoque Cachinus,
-          - lb[n=520]:
-            - foreign[lg=lat-Latn]: Proton, Acrisius, Salomonque Peon, Demofon sit,
-          - lb[n=521]:
-            - foreign[lg=lat-Latn]: Vmbius et Catheus, Orpheus Cilemusque,
-          - lb[n=522]:
-            - foreign[lg=lat-Latn]: Astaroth et Scilbous, Berith, Parcus Belialque;
-          - lb[n=523]:
-            - foreign[lg=lat-Latn]: Belfegor et Cucas, Dolius, Baal Gradiusque,
-          - lb[n=524]:
-            - foreign[lg=lat-Latn]: Achiles, Maures, Medius, Fidius et Herrices. -
-          - lb[n=525]:
-            - foreign[lg=lat-Latn]: Post dea sit Ceres, Novaria, Phebe, Dyana,
-          - lb[n=526]:
-            - foreign[lg=lat-Latn]: Thesiphone, Phillis, Latoma, Dancij, Dyanira;
-          - lb[n=527]:
-            - foreign[lg=lat-Latn]: Eusidicen, Hyo, Citareda, Medusa, Chimera;
-          - lb[n=528]:
-            - foreign[lg=lat-Latn]: Scemo, Megeraque Rea, Tutides, Ethatea,
-          - lb[n=529]:
-            - foreign[lg=lat-Latn]: Euerale, Palla, Fronesis, Alecto, Tybile;
-          - lb[n=530]:
-            - foreign[lg=lat-Latn]: Aurora, Medea, Philogia, Chintina, Cylla,
-          - lb[n=531]:
-            - foreign[lg=lat-Latn]: Hesperide, Cloto, Siates, Neptusa, Coleno,
-          - lb[n=532]:
-            - foreign[lg=lat-Latn]: Cupsimen, Engla, Latesis, Usis, Alatia,
-          - lb[n=533]:
-            - foreign[lg=lat-Latn]: Orthipito, Thetis, Allello, Frondissa, Napea,
-          - lb[n=534]:
-            - foreign[lg=lat-Latn]: Leuthotesque Palos, Sors, Fasisteaque Mimenta
-          - lb[n=535]:
-            - foreign[lg=lat-Latn]: Junoque Vesperta, dic Antrophus, Opos, Oretusa
-          - lb[n=536]:
-            - foreign[lg=lat-Latn]: Naydes, Egle, Driades, Proserpina, Venus.
-          - lb[n=537]:
-            - foreign[lg=lat-Latn]: Post sit Amadriades, Emopadatur, Nereides,
-          - lb[n=538]:
-            - foreign[lg=lat-Latn]: Oriades, Musa, post Carnentisque Camena,
+            - Faunus, Satirus, Plut
+            - supplied[reason=lost]: o
+            - ', Neptunus, Appollo,'
+          - lb[n=513]: Post Radomantus erit, Minos, Schalpus, Eyacus dic;
+          - lb[n=514]: Cerberus, Alcides, Ymmeus, Mulciber, Ercles,
+          - lb[n=515]: Wlcanus, Bromius, Yanus, Spurusque Lyeus,
+          - lb[n=516]: Lycaon, Phebus, Tytan, Phiton, Philogeus,
+          - lb[n=517]: Est Bachus, Cyclopes, Cons, Etons, Choreusque,
+          - lb[n=518]: Belliferon, Celnus, Vellus, Pseustis Ynachusque;
+          - lb[n=519]: Neon, Cichomus, Perseus, Laceoque Cachinus,
+          - lb[n=520]: Proton, Acrisius, Salomonque Peon, Demofon sit,
+          - lb[n=521]: Vmbius et Catheus, Orpheus Cilemusque,
+          - lb[n=522]: Astaroth et Scilbous, Berith, Parcus Belialque;
+          - lb[n=523]: Belfegor et Cucas, Dolius, Baal Gradiusque,
+          - lb[n=524]: Achiles, Maures, Medius, Fidius et Herrices. -
+          - lb[n=525]: Post dea sit Ceres, Novaria, Phebe, Dyana,
+          - lb[n=526]: Thesiphone, Phillis, Latoma, Dancij, Dyanira;
+          - lb[n=527]: Eusidicen, Hyo, Citareda, Medusa, Chimera;
+          - lb[n=528]: Scemo, Megeraque Rea, Tutides, Ethatea,
+          - lb[n=529]: Euerale, Palla, Fronesis, Alecto, Tybile;
+          - lb[n=530]: Aurora, Medea, Philogia, Chintina, Cylla,
+          - lb[n=531]: Hesperide, Cloto, Siates, Neptusa, Coleno,
+          - lb[n=532]: Cupsimen, Engla, Latesis, Usis, Alatia,
+          - lb[n=533]: Orthipito, Thetis, Allello, Frondissa, Napea,
+          - lb[n=534]: Leuthotesque Palos, Sors, Fasisteaque Mimenta
+          - lb[n=535]: Junoque Vesperta, dic Antrophus, Opos, Oretusa
+          - lb[n=536]: Naydes, Egle, Driades, Proserpina, Venus.
+          - lb[n=537]: Post sit Amadriades, Emopadatur, Nereides,
+          - lb[n=538]: Oriades, Musa, post Carnentisque Camena,
           - lb[n=539]:
-            - foreign[lg=lat-Latn]:
-              - Caliope, Thalia nunc coniungasque Se
-              - supplied[reason=lost]: le
-              - ne.
-          - lb[n=540]:
-            - foreign[lg=lat-Latn]: Nomina sed sancta non est michi scribere cura.
-                -
+            - Caliope, Thalia nunc coniungasque Se
+            - supplied[reason=lost]: le
+            - ne.
+          - lb[n=540]: Nomina sed sancta non est michi scribere cura. -
       - chapter[n=III]:
         - head[lg=lat-Latn]: Nomina fluviorum
         - p:
-          - lb[n=541]:
-            - foreign[lg=lat-Latn]: Nunc sunt, que fluvios hec signant nomine paucos
+          - lb[n=541,lg=lat-Latn]: Nunc sunt, que fluvios hec signant nomine paucos
           - lb[n=542]:
             - foreign[lg=lat-Latn]: Eufrates, Cyson, Yordanis,
             - Sazawa,
             - foreign[lg=lat-Latn]: Geon,
-          - lb[n=543]:
-            - foreign[lg=lat-Latn]: Multavia, Tyberis, Tygris, Nilus Ynachusque,
+          - lb[n=543,lg=lat-Latn]: Multavia, Tyberis, Tygris, Nilus Ynachusque,
           - lb[n=544]:
             - Orlicia,
             - foreign[lg=lat-Latn]: Kera, Renus, Syroe,
             - Czydlyana,
-          - lb[n=545]:
-            - foreign[lg=lat-Latn]:
-              - Ge
-              - supplied[reason=lost]: ne
-              - zareth, Yber, Cedron tenet, Achia palus,
+          - lb[n=545,lg=lat-Latn]:
+            - Ge
+            - supplied[reason=lost]: ne
+            - zareth, Yber, Cedron tenet, Achia palus,
           - lb[n=546]:
             - foreign[lg=lat-Latn]: Maganus atque Scia, Lycaon, Ambusia,
             - Odra,
-          - lb[n=547]:
-            - foreign[lg=lat-Latn]: Ausena, Danubius, dic Albea (-xx), Nidis.
+          - lb[n=547,lg=lat-Latn]: Ausena, Danubius, dic Albea (-xx), Nidis.
       - chapter[n=IV]:
         - head[lg=lat-Latn]: Nomina montium
         - p:
-          - lb[n=548]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Mo
-              - ntes dic istos
-            - foreign[lg=lat-Latn]:
-              - Syon, Ely
-              - supplied[reason=lost]: c
-              - on et Olymp
-              - supplied[reason=omitted]: h
-              - us,
+          - lb[n=548,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Mo
+            - ntes dic istos
+            - Syon, Ely
+            - supplied[reason=lost]: c
+            - on et Olymp
+            - supplied[reason=omitted]: h
+            - us,
           - lb[n=549]:
             - foreign[lg=lat-Latn]: Syna cum Synay, Trinacris,
             - Ripus,
             - foreign[lg=lat-Latn]: Olivetus,
-          - lb[n=550]:
-            - foreign[lg=lat-Latn]: Gargarus, Ysmara, sit Gelboe, Cunaciusque
+          - lb[n=550,lg=lat-Latn]: Gargarus, Ysmara, sit Gelboe, Cunaciusque
           - lb[n=551]:
             - Petrinus,
             - foreign[lg=lat-Latn]: Coatrus, Oretras aqua, Lybanus, Ethna,
-          - lb[n=552]:
-            - foreign[lg=lat-Latn]:
-              - 'Caucasus et Ciclas, Siris, Athas, '
-              - supplied[reason=lost]: Patrata, Carpus
-              - .
-      - chapter[n=V]:
-        - head[lg=lat-Latn]: Nomina lapidum
+          - lb[n=552,lg=lat-Latn]:
+            - 'Caucasus et Ciclas, Siris, Athas, '
+            - supplied[reason=lost]: Patrata, Carpus
+            - .
+      - chapter[n=V,lg=lat-Latn]:
+        - head: Nomina lapidum
         - p:
           - lb[n=553]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: No
-              - mina sunt lapidum yaspis, sardisque smaragdus,
-          - lb[n=554]:
-            - foreign[lg=lat-Latn]: Cristallus, bacha, carbunculus atque zaphirus,
-          - lb[n=555]:
-            - foreign[lg=lat-Latn]: Corallus, magnes, pyrops, adamas, enetistus,
-          - lb[n=556]:
-            - foreign[lg=lat-Latn]: Berillus, concha, rubienus, unio, napta,
-          - lb[n=557]:
-            - foreign[lg=lat-Latn]: Et cenophagium, post topasiusque iacinctus
-          - lb[n=558]:
-            - foreign[lg=lat-Latn]: Et burulum, silex, demophison, iunge siletus.
-      - chapter[n=VI]:
-        - head[lg=lat-Latn]: Nomina terrarum
+            - hi[rend=smallcaps]: No
+            - mina sunt lapidum yaspis, sardisque smaragdus,
+          - lb[n=554]: Cristallus, bacha, carbunculus atque zaphirus,
+          - lb[n=555]: Corallus, magnes, pyrops, adamas, enetistus,
+          - lb[n=556]: Berillus, concha, rubienus, unio, napta,
+          - lb[n=557]: Et cenophagium, post topasiusque iacinctus
+          - lb[n=558]: Et burulum, silex, demophison, iunge siletus.
+      - chapter[n=VI,lg=lat-Latn]:
+        - head: Nomina terrarum
         - p:
           - lb[n=559]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: No
-              - mina terrarumque Boemia, Theutunia sit,
-          - lb[n=560]:
-            - foreign[lg=lat-Latn]: Affrica, Polonia, Moravia, Libia presens
-          - lb[n=561]:
-            - foreign[lg=lat-Latn]: Ungaria, Salba, Carinthia Penthapolisque,
-          - lb[n=562]:
-            - foreign[lg=lat-Latn]: Germania, Ponthus, Durmgia, Saxoniades;
-          - lb[n=563]:
-            - foreign[lg=lat-Latn]: Franconia, Frixea, Misensia, Cecilia sit,
-          - lb[n=564]:
-            - foreign[lg=lat-Latn]: Surasia, Delia, Paramia, Doclia iunge;
-          - lb[n=565]:
-            - foreign[lg=lat-Latn]: Francia, Bavaria, Cyprus, Curopa, Dedona,
-          - lb[n=566]:
-            - foreign[lg=lat-Latn]: Anglia tam Scoria, Tuskania Siciliaque
-          - lb[n=567]:
-            - foreign[lg=lat-Latn]: Austria, Galaria, Capadocia, Palemia dic,
-          - lb[n=568]:
-            - foreign[lg=lat-Latn]: Quonia, Babilonia, Maguncia, Gnosia fertur,
-          - lb[n=569]:
-            - foreign[lg=lat-Latn]: Gallia, Britannia, Lambardia, Grecia, Deca,
-          - lb[n=570]:
-            - foreign[lg=lat-Latn]: Hussia, Basilea, Deria, Sklawonia iuncta,
-          - lb[n=571]:
-            - foreign[lg=lat-Latn]: Alzacia, Styria, Becide, Mesopotonia,
-          - lb[n=572]:
-            - foreign[lg=lat-Latn]: Sellia, Sardina, post Grecia cum Galilea,
-          - lb[n=573]:
-            - foreign[lg=lat-Latn]: Ytalia, Tyria, Dalmacia, Pellagia sit,
-          - lb[n=574]:
-            - foreign[lg=lat-Latn]: Arabia, Medea, Thesolonia Taxaniaque,
-          - lb[n=575]:
-            - foreign[lg=lat-Latn]: Russia, Prussia dicque Bernia, Collacia sit,
-          - lb[n=576]:
-            - foreign[lg=lat-Latn]: Almania, iungas Allexandria, Cypria, dicas
-          - lb[n=577]:
-            - foreign[lg=lat-Latn]: Iudea cum Machia, Carnalicia vel Egiptus,
-          - lb[n=578]:
-            - foreign[lg=lat-Latn]: Flandria, Calabria cum Apria, post Azya sic,
-          - lb[n=579]:
-            - foreign[lg=lat-Latn]: Indya iungatur, Argentina tribuatur. -
-          - lb[n=580]:
-            - foreign[lg=lat-Latn]: Ast Ethiopia, Tyberdica cum Ratispona;
-          - lb[n=581]:
-            - foreign[lg=lat-Latn]: Dic Archadia post, Coclia terrt magestas,
-          - lb[n=582]:
-            - foreign[lg=lat-Latn]: Hyspania, post Assyria vel ('xx'x)
-          - lb[n=583]:
-            - foreign[lg=lat-Latn]: Zatertania ( - ), post Internalia, Segor,
-          - lb[n=584]:
-            - foreign[lg=lat-Latn]: Iherosolima, Sodoma, vel Apulia magna;
+            - hi[rend=smallcaps]: No
+            - mina terrarumque Boemia, Theutunia sit,
+          - lb[n=560]: Affrica, Polonia, Moravia, Libia presens
+          - lb[n=561]: Ungaria, Salba, Carinthia Penthapolisque,
+          - lb[n=562]: Germania, Ponthus, Durmgia, Saxoniades;
+          - lb[n=563]: Franconia, Frixea, Misensia, Cecilia sit,
+          - lb[n=564]: Surasia, Delia, Paramia, Doclia iunge;
+          - lb[n=565]: Francia, Bavaria, Cyprus, Curopa, Dedona,
+          - lb[n=566]: Anglia tam Scoria, Tuskania Siciliaque
+          - lb[n=567]: Austria, Galaria, Capadocia, Palemia dic,
+          - lb[n=568]: Quonia, Babilonia, Maguncia, Gnosia fertur,
+          - lb[n=569]: Gallia, Britannia, Lambardia, Grecia, Deca,
+          - lb[n=570]: Hussia, Basilea, Deria, Sklawonia iuncta,
+          - lb[n=571]: Alzacia, Styria, Becide, Mesopotonia,
+          - lb[n=572]: Sellia, Sardina, post Grecia cum Galilea,
+          - lb[n=573]: Ytalia, Tyria, Dalmacia, Pellagia sit,
+          - lb[n=574]: Arabia, Medea, Thesolonia Taxaniaque,
+          - lb[n=575]: Russia, Prussia dicque Bernia, Collacia sit,
+          - lb[n=576]: Almania, iungas Allexandria, Cypria, dicas
+          - lb[n=577]: Iudea cum Machia, Carnalicia vel Egiptus,
+          - lb[n=578]: Flandria, Calabria cum Apria, post Azya sic,
+          - lb[n=579]: Indya iungatur, Argentina tribuatur. -
+          - lb[n=580]: Ast Ethiopia, Tyberdica cum Ratispona;
+          - lb[n=581]: Dic Archadia post, Coclia terrt magestas,
+          - lb[n=582]: Hyspania, post Assyria vel ('xx'x)
+          - lb[n=583]: Zatertania ( - ), post Internalia, Segor,
+          - lb[n=584]: Iherosolima, Sodoma, vel Apulia magna;
           - lb[n=585]:
-            - foreign[lg=lat-Latn]:
-              - Francia cum Niniven, sed Athenas, Pari
-              - supplied[reason=lost]: sius
-              - . -
-          - lb[n=586]:
-            - foreign[lg=lat-Latn]: Plura non invenio, que iam recolo, tibi dico.
+            - Francia cum Niniven, sed Athenas, Pari
+            - supplied[reason=lost]: sius
+            - . -
+          - lb[n=586]: Plura non invenio, que iam recolo, tibi dico.
     - part[n=C]:
       - p:
         - lb[n=587]:
@@ -2875,8 +2719,7 @@ text:
       - chapter[n=II]:
         - head[lg=lat-Latn]: De num. ordinalibus
         - p:
-          - lb[n=601]:
-            - foreign[lg=lat-Latn]: Post ordinalia nomina tibi sumere debes
+          - lb[n=601,lg=lat-Latn]: Post ordinalia nomina tibi sumere debes
           - lb[n=602]:
             - foreign[lg=lat-Latn]: Primus est
             - prwy,
@@ -2933,16 +2776,14 @@ text:
             - foreign[lg=lat-Latn]: Vicesimus primus
             - gedenmezczyetmy
             - foreign[lg=lat-Latn]: vocitatur
-          - lb[n=613]:
-            - foreign[lg=lat-Latn]: Et dic in reliquis sic fore; noscis in illis.
+          - lb[n=613,lg=lat-Latn]: Et dic in reliquis sic fore; noscis in illis.
           - lb[n=614]: TRzydczyety tricesimus, quadragesimus cztyrzydczyety
           - lb[n=615]:
             - foreign[lg=lat-Latn]: Ac quinquagesimus
             - padesati,
             - sedesati
             - foreign[lg=lat-Latn]: sit
-          - lb[n=616]:
-            - foreign[lg=lat-Latn]: Post sexagesimus, sed septuagesimus extat
+          - lb[n=616,lg=lat-Latn]: Post sexagesimus, sed septuagesimus extat
           - lb[n=617]:
             - Sedmdesaty,
             - foreign[lg=lat-Latn]: post octuagesimus
@@ -2993,56 +2834,37 @@ text:
             - troy,
             - foreign[lg=lat-Latn]: quadrinarius sit tibi
             - cztwer;
-          - lb[n=627]:
-            - foreign[lg=lat-Latn]: Quinarius sequitur, tunc senarius comittatur,
-          - lb[n=628]:
-            - foreign[lg=lat-Latn]: Hic septenarius, octenarius, novenarius,
-          - lb[n=629]:
-            - foreign[lg=lat-Latn]: Denarius, undenarius, duodenariusque;
-          - lb[n=630]:
-            - foreign[lg=lat-Latn]: Sit tredenarius, quadridenarius qucque, quinden-
-          - lb[n=631]:
-            - foreign[lg=lat-Latn]: Atque sedenarius, sit septendenariusque.
-          - lb[n=632]:
-            - foreign[lg=lat-Latn]: Octodenarius, novedenarius, vicenarius;
-          - lb[n=633]:
-            - foreign[lg=lat-Latn]: Dico trecenarius, quadragenarius, vocitatur
-          - lb[n=634]:
-            - foreign[lg=lat-Latn]: Quinquagenarius, tum sexagenarius sit,
-          - lb[n=635]:
-            - foreign[lg=lat-Latn]: Septuagenarius post, octuagenarius sit;
-          - lb[n=636]:
-            - foreign[lg=lat-Latn]: Dic novegenarius, dicas centenariusque
-          - lb[n=637]:
-            - foreign[lg=lat-Latn]: Ducentenarius vel trecentenariusque,
-          - lb[n=638]:
-            - foreign[lg=lat-Latn]:
-              - Quadringenarius quingen
-              - supplied[reason=omitted]: t
-              - arius quoque, sexin-
-          - lb[n=639]:
-            - foreign[lg=lat-Latn]: Septingenarius, dic octingenarius hinc
+          - lb[n=627,lg=lat-Latn]: Quinarius sequitur, tunc senarius comittatur,
+          - lb[n=628,lg=lat-Latn]: Hic septenarius, octenarius, novenarius,
+          - lb[n=629,lg=lat-Latn]: Denarius, undenarius, duodenariusque;
+          - lb[n=630,lg=lat-Latn]: Sit tredenarius, quadridenarius qucque, quinden-
+          - lb[n=631,lg=lat-Latn]: Atque sedenarius, sit septendenariusque.
+          - lb[n=632,lg=lat-Latn]: Octodenarius, novedenarius, vicenarius;
+          - lb[n=633,lg=lat-Latn]: Dico trecenarius, quadragenarius, vocitatur
+          - lb[n=634,lg=lat-Latn]: Quinquagenarius, tum sexagenarius sit,
+          - lb[n=635,lg=lat-Latn]: Septuagenarius post, octuagenarius sit;
+          - lb[n=636,lg=lat-Latn]: Dic novegenarius, dicas centenariusque
+          - lb[n=637,lg=lat-Latn]: Ducentenarius vel trecentenariusque,
+          - lb[n=638,lg=lat-Latn]:
+            - Quadringenarius quingen
+            - supplied[reason=omitted]: t
+            - arius quoque, sexin-
+          - lb[n=639,lg=lat-Latn]: Septingenarius, dic octingenarius hinc
           - lb[n=640]:
             - foreign[lg=lat-Latn]: Ac nongentarius, millenarius
             - tysyczny.
           - lb[n=641]:
             - Quedam
             - foreign[lg=lat-Latn]: distinguit binus trinusque quaternus,
-          - lb[n=642]:
-            - foreign[lg=lat-Latn]: Quinternus vel scxternus, scpternus et octer-,
-          - lb[n=643]:
-            - foreign[lg=lat-Latn]: Noviternus erit, post deternus comitatur. -
-          - lb[n=644]:
-            - foreign[lg=lat-Latn]: Pondera distinguunt simplum duplumque triplum
-          - lb[n=645]:
-            - foreign[lg=lat-Latn]: Est quadruplum, quintuplum, septuplum, sit octu-
-          - lb[n=646]:
-            - foreign[lg=lat-Latn]:
-              - 'Vel noviplum, decuplumque '
-              - supplied[reason=lost]: x'xx'
-              - ' sociabis.'
-          - lb[n=647]:
-            - foreign[lg=lat-Latn]: Cetera dant plura, dic centuplum tibi mille.
+          - lb[n=642,lg=lat-Latn]: Quinternus vel scxternus, scpternus et octer-,
+          - lb[n=643,lg=lat-Latn]: Noviternus erit, post deternus comitatur. -
+          - lb[n=644,lg=lat-Latn]: Pondera distinguunt simplum duplumque triplum
+          - lb[n=645,lg=lat-Latn]: Est quadruplum, quintuplum, septuplum, sit octu-
+          - lb[n=646,lg=lat-Latn]:
+            - 'Vel noviplum, decuplumque '
+            - supplied[reason=lost]: x'xx'
+            - ' sociabis.'
+          - lb[n=647,lg=lat-Latn]: Cetera dant plura, dic centuplum tibi mille.
       - chapter[n=IV]:
         - head[lg=lat-Latn]: De numer. multiplic
         - p:
@@ -3074,8 +2896,7 @@ text:
             - foreign[lg=lat-Latn]: Est
             - desater,
             - foreign[lg=lat-Latn]: post undecuplex, duo, tres, quater et quind-;
-          - lb[n=653]:
-            - foreign[lg=lat-Latn]: Centuplex et millecuplex multiplice signa.
+          - lb[n=653,lg=lat-Latn]: Centuplex et millecuplex multiplice signa.
       - chapter[n=V]:
         - head[lg=lat-Latn]: De numer. adverb
         - p:
@@ -3098,12 +2919,9 @@ text:
             - sestkrat
             - foreign[lg=lat-Latn]: sexies, sepcies est
             - sedmkrat,
-          - lb[n=657]:
-            - foreign[lg=lat-Latn]: Occies, novies, decies, undecies et duodecies,
-          - lb[n=658]:
-            - foreign[lg=lat-Latn]: Tredecies, quadridecies vel quindecics sit;
-          - lb[n=659]:
-            - foreign[lg=lat-Latn]: Centesies stokrat, tysyczekrat milesies dic.
+          - lb[n=657,lg=lat-Latn]: Occies, novies, decies, undecies et duodecies,
+          - lb[n=658,lg=lat-Latn]: Tredecies, quadridecies vel quindecics sit;
+          - lb[n=659,lg=lat-Latn]: Centesies stokrat, tysyczekrat milesies dic.
       - chapter[n=VI]:
         - head[lg=lat-Latn]: De numeracione
         - p:
@@ -3124,26 +2942,20 @@ text:
             - paterost,
             - foreign[lg=lat-Latn]: sextualitas force
             - sestnost
-          - lb[n=663]:
-            - foreign[lg=lat-Latn]: Et septualitas, octualitas, nona, dena ...
+          - lb[n=663,lg=lat-Latn]: Et septualitas, octualitas, nona, dena ...
           - lb[n=664]:
             - foreign[lg=lat-Latn]: Dicas
             - dwassarty,
             - trzysarty
             - foreign[lg=lat-Latn]: dragma vocatur;
-          - lb[n=665]:
-            - foreign[lg=lat-Latn]: Uncia dat octo, dragma, obulus duodenos;
-          - lb[n=666]:
-            - foreign[lg=lat-Latn]: Bis dragma septem siclus, obulon minus uno,
-          - lb[n=667]:
-            - foreign[lg=lat-Latn]: Viginti dicas obulus, dccem que mineas,
-          - lb[n=668]:
-            - foreign[lg=lat-Latn]: Uncia denarius, grossus solidus faoit idem;
-          - lb[n=669]:
-            - foreign[lg=lat-Latn]: Halensis parvus nummus vel as
-            - foreign[lg=lat-Latn]: hoc notat unum,
-          - lb[n=670]:
-            - foreign[lg=lat-Latn]: Siclus, denarius proprio modo dicitur idem.
+          - lb[n=665,lg=lat-Latn]: Uncia dat octo, dragma, obulus duodenos;
+          - lb[n=666,lg=lat-Latn]: Bis dragma septem siclus, obulon minus uno,
+          - lb[n=667,lg=lat-Latn]: Viginti dicas obulus, dccem que mineas,
+          - lb[n=668,lg=lat-Latn]: Uncia denarius, grossus solidus faoit idem;
+          - lb[n=669,lg=lat-Latn]:
+            - Halensis parvus nummus vel as
+            - hoc notat unum,
+          - lb[n=670,lg=lat-Latn]: Siclus, denarius proprio modo dicitur idem.
           - lb[n=671]:
             - Dwadczety
             - foreign[lg=lat-Latn]: tunc
@@ -3172,24 +2984,19 @@ text:
             - foreign[lg=lat-Latn]: Uncia
             - dwadczetykrat
             - foreign[lg=lat-Latn]: recte dispendius extat;
-          - lb[n=677]:
-            - foreign[lg=lat-Latn]:
-              - supplied[reason=lost]: "'xx'xx'"
-              - ' libram facit atque talentum.'
-          - lb[n=678]:
-            - foreign[lg=lat-Latn]: Sit dispendius hinc bis sumptus, dat tibi libram,
+          - lb[n=677,lg=lat-Latn]:
+            - supplied[reason=lost]: "'xx'xx'"
+            - ' libram facit atque talentum.'
+          - lb[n=678,lg=lat-Latn]: Sit dispendius hinc bis sumptus, dat tibi libram,
           - lb[n=679]:
             - foreign[lg=lat-Latn]: Uncia quindecies fertonedat tibi
             - wyerdunk,
-          - lb[n=680]:
-            - foreign[lg=lat-Latn]: Fertones quatuor sexagenam tibi dabunt,
-          - lb[n=681]:
-            - foreign[lg=lat-Latn]: Uncia bis bina superaddita dat quoque marcam.
+          - lb[n=680,lg=lat-Latn]: Fertones quatuor sexagenam tibi dabunt,
+          - lb[n=681,lg=lat-Latn]: Uncia bis bina superaddita dat quoque marcam.
           - lb[n=682]:
             - Dwanadczt halerzow
             - foreign[lg=lat-Latn]: as uncia, stips quoque pondus. - -
-          - lb[n=683]:
-            - foreign[lg=lat-Latn]: Deinde post partes hoc pondus, uncia quod sit
+          - lb[n=683,lg=lat-Latn]: Deinde post partes hoc pondus, uncia quod sit
           - lb[n=684]:
             - foreign[lg=lat-Latn]: Recipe tunc nummum, qui nummus, as, erit
             - halerz.
@@ -3197,8 +3004,7 @@ text:
             - foreign[lg=lat-Latn]: Est, quod tunc remanet,
             - gedenatczte
             - foreign[lg=lat-Latn]: dico denas;
-          - lb[n=686]:
-            - foreign[lg=lat-Latn]: Recipe sed alium, duo tunc hii sexa vocantur.
+          - lb[n=686,lg=lat-Latn]: Recipe sed alium, duo tunc hii sexa vocantur.
           - lb[n=687]:
             - foreign[lg=lat-Latn]: Pars tibi vel sextuus
             - sessta
@@ -3208,8 +3014,7 @@ text:
             - foreign[lg=lat-Latn]: Ast ibi quod remanet,
             - deset
             - foreign[lg=lat-Latn]: hoc decuns vocitatur;
-          - lb[n=689]:
-            - foreign[lg=lat-Latn]: Ternum recipe tunc ex uncia secundaque pars sit.
+          - lb[n=689,lg=lat-Latn]: Ternum recipe tunc ex uncia secundaque pars sit.
           - lb[n=690]:
             - foreign[lg=lat-Latn]: Quadrans erit propria vel
             - cztwrtana
@@ -3234,8 +3039,7 @@ text:
             - patero
             - paty
             - foreign[lg=lat-Latn]: vel sic
-          - lb[n=695]:
-            - foreign[lg=lat-Latn]: Septem sed remanent secundum septuns as vocitatus.
+          - lb[n=695,lg=lat-Latn]: Septem sed remanent secundum septuns as vocitatus.
           - lb[n=696]:
             - foreign[lg=lat-Latn]: Sextum cum tolles, tunc alias
             - puol
@@ -3243,95 +3047,58 @@ text:
             - supplied[reason=lost]: a
             - te
             - foreign[lg=lat-Latn]: semis
-          - lb[n=696]:
-            - foreign[lg=lat-Latn]: Sed tria sunt decies triginta, quatuor quadraginta.
-          - lb[n=697]:
-            - foreign[lg=lat-Latn]: Quatuor hine solidum faciunt, ter bisque denos
-          - lb[n=698]:
-            - foreign[lg=lat-Latn]: Quinquies accepti, decies sumpti quadraginta,
-          - lb[n=700]:
-            - foreign[lg=lat-Latn]: Quindecies capti sexagenam tibi dabunt,
-          - lb[n=701]:
-            - foreign[lg=lat-Latn]: Sedecies marcam complebunt; vicies tunc
-          - lb[n=702]:
-            - foreign[lg=lat-Latn]: Octuaginta dabunt, centum lege quinque viginti
-          - lb[n=703]:
-            - foreign[lg=lat-Latn]: Ac sexagesies sumpti faciunt tibi libram.
-          - lb[n=704]:
-            - foreign[lg=lat-Latn]: Et decies quinque quinquaginta numerabis,
-          - lb[n=705]:
-            - foreign[lg=lat-Latn]: Sex decies dabunt sexaginta deciesque
-          - lb[n=706]:
-            - foreign[lg=lat-Latn]: Septem sumantur, tunc septuaginta feruntur.
-          - lb[n=707]:
-            - foreign[lg=lat-Latn]: Vel decies octo dabit octuaginta, que novem
-          - lb[n=708]:
-            - foreign[lg=lat-Latn]: Sic decies captum nonaginta, post decies
-          - lb[n=709]:
-            - foreign[lg=lat-Latn]: Decem dat centum, decies centum noto mille,
-          - lb[n=710]:
-            - foreign[lg=lat-Latn]: Sed decies mille legionem dat tibi recte. -
-      - chapter[n=VII]:
-        - head[lg=lat-Latn]: De cifris
+          - lb[n=696,lg=lat-Latn]: Sed tria sunt decies triginta, quatuor quadraginta.
+          - lb[n=697,lg=lat-Latn]: Quatuor hine solidum faciunt, ter bisque denos
+          - lb[n=698,lg=lat-Latn]: Quinquies accepti, decies sumpti quadraginta,
+          - lb[n=700,lg=lat-Latn]: Quindecies capti sexagenam tibi dabunt,
+          - lb[n=701,lg=lat-Latn]: Sedecies marcam complebunt; vicies tunc
+          - lb[n=702,lg=lat-Latn]: Octuaginta dabunt, centum lege quinque viginti
+          - lb[n=703,lg=lat-Latn]: Ac sexagesies sumpti faciunt tibi libram.
+          - lb[n=704,lg=lat-Latn]: Et decies quinque quinquaginta numerabis,
+          - lb[n=705,lg=lat-Latn]: Sex decies dabunt sexaginta deciesque
+          - lb[n=706,lg=lat-Latn]: Septem sumantur, tunc septuaginta feruntur.
+          - lb[n=707,lg=lat-Latn]: Vel decies octo dabit octuaginta, que novem
+          - lb[n=708,lg=lat-Latn]: Sic decies captum nonaginta, post decies
+          - lb[n=709,lg=lat-Latn]: Decem dat centum, decies centum noto mille,
+          - lb[n=710,lg=lat-Latn]: Sed decies mille legionem dat tibi recte. -
+      - chapter[n=VII,lg=lat-Latn]:
+        - head: De cifris
         - p:
-          - lb[n=711]:
-            - foreign[lg=lat-Latn]: Ast numerum scribat versualem sicque dicas
-          - lb[n=712]:
-            - foreign[lg=lat-Latn]: I monos, V quinos, X denos, dupla vicenos,
-          - lb[n=713]:
-            - foreign[lg=lat-Latn]: XL duplat idem, triplicat LX, L quoque sola
+          - lb[n=711]: Ast numerum scribat versualem sicque dicas
+          - lb[n=712]: I monos, V quinos, X denos, dupla vicenos,
+          - lb[n=713]: XL duplat idem, triplicat LX, L quoque sola
           - lb[n=714]:
-            - foreign[lg=lat-Latn]:
-              - Quinqu
-              - supplied[reason=lost]: a
-              - ginta facit, nonaginta tibi dabit XC;
-          - lb[n=715]:
-            - foreign[lg=lat-Latn]: C dat centenos, M mille, C si preit, aufert.
-          - lb[n=716]:
-            - foreign[lg=lat-Latn]: Centum; quingenta D per se significabit,
+            - Quinqu
+            - supplied[reason=lost]: a
+            - ginta facit, nonaginta tibi dabit XC;
+          - lb[n=715]: C dat centenos, M mille, C si preit, aufert.
+          - lb[n=716]: Centum; quingenta D per se significabit,
           - lb[n=717]:
-            - foreign[lg=lat-Latn]:
-              - C
-              - supplied[reason=lost]: D
-              - ' dat centenos quadringentos, DC sexgentos in ...'
-          - lb[n=718]:
-            - foreign[lg=lat-Latn]: Plus est difficilis numerus artificialis.
-          - lb[n=719]:
-            - foreign[lg=lat-Latn]: De cifris factus digitis 1 2 3 4 5 6 7 8 9 10
-                -
-          - lb[n=720]:
-            - foreign[lg=lat-Latn]: Unum prima, secunda decem, dat tercia centum,
-          - lb[n=721]:
-            - foreign[lg=lat-Latn]: Quarta dabit mille, sed milia quinta decem dat,
-          - lb[n=722]:
-            - foreign[lg=lat-Latn]: C mille sexta dat, septima milia mille,
+            - C
+            - supplied[reason=lost]: D
+            - ' dat centenos quadringentos, DC sexgentos in ...'
+          - lb[n=718]: Plus est difficilis numerus artificialis.
+          - lb[n=719]: De cifris factus digitis 1 2 3 4 5 6 7 8 9 10 -
+          - lb[n=720]: Unum prima, secunda decem, dat tercia centum,
+          - lb[n=721]: Quarta dabit mille, sed milia quinta decem dat,
+          - lb[n=722]: C mille sexta dat, septima milia mille,
           - lb[n=723]:
-            - foreign[lg=lat-Latn]:
-              - 'Mille dat octava, sed millesies '
-              - supplied[reason=lost]: m
-              - ille deciesque;
-          - lb[n=724]:
-            - foreign[lg=lat-Latn]: Millesies nona dat millesies qucque centum,
-          - lb[n=725]:
-            - foreign[lg=lat-Latn]: Millesies decima dat millesies quoque mille. -
-                -
-          - lb[n=726]:
-            - foreign[lg=lat-Latn]: Articulus tibi sit per denos deca, viginti.
-          - lb[n=727]:
-            - foreign[lg=lat-Latn]: Conpositus ex hiis - unden, ducden, noveden. -
-                -
-    - part[n=Conc.]:
-      - head[lg=lat-Latn]: Conclusio
+            - 'Mille dat octava, sed millesies '
+            - supplied[reason=lost]: m
+            - ille deciesque;
+          - lb[n=724]: Millesies nona dat millesies qucque centum,
+          - lb[n=725]: Millesies decima dat millesies quoque mille. - -
+          - lb[n=726]: Articulus tibi sit per denos deca, viginti.
+          - lb[n=727]: Conpositus ex hiis - unden, ducden, noveden. - -
+    - part[n=Conc.,lg=lat-Latn]:
+      - head: Conclusio
       - p:
-        - lb[n=728]:
-          - foreign[lg=lat-Latn]: Cum modo non cures numeros tibi scire plures,
-        - lb[n=729]:
-          - foreign[lg=lat-Latn]: Iam satis est dictum nunc de numeris, bene fictum.
-        - lb[n=730]:
-          - foreign[lg=lat-Latn]: Fortiter hinc studeas, ut multa vocabula feras;
+        - lb[n=728]: Cum modo non cures numeros tibi scire plures,
+        - lb[n=729]: Iam satis est dictum nunc de numeris, bene fictum.
+        - lb[n=730]: Fortiter hinc studeas, ut multa vocabula feras;
         - lb[n=731]:
-          - foreign[lg=lat-Latn]: Grates nunc Christo reddamus tempore isto.
-          - foreign[lg=lat-Latn]: Amen
+          - Grates nunc Christo reddamus tempore isto.
+          - Amen
   - book[n=Gloss.]:
     - part[n=Proem.]:
       - head[lg=lat-Latn]: Proemium
@@ -3339,24 +3106,15 @@ text:
         - lb[n=1]:
           - ACcedant
           - foreign[lg=lat-Latn]: pueri, cupientes mente beari,
-        - lb[n=2]:
-          - foreign[lg=lat-Latn]: Ad congnoscenda propriata vocabula pauca,
-        - lb[n=3]:
-          - foreign[lg=lat-Latn]: Scripta per auctores nostros penitus meliores,
-        - lb[n=4]:
-          - foreign[lg=lat-Latn]: A quibus hec fata sunt valde diupreparata.
-        - lb[n=5]:
-          - foreign[lg=lat-Latn]: Nam quondam veteres cogebant ire scolares
-        - lb[n=6]:
-          - foreign[lg=lat-Latn]: Hostia per clausa, punientes hos sine causa,
-        - lb[n=7]:
-          - foreign[lg=lat-Latn]: Inproprie fantes, voces varie propinantes,
-        - lb[n=8]:
-          - foreign[lg=lat-Latn]: Ex quibus errantes sunt instabiles, dubitantes.
-        - lb[n=9]:
-          - foreign[lg=lat-Latn]: Hinc pro posse meo coniungo Latina Bohemo,
-        - lb[n=10]:
-          - foreign[lg=lat-Latn]: Gracia non laudis, laborando quatuor annis. -
+        - lb[n=2,lg=lat-Latn]: Ad congnoscenda propriata vocabula pauca,
+        - lb[n=3,lg=lat-Latn]: Scripta per auctores nostros penitus meliores,
+        - lb[n=4,lg=lat-Latn]: A quibus hec fata sunt valde diupreparata.
+        - lb[n=5,lg=lat-Latn]: Nam quondam veteres cogebant ire scolares
+        - lb[n=6,lg=lat-Latn]: Hostia per clausa, punientes hos sine causa,
+        - lb[n=7,lg=lat-Latn]: Inproprie fantes, voces varie propinantes,
+        - lb[n=8,lg=lat-Latn]: Ex quibus errantes sunt instabiles, dubitantes.
+        - lb[n=9,lg=lat-Latn]: Hinc pro posse meo coniungo Latina Bohemo,
+        - lb[n=10,lg=lat-Latn]: Gracia non laudis, laborando quatuor annis. -
         - lb[n=11]:
           - Vyeda
           - foreign[lg=lat-Latn]:
@@ -3438,26 +3196,16 @@ text:
           - czisti
           - nechtie
           - foreign[lg=lat-Latn]: nolunt. - -
-        - lb[n=21]:
-          - foreign[lg=lat-Latn]: Octo dabo partes, quibus ipsa vocabula carpes -
-        - lb[n=22]:
-          - foreign[lg=lat-Latn]: Sit Deus in primis, mediis fautor, simul imis,
-        - lb[n=23]:
-          - foreign[lg=lat-Latn]: Mentes illustrans, celum terramque gubernans.
-        - lb[n=24]:
-          - foreign[lg=lat-Latn]: Aerea fundo, volucrum monstrosa secundo;
-        - lb[n=25]:
-          - foreign[lg=lat-Latn]: Undatiles terna, pisces et aquatica monstra;
-        - lb[n=26]:
-          - foreign[lg=lat-Latn]: Fert animal quarta, lignum cum semine quinta.
-        - lb[n=27]:
-          - foreign[lg=lat-Latn]: Est homo sub sexta, gestus, stirps, accida membra
-        - lb[n=28]:
-          - foreign[lg=lat-Latn]: Pandere vultque domum, civitatem septima, templum,
-        - lb[n=29]:
-          - foreign[lg=lat-Latn]: Artifices tandem dabit ultima pars, simul artem.
-        - lb[n=30]:
-          - foreign[lg=lat-Latn]: Quod non sint tetra, placuit corrumpere metra.
+        - lb[n=21,lg=lat-Latn]: Octo dabo partes, quibus ipsa vocabula carpes -
+        - lb[n=22,lg=lat-Latn]: Sit Deus in primis, mediis fautor, simul imis,
+        - lb[n=23,lg=lat-Latn]: Mentes illustrans, celum terramque gubernans.
+        - lb[n=24,lg=lat-Latn]: Aerea fundo, volucrum monstrosa secundo;
+        - lb[n=25,lg=lat-Latn]: Undatiles terna, pisces et aquatica monstra;
+        - lb[n=26,lg=lat-Latn]: Fert animal quarta, lignum cum semine quinta.
+        - lb[n=27,lg=lat-Latn]: Est homo sub sexta, gestus, stirps, accida membra
+        - lb[n=28,lg=lat-Latn]: Pandere vultque domum, civitatem septima, templum,
+        - lb[n=29,lg=lat-Latn]: Artifices tandem dabit ultima pars, simul artem.
+        - lb[n=30,lg=lat-Latn]: Quod non sint tetra, placuit corrumpere metra.
     - part[n=I]:
       - head[lg=lat-Latn]: De deo, celo et mundo
       - chapter[n=1]:
@@ -3829,15 +3577,13 @@ text:
             - prosynecz,
             - foreign[lg=lat-Latn]: embolismus vero
             - hrudnecz.
-          - lb[n=84]:
-            - foreign[lg=lat-Latn]: Talia Claretus fert prima vocabula letus.
+          - lb[n=84,lg=lat-Latn]: Talia Claretus fert prima vocabula letus.
       - chapter[n=2]:
         - head[lg=lat-Latn]: De mundo
         - p:
-          - lb[n=85]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Or
-              - dine de mundo terrena vocabula fundo.
+          - lb[n=85,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Or
+            - dine de mundo terrena vocabula fundo.
           - lb[n=86]:
             - foreign[lg=lat-Latn]: Terra
             - zemie,
@@ -4087,15 +3833,13 @@ text:
             - muka,
             - foreign[lg=lat-Latn]: limbus
             - oczistecz.
-          - lb[n=121]:
-            - foreign[lg=lat-Latn]: Prestitit Urbanus, doctor meus, hec Florianus.
+          - lb[n=121,lg=lat-Latn]: Prestitit Urbanus, doctor meus, hec Florianus.
       - chapter[n=3]:
         - head[lg=lat-Latn]: De lapidibus
         - p:
-          - lb[n=122]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Ha
-              - ctenus exponam, lapidum bona nomina ponam.
+          - lb[n=122,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Ha
+            - ctenus exponam, lapidum bona nomina ponam.
           - lb[n=123]:
             - foreign[lg=lat-Latn]: Opoka petra, lapis
             - kamen,
@@ -4348,13 +4092,11 @@ text:
             - przad,
             - spla
             - foreign[lg=lat-Latn]: balaustus.
-          - lb[n=160]:
-            - foreign[lg=lat-Latn]: Proprietas rerum probat istud ad omnia verum.
+          - lb[n=160,lg=lat-Latn]: Proprietas rerum probat istud ad omnia verum.
       - chapter[n=4]:
         - head[lg=lat-Latn]: De aereis
         - p:
-          - lb[n=161]:
-            - foreign[lg=lat-Latn]: Edicto celo super aera nata revelo.
+          - lb[n=161,lg=lat-Latn]: Edicto celo super aera nata revelo.
           - lb[n=162]:
             - Dam
             - foreign[lg=lat-Latn]: dabo
@@ -4650,8 +4392,7 @@ text:
             - foreign[lg=lat-Latn]: Arthophilax,
             - vodyk
             - foreign[lg=lat-Latn]: Ursa.
-          - lb[n=202]:
-            - foreign[lg=lat-Latn]: Ecce Bohemarius dedit ista vocabula solus.
+          - lb[n=202,lg=lat-Latn]: Ecce Bohemarius dedit ista vocabula solus.
     - part[n=II]:
       - head[lg=lat-Latn]: De aereis et monstrosi
       - chapter[n=1]:
@@ -4660,8 +4401,7 @@ text:
           - supplied[reason=lost]: altilibus
           - ' domesticis'
         - p:
-          - lb[n=203]:
-            - foreign[lg=lat-Latn]: Mentibus altilia prius ipsa domestica signa.
+          - lb[n=203,lg=lat-Latn]: Mentibus altilia prius ipsa domestica signa.
           - lb[n=204]:
             - foreign[lg=lat-Latn]: Altile
             - krzidlatko,
@@ -4928,13 +4668,11 @@ text:
             - foreign[lg=lat-Latn]: cultus
             - stroy,
             - foreign[lg=lat-Latn]: municulum .broy.
-          - lb[n=244]:
-            - foreign[lg=lat-Latn]: Has dat aves omnes de Galandria Johannes. -
+          - lb[n=244,lg=lat-Latn]: Has dat aves omnes de Galandria Johannes. -
       - chapter[n=2]:
         - head[lg=lat-Latn]: De volatilibus compestribus
         - p:
-          - lb[n=245]:
-            - foreign[lg=lat-Latn]: Addo volatilia campestria raro notata.
+          - lb[n=245,lg=lat-Latn]: Addo volatilia campestria raro notata.
           - lb[n=246]:
             - Orel
             - foreign[lg=lat-Latn]: aquila,
@@ -5298,13 +5036,11 @@ text:
             - valuss
             - foreign[lg=lat-Latn]: ardeale, droma
             - sdlena.
-          - lb[n=302]:
-            - foreign[lg=lat-Latn]: Ambrosius, Plinius volucres dedit hasque Solinus.
+          - lb[n=302,lg=lat-Latn]: Ambrosius, Plinius volucres dedit hasque Solinus.
       - chapter[n=3]:
         - head[lg=lat-Latn]: De monstrosis hominibus
         - p:
-          - lb[n=303]:
-            - foreign[lg=lat-Latn]: Respice monstrosos homines natos viciosos.
+          - lb[n=303,lg=lat-Latn]: Respice monstrosos homines natos viciosos.
           - lb[n=304]:
             - foreign[lg=lat-Latn]: Miro
             - dywak,
@@ -5500,15 +5236,13 @@ text:
             - foreign[lg=lat-Latn]: complista,
             - chudomudrak
             - foreign[lg=lat-Latn]: gimnosophista.
-          - lb[n=337]:
-            - foreign[lg=lat-Latn]: Ysodorus, Iacobus tribus hec dedit atque duobus.
+          - lb[n=337,lg=lat-Latn]: Ysodorus, Iacobus tribus hec dedit atque duobus.
     - part[n=III]:
       - head[lg=lat-Latn]: De aqua et aquatilibus
       - chapter[n=1]:
         - head[lg=lat-Latn]: De aqua
         - p:
-          - lb[n=338]:
-            - foreign[lg=lat-Latn]: Istis aereis deditis ad aquatile curris.
+          - lb[n=338,lg=lat-Latn]: Istis aereis deditis ad aquatile curris.
           - lb[n=339]:
             - foreign[lg=lat-Latn]: Fluxus
             - tek,
@@ -5734,15 +5468,13 @@ text:
             - Dunay
             - foreign[lg=lat-Latn]: Danubius, Actigrius
             - ray.
-          - lb[n=373]:
-            - foreign[lg=lat-Latn]: Mauricius cuncta, doctormeus, addidit ista.
+          - lb[n=373,lg=lat-Latn]: Mauricius cuncta, doctormeus, addidit ista.
       - chapter[n=2]:
         - head[lg=lat-Latn]: De piscibus
         - p:
-          - lb[n=374]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Or
-              - do dat hincpisces in aquis, quos prendere glisces.
+          - lb[n=374,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Or
+            - do dat hincpisces in aquis, quos prendere glisces.
           - lb[n=375]:
             - foreign[lg=lat-Latn]: Pisciculus
             - ribka,
@@ -6120,17 +5852,14 @@ text:
             - klassczen,
             - foreign[lg=lat-Latn]: rochea
             - scorpun.
-          - lb[n=428]:
-            - foreign[lg=lat-Latn]: Hec dat Ysnacensis, Heberhardus Bituniensis.
+          - lb[n=428,lg=lat-Latn]: Hec dat Ysnacensis, Heberhardus Bituniensis.
       - chapter[n=3]:
         - head[lg=lat-Latn]: De claudis monstris
         - p:
-          - lb[n=429]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Cl
-              - auda dabit monstra modo tantula cartula nostra.
-          - lb[n=430]:
-            - foreign[lg=lat-Latn]: Fastaleon pichlen, mtza fentis, ochochule Syren,
+          - lb[n=429,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Cl
+            - auda dabit monstra modo tantula cartula nostra.
+          - lb[n=430,lg=lat-Latn]: Fastaleon pichlen, mtza fentis, ochochule Syren,
           - lb[n=431]:
             - Spustonohar
             - foreign[lg=lat-Latn]: draphedus,
@@ -6328,15 +6057,13 @@ text:
             - gdusse,
             - leprzie
             - foreign[lg=lat-Latn]: genessus.
-          - lb[n=462]:
-            - foreign[lg=lat-Latn]: Hec dedit Albertus Augustinus que refertus.
+          - lb[n=462,lg=lat-Latn]: Hec dedit Albertus Augustinus que refertus.
     - part[n=IV]:
       - head[lg=lat-Latn]: De brutis
       - chapter[n=1]:
         - head[lg=lat-Latn]: De animalium natura
         - p:
-          - lb[n=463]:
-            - foreign[lg=lat-Latn]: Ardua contexta brutis pars postea quarta.
+          - lb[n=463,lg=lat-Latn]: Ardua contexta brutis pars postea quarta.
           - lb[n=464]:
             - foreign[lg=lat-Latn]: Est animal
             - zwierze,
@@ -6545,13 +6272,11 @@ text:
             - ged
             - foreign[lg=lat-Latn]: que venenum, virus
             - obruged.
-          - lb[n=496]:
-            - foreign[lg=lat-Latn]: Quod Brito, Cornutus dat, sis, Nicolae, secutus
+          - lb[n=496,lg=lat-Latn]: Quod Brito, Cornutus dat, sis, Nicolae, secutus
       - chapter[n=2]:
         - head[lg=lat-Latn]: De bestiis
         - p:
-          - lb[n=497]:
-            - foreign[lg=lat-Latn]: Raro sequens gesta de bestiis cernis honesta.
+          - lb[n=497,lg=lat-Latn]: Raro sequens gesta de bestiis cernis honesta.
           - lb[n=498]:
             - Lew
             - foreign[lg=lat-Latn]: leo
@@ -6903,13 +6628,11 @@ text:
             - drwle,
             - foreign[lg=lat-Latn]: zibron
             - ozuble.
-          - lb[n=550]:
-            - foreign[lg=lat-Latn]: In Librorerum potes hoc congnoscere verum.
+          - lb[n=550,lg=lat-Latn]: In Librorerum potes hoc congnoscere verum.
       - chapter[n=3]:
         - head[lg=lat-Latn]: De nominibus serpentum
         - p:
-          - lb[n=551]:
-            - foreign[lg=lat-Latn]: Tandem serpentes capias non valde nocentes.
+          - lb[n=551,lg=lat-Latn]: Tandem serpentes capias non valde nocentes.
           - lb[n=552]:
             - foreign[lg=lat-Latn]: Scorpio
             - sstyr,
@@ -7063,13 +6786,11 @@ text:
             - klepotnyk,
             - foreign[lg=lat-Latn]: fona
             - hletnik.
-          - lb[n=574]:
-            - foreign[lg=lat-Latn]: Hec michi Fontínus bona contulit et Philaretus.
+          - lb[n=574,lg=lat-Latn]: Hec michi Fontínus bona contulit et Philaretus.
       - chapter[n=4]:
         - head[lg=lat-Latn]: De nominibus vermium
         - p:
-          - lb[n=575]:
-            - foreign[lg=lat-Latn]: Hos capias vermes stimulantes mentes inhermes.
+          - lb[n=575,lg=lat-Latn]: Hos capias vermes stimulantes mentes inhermes.
           - lb[n=576]:
             - foreign[lg=lat-Latn]: Vermis
             - czerw,
@@ -7244,15 +6965,13 @@ text:
             - stla,
             - foreign[lg=lat-Latn]: stupestria
             - kudlak.
-          - lb[n=603]:
-            - foreign[lg=lat-Latn]: Has rerum species lege, sed multe latitant res.
+          - lb[n=603,lg=lat-Latn]: Has rerum species lege, sed multe latitant res.
     - part[n=V]:
       - head[lg=lat-Latn]: De arboribus et plantis
       - chapter[n=1]:
         - head[lg=lat-Latn]: De arboribus
         - p:
-          - lb[n=604]:
-            - foreign[lg=lat-Latn]: Optima post quinta pars arboribus socianda.
+          - lb[n=604,lg=lat-Latn]: Optima post quinta pars arboribus socianda.
           - lb[n=605]:
             - foreign[lg=lat-Latn]: Arbor
             - strom,
@@ -7494,15 +7213,13 @@ text:
             - foreign[lg=lat-Latn]: tenor,
             - wrstwa
             - foreign[lg=lat-Latn]: pradix.
-          - lb[n=639]:
-            - foreign[lg=lat-Latn]: Hec dare non tardus fuit apcius ipse Zygardus.
+          - lb[n=639,lg=lat-Latn]: Hec dare non tardus fuit apcius ipse Zygardus.
       - chapter[n=2]:
         - head[lg=lat-Latn]: De plantis
         - p:
-          - lb[n=640]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: La
-              - udibus ad plants specials vertito plantas.
+          - lb[n=640,lg=lat-Latn]:
+            - hi[rend=smallcaps]: La
+            - udibus ad plants specials vertito plantas.
           - lb[n=641]:
             - foreign[lg=lat-Latn]: Quercus
             - dub,
@@ -7756,15 +7473,13 @@ text:
             - foreign[lg=lat-Latn]: mixalia, tilos
             - vlibon.
             - foreign[lg=lat-Latn]: '-'
-          - lb[n=677]:
-            - foreign[lg=lat-Latn]: Pius Brito non ponit, nisi Liber rerum hic addit.
+          - lb[n=677,lg=lat-Latn]: Pius Brito non ponit, nisi Liber rerum hic addit.
       - chapter[n=3]:
         - head[lg=lat-Latn]: De fructibus arborum
         - p:
-          - lb[n=678]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Or
-              - a tua lata, dabis arbuta mandere grata.
+          - lb[n=678,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Or
+            - a tua lata, dabis arbuta mandere grata.
           - lb[n=679]:
             - foreign[lg=lat-Latn]: Arbuta
             - drzievonycze,
@@ -7979,15 +7694,13 @@ text:
             - rozie,
             - foreign[lg=lat-Latn]: campora
             - polska.
-          - lb[n=714]:
-            - foreign[lg=lat-Latn]: Sicud habet usus, hos usus magis eris usus.
+          - lb[n=714,lg=lat-Latn]: Sicud habet usus, hos usus magis eris usus.
       - chapter[n=4]:
         - head[lg=lat-Latn]: De semine
         - p:
-          - lb[n=715]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Ma
-              - xima cum cura studeas de semine plura.
+          - lb[n=715,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Ma
+            - xima cum cura studeas de semine plura.
           - lb[n=716]:
             - foreign[lg=lat-Latn]: Semen
             - syemie,
@@ -8254,15 +7967,13 @@ text:
             - rziepiscze,
             - foreign[lg=lat-Latn]: canapetum dic
             - konopistye.
-          - lb[n=755]:
-            - foreign[lg=lat-Latn]: Ypolitus ista dedit heredibus propriata.
+          - lb[n=755,lg=lat-Latn]: Ypolitus ista dedit heredibus propriata.
       - chapter[n=5]:
         - head[lg=lat-Latn]: De frumento
         - p:
-          - lb[n=756]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Ec
-              - ce celer venias, frumenta quod omnia noscas.
+          - lb[n=756,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Ec
+            - ce celer venias, frumenta quod omnia noscas.
           - lb[n=757]:
             - foreign[lg=lat-Latn]: Est triticum
             - pssenycze,
@@ -8588,15 +8299,13 @@ text:
             - opich,
             - foreign[lg=lat-Latn]: fela
             - nurzik.
-          - lb[n=807]:
-            - foreign[lg=lat-Latn]: Plura putas gravia, quia nusquam sunt usitata.
+          - lb[n=807,lg=lat-Latn]: Plura putas gravia, quia nusquam sunt usitata.
       - chapter[n=6]:
         - head[lg=lat-Latn]: De herbis ignotis
         - p:
-          - lb[n=808]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Ob
-              - tineas alias ignotas post tamen herbas.
+          - lb[n=808,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Ob
+            - tineas alias ignotas post tamen herbas.
           - lb[n=809]:
             - Zelina
             - foreign[lg=lat-Latn]: sit herba, dic
@@ -8917,15 +8626,13 @@ text:
             - foreign[lg=lat-Latn]: sit abrotanum
             - bozie
             - drzewcze,
-          - lb[n=859]:
-            - foreign[lg=lat-Latn]: Non nota multa, prius data nomina sunt speciebus.
+          - lb[n=859,lg=lat-Latn]: Non nota multa, prius data nomina sunt speciebus.
       - chapter[n=7]:
         - head[lg=lat-Latn]: De radicibus
         - p:
-          - lb[n=860]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Di
-              - scere cor apta radices in apoteca.
+          - lb[n=860,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Di
+            - scere cor apta radices in apoteca.
           - lb[n=861]:
             - foreign[lg=lat-Latn]: Est species
             - gestva,
@@ -9154,18 +8861,16 @@ text:
             - hruss,
             - ossna
             - foreign[lg=lat-Latn]: dragantum.
-          - lb[n=895]:
-            - foreign[lg=lat-Latn]:
-              - Hec Constan
-              - supplied[reason=lost]: tin
-              - us bene scit, Ypocras, Galienus.
+          - lb[n=895,lg=lat-Latn]:
+            - Hec Constan
+            - supplied[reason=lost]: tin
+            - us bene scit, Ypocras, Galienus.
       - chapter[n=8]:
         - head[lg=lat-Latn]: De fragis et boletis
         - p:
-          - lb[n=896]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: In
-              - tererit scriptis dare de fragisque boletis.
+          - lb[n=896,lg=lat-Latn]:
+            - hi[rend=smallcaps]: In
+            - tererit scriptis dare de fragisque boletis.
           - lb[n=897]:
             - foreign[lg=lat-Latn]: Fraga
             - yahoda,
@@ -9323,17 +9028,15 @@ text:
             - trzstyna,
             - trest
             - foreign[lg=lat-Latn]: sit arundo.
-          - lb[n=921]:
-            - foreign[lg=lat-Latn]: Nomina sic rerum complevi nunc specierum.
+          - lb[n=921,lg=lat-Latn]: Nomina sic rerum complevi nunc specierum.
     - part[n=VI]:
       - head[lg=lat-Latn]: De nominibus hominum
       - chapter[n=1]:
         - head[lg=lat-Latn]: De homine
         - p:
-          - lb[n=922]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Co
-              - ncipias hominem, sextam preparans sibi partem.
+          - lb[n=922,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Co
+            - ncipias hominem, sextam preparans sibi partem.
           - lb[n=923]:
             - foreign[lg=lat-Latn]: Vir
             - muz,
@@ -9592,15 +9295,13 @@ text:
             - foreign[lg=lat-Latn]: Flandensis,
             - auianski
             - foreign[lg=lat-Latn]: sit Aviensis.
-          - lb[n=967]:
-            - foreign[lg=lat-Latn]: Ista Bohemarius minor obmisit satis argus.
+          - lb[n=967,lg=lat-Latn]: Ista Bohemarius minor obmisit satis argus.
       - chapter[n=2]:
         - head[lg=lat-Latn]: De hominibus secularibus
         - p:
-          - lb[n=968]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Te
-              - mptabis homines primo legere seculares.
+          - lb[n=968,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Te
+            - mptabis homines primo legere seculares.
           - lb[n=969]:
             - Cziesarz
             - foreign[lg=lat-Latn]: ímperator,
@@ -9869,15 +9570,13 @@ text:
             - sabnyk,
             - foreign[lg=lat-Latn]: vexillifer est
             - koruhewnik.
-          - lb[n=1014]:
-            - foreign[lg=lat-Latn]: Scriptor Grecensis dedit hec michi mille repensis.
+          - lb[n=1014,lg=lat-Latn]: Scriptor Grecensis dedit hec michi mille repensis.
       - chapter[n=3]:
         - head[lg=lat-Latn]: De hominibus spiritualibus
         - p:
-          - lb[n=1015]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Op
-              - tatos sumes homines modo spirituales.
+          - lb[n=1015,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Op
+            - tatos sumes homines modo spirituales.
           - lb[n=1016]:
             - Papa
             - foreign[lg=lat-Latn]: papez,
@@ -10136,15 +9835,13 @@ text:
             - mlassk,
             - foreign[lg=lat-Latn]: opulencia
             - dobrok.
-          - lb[n=1061]:
-            - foreign[lg=lat-Latn]: Hec mihi cum sensis dedit abbas Opatovicensis.
+          - lb[n=1061,lg=lat-Latn]: Hec mihi cum sensis dedit abbas Opatovicensis.
       - chapter[n=4]:
         - head[lg=lat-Latn]: De scolaribus
         - p:
-          - lb[n=1062]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Co
-              - nspice doctores, rectores atque scolares.
+          - lb[n=1062,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Co
+            - nspice doctores, rectores atque scolares.
           - lb[n=1063]:
             - Tresktak
             - foreign[lg=lat-Latn]: corrector,
@@ -10418,15 +10115,13 @@ text:
             - foreign[lg=lat-Latn]: disciplinaque Iohannis amor
             - svata
             - mina.
-          - lb[n=1110]:
-            - foreign[lg=lat-Latn]: Plura dares ex hiis, tu Galle Boleslaviensis !
+          - lb[n=1110,lg=lat-Latn]: Plura dares ex hiis, tu Galle Boleslaviensis !
       - chapter[n=5]:
         - head[lg=lat-Latn]: De communibus speciebus
         - p:
-          - lb[n=1111]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Lu
-              - cet adhuc melius decommunibus speciebus.
+          - lb[n=1111,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Lu
+            - cet adhuc melius decommunibus speciebus.
           - lb[n=1112]:
             - Hrziessnik
             - foreign[lg=lat-Latn]: peccator,
@@ -10871,17 +10566,15 @@ text:
             - zbabiczka,
             - mecza
             - foreign[lg=lat-Latn]: prestigiatrix.
-          - lb[n=1187]:
-            - foreign[lg=lat-Latn]: Si metrum sineret, Martinus plura dedisset.
+          - lb[n=1187,lg=lat-Latn]: Si metrum sineret, Martinus plura dedisset.
       - chapter[n=6]:
         - head[lg=lat-Latn]: De nominibus personarum
         - p:
-          - lb[n=1188]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Ac
-              - cipe personas per plurima nomina dic
-              - supplied[reason=lost]: t
-              - as.
+          - lb[n=1188,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Ac
+            - cipe personas per plurima nomina dic
+            - supplied[reason=lost]: t
+            - as.
           - lb[n=1189]:
             - foreign[lg=lat-Latn]: Assiduus
             - snaznyk
@@ -11374,15 +11067,13 @@ text:
             - foreign[lg=lat-Latn]: calamistratus
             - kaderzawy
             - foreign[lg=lat-Latn]: '....]>'
-          - lb[n=1269]:
-            - foreign[lg=lat-Latn]: Plura daret illa Dirmarius, Petrus Byela.
+          - lb[n=1269,lg=lat-Latn]: Plura daret illa Dirmarius, Petrus Byela.
       - chapter[n=7]:
         - head[lg=lat-Latn]: De membris
         - p:
-          - lb[n=1270]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Re
-              - bus et hiis positis de membris discito tantis.
+          - lb[n=1270,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Re
+            - bus et hiis positis de membris discito tantis.
           - lb[n=1271]:
             - Hlava
             - foreign[lg=lat-Latn]: caput, cerebrum
@@ -11821,15 +11512,13 @@ text:
             - gestnik,
             - dasnyenka
             - foreign[lg=lat-Latn]: palatum.
-          - lb[n=1335]:
-            - foreign[lg=lat-Latn]: Glosarius membra, venas dedit Anatomia.
+          - lb[n=1335,lg=lat-Latn]: Glosarius membra, venas dedit Anatomia.
       - chapter[n=8]:
         - head[lg=lat-Latn]: De motibus corporis
         - p:
-          - lb[n=1336]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Ex
-              - pediens membra de motibus accipe dicta.
+          - lb[n=1336,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Ex
+            - pediens membra de motibus accipe dicta.
           - lb[n=1337]:
             - Viera
             - foreign[lg=lat-Latn]: fides,
@@ -12214,20 +11903,18 @@ text:
             - zbavenye,
             - foreign[lg=lat-Latn]: dic increpacio
             - lanye.
-          - lb[n=1399]:
-            - foreign[lg=lat-Latn]: Verba dabunt habitus, ut Aristotiles dat, et actus.
+          - lb[n=1399,lg=lat-Latn]: Verba dabunt habitus, ut Aristotiles dat, et actus.
       - chapter[n=9]:
         - head[lg=lat-Latn]:
           - De mo
           - supplied[reason=lost]: ri
           - bus
         - p:
-          - lb[n=1400]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Ta
-              - ctus, motus habe
-              - supplied[reason=omitted]: n
-              - s, de moribus accipe labes.
+          - lb[n=1400,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Ta
+            - ctus, motus habe
+            - supplied[reason=omitted]: n
+            - s, de moribus accipe labes.
           - lb[n=1401]:
             - foreign[lg=lat-Latn]: Iusticia
             - spravedlnost,
@@ -12309,8 +11996,7 @@ text:
             - laska
             - foreign[lg=lat-Latn]: caritas, decor
             - okrass,
-          - lb[n=1415]:
-            - foreign[lg=lat-Latn]: Devocio naboznost dic, temperancia whodnost,
+          - lb[n=1415,lg=lat-Latn]: Devocio naboznost dic, temperancia whodnost,
           - lb[n=1416]:
             - foreign[lg=lat-Latn]: Mansuetudo
             - krotkost,
@@ -12691,15 +12377,13 @@ text:
             - smuczeníe,
             - foreign[lg=lat-Latn]: letificacio
             - veselenye.
-          - lb[n=1482]:
-            - foreign[lg=lat-Latn]: Considerans verba potes edere nomina plura.
+          - lb[n=1482,lg=lat-Latn]: Considerans verba potes edere nomina plura.
       - chapter[n=10]:
         - head[lg=lat-Latn]: De corporis natura
         - p:
-          - lb[n=1483]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Or
-              - to cadencia summe recencia corpore tenta.
+          - lb[n=1483,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Or
+            - to cadencia summe recencia corpore tenta.
           - lb[n=1484]:
             - foreign[lg=lat-Latn]: Caliditas
             - horkost
@@ -13119,15 +12803,13 @@ text:
             - sewrzeníe,
             - foreign[lg=lat-Latn]: dat conspectus
             - obezrzeníe.
-          - lb[n=1557]:
-            - foreign[lg=lat-Latn]: Plura Iuvenalis posset dare Bydzoviensis.
+          - lb[n=1557,lg=lat-Latn]: Plura Iuvenalis posset dare Bydzoviensis.
       - chapter[n=11]:
         - head[lg=lat-Latn]: De factis
         - p:
-          - lb[n=1558]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: De
-              - ' factis disce de pluribus ac resipisce.'
+          - lb[n=1558,lg=lat-Latn]:
+            - hi[rend=smallcaps]: De
+            - ' factis disce de pluribus ac resipisce.'
           - lb[n=1559]:
             - foreign[lg=lat-Latn]: Factum
             - skutek,
@@ -13422,15 +13104,13 @@ text:
             - pogietye
             - foreign[lg=lat-Latn]: traduccio, capcio
             - getye.
-          - lb[n=1612]:
-            - foreign[lg=lat-Latn]: Infinita darem, si metrum non reprobarem.
+          - lb[n=1612,lg=lat-Latn]: Infinita darem, si metrum non reprobarem.
       - chapter[n=12]:
         - head[lg=lat-Latn]: De arte
         - p:
-          - lb[n=1613]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Es
-              - tuat has artes mens omnis tangere partes.
+          - lb[n=1613,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Es
+            - tuat has artes mens omnis tangere partes.
           - lb[n=1614]:
             - foreign[lg=lat-Latn]: Litera sit
             - cztena,
@@ -13730,15 +13410,13 @@ text:
             - foreign[lg=lat-Latn]: multoria,
             - pussczedlniczstvo
             - foreign[lg=lat-Latn]: fleubotomia.
-          - lb[n=1669]:
-            - foreign[lg=lat-Latn]: Hec dedit Hermannus, qui Prage septimus annus.
+          - lb[n=1669,lg=lat-Latn]: Hec dedit Hermannus, qui Prage septimus annus.
       - chapter[n=13]:
         - head[lg=lat-Latn]: De languoribus
         - p:
-          - lb[n=1670]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Su
-              - mere nunc signa de languoribus bona signa.
+          - lb[n=1670,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Su
+            - mere nunc signa de languoribus bona signa.
           - lb[n=1671]:
             - foreign[lg=lat-Latn]: Est
             - neduh
@@ -14081,15 +13759,13 @@ text:
             - foreign[lg=lat-Latn]: calculus,
             - odla
             - foreign[lg=lat-Latn]: victerna.
-          - lb[n=1725]:
-            - foreign[lg=lat-Latn]: Fert Liber hoc rerum, Galyen, Ypocras fore verum.
+          - lb[n=1725,lg=lat-Latn]: Fert Liber hoc rerum, Galyen, Ypocras fore verum.
       - chapter[n=14]:
         - head[lg=lat-Latn]: De progenie
         - p:
-          - lb[n=1726]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Op
-              - tima iam dicta de progeníe dabo pauca.
+          - lb[n=1726,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Op
+            - tima iam dicta de progeníe dabo pauca.
           - lb[n=1727]:
             - Sestra
             - foreign[lg=lat-Latn]: soror, frater
@@ -14442,17 +14118,15 @@ text:
             - zdaw,
             - muzna
             - foreign[lg=lat-Latn]: matrica.
-          - lb[n=1784]:
-            - foreign[lg=lat-Latn]: Pluribus Albertus Prage solet esse refertus.
+          - lb[n=1784,lg=lat-Latn]: Pluribus Albertus Prage solet esse refertus.
       - chapter[n=15]:
         - head[lg=lat-Latn]: De ferculis
         - p:
-          - lb[n=1785]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Lu
-              - strans convivia statim elig
-              - supplied[reason=omitted]: it
-              - e fercula grata.
+          - lb[n=1785,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Lu
+            - strans convivia statim elig
+            - supplied[reason=omitted]: it
+            - e fercula grata.
           - lb[n=1886]:
             - foreign[lg=lat-Latn]: Esca
             - pokrm,
@@ -14873,15 +14547,13 @@ text:
             - rosol,
             - podczepki
             - foreign[lg=lat-Latn]: subella.
-          - lb[n=1853]:
-            - foreign[lg=lat-Latn]: Quis dedit hec, si scis? Est Sulco Wyssegradiensis
+          - lb[n=1853,lg=lat-Latn]: Quis dedit hec, si scis? Est Sulco Wyssegradiensis
       - chapter[n=16]:
         - head[lg=lat-Latn]: De vestibus
         - p:
-          - lb[n=1854]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Ex
-              - cipiens vestes has nudis pectore prestes.
+          - lb[n=1854,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Ex
+            - cipiens vestes has nudis pectore prestes.
           - lb[n=1855]:
             - foreign[lg=lat-Latn]: Vestis
             - rub,
@@ -15459,17 +15131,15 @@ text:
             - foreign[lg=lat-Latn]: limba,
             - sscaplerz
             - foreign[lg=lat-Latn]: scapulare.
-          - lb[n=1939]:
-            - foreign[lg=lat-Latn]: Nomina nunc propria sperno dare non numerata.
+          - lb[n=1939,lg=lat-Latn]: Nomina nunc propria sperno dare non numerata.
     - part[n=VII]:
       - head[lg=lat-Latn]: De domo et templo
       - chapter[n=1]:
         - head[lg=lat-Latn]: De domo.
         - p:
-          - lb[n=1940]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: No
-              - scitur hec septapars de domibus bene septa.
+          - lb[n=1940,lg=lat-Latn]:
+            - hi[rend=smallcaps]: No
+            - scitur hec septapars de domibus bene septa.
           - lb[n=1941]:
             - foreign[lg=lat-Latn]: Domus
             - dvom,
@@ -15907,15 +15577,13 @@ text:
             - foreign[lg=lat-Latn]: sedes,
             - ssemliczka
             - foreign[lg=lat-Latn]: sedile.
-          - lb[n=2006]:
-            - foreign[lg=lat-Latn]: Scripsit Claretus, sibi que dederat Benedictus.
+          - lb[n=2006,lg=lat-Latn]: Scripsit Claretus, sibi que dederat Benedictus.
       - chapter[n=2]:
         - head[lg=lat-Latn]: De uteusilibus
         - p:
-          - lb[n=2007]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Co
-              - rdis habens vires domibus utensile disces.
+          - lb[n=2007,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Co
+            - rdis habens vires domibus utensile disces.
           - lb[n=2008]:
             - foreign[lg=lat-Latn]: Mensa
             - stuol,
@@ -16394,18 +16062,16 @@ text:
             - foreign[lg=lat-Latn]: supra,
             - rzerzab
             - foreign[lg=lat-Latn]: anabatrum.
-          - lb[n=2081]:
-            - foreign[lg=lat-Latn]:
-              - 'Hec michi Vilhelmus dedit in Strakonicz '
-              - supplied[reason=lost]: comes
-              - ' aptus.'
+          - lb[n=2081,lg=lat-Latn]:
+            - 'Hec michi Vilhelmus dedit in Strakonicz '
+            - supplied[reason=lost]: comes
+            - ' aptus.'
       - chapter[n=3]:
         - head[lg=lat-Latn]: De civitate
         - p:
-          - lb[n=2082]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: In
-              - ' civitate bona michi summo vocabula tanta.'
+          - lb[n=2082,lg=lat-Latn]:
+            - hi[rend=smallcaps]: In
+            - ' civitate bona michi summo vocabula tanta.'
           - lb[n=2083]:
             - foreign[lg=lat-Latn]: Urbs
             - ohrada,
@@ -16798,15 +16464,13 @@ text:
             - wzchodlacz
             - foreign[lg=lat-Latn]: coclea, percula
             - pawlacz.
-          - lb[n=2143]:
-            - foreign[lg=lat-Latn]: Hec Papias reserat, que plura Boecius aptat.
+          - lb[n=2143,lg=lat-Latn]: Hec Papias reserat, que plura Boecius aptat.
       - chapter[n=4]:
         - head[lg=lat-Latn]: De armis
         - p:
-          - lb[n=2144]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Ar
-              - ipiens arma dabis instrumenta secunda.
+          - lb[n=2144,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Ar
+            - ipiens arma dabis instrumenta secunda.
           - lb[n=2145]:
             - foreign[lg=lat-Latn]: Armaria
             - brnye,
@@ -17085,17 +16749,15 @@ text:
             - zatul
             - foreign[lg=lat-Latn]: actula, iactula
             - vrhel.
-          - lb[n=2186]:
-            - foreign[lg=lat-Latn]: Hec data Theutuníca dic apcius esse Bohema.
+          - lb[n=2186,lg=lat-Latn]: Hec data Theutuníca dic apcius esse Bohema.
       - chapter[n=5]:
         - head[lg=lat-Latn]: De urbis hominibus
         - p:
-          - lb[n=2187]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Cl
-              - aretus pangit urb
-              - supplied[reason=lost]: e
-              - s, homines modo tangit.
+          - lb[n=2187,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Cl
+            - aretus pangit urb
+            - supplied[reason=lost]: e
+            - s, homines modo tangit.
           - lb[n=2188]:
             - foreign[lg=lat-Latn]:
               - Agric
@@ -17442,18 +17104,16 @@ text:
             - foreign[lg=lat-Latn]: sompniator,
             - protyvnik
             - foreign[lg=lat-Latn]: contrariator.
-          - lb[n=2247]:
-            - foreign[lg=lat-Latn]:
-              - Cuncta Bohema fer
-              - supplied[reason=lost]: o
-              - ', Ripenses voce sequendo.'
+          - lb[n=2247,lg=lat-Latn]:
+            - Cuncta Bohema fer
+            - supplied[reason=lost]: o
+            - ', Ripenses voce sequendo.'
       - chapter[n=6]:
         - head[lg=lat-Latn]: De iudice
         - p:
-          - lb[n=2248]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Or
-              - tographus laudes donat de iudice grandes.
+          - lb[n=2248,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Or
+            - tographus laudes donat de iudice grandes.
           - lb[n=2249]:
             - foreign[lg=lat-Latn]: Querela
             - zaloba
@@ -17891,15 +17551,13 @@ text:
             - foreign[lg=lat-Latn]: obses,
             - kroki
             - foreign[lg=lat-Latn]: girum,
-          - lb[n=2326]:
-            - foreign[lg=lat-Latn]: Talia scriptores repetant verba minores.
+          - lb[n=2326,lg=lat-Latn]: Talia scriptores repetant verba minores.
       - chapter[n=7]:
         - head[lg=lat-Latn]: De ecclesia
         - p:
-          - lb[n=2327]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Ma
-              - nicat ecclesia dare presbiteris sua iura.
+          - lb[n=2327,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Ma
+            - nicat ecclesia dare presbiteris sua iura.
           - lb[n=2328]:
             - foreign[lg=lat-Latn]: Ecclesia
             - kostel,
@@ -18241,21 +17899,19 @@ text:
             - dawnik,
             - foreign[lg=lat-Latn]: Doctrinale
             - navczewnik.
-          - lb[n=2383]:
-            - foreign[lg=lat-Latn]:
-              - supplied[reason=lost]: Hec
-              - ' Olomucensis data presulis aucta Iohan'
-              - supplied[reason=lost]: i
-              - s.
+          - lb[n=2383,lg=lat-Latn]:
+            - supplied[reason=lost]: Hec
+            - ' Olomucensis data presulis aucta Iohan'
+            - supplied[reason=lost]: i
+            - s.
       - chapter[n=8]:
         - head[lg=lat-Latn]: De festis
         - p:
-          - lb[n=2384]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Pr
-              - edicta nosce
-              - supplied[reason=lost]: n
-              - s defestis sumito discens.
+          - lb[n=2384,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Pr
+            - edicta nosce
+            - supplied[reason=lost]: n
+            - s defestis sumito discens.
           - lb[n=2385]:
             - Wsed
             - foreign[lg=lat-Latn]: feria, indica
@@ -18302,9 +17958,8 @@ text:
             - mladenye,
             - foreign[lg=lat-Latn]: circumcisus
             - obrziezovanye
-          - lb[n=2392]:
-            - foreign[lg=lat-Latn]:
-              - supplied[reason=lost]: ' ............................... '
+          - lb[n=2392,lg=lat-Latn]:
+            - supplied[reason=lost]: ' ............................... '
           - lb[n=2393]:
             - foreign[lg=lat-Latn]: Iubileus
             - myleto,
@@ -18345,9 +18000,8 @@ text:
             - foreign[lg=lat-Latn]: quadragesima,
             - devietnik
             - foreign[lg=lat-Latn]: septuagesima,
-          - lb[n=2400]:
-            - foreign[lg=lat-Latn]:
-              - supplied[reason=lost]: 'Nonagesima ......................... '
+          - lb[n=2400,lg=lat-Latn]:
+            - supplied[reason=lost]: 'Nonagesima ......................... '
           - lb[n=2401]:
             - foreign[lg=lat-Latn]: Passio sit
             - muczeníe,
@@ -18564,15 +18218,13 @@ text:
             - obietovaníe,
             - zaviet
             - foreign[lg=lat-Latn]: irro.
-          - lb[n=2437]:
-            - foreign[lg=lat-Latn]: Karolus hiis sanus, rex, caesar, ator, Elianus.
+          - lb[n=2437,lg=lat-Latn]: Karolus hiis sanus, rex, caesar, ator, Elianus.
       - chapter[n=9]:
         - head[lg=lat-Latn]: De rebus ecclesiasticis
         - p:
-          - lb[n=2438]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: In
-              - terea verges, quod hic ecclesiastica vertes.
+          - lb[n=2438,lg=lat-Latn]:
+            - hi[rend=smallcaps]: In
+            - terea verges, quod hic ecclesiastica vertes.
           - lb[n=2439]:
             - Staveníe
             - foreign[lg=lat-Latn]: structura,
@@ -18585,8 +18237,7 @@ text:
             - kadyeníe,
             - foreign[lg=lat-Latn]: penitencia dico
             - pokaníe,
-          - lb[n=2441]:
-            - foreign[lg=lat-Latn]: '............................'
+          - lb[n=2441,lg=lat-Latn]: '............................'
           - lb[n=2442]:
             - foreign[lg=lat-Latn]:
               - C
@@ -18892,17 +18543,15 @@ text:
             - bazn
             - nyzko
             - foreign[lg=lat-Latn]: que ymum.
-          - lb[n=2495]:
-            - foreign[lg=lat-Latn]: Firmet hec Arnestus archipresul, auctor honestus.
+          - lb[n=2495,lg=lat-Latn]: Firmet hec Arnestus archipresul, auctor honestus.
     - part[n=VIII]:
       - head[lg=lat-Latn]: De arte et artificibus
       - chapter[n=1]:
         - head[lg=lat-Latn]: De artificibus
         - p:
-          - lb[n=2496]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: La
-              - rga prius dicta post artifices bene signa.
+          - lb[n=2496,lg=lat-Latn]:
+            - hi[rend=smallcaps]: La
+            - rga prius dicta post artifices bene signa.
           - lb[n=2497]:
             - foreign[lg=lat-Latn]: Artifex
             - rzemeslnik,
@@ -19229,16 +18878,14 @@ text:
             - vocher
             - foreign[lg=lat-Latn]: eflax, olfa
             - vonaczka.
-          - lb[n=2549]:
-            - foreign[lg=lat-Latn]:
-              - Dic
-              - supplied[reason=lost]: cio
-              - ' queque suum proprium fert significatum.'
+          - lb[n=2549,lg=lat-Latn]:
+            - Dic
+            - supplied[reason=lost]: cio
+            - ' queque suum proprium fert significatum.'
       - chapter[n=2]:
         - head[lg=lat-Latn]: De fabris
         - p:
-          - lb[n=2550]:
-            - foreign[lg=lat-Latn]: Addito sartores, argos post dicta sutores.
+          - lb[n=2550,lg=lat-Latn]: Addito sartores, argos post dicta sutores.
           - lb[n=2551]:
             - foreign[lg=lat-Latn]: Pellifex
             - kozisnik,
@@ -19533,15 +19180,13 @@ text:
             - sslak,
             - otrzebki
             - foreign[lg=lat-Latn]: poterna.
-          - lb[n=2596]:
-            - foreign[lg=lat-Latn]: Cuncta dat equivoca defectus meth aphorata.
+          - lb[n=2596,lg=lat-Latn]: Cuncta dat equivoca defectus meth aphorata.
       - chapter[n=3]:
         - head[lg=lat-Latn]: De fabrilibus
         - p:
-          - lb[n=2597]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Ta
-              - ndem fabrili a digne refero documenta.
+          - lb[n=2597,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Ta
+            - ndem fabrili a digne refero documenta.
           - lb[n=2598]:
             - foreign[lg=lat-Latn]: Stanneator
             - studenarz,
@@ -19797,15 +19442,13 @@ text:
             - hersst,
             - budna
             - foreign[lg=lat-Latn]: futura.
-          - lb[n=2640]:
-            - foreign[lg=lat-Latn]: Intentus variis nequeo dare plura Bohemís.
+          - lb[n=2640,lg=lat-Latn]: Intentus variis nequeo dare plura Bohemís.
       - chapter[n=4]:
         - head[lg=lat-Latn]: De nautis
         - p:
-          - lb[n=2641]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Ve
-              - scere iam dicta denautis appropriata. .
+          - lb[n=2641,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Ve
+            - scere iam dicta denautis appropriata. .
           - lb[n=2642]:
             - Marnerz
             - foreign[lg=lat-Latn]: nauclerus, navis
@@ -19988,15 +19631,13 @@ text:
             - supruh
             - foreign[lg=lat-Latn]: addipa, concipa
             - prozak.
-          - lb[n=2669]:
-            - foreign[lg=lat-Latn]: Non repetam verbum plures res significandum.
+          - lb[n=2669,lg=lat-Latn]: Non repetam verbum plures res significandum.
       - chapter[n=5]:
         - head[lg=lat-Latn]: De scriptoribus
         - p:
-          - lb[n=2670]:
-            - foreign[lg=lat-Latn]:
-              - hi[rend=smallcaps]: Su
-              - scipe mente pia descriptoribus documenta.
+          - lb[n=2670,lg=lat-Latn]:
+            - hi[rend=smallcaps]: Su
+            - scipe mente pia descriptoribus documenta.
           - lb[n=2671]:
             - foreign[lg=lat-Latn]: Crida
             - krzida,
