@@ -38,12 +38,12 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="slv-Latn-x-oldslv">Old Slovenian</language>
-				<language ident="deu-Latn">German</language>
-				<language ident="slv-Latn-x-rezgni">Slovenian (Rezian-Gniva)</language>
-				<language ident="slv-Latn-x-rez">Slovenian (Rezian)</language>
-				<language ident="slv-Latn-x-rezsg">Slovenian (Rezian-San Giorgio)</language>
-				<language ident="lat-Latn">Latin</language>
+				<language ident="slv-Latn-x-oldslv" ana="primary">Old Slovenian</language>
+				<language ident="slv-Latn-x-rezgni" ana="secondary">Slovenian (Rezian-Gniva)</language>
+				<language ident="slv-Latn-x-rez" ana="secondary">Slovenian (Rezian)</language>
+				<language ident="slv-Latn-x-rezsg" ana="secondary">Slovenian (Rezian-San Giorgio)</language>
+				<language ident="lat-Latn" ana="secondary">Latin</language>
+				<language ident="deu-Latn" ana="meta">German</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>

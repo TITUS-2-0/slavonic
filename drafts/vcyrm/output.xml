@@ -22,8 +22,8 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="chu-Glag">Church Slavic</language>
-				<language ident="lat-Latn">Latin</language>
+				<language ident="lat-Latn" ana="secondary">Latin</language>
+				<language ident="chu-Glag" ana="primary">Church Slavic</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>

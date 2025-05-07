@@ -41,7 +41,7 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="hsb-Latn">Upper Sorbian</language>
+				<language ident="hsb-Latn" ana="primary">Upper Sorbian</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>

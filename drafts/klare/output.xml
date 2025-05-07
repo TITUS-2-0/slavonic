@@ -40,8 +40,8 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="ces-Latn-x-old-czech">Old Czech</language>
-				<language ident="lat-Latn">Latin</language>
+				<language ident="lat-Latn" ana="secondary">Latin</language>
+				<language ident="ces-Latn-x-old-czech" ana="primary">Old Czech</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>

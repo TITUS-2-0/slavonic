@@ -38,8 +38,8 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="orv-Cyrl">Old Russian</language>
-				<language ident="rus-Cyrl">Russian</language>
+				<language ident="rus-Cyrl" ana="secondary">Russian</language>
+				<language ident="orv-Cyrl" ana="primary">Old Russian</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
