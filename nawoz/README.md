@@ -4,13 +4,13 @@
 
 This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs/slav/osorb/nawozena/nawoz.htm).
 
-* URL: https://titus2.uni-frankfurt.de/dataset/nawoz
+* URL: https://github.com/TITUS-2-0/slavonic/tree/main/drafts/nawoz
 * version: 0.1.0
 * date: 2025-04-23
 
 ## Citation
 ```text
-Digital version of Nawoženja by Jakub Bart-Ćišinski (v0.1.0). By: Rainer Gerthner, Jost Gippert, Florian Matter. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://titus2.uni-frankfurt.de/dataset/nawoz, visited on <insert date>)
+Digital version of Nawoženja by Jakub Bart-Ćišinski (v0.1.0). By: Rainer Gerthner, Jost Gippert, Florian Matter. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://github.com/TITUS-2-0/slavonic/tree/main/drafts/nawoz, visited on <insert date>)
 ```
 
 ## TEI encoding
