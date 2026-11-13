@@ -4,13 +4,13 @@
 
 This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs/slav/aruss/rat/rat.htm).
 
-* URL: https://github.com/TITUS-2-0/slavonic/tree/main/drafts/rat/
+* URL: https://github.com/TITUS-2-0/slavonic/tree/main/drafts/rat
 * version: unreleased
-* date: 2025-03-20
+* date: 2026-11-13
 
 ## Citation
 ```text
-Digital version of [Untitled Dataset] (draft version). In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://github.com/TITUS-2-0/slavonic/tree/main/drafts/rat/, visited on <insert date>)
+Digital version of [Untitled Dataset] (draft version). In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://github.com/TITUS-2-0/slavonic/tree/main/drafts/rat, visited on <insert date>)
 ```
 
 ## TEI encoding
