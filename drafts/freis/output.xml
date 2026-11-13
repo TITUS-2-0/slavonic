@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Freising Monuments</title>
+        <author>Unknown</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Goethe University</publisher>
+        <pubPlace>Frankfurt</pubPlace>
+        <date when="2026-01-18">2026-01-18</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+          <p>Preferred citation: <note type="citation">Digital version of Freising Monuments by Unknown (draft version). 2026-01-18. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          </p>
+        </availability>
+        <idno type="version">unreleased</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Missing metadata</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="slv-Latn-x-oldslv" ana="primary">Old Slovenian</language>
+        <language ident="und-Latn-x-general" ana="meta">General</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text xml:lang="slv-Latn-x-oldslv">
+    <body>
+      <div n="I" xml:id="part-1" type="part" data-level="1">
+        <head xml:lang="und-Latn-x-general">Textus I</head>
+        <pb n="78r" />
+        <p xml:id="part-1-p-1">
+          <lb n="1" />GLAGOLITE PONAZ REDKA ZLOUEZA.
+          <lb n="2" />Boſe gozpodi miloztiuv'i. otze boſe. tebe izpovuede.
+          <lb n="3" />vuez moi greh. Ízuetemu creztu. Ízuetei marii. Ízue
+          <lb n="4" />temu michaelu. Iuuizem crilatcem boſiem. I zuetemu pe
+          <lb n="5" />tru. Iúzem zelom boſiem. Iúzem muſenicom boſiem.
+          <lb n="6" />Iúzem vuernicom boſiem. Iúzem. devuám praudnim. Iúzē
+          <lb n="7" />praudnim. Itebe boſirabe. chokú. biti. izpovueden. uzeh. moih
+          <lb n="8" />greh. Ívueruiú. dami. ie. nazem zuete. beuſi. iti ſe. na on'
+          <lb n="9" />zuet. pakiſe uztati. nazod\ni/ den. Ímeti mi ie.'ſivuot'
+          <lb n="10" />pozem. Íme ti mi ie. otpuztic moih grechou. Boſe
+          <lb n="11" />miloztiuvi. primi moiv. izpovued. moih grechou. Eſe
+          <lb n="12" />iezem ztuoril zla. pot den pongeſe bih nazi zvuet.
+          <lb n="13" />v'uuraken. ibih criſken. Eſe pomngu. ili ne pomngu. Ili
+          <lb n="14" />vúolu. ili ne vúolu. Ili vúede. ili ne vúede. Ili úne praud
+          <lb n="15" />nei rote. ili úlſi. Ili tatbe. ili zavuizti. ili v' uzmazi.
+          <lb n="16" />Ili vziniſtue. ili eſe mizetomu. chotelo. emuſe mibi. ne doz
+          <lb n="17" />talo. choteti. Ili vpoglagolani. ili zpé. ili nezp'e.' Ili eſe
+          <lb n="18" />iezem. ne zpazal. nedela. ni zúeta vuécera. ni mega
+          <lb n="19" />pozta. Í. inoga. mnogoga. eſe protiubogu. íprotiu me
+          <lb n="20" />mu creztu. Tí edin boſe. vúez. caco mi iega potre
+          <lb n="21" />ba vúelica. Boſe gozpodi miloztiví. tebe ze mil
+          <lb n="22" />tuoriv'. od. zih poſtenih greh. Í. odineh mnozeh.
+          <lb n="23" />I. vúenſih. í minſih. Eſe iezem ztvoril. teh ze.'tebe
+          <lb n="24" />miltuoriv'. Í. zuetei marii. Í. v'zem zvetim'.</p>
+        <pb n="78v" />
+        <p xml:id="part-1-p-2">
+          <lb n="1" />Idabim nazem zuete. tacoga grecha pocazen v'zel.
+          <lb n="2" />ácoſe ti mi zadeneſ. iacoſe tuá milozt. itebe liubo.
+          <lb n="3" />Boſe ti pride zenebeze. v'ſe zeda vmoku. za vuíz
+          <lb n="4" />národ. Dabini zlodeiu otél. otmime vzem zlo
+          <lb n="5" />deiem. Miloztivui boſe. tebe poronſo me telo. Í.
+          <lb n="6" />mó duſú. I. moia zlovueza. Íme delo. Ímó vuoliu.
+          <lb n="7" />Í. mo vueru. ímoi ſivuót. Idabim uzliſſal. nazodni
+          <lb n="8" />den tuó milozt vueliu. ztemi ieſe v'zovueſ tvói
+          <lb n="9" />mi vzti. Pridete otza mega izvuolieni. pri
+          <lb n="10" />mete vúecſne vúezelie. í vúecſni ſivuót Eſev
+          <lb n="11" />iezt. ugotoulieno. iz uueka v' uuek. a men.</p>
+      </div>
+      <div n="II" xml:id="part-2" type="part" data-level="1">
+        <head xml:lang="und-Latn-x-general">Textus II</head>
+        <pb n="158v" />
+        <p xml:id="part-2-p-3">
+          <lb n="1" />Eccę bi detd naſ neze
+          <lb n="2" />greſil tevuekigemube
+          <lb n="3" />ſiti ſtaroſti neprigem
+          <lb n="4" />lióki nikoligeſe pet
+          <lb n="5" />ſali neimugi niſlzna
+          <lb n="6" />telezeimoki nuúvuę
+          <lb n="7" />kigemubeſiti bone
+          <lb n="8" />ſezavuiztiubui ne
+          <lb n="9" />priiazninu uvignan
+          <lb n="10" />Odſzlauuiboſigę Potom
+          <lb n="11" />nanarodzlovuezki
+          <lb n="12" />ſtrazti Ipetzali boi
+          <lb n="13" />do neimoki Ibzzre
+          <lb n="14" />duzemirt. Ipagibra
+          <lb n="15" />triia pomenem ze
+          <lb n="16" />dai zino uueboſi na
+          <lb n="17" />reſemze botomu Oz</p>
+        <pb n="158v" />
+        <p xml:id="part-2-p-4">
+          <lb n="18" />ſtanem zich mirzcih
+          <lb n="19" />del Eſeſunt dela ſoto
+          <lb n="20" />nina Eſetrebu tuorim
+          <lb n="21" />bratra Oclevuetam Eſe
+          <lb n="22" />tatua Eſeraſzboi Eſepulti
+          <lb n="23" />ugongenige Eſeroti Choi
+          <lb n="24" />ſe Ih nepazem nuge pre
+          <lb n="25" />ſtopam Eſene nauuizt
+          <lb n="26" />nizce teh del mirzene
+          <lb n="27" />pred boſima ozima mo
+          <lb n="28" />ſete potomu zinzi uvi
+          <lb n="29" />deti Izami razumeti
+          <lb n="30" />eſebeſe priuuæ zlou
+          <lb n="31" />uezi Uliza tazie aco
+          <lb n="32" />ſe imuigezim tere ne
+          <lb n="33" />priiaznina uz nenauvi
+          <lb n="34" />deſſe Aboſiu uzliubiſe</p>
+        <pb n="158r" />
+        <p xml:id="part-2-p-5">
+          <lb n="1" />dabotomu nine ucircu
+          <lb n="2" />vah ich clanam ze Imod
+          <lb n="3" />lim ze im Izeſti ich
+          <lb n="4" />pigem I obeti naſſe im
+          <lb n="5" />nezem Ozcepaſgenige
+          <lb n="6" />telez naſich iduſ naſich
+          <lb n="7" />Tîgeſemoſem imui eſte
+          <lb n="8" />buiti eccę tage dela
+          <lb n="9" />naſnem delati iaſeo
+          <lb n="10" />ni delaſe Onibo laſ
+          <lb n="11" />na natrovuechu ſeg
+          <lb n="12" />na naboiachu bozza
+          <lb n="13" />obuiachu naga ode
+          <lb n="14" />achu malo mogoncka
+          <lb n="15" />uime boſie bozzekacho
+          <lb n="16" />mrzna zigreahu ſtran
+          <lb n="17" />na bodcrovvi zuoge</p>
+        <pb n="158r" />
+        <p xml:id="part-2-p-6">
+          <lb n="18" />uvedechu Utim
+          <lb n="19" />nizah iuzelezneh
+          <lb n="20" />vvoſich Uclepenih
+          <lb n="21" />bozcekachu Iuime
+          <lb n="22" />boſie te uteſſahu
+          <lb n="23" />temi temitize deli
+          <lb n="24" />bogu bripliſaze taco
+          <lb n="25" />zinzi inam ze mod
+          <lb n="26" />liti tomuge vuirch
+          <lb n="27" />nemo Otzu Goßpodi doſ
+          <lb n="28" />dani tamoge vzed
+          <lb n="29" />li vzezarſtuo ſuoge
+          <lb n="30" />Eſeieſt úgotouleno iz
+          <lb n="31" />coni doconi izvvo
+          <lb n="32" />lenico\com/ boſiem Igezm
+          <lb n="33" />bratria bozuuani ib
+          <lb n="34" />bgeni Egoſenemoſem</p>
+        <pb n="158v" />
+        <p xml:id="part-2-p-7">
+          <lb n="1" />nikīſeliza niucri
+          <lb n="2" />ti nicacoſé ubega
+          <lb n="3" />ti nugeſtati pred
+          <lb n="4" />ſtolom boſigem ze
+          <lb n="5" />zopirnicom naſim
+          <lb n="6" />zezlodgem ſtarim
+          <lb n="7" />igeſtze pred boſi
+          <lb n="8" />ma oſima vzaco
+          <lb n="9" />mu zuoimi vzti
+          <lb n="10" />izuoim glagolom
+          <lb n="11" />izbovuedati Eſege
+          <lb n="12" />naſemßuete chiſto
+          <lb n="13" />ſtuoril libobodi do
+          <lb n="14" />brolibolizi zlo
+          <lb n="15" />Dactomudini zinzi
+          <lb n="16" />muzlite ide neca
+          <lb n="17" />moze vcloniti nu</p>
+        <pb n="158v" />
+        <p xml:id="part-2-p-8">
+          <lb n="18" />ge pred boſima oſima
+          <lb n="19" />ſtati izio prio imeti
+          <lb n="20" />iuſegezim bovvedal
+          <lb n="21" />Naſ gozbod ßueticruz
+          <lb n="22" />iſegeſt bali teleznaſſih
+          <lb n="23" />izpaſitel duſnaſſih ton
+          <lb n="24" />bozzledine balouvani
+          <lb n="25" />ge pozledge pozſtavv
+          <lb n="26" />iucazalge imſeze nam
+          <lb n="27" />dozſtoi odgego zavue
+          <lb n="28" />kati igemuzeoteti
+          <lb n="29" />preiſe naſſi zeſztoco
+          <lb n="30" />ſtradacho nebo ie te
+          <lb n="31" />pechu metlami ipri
+          <lb n="32" />nizſe ogni petſachv
+          <lb n="33" />imetſi tnachu ipolezv
+          <lb n="34" />vueſachu iſelezni cliuſi</p>
+        <pb n="158r" />
+        <p xml:id="part-2-p-9">
+          <lb n="1" />ge raztrgachu atobac
+          <lb n="2" />mui ninge naſu prau
+          <lb n="3" />dnu vuerun ipraudnv
+          <lb n="4" />izbovuediu toiemoſim
+          <lb n="5" />ztoriti eſeoni to vue
+          <lb n="6" />lico ſtraſtiu ſtuoriſe
+          <lb n="7" />dapotomuzinzi boſi
+          <lb n="8" />raba prizzuauſe tere
+          <lb n="9" />im grechi vuaſa poſte
+          <lb n="10" />te íim izpovvedni bo
+          <lb n="11" />dete grechov uuaſih</p>
+      </div>
+      <div n="III" xml:id="part-3" type="part" data-level="1">
+        <head xml:lang="und-Latn-x-general">Textus III</head>
+        <pb n="160v" />
+        <p xml:id="part-3-p-10">
+          <lb n="1" />Iazze zaglagolo
+          <lb n="2" />zlodeiu. Iuzem iego
+          <lb n="3" />delom. Iuzem iego
+          <lb n="4" />lepocam. Toſe uue
+          <lb n="5" />ruiu ubog uze mo
+          <lb n="6" />goki. Iu iega zin.
+          <lb n="7" />Iu zuueti duh. Data
+          <lb n="8" />tri imena. edin bog
+          <lb n="9" />gozpod zuueti.
+          <lb n="10" />iſe zuori nebo. Iz
+          <lb n="11" />emlo. Toſe izco ie
+          <lb n="12" />ga milozti. Iſc~e
+          <lb n="13" />mariae. Iſc~e mic
+          <lb n="14" />hahela. Iſc~e pe
+          <lb n="15" />tra. Iuſeh boſih zil.
+          <lb n="16" />Iuzeh boſih moſe
+          <lb n="17" />nic. Iuſeh +b za</p>
+        <pb n="160v" />
+        <p xml:id="part-3-p-11">
+          <lb n="18" />connic. Iuſeh zue_tih;
+          <lb n="19" />deuuiz. Iuzeh +b moki.
+          <lb n="20" />Da miraſite napomoki
+          <lb n="21" />biti. Kibogu moih gre
+          <lb n="22" />chou. Dabim ciſto iz
+          <lb n="23" />pouued ztuoril. Iod
+          <lb n="24" />puztic otboga priel.
+          <lb n="25" />Bogu uze mogokemu.
+          <lb n="26" />izpouuede uze moie
+          <lb n="27" />greche. Iſc~e marie.
+          <lb n="28" />Uzeh nepraudnih del.
+          <lb n="29" />inepraudnega pomiſleņa.
+          <lb n="30" />Eſe iezem uuede ztuo
+          <lb n="31" />ril. ili neuuede. nudmi
+          <lb n="32" />ili lubmi zpe ili bdê.
+          <lb n="33" />Uzpitnih rotah. Vliſnih
+          <lb n="34" />reſih. vtatbinah. Uzniciſtvę.</p>
+        <pb n="160r" />
+        <p xml:id="part-3-p-12">
+          <lb n="1" />Ulacomztue. Vlichogedeņ.
+          <lb n="2" />Vlichopiti. Uuzmaztue.
+          <lb n="3" />Iuuzemlichodiani. Eſe
+          <lb n="4" />ieſem ztuoril +ptiuuo
+          <lb n="5" />bogu. odtogo dine
+          <lb n="6" />poneſe xp~en bih. daſe
+          <lb n="7" />dodiniz negodine. Togo
+          <lb n="8" />uzego izpouueden bodo.
+          <lb n="9" />Bogu. Iſc~e marii. I ſc~o
+          <lb n="10" />laurenzu gozpodi.
+          <lb n="11" />Iuzem zuetim. Itebe
+          <lb n="12" />boſi rabe. Caiuze
+          <lb n="13" />moih grechou. Iradze
+          <lb n="14" />chocu caiati. elicoſe
+          <lb n="15" />zimizla imam eche
+          <lb n="16" />meboſe poſtediſi. Daimi
+          <lb n="17" />boſe gozpodi. tuuoiu</p>
+        <pb n="160r" />
+        <p xml:id="part-3-p-13">
+          <lb n="18" />milozt. dabim nez
+          <lb n="19" />ramen. ineztiden
+          <lb n="20" />nazudinem dine.
+          <lb n="21" />predtuima oſima
+          <lb n="22" />ztoial. igdaſe pri
+          <lb n="23" />deſ zodit. Siuuim.
+          <lb n="24" />Imrtuim. comuſdo
+          <lb n="25" />pozuem dele. Tebe
+          <lb n="26" />boſe miloztivui
+          <lb n="27" />poruſo uza moia
+          <lb n="28" />zlouuez Imoia
+          <lb n="29" />dela. Imoie pomiſ
+          <lb n="30" />lenie. Imoie zridze.
+          <lb n="31" />Imoie telo. Imoi
+          <lb n="32" />ſuiuot. Imoiu duſu.
+          <lb n="33" />Criſte boſi zinu.
+          <lb n="34" />iſe iezi razil. nazi</p>
+        <pb n="160v" />
+        <p xml:id="part-3-p-14">
+          <lb n="1" />zuue_t priti. greſ
+          <lb n="2" />nike iſbauuiti. ot
+          <lb n="3" />zlodeine oblazti.
+          <lb n="4" />Uchranime otuzega
+          <lb n="5" />zla. Izpazime
+          <lb n="6" />vuzem blaſe.
+          <lb n="7" />A_M_E_N .
+          <lb n="8" />amen</p>
+      </div>
+    </body>
+  </text>
+</TEI>
