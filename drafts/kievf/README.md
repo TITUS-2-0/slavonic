@@ -4,13 +4,13 @@
 
 This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs/slav/aksl/kievfol/kievf.htm).
 
-* URL: https://github.com/TITUS-2-0/slavonic/tree/main/drafts/kievf/
+* URL: https://github.com/TITUS-2-0/slavonic/tree/main/drafts/kievf
 * version: unreleased
-* date: 2025-04-09
+* date: 2026-11-13
 
 ## Citation
 ```text
-Digital version of [Untitled Dataset] (draft version). In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://github.com/TITUS-2-0/slavonic/tree/main/drafts/kievf/, visited on <insert date>)
+Digital version of [Untitled Dataset] (draft version). In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://github.com/TITUS-2-0/slavonic/tree/main/drafts/kievf, visited on <insert date>)
 ```
 
 ## TEI encoding
