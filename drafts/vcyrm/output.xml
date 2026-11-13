@@ -8,13 +8,13 @@
       <publicationStmt>
         <publisher>Goethe University</publisher>
         <pubPlace>Frankfurt</pubPlace>
-        <date when="2025-04-09">2025-04-09</date>
+        <date when="2026-11-13">2026-11-13</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-          <p>Preferred citation: <note type="citation">Digital version of Vita Constantini et Methodii by Unknown (draft version). 2025-04-09. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          <p>Preferred citation: <note type="citation">Digital version of Vita Constantini et Methodii by Unknown (v0.0.1.draft). 2026-11-13. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
           </p>
         </availability>
-        <idno type="version">unreleased</idno>
+        <idno type="version">0.0.1.draft</idno>
       </publicationStmt>
       <sourceDesc>
         <p>Missing metadata</p>
@@ -22,8 +22,8 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="chu-Glag" ana="primary">Church Slavic</language>
-        <language ident="lat-Latn" ana="secondary">Latin</language>
+        <language ana="primary" ident="chu-Glag">Church Slavic</language>
+        <language ana="secondary" ident="lat-Latn">Latin</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -33,7 +33,7 @@
         <lb n="1" />Паметь и житіе блаженаго оучителя нашего Костан/тина
         <lb n="2" />философа· пръваго настав/ника словен/скѹ эӡыкѹ·
         <lb n="3" />благослови·</p>
-      <div n="1" xml:id="chapter-1" type="chapter" data-level="1">
+      <div data-level="1" n="1" type="chapter" xml:id="chapter-1">
         <pb n="1" />
         <p n="1" xml:id="chapter-1-p-2">
           <lb n="1" />Богъ милостивь и щедрь· ѡжидаэ покааніе чловѣчьско· да
@@ -64,7 +64,7 @@
           <lb n="3" />приэмлэ· а лѣность ѡтмѣтаэ· якоже рече апостоль·
           <lb n="4" />подобни мнѣ бываите· якоже и аӡь Христоу·</p>
       </div>
-      <div n="2" xml:id="chapter-2" type="chapter" data-level="1">
+      <div data-level="1" n="2" type="chapter" xml:id="chapter-2">
         <pb n="1" />
         <p n="1" xml:id="chapter-2-p-6">
           <lb n="1" />Въ солоун/сцѣ градѣ бѣ моужь этерь добророднь и богать·
@@ -103,7 +103,7 @@
         <p n="8" xml:id="chapter-2-p-13">
           <lb n="1" />эже се и събысть·</p>
       </div>
-      <div n="3" xml:id="chapter-3" type="chapter" data-level="1">
+      <div data-level="1" n="3" type="chapter" xml:id="chapter-3">
         <pb n="1" />
         <p n="1" xml:id="chapter-3-p-14">
           <lb n="1" />Седми же лѣть сы отрокь· видѣ сънь и повѣдаэ ѡтьцѹ
@@ -240,7 +240,7 @@
           <lb n="1" />и къ семѹ прочеэ соломоню молитвѹ иӡьглаголавь
           <lb n="2" />и въставь рече аминь·</p>
       </div>
-      <div n="4" xml:id="chapter-4" type="chapter" data-level="1">
+      <div data-level="1" n="4" type="chapter" xml:id="chapter-4">
         <pb n="1" />
         <p n="1" xml:id="chapter-4-p-46">
           <lb n="1" />Егда же пріиде къ Цариградѹ· въдаше эго оучителэмь·
@@ -334,7 +334,7 @@
         <p n="20" xml:id="chapter-4-p-65">
           <lb n="1" />по то се пріеть·</p>
       </div>
-      <div n="5" xml:id="chapter-5" type="chapter" data-level="1">
+      <div data-level="1" n="5" type="chapter" xml:id="chapter-5">
         <pb n="1" />
         <p n="1" xml:id="chapter-5-p-66">
           <lb n="1" />Бѣ же Аньніи патріархь эресь въӡдвигль глаголэ·
@@ -434,7 +434,7 @@
         <p n="24" xml:id="chapter-5-p-89">
           <lb n="1" />противѹ же симь не могыи прѣ· стар/чь оумльча и посрами се·</p>
       </div>
-      <div n="6" xml:id="chapter-6" type="chapter" data-level="1">
+      <div data-level="1" n="6" type="chapter" xml:id="chapter-6">
         <pb n="1" />
         <p n="1" xml:id="chapter-6-p-90">
           <lb n="1" />По сих/ же Агарини· нарицаэміи Срацини· въӡдвигоше
@@ -688,7 +688,7 @@
           <lb n="2" />имать вас врѣдити· иӡбаві и того и на свою ӡемлю
           <lb n="3" />ӡдрава и въӡвратіи·</p>
       </div>
-      <div n="7" xml:id="chapter-7" type="chapter" data-level="1">
+      <div data-level="1" n="7" type="chapter" xml:id="chapter-7">
         <pb n="1" />
         <p n="1" xml:id="chapter-7-p-148">
           <lb n="1" />И пакы не по мнѡӡѣ врѣмени ѡтрек/ се въсего житіа сего·
@@ -716,7 +716,7 @@
           <lb n="2" />жити и молитвѹ творити бес прѣстаніа къ богѹ· тъкмо
           <lb n="3" />книгами бесѣдѹэ·</p>
       </div>
-      <div n="8" xml:id="chapter-8" type="chapter" data-level="1">
+      <div data-level="1" n="8" type="chapter" xml:id="chapter-8">
         <pb n="1" />
         <p n="1" xml:id="chapter-8-p-153">
           <lb n="1" />Пріидоше же сьли къ цароу ѡть Коӡарь· глаголюще· яко
@@ -834,7 +834,7 @@
           <lb n="2" />начеше кланяти се эмѹ и слышав/ше оучителнаа словеса
           <lb n="3" />ѡть оусть эго· ѡтпоустише и съ всею дроужиною·</p>
       </div>
-      <div n="9" xml:id="chapter-9" type="chapter" data-level="1">
+      <div data-level="1" n="9" type="chapter" xml:id="chapter-9">
         <pb n="1" />
         <p n="1" xml:id="chapter-9-p-178">
           <lb n="1" />Въсѣд/ же въ корабль поути се эть коӡар/скаго на
@@ -984,7 +984,7 @@
           <lb n="1" />и тако раӡидоше се съ ѡбѣда· нарек/ше дьнь· въ н/же
           <lb n="2" />бесѣдоують ѡ всѣхь сихь·</p>
       </div>
-      <div n="10" xml:id="chapter-10" type="chapter" data-level="1">
+      <div data-level="1" n="10" type="chapter" xml:id="chapter-10">
         <pb n="1" />
         <p n="1" xml:id="chapter-10-p-213">
           <lb n="1" />Сѣд/ше же пакы съ каганомь· рече философь· аӡь оубо эсм/
@@ -1435,7 +1435,7 @@
         <p n="101" xml:id="chapter-10-p-313">
           <lb n="1" />тако же се раӡыдоше почити·</p>
       </div>
-      <div n="11" xml:id="chapter-11" type="chapter" data-level="1">
+      <div data-level="1" n="11" type="chapter" xml:id="chapter-11">
         <pb n="1" />
         <p n="1" xml:id="chapter-11-p-314">
           <lb n="1" />Сьбрав/ше же се въ дроугы дьнь рекоше эмѹ· глаголюще·
@@ -1624,7 +1624,7 @@
           <lb n="1" />събравше же ихь до двою стоу и въдаше эмоу и иде радоуэ се
           <lb n="2" />въ пѹть свои·</p>
       </div>
-      <div n="12" xml:id="chapter-12" type="chapter" data-level="1">
+      <div data-level="1" n="12" type="chapter" xml:id="chapter-12">
         <pb n="1" />
         <p n="1" xml:id="chapter-12-p-361">
           <lb n="1" />И дошьдьше же беӡводныхь мѣсть поустиихь· жеждѹ не можахѹ
@@ -1731,7 +1731,7 @@
           <lb n="1" />и съ радостію велиэю похвалише бога и весели се богъ
           <lb n="2" />ѡ семь ѕѣло·</p>
       </div>
-      <div n="13" xml:id="chapter-13" type="chapter" data-level="1">
+      <div data-level="1" n="13" type="chapter" xml:id="chapter-13">
         <pb n="1" />
         <p n="1" xml:id="chapter-13-p-385">
           <lb n="1" />Философь же иде въ Цариградь·</p>
@@ -1771,7 +1771,7 @@
         <p n="10" xml:id="chapter-13-p-394">
           <lb n="1" />се эсть пророчьство о Христѣ·</p>
       </div>
-      <div n="14" xml:id="chapter-14" type="chapter" data-level="1">
+      <div data-level="1" n="14" type="chapter" xml:id="chapter-14">
         <pb n="1" />
         <p n="1" xml:id="chapter-14-p-395">
           <lb n="1" />Веселещоу же се ѡ боѕѣ философѹ· пакы дрѹга рѣчь приспѣ
@@ -1864,7 +1864,7 @@
           <lb n="7" />ныня и до кон/чины и паметь свою ѡставляэ прочимь
           <lb n="8" />родомь· подобно великомоу царѹ Кон/стан/тинѹ·</p>
       </div>
-      <div n="15" xml:id="chapter-15" type="chapter" data-level="1">
+      <div data-level="1" n="15" type="chapter" xml:id="chapter-15">
         <pb n="1" />
         <p n="1" xml:id="chapter-15-p-414">
           <lb n="1" />Дошьдьшѹ же эмоу Моравы· съ великою чьстию приэть
@@ -1965,7 +1965,7 @@
         <p n="22" xml:id="chapter-15-p-435">
           <lb n="1" />тъкмо плѣн/никь испрошь ѡть обѡю ѳ҃ съть и ѡтпоусти ихь·</p>
       </div>
-      <div n="16" xml:id="chapter-16" type="chapter" data-level="1">
+      <div data-level="1" n="16" type="chapter" xml:id="chapter-16">
         <pb n="1" />
         <p n="1" xml:id="chapter-16-p-436">
           <lb n="1" />Въ Венетии же быв/шѹ эмѹ· събраше се на нь епископи и
@@ -2215,7 +2215,7 @@
           <lb n="1" />сими же словеси и инѣми бол/шими посрамивь э· отиде
           <lb n="2" />ѡставль э·</p>
       </div>
-      <div n="17" xml:id="chapter-17" type="chapter" data-level="1">
+      <div data-level="1" n="17" type="chapter" xml:id="chapter-17">
         <pb n="1" />
         <p n="1" xml:id="chapter-17-p-495">
           <lb n="1" />И оувѣдѣвь и римскыи папа посла по нь·</p>
@@ -2275,7 +2275,7 @@
           <lb n="2" />скаӡа эмоу по тьн/коу· яко пришьль эсть и селико лѣть
           <lb n="3" />эсть ѡть толѣ до ныня· и наѹчив и ѡтпоусти·</p>
       </div>
-      <div n="18" xml:id="chapter-18" type="chapter" data-level="1">
+      <div data-level="1" n="18" type="chapter" xml:id="chapter-18">
         <pb n="1" />
         <p n="1" xml:id="chapter-18-p-508">
           <lb n="1" />И постигоше и мнѡӡіи трѹды и въ болѣӡнь въпаде·</p>
@@ -2408,7 +2408,7 @@
           <lb n="2" />отьца нашего и оучител меѳодия архиепискоупа моравьска·
           <lb n="3" />господи благослови отьче·</p>
       </div>
-      <div n="1" xml:id="chapter-19" type="chapter" data-level="1">
+      <div data-level="1" n="1" type="chapter" xml:id="chapter-19">
         <pb n="1" />
         <p n="1" xml:id="chapter-19-p-535">
           <lb n="1" />Богъ благъ и вьсемогаи· иже эсть створилъ отъ небытия
@@ -2602,7 +2602,7 @@
           <lb n="6" />Макария Антиохнискааго и прочаѧ поспѣшьникы ихъ· а
           <lb n="7" />крьстияньскоую вѣроу на истинѣ поставльше оутвьрдиша·</p>
       </div>
-      <div n="2" xml:id="chapter-20" type="chapter" data-level="1">
+      <div data-level="1" n="2" type="chapter" xml:id="chapter-20">
         <pb n="1" />
         <p n="1" xml:id="chapter-20-p-573">
           <lb n="1" />по сихъ же вьсѣхъ богъ милостивыи· иже хощеть да бы вьсѧкъ
@@ -2637,7 +2637,7 @@
           <lb n="5" />да бы прооучилъ сѧ вьсѣмъ обычаэмъ Словѣньскыимъ и обыклъ
           <lb n="6" />я по малоу·</p>
       </div>
-      <div n="3" xml:id="chapter-21" type="chapter" data-level="1">
+      <div data-level="1" n="3" type="chapter" xml:id="chapter-21">
         <pb n="1" />
         <p n="1" xml:id="chapter-21-p-578">
           <lb n="1" />сътворь же въ томь кнѧжии лѣта многа и оуӡьрѣ многы мъл/вы
@@ -2654,7 +2654,7 @@
           <lb n="3" />повиноуя сѧ покоръмь и съвьрьшая вьсь испъл/нь мьнишьскыи
           <lb n="4" />чинъ· а книгахъ прилежа·</p>
       </div>
-      <div n="4" xml:id="chapter-22" type="chapter" data-level="1">
+      <div data-level="1" n="4" type="chapter" xml:id="chapter-22">
         <pb n="1" />
         <p n="1" xml:id="chapter-22-p-581">
           <lb n="1" />приключьшю же сѧ врѣмени такомоу и посъла цѣсарь по философа
@@ -2681,7 +2681,7 @@
           <lb n="2" />иже нарицаэть сѧ Полихронъ· эмоуже эсть съмѣра ·к҃· и ·д҃·
           <lb n="3" />споудове ӡлата· а отьць обиле ·о҃· въ нэмь эсть·</p>
       </div>
-      <div n="5" xml:id="chapter-23" type="chapter" data-level="1">
+      <div data-level="1" n="5" type="chapter" xml:id="chapter-23">
         <pb n="1" />
         <p n="1" xml:id="chapter-23-p-587">
           <lb n="1" />прилоучи же сѧ въ ты дьни· Ростиславъ кнѧӡь словѣньскъ съ
@@ -2736,7 +2736,7 @@
           <lb n="1" />и трьмъ лѣтомъ ишьдъшемъ въӡвратиста сѧ иӡ Моравы· оученикы
           <lb n="2" />наоучьша·</p>
       </div>
-      <div n="6" xml:id="chapter-24" type="chapter" data-level="1">
+      <div data-level="1" n="6" type="chapter" xml:id="chapter-24">
         <pb n="1" />
         <p n="1" xml:id="chapter-24-p-600">
           <lb n="1" />оувѣдѣвъ же такова моужа апостоликъ Никола посъла по нѧ· желая
@@ -2757,7 +2757,7 @@
           <lb n="2" />повелѣ эдиномѹ епискоупоу· Iже бѣ тоюже яӡею больнъ и свѧти
           <lb n="3" />отъ оученикъ словѣньскъ три попы а ·в҃· аногноста·</p>
       </div>
-      <div n="7" xml:id="chapter-25" type="chapter" data-level="1">
+      <div data-level="1" n="7" type="chapter" xml:id="chapter-25">
         <pb n="1" />
         <p n="1" xml:id="chapter-25-p-604">
           <lb n="1" />по дьньхъ же мноӡѣхъ философъ на соудъ грѧдыи рече къ Меѳодию
@@ -2771,7 +2771,7 @@
           <lb n="1" />а ты любиши гороу вельми· то не моӡи горы ради оставити
           <lb n="2" />оучения своэго· паче бо можеши кымь съпасенъ быти·</p>
       </div>
-      <div n="8" xml:id="chapter-26" type="chapter" data-level="1">
+      <div data-level="1" n="8" type="chapter" xml:id="chapter-26">
         <pb n="1" />
         <p n="1" xml:id="chapter-26-p-607">
           <lb n="1" />посълавъ же Коцель къ апостоликоу проси Меѳодия блаженаго
@@ -2863,7 +2863,7 @@
           <lb n="3" />епискоупьство въ Панонии· на столъ свѧтаго Ан/дроника
           <lb n="4" />апостола от ·о̄·· эже и бысть·</p>
       </div>
-      <div n="9" xml:id="chapter-27" type="chapter" data-level="1">
+      <div data-level="1" n="9" type="chapter" xml:id="chapter-27">
         <pb n="1" />
         <p n="1" xml:id="chapter-27-p-624">
           <lb n="1" />по семь же старыи врагъ· ӡавидьливыи доброу и противьникъ
@@ -2905,7 +2905,7 @@
           <lb n="1" />о томь же словеси съпьрѣвъше сѧ раӡидоша· а оного
           <lb n="2" />ӡасълавьше въ Съвабы· дьрьжаша полъ третья лѣта·</p>
       </div>
-      <div n="10" xml:id="chapter-28" type="chapter" data-level="1">
+      <div data-level="1" n="10" type="chapter" xml:id="chapter-28">
         <pb n="1" />
         <p n="1" xml:id="chapter-28-p-633">
           <lb n="1" />доиде къ апостоликоу и оувѣдѣвъ посъла клѧтвоу на нѧ· да не
@@ -2946,7 +2946,7 @@
           <lb n="2" />страны и врагы своѧ побѣжати и съ непогрѣшениэмь· яко и
           <lb n="3" />сами побѣдають присно·</p>
       </div>
-      <div n="11" xml:id="chapter-29" type="chapter" data-level="1">
+      <div data-level="1" n="11" type="chapter" xml:id="chapter-29">
         <pb n="1" />
         <p n="1" xml:id="chapter-29-p-642">
           <lb n="1" />бѣ же и пророчьска благодать въ немь· яко сѧ соуть събывала
@@ -2993,7 +2993,7 @@
         <p n="11" xml:id="chapter-29-p-652">
           <lb n="1" />и ина многа подобьна симъ· яже притъчами явѣ съкаӡаше·</p>
       </div>
-      <div n="12" xml:id="chapter-30" type="chapter" data-level="1">
+      <div data-level="1" n="12" type="chapter" xml:id="chapter-30">
         <pb n="1" />
         <p n="1" xml:id="chapter-30-p-653">
           <lb n="1" />сихъ же вьсѣхъ не тьрьпѧ старыи врагъ· ӡавистьникъ чловѣчю
@@ -3024,7 +3024,7 @@
         <p n="6" xml:id="chapter-30-p-658">
           <lb n="1" />и посрамльше сѧ раӡидоша сѧ яко мьгла съ стоудъмь·</p>
       </div>
-      <div n="13" xml:id="chapter-31" type="chapter" data-level="1">
+      <div data-level="1" n="13" type="chapter" xml:id="chapter-31">
         <pb n="1" />
         <p n="1" xml:id="chapter-31-p-659">
           <lb n="1" />не до сего тъкъмо ӡлоба ихъ ста· нъ рѣша глаголюще· яко
@@ -3053,7 +3053,7 @@
           <lb n="2" />одарь вельми проводи и пакы славьно до своэго стола· тако
           <lb n="3" />же и патриархъ·</p>
       </div>
-      <div n="14" xml:id="chapter-32" type="chapter" data-level="1">
+      <div data-level="1" n="14" type="chapter" xml:id="chapter-32">
         <pb n="1" />
         <p n="1" xml:id="chapter-32-p-665">
           <lb n="1" />на вьсѣхъ же поутьхъ въ многы напасти въпадъше отъ неприяӡни·
@@ -3067,7 +3067,7 @@
           <lb n="3" />въ алъкани и жажи множицею· и прочимъ печальмъ· яже апостолъ
           <lb n="4" />поминаэть·</p>
       </div>
-      <div n="15" xml:id="chapter-33" type="chapter" data-level="1">
+      <div data-level="1" n="15" type="chapter" xml:id="chapter-33">
         <pb n="1" />
         <p n="1" xml:id="chapter-33-p-667">
           <lb n="1" />потомь же отъвьргъ вьсѧ мълъвы и печаль свою на бога въӡложь·
@@ -3092,7 +3092,7 @@
           <lb n="1" />тъгда же и номоканонъ· рекъше ӡаконоу правило· и отьчскыя
           <lb n="2" />книгы прѣложи·</p>
       </div>
-      <div n="16" xml:id="chapter-34" type="chapter" data-level="1">
+      <div data-level="1" n="16" type="chapter" xml:id="chapter-34">
         <pb n="1" />
         <p n="1" xml:id="chapter-34-p-672">
           <lb n="1" />пришьдъшю же на страны Доунаискыя королю Оугърьскомоу·
@@ -3112,7 +3112,7 @@
           <lb n="3" />рекъ эмоу· помѧни мѧ· чьстьныи отьче· въ свѧтыихъ молитвахъ
           <lb n="4" />твоихъ присно·</p>
       </div>
-      <div n="17" xml:id="chapter-35" type="chapter" data-level="1">
+      <div data-level="1" n="17" type="chapter" xml:id="chapter-35">
         <pb n="1" />
         <p n="1" xml:id="chapter-35-p-676">
           <lb n="1" />такоже вьсѧ вины отъсѣкъ по вьсѧ страны и оуста многорѣчьныихъ
